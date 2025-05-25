@@ -69,6 +69,7 @@ A 5’11” High Elf Rogue, Vaelin Shadowleaf moves with the graceful precision 
 * Talia "Whisper" is like an older sister.
 * Finch is like a little sister.
 * Greta Stoneheart is maternal figure.
+* Elyndra is Vaelin's mentor within The Society.
 
 ### Flaws:
 * An obsession with arcane secrets leads to reckless risks.
