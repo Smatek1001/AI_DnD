@@ -1,29 +1,29 @@
 ---
-last_updated: "2025-05-25 15:37:54"
+last_updated: "2025-05-25 16:27:39"
 # YAML Frontmatter: Core Character Data
-name: "Vaelin Shadowleaf" # Your Character's Full Name
-alias: [Vaelin] # Other names they go by (e.g., "The Shadowstrider")
-race: # e.g., Half-Elf, Human, Tiefling
-subrace: # e.g., Wood Elf, Stout Halfling (if applicable)
-background: # e.g., Urchin, Sage, Soldier
-alignment: # e.g., Chaotic Good, Lawful Neutral
-level: 0 # Total Character Level (e.g., 8)
-xp: 0 # Current Experience Points (e.g., 52000)
-status: active # or unconscious, dead, stable, etc.
-current_hp: 0 # Current Hit Points
-max_hp: 0 # Maximum Hit Points
-temp_hp: 0 # Temporary Hit Points (if any)
-armor_class: 0
-passive_perception: 0
-initiative_mod: 0
-speed: 0ft # e.g., 30ft, 25ft
+name: "Vaelin Shadowleaf"
+alias: [Vaelin]
+race: "High Elf"
+subrace: ""
+background: "" # To be chosen
+alignment: "" # To be chosen
+level: 1
+xp: 0
+status: active
+current_hp: 8
+max_hp: 8
+temp_hp: 0
+armor_class: 14
+passive_perception: 11
+initiative_mod: 3 # Based on Dexterity modifier
+speed: 30ft
 # Class Breakdown (for multi-class characters)
-class1_name: # e.g., Bard, Rogue, Wizard
-class1_level: 0
-class1_subclass: # e.g., College of Lore, Arcane Trickster, School of Evocation
-class1_spellcasting_ability: # e.g., Charisma, Intelligence, Wisdom (if applicable)
-class1_spell_save_dc: 0 # Only if this class grants spells
-class1_spell_attack_bonus: 0 # Only if this class grants spells
+class1_name: "Rogue"
+class1_level: 1
+class1_subclass: "" # To be chosen at level 3
+class1_spellcasting_ability: ""
+class1_spell_save_dc: 0
+class1_spell_attack_bonus: 0
 
 class2_name:
 class2_level: 0
@@ -36,18 +36,55 @@ class2_spell_attack_bonus: 0
 # Player Character: Vaelin Shadowleaf
 
 ## I. Core Stats & Combat
-(List your character's ability scores, saving throws, skill proficiencies, etc. This is your stat block.)
+### Ability Scores:
+* **Strength (STR):** 8 (-1)
+* **Dexterity (DEX):** 17 (+3)
+* **Constitution (CON):** 10 (+0)
+* **Intelligence (INT):** 14 (+2)
+* **Wisdom (WIS):** 13 (+1)
+* **Charisma (CHA):** 13 (+1)
+
+### Saving Throws:
+* Strength: -1
+* Dexterity: +5 (Proficient)
+* Constitution: +0
+* Intelligence: +4 (Proficient)
+* Wisdom: +1
+* Charisma: +1
+
+### Skill Proficiencies:
+* (To be chosen with Background)
+* (Expertise to be chosen with Skills)
+
+### Other Key Combat Stats:
+* **Armor Class (AC):** 14 (Leather Armor + Dex Modifier)
+* **Initiative Modifier:** +3 (Dexterity)
+* **Speed:** 30ft
+* **Passive Perception:** 11 (10 + Wisdom Modifier)
 
 ## II. Class Features & Abilities
-(List key class features, racial traits, feats, and unique abilities. Keep it concise, linking to other notes if a feature is complex.)
+### Racial Traits (High Elf):
+* **Ability Score Increase:** Dexterity +2, Intelligence +1 (already applied above)
+* **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+* **Keen Senses:** You have proficiency in the Perception skill. (Note: We'll add this to your skill proficiencies when we choose them, but you get it automatically as a High Elf.)
+* **Fey Ancestry:** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+* **Trance:** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. The Common word for this meditation is "trance." While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+* **Cantrip:** You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it. (We can choose this now, or when you pick your background, as it's a small choice. What cantrip would Vaelin know?)
+* **Extra Language:** You can speak, read, and write one extra language of your choice. (What extra language would Vaelin know?)
+
+### Class Features (Rogue Level 1):
+* **Expertise:** (To be chosen)
+* **Sneak Attack (1d6):** See main DM Instructions for details.
+* **Thieves' Cant:** See main DM Instructions for details.
 
 ## III. Spellcasting (If Applicable)
-(List known spells, spell slots, spell save DC, spell attack bonus, and any unique spellcasting features.)
+* (Cantrip: To be chosen. Spellcasting details will be filled out if you multiclass into Warlock later.)
 
 ## IV. Equipment & Inventory
-(List major gear, magic items, and significant quest items. No need for every single coin or ration unless it's a specific tracking game.)
-    * [[Magic Item 1]] (Brief effect)
-    * [[Quest Item]] (Brief description)
+* **Armor:** Leather Armor
+* **Weapons:** Rapier, Shortbow (with 20 arrows), 2 Daggers
+* **Tools:** Thieves' Tools
+* **Packs:** Burglar's Pack (includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin.)
 
 ### Gold/Currency:
 * (Current amount) gp
@@ -85,8 +122,8 @@ Vaelin Shadowleaf operates within The Society, a secretive organization cloaked 
 * **Current Quest(s):**
     * [[Active Quest 1]]
     * [[Active Quest 2]]
-* **Ongoing Effects/Conditions:** (e.g., Poisoned, Exhaustion Level 1, under a long-term spell effect)
-* **Session Notes:** (Any specific notes relevant to the current session or next steps for the character)
+* **Ongoing Effects/Conditions:**
+* **Session Notes:**
 
 ## VII. Character Aspirations & Future Goals
 
@@ -95,11 +132,11 @@ Vaelin Shadowleaf operates within The Society, a secretive organization cloaked 
 
 ### Desired Mechanical Progression:
 * Rogue (Assassin): Assassinate
-	* story: trained in spy-craft for espionage and assassination
+    * story: trained in spy-craft for espionage and assassination
 * Warlock (Archfey Patron): Pact of the Chain, Pact of the Tome
-	* story: patron and/or familiar is a mentor for magic and arcane knowledge
+    * story: patron and/or familiar is a mentor for magic and arcane knowledge
 * Ranger (Gloom Stalker) 5: Dread Ambusher, Umbral Sight, extra attack
-	* story: learning espionage in wilderness areas
+    * story: learning espionage in wilderness areas
 * Fighter 2: action surge
 * Wizard (Illusionist)
 * Artificer (Armorer)
