@@ -11,10 +11,14 @@
             "id": "8b75c38b1adf3b94",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PCs/Vaelin Shadowleaf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vaelin Shadowleaf"
             }
           }
         ]
