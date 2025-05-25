@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DM_Instructions/DM Instructions.md",
+                "file": "Characters/PCs/Vaelin Shadowleaf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DM Instructions"
+              "title": "Vaelin Shadowleaf"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "8b75c38b1adf3b94",
   "lastOpenFiles": [
+    "_DM_Instructions/DM Instructions.md",
+    "Untitled.md",
     "Characters/PCs/Vaelin Shadowleaf.md",
     "_templates/Session_Log.md",
     "_templates/00_Campaign_Index.md",
@@ -190,7 +192,6 @@
     "_templates/Item.md",
     "_DM_Instructions/2024_Rules_Reference.md",
     "_DM_Instructions/House_Rules.md",
-    "_DM_Instructions/DM Instructions.md",
     "_templates/Campaign_Goals.md",
     "_templates/Campaign_Narrative.md",
     "_templates/Current_Session_Context.md",
@@ -202,7 +203,6 @@
     "_templates/Plot_Ideas.md",
     "_templates/Quest.md",
     "_templates/Update_Last_Updated.md",
-    "Untitled.md",
     "Characters/NPCs/Finch.md",
     "Characters/NPCs/Untitled.md",
     "Characters/NPCs/NPC_Index.md",
