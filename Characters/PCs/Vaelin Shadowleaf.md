@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-24 16:52:53"
+last_updated: "2025-05-25 15:37:54"
 # YAML Frontmatter: Core Character Data
 name: "Vaelin Shadowleaf" # Your Character's Full Name
 alias: [Vaelin] # Other names they go by (e.g., "The Shadowstrider")
