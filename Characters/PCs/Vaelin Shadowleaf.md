@@ -1,12 +1,12 @@
 ---
-last_updated: "2025-05-25 16:33:49"
+last_updated: "2025-05-25 16:52:49"
 # YAML Frontmatter: Core Character Data
 name: "Vaelin Shadowleaf"
 alias: [Vaelin]
 race: "Elf"
 subrace: "High Elf"
-background: "" # To be chosen
-alignment: "" # To be chosen
+background: "Spy"
+alignment: "Neutral"
 level: 1
 xp: 0
 status: active
@@ -53,41 +53,50 @@ class2_spell_attack_bonus: 0
 * Charisma: +1
 
 ### Skill Proficiencies:
-* (To be chosen with Background)
-* (Expertise to be chosen with Skills)
+* Acrobatics: +5 (Proficient, Dex +3, Prof +2)
+* Deception: +3 (Proficient, Cha +1, Prof +2)
+* Investigation: +4 (Proficient, Int +2, Prof +2)
+* Perception: +3 (Proficient, Wis +1, Prof +2)
+* Persuasion: +3 (Proficient, Cha +1, Prof +2)
+* Sleight of Hand: +5 (Proficient, Dex +3, Prof +2)
+* Stealth: +7 (Proficient, Expertise, Dex +3, Prof +2, Expertise +2)
 
 ### Other Key Combat Stats:
 * **Armor Class (AC):** 14 (Leather Armor + Dex Modifier)
 * **Initiative Modifier:** +3 (Dexterity)
 * **Speed:** 30ft
-* **Passive Perception:** 11 (10 + Wisdom Modifier)
+* **Passive Perception:** 13 (10 + Wisdom Modifier + Perception Proficiency, i.e., 10 + 1 + 2 = 13)
 
 ## II. Class Features & Abilities
 ### Racial Traits (High Elf):
 * **Ability Score Increase:** Dexterity +2, Intelligence +1 (already applied above)
 * **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
-* **Keen Senses:** You have proficiency in the Perception skill. (Note: We'll add this to your skill proficiencies when we choose them, but you get it automatically as a High Elf.)
+* **Keen Senses:** You have proficiency in the Perception skill. (Already applied above.)
 * **Fey Ancestry:** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 * **Trance:** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. The Common word for this meditation is "trance." While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
-* **Cantrip:** You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it. (We can choose this now, or when you pick your background, as it's a small choice. What cantrip would Vaelin know?)
-* **Extra Language:** You can speak, read, and write one extra language of your choice. (What extra language would Vaelin know?)
+* **Cantrip:** You know the _Minor Illusion_ cantrip. (As per your house rule, you start with Prestidigitation and can swap it after a long rest.) Intelligence is your spellcasting ability for it.
+* **Extra Language:** You can speak, read, and write **Undercommon**.
 
 ### Class Features (Rogue Level 1):
-* **Expertise:** (To be chosen)
+* **Expertise:** You have Expertise in **Stealth** and **Sleight of Hand**. Your proficiency bonus is doubled for any ability check you make that uses either of these proficiencies.
 * **Sneak Attack (1d6):** See main DM Instructions for details.
 * **Thieves' Cant:** See main DM Instructions for details.
 
+### Background Feature (Spy):
+* **Criminal Contact:** You have a reliable contact who can get messages to and from you, or who can get you illegal goods and arrange a meeting with other criminals.
+
 ## III. Spellcasting (If Applicable)
-* (Cantrip: To be chosen. Spellcasting details will be filled out if you multiclass into Warlock later.)
+* **Cantrips:** Minor Illusion (Intelligence)
 
 ## IV. Equipment & Inventory
 * **Armor:** Leather Armor
 * **Weapons:** Rapier, Shortbow (with 20 arrows), 2 Daggers
-* **Tools:** Thieves' Tools
+* **Tools:** Thieves' Tools, Disguise Kit
 * **Packs:** Burglar's Pack (includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin.)
+* **Other Background Items:** Crowbar, a set of dark common clothes including a hood.
 
 ### Gold/Currency:
-* (Current amount) gp
+* 15 gp
 
 ## V. Character Personality & Roleplaying
 
@@ -122,8 +131,8 @@ Vaelin Shadowleaf operates within The Society, a secretive organization cloaked 
 * **Current Quest(s):**
     * [[Active Quest 1]]
     * [[Active Quest 2]]
-* **Ongoing Effects/Conditions:**
-* **Session Notes:**
+* **Ongoing Effects/Conditions:** (e.g., Poisoned, Exhaustion Level 1, under a long-term spell effect)
+* **Session Notes:** (Any specific notes relevant to the current session or next steps for the character)
 
 ## VII. Character Aspirations & Future Goals
 

@@ -30,7 +30,8 @@ This document outlines any modifications, additions, or specific interpretations
 ## VI. Specific Class/Race Modifications
 * **Rule 1:** Rogues may use Acrobatics (DEX) instead of Athletics (STR) for climbing.
 * **Rule 2:** Rogues who can cast Mage Hand use the Arcane Trickster version (Mage Hand Legerdemain).
-* **Rule 3:** Warlocks with the Pact of the Tome Invocation may add new spells to their Book of Shadows as if they had the Book of the Ancient Secrets Invocation, per the 2014 rules.
+* **Rule 3:** High Elves can choose any Wizard cantrip after a long rest. "You know the _Prestidigitation_ cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. - 2024 PHB page 190"
+* **Rule 4:** Warlocks with the Pact of the Tome Invocation may add new spells to their Book of Shadows as if they had the Book of the Ancient Secrets Invocation, per the 2014 rules.
 
 ---
 **Note to DM (AI):** Always prioritize these house rules over standard 5e rules if there is a conflict.
