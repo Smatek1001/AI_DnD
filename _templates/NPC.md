@@ -18,7 +18,6 @@ tags: [] # e.g., #merchant, #quest_giver, #villain, #ally, #recurring
 # {{title}}
 
 ## I. Overview
-* **Pronouns:** (e.g., he/him, she/her, they/them)
 * **Race:** {{race}}
 * **Gender:** {{gender}}
 * **Age:** (approximate)
