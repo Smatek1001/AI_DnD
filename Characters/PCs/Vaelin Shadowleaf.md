@@ -3,8 +3,8 @@ last_updated: "2025-05-25 16:27:39"
 # YAML Frontmatter: Core Character Data
 name: "Vaelin Shadowleaf"
 alias: [Vaelin]
-race: "High Elf"
-subrace: ""
+race: "Elf"
+subrace: "High Elf"
 background: "" # To be chosen
 alignment: "" # To be chosen
 level: 1
