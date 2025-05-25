@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 16:58:09"
+last_updated: "2025-05-25 17:11:28"
 # YAML Frontmatter: Core Character Data
 name: "Vaelin Shadowleaf"
 alias: [Vaelin]
@@ -112,9 +112,9 @@ A 5’11” High Elf Rogue, Vaelin Shadowleaf moves with the graceful precision 
 
 ### Bonds:
 * The shadowy secret society (The Society) saved a lost soul; loyalty is unwavering.
-* Talia "Whisper" is like an older sister.
+* Talia "Whisper" is like a big sister.
 * Finch is like a little sister.
-* Greta Stoneheart is maternal figure.
+* Greta "Mama" Stoneheart is maternal figure.
 * Elyndra is Vaelin's mentor within The Society.
 
 ### Flaws:
