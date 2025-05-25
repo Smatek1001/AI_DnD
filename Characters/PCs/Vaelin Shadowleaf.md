@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 16:52:49"
+last_updated: "2025-05-25 16:58:09"
 # YAML Frontmatter: Core Character Data
 name: "Vaelin Shadowleaf"
 alias: [Vaelin]
@@ -78,7 +78,7 @@ class2_spell_attack_bonus: 0
 * **Extra Language:** You can speak, read, and write **Undercommon**.
 
 ### Class Features (Rogue Level 1):
-* **Expertise:** You have Expertise in **Stealth** and **Sleight of Hand**. Your proficiency bonus is doubled for any ability check you make that uses either of these proficiencies.
+* **Expertise:** You have Expertise in **Stealth** and **Thieves' Tools**. Your proficiency bonus is doubled for any ability check you make that uses either of these proficiencies.
 * **Sneak Attack (1d6):** See main DM Instructions for details.
 * **Thieves' Cant:** See main DM Instructions for details.
 
