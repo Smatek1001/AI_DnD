@@ -12,7 +12,7 @@ This document serves as the central index for all campaign information. It outli
 * [[_DM_Instructions/Campaign_Goals]]
 * [[_DM_Instructions/House_Rules]]
 * [[_DM_Instructions/Plot_Ideas]]
-* [[_DM_Instructions/2024_Rules_Reference]]
+* [[2014_Rules_Reference]]
 
 ## II. Live Campaign Elements
 * **Player Character:** [[Characters/PCs/{{PC_Name}}]] (Link to your main PC file)
