@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 10:53:07"
+last_updated: "2025-05-26 18:22:27"
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -153,15 +153,15 @@ Vaelin Shadowleaf operates within [[The Society]], a secretive organization cloa
 
 ### Desired Mechanical Progression:
 * Level Progression / Multi-classing
-	* Rogue ([[Assassin]]): Assassinate
+	* Rogue (Assassin): Assassinate
 	    * story: trained in spy-craft for espionage and assassination
-	* Warlock ([[Archfey Patron]]): Pact of the Chain, Pact of the Tome
+	* Warlock (Archfey Patron): Pact of the Chain, Pact of the Tome
 	    * story: patron and/or familiar is a mentor for magic and arcane knowledge
-	* Ranger ([[Gloom Stalker]]) 5: Dread Ambusher, Umbral Sight, extra attack
+	* Ranger (Gloom Stalker) 5: Dread Ambusher, Umbral Sight, extra attack
 	    * story: learning espionage in wilderness areas
 	* Fighter 2: action surge
-	* Wizard ([[Illusionist]])
-	* Artificer ([[Armorer]])
+	* Wizard (Illusionist)
+	* Artificer (Armorer)
 * Languages: Goblin, Orcish, Deep Speech, Draconic, Sylvan
 
 ### Envisioned Character Arcs / Moral Shifts:
