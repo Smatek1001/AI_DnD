@@ -1,12 +1,12 @@
 ---
-last_updated: "2025-05-25 23:14:54"
-# YAML Frontmatter: Core Character Data
-name: "Vaelin Shadowleaf" # Your Character's Full Name
-alias: [Vaelin]
-race: "Elf"
-subrace: "High Elf"
-background: "Spy"
-alignment: "Neutral"
+last_updated: 2025-05-25 23:14:54
+name: Vaelin Shadowleaf
+aliases:
+  - Vaelin
+race: Elf
+subrace: High Elf
+background: Spy
+alignment: Neutral
 level: 1
 xp: 0
 status: active
@@ -14,28 +14,35 @@ current_hp: 8
 max_hp: 8
 temp_hp: 0
 armor_class: 14
-passive_perception: 11
-initiative_mod: 3 # Based on Dexterity modifier
-speed: 30ft # e.g., 30ft, 25ft
-
-# Class Breakdown (for multi-class characters)
-class1_name: "Rogue"
+passive_perception: 13
+initiative_mod: 3
+speed: 30ft
+class1_name: Rogue
 class1_level: 1
-class1_subclass: "" # To be chosen at level 3
+class1_subclass: ""
 class1_spellcasting_ability: ""
 class1_spell_save_dc: 0
 class1_spell_attack_bonus: 0
-
-class2_name:
+class2_name: 
 class2_level: 0
-class2_subclass:
-class2_spellcasting_ability:
+class2_subclass: 
+class2_spellcasting_ability: 
 class2_spell_save_dc: 0
 class2_spell_attack_bonus: 0
-
-employer: "[[The Society]]" # (NEW) Explicitly links PC to their primary employer/faction
-associated_items: [] # [[Item Name]] (NEW) List key items specifically associated with Vaelin
-tags: ["#player_character", "#rogue", "#spy", "#high_elf", "#grimdark", "#noir_protagonist", "#main_character", "#magic_user", "#void_influenced", "#therandril_legacy", "#long_term_arc"] # (NEW/ENHANCED)
+employer: "[[The Society]]"
+associated_items: 
+tags:
+  - "#player_character"
+  - "#rogue"
+  - "#spy"
+  - "#high_elf"
+  - "#grimdark"
+  - "#noir_protagonist"
+  - "#main_character"
+  - "#magic_user"
+  - "#void_influenced"
+  - "#therandril_legacy"
+  - "#long_term_arc"
 ---
 
 # Player Character: Vaelin Shadowleaf
