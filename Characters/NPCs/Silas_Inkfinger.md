@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 19:35:45"
+last_updated: "2025-05-25 23:42:55"
 type: "NPC"
 name: "Silas \"Inkfinger\""
 aliases: ["Silas"]
@@ -13,7 +13,10 @@ disposition_to_pc: "Neutral"
 faction: []
 location: "[[Noble District]]"
 connections: ["[[Vaelin Shadowleaf]]", "[[The Forger]]"]
-tags: ["#forger", "#alchemist", "#gnome", "#independent", "#specialist"]
+employer: "Self-employed (Independent, with Syndicate ties)" # (NEW)
+is_quest_giver_for: [] # (NEW)
+associated_items: [] # (NEW)
+tags: ["#forger", "#alchemist", "#gnome", "#independent", "#specialist", "#supporting_npc", "#paranoid", "#noble_district", "#resource_npc", "#cunning"] # (NEW/ENHANCED)
 ---
 # Silas "Inkfinger"
 
@@ -29,7 +32,7 @@ tags: ["#forger", "#alchemist", "#gnome", "#independent", "#specialist"]
 
 ## II. Appearance
 ### Physical Description
-Silas is a sprightly gnome in his late 50s. He has twinkling blue eyes and a shock of white hair. His ink-stained fingers dance over alchemical tools. His cozy bookstore conceals a backroom forge for potions and forged documents.
+Silas is a sprightly [[Gnome]] in his late 50s. He has twinkling blue eyes and a shock of white hair. His ink-stained fingers dance over alchemical tools. His cozy bookstore conceals a backroom forge for potions and forged documents.
 
 ## III. Personality & Demeanor
 ### Core Traits
@@ -41,11 +44,11 @@ Often seen with ink-stained fingers; his eyes twinkle with intelligence and curi
 **Flaw:** "His deep-seated paranoia makes him prioritize self-preservation above all else, even over long-standing partnerships."
 
 ## IV. Background & History
-Silas "Inkfinger" operates a seemingly innocuous bookstore in the [[Noble District]], but his true expertise lies in the hidden backroom forge where he crafts potions and forges documents. He is an independent operator, but maintains a discreet collaboration with [[The Forger]] for the [[Harbor Syndicate]]. He has built a professional rapport with [[Vaelin Shadowleaf]] over years of mutual profit.
+Silas "Inkfinger" operates a seemingly innocuous bookstore in the [[Noble District]], but his true expertise lies in the hidden backroom forge where he crafts potions and forges documents. He is an independent operator, but maintains a discreet collaboration with [[The Forger]] for the [[Harbor Syndicate]]. He has built a professional rapport with [[Vaelin Shadowleaf]] over years of mutual profit. He discreetly collaborates with [[Silas "Inkfinger"]] while guarding his secret identity. This discreet professional tie to Silas, built on mutual respect for anonymity, avoids public Syndicate links, protecting both from exposure.
 
 ## V. Goals & Motivations
 ### Short-term Goals
-Complete current forging and alchemical commissions; acquire rare components and knowledge for his craft.
+Complete current forging and alchemical commissions; acquire rare inks, papers, and tools for his craft.
 ### Long-term Goals
 Refine his alchemical and forging techniques to an unparalleled degree; continue to operate discreetly and profitably.
 ### Primary Motivation
@@ -59,10 +62,10 @@ Professional mastery, profit, and self-preservation.
 * **Current Location:** His bookstore and backroom forge in the [[Noble District]].
 * **Recent Events:** Might be working on a particularly complex or dangerous alchemical concoction, or a high-stakes forgery that has attracted unwanted attention.
 * **Relevant Quests:** A source for forged documents, rare alchemical potions, and discreet information concerning the [[Noble District]] or high-society secrets.
-* **Potential Plot Hooks:** Silas might need Vaelin's help to acquire a rare alchemical ingredient; he could be pressured by a major faction (like the [[Nightshade Guild]]) to betray his clients, forcing [[Vaelin Shadowleaf]] to intervene; Vaelin might seek him out for a difficult forgery related to his past or a mission.
+* **Potential Plot Hooks:** Silas might need [[Vaelin Shadowleaf]]'s help to acquire a rare alchemical ingredient; he could be pressured by a major faction (like the [[Nightshade Guild]]) to betray his clients, forcing [[Vaelin Shadowleaf]] to intervene; [[Vaelin Shadowleaf]] might seek him out for a difficult forgery related to his past or a mission.
 
 ## VIII. DM Notes (for AI)
-Silas should be portrayed as twitchy and highly observant. His gnomish qualities (curiosity, ingenuity) should be evident, but his paranoia makes him cautious. His loyalty is transactional, making him a complex ally. If pressured, he would prioritize self-preservation over his partnership with Vaelin.
+Silas should be portrayed as twitchy and highly observant. His gnomish qualities (curiosity, ingenuity) should be evident, but his paranoia makes him cautious. His loyalty is transactional, making him a complex ally. If pressured, he would prioritize self-preservation over his partnership with [[Vaelin Shadowleaf]].
 
 ### ROT-13 Encoded Secrets
 Fvynf'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

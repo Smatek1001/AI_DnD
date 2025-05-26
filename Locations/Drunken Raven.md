@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 18:12:46"
+last_updated: "2025-05-25 23:55:55"
 type: "Location"
 name: "Drunken Raven"
 aliases: [The Raven]
@@ -8,8 +8,11 @@ parent_location: "[[Shadow Quarter]]"
 status: active
 inhabitants: ["Humans", "Society Operatives", "Underworld Figures"]
 ruler: ""
-factions_present: ["The Society"]
-tags: ["#tavern", "#shadow_quarter", "#covert_hub"]
+factions_present: ["[[The Society]]"]
+key_npcs_present: ["[[Talia \"Whisper\"]]", "[[Tarren]]"] # (NEW)
+associated_quests: [] # (NEW)
+points_of_interest: [] # (NEW)
+tags: ["#tavern", "#shadow_quarter", "#covert_hub", "#society_base", "#illicit_dealings", "#neutral_ground", "#grimdark"] # (NEW/ENHANCED)
 ---
 # Drunken Raven
 
@@ -22,7 +25,7 @@ tags: ["#tavern", "#shadow_quarter", "#covert_hub"]
 * **Key Features:** A seemingly run-down tavern that functions as a secure meeting point for [[The Society]].
 
 ## II. Governance & Power
-* **Ruler/Authority:** While ostensibly under the city's authority, the Drunken Raven maintains a strict neutrality enforced by its bouncer, making it safe for various underworld elements, especially Society operatives.
+* **Ruler/Authority:** While ostensibly under the city's authority, the Drunken Raven maintains a strict neutrality enforced by its bouncer, making it safe for various underworld elements, especially [[The Society]] operatives.
 * **Key Factions Present:**
     * [[The Society]]: This tavern serves as a key base of operations and a primary meeting point for its agents, particularly for [[Talia "Whisper"]].
 * **Laws & Customs:** "Mind your own business" is the unspoken rule. Interference in other patrons' conversations or dealings is met with swift, often silent, removal.
@@ -45,15 +48,15 @@ The Drunken Raven is marked by its faded sign—a tipsy raven clutching a tankar
 * **Other Services:** A reliable, neutral meeting ground for information exchange and mission coordination, particularly for [[The Society]].
 
 ## VI. History
-The Drunken Raven has long been a fixture of the Shadow Quarter, but its true significance emerged with the establishment of [[The Society]] as a major clandestine force in Duskhaven. Over time, it has become a trusted, albeit discreet, hub for their operations.
+The Drunken Raven has long been a fixture of the [[Shadow Quarter]], but its true significance emerged with the establishment of [[The Society]] as a major clandestine force in [[Duskhaven]]. Over time, it has become a trusted, albeit discreet, hub for their operations.
 
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Minor skirmishes erupt occasionally if outsiders try to disrupt the tavern's neutrality, but these are quickly suppressed.
 * **Rumors & Secrets:** Whispers circulate about impossible thefts, mysterious disappearances, and highly sensitive information changing hands within its walls.
-* **Potential Plot Hooks:** Talia might have a new mission for Vaelin; the PC could overhear a crucial conversation; the tavern might be targeted by a rival faction attempting to uncover Society secrets.
+* **Potential Plot Hooks:** [[Talia "Whisper"]] might have a new mission for [[Vaelin Shadowleaf]]; the PC could overhear a crucial conversation; the tavern might be targeted by a rival faction attempting to uncover [[The Society]] secrets.
 
 ## VIII. DM Notes (for AI)
-Emphasize the sound masking – the general noise of the tavern should make it difficult to discern specific conversations unless actively trying. Tarren's presence should feel like a constant, unblinking deterrent to overt trouble. The sense of secrets being exchanged should be palpable.
+Emphasize the sound masking – the general noise of the tavern should make it difficult to discern specific conversations unless actively trying. [[Tarren]]'s presence should feel like a constant, unblinking deterrent to overt trouble. The sense of secrets being exchanged should be palpable.
 
 ### ROT-13 Encoded Secrets
-Gnyvn "Juvfcure" vf abg n erny Bcrengvir; fur vf n qbhoyr ntrag, jbexvat sbe gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.
+Gnyvn "Juvfcure" vf abg n erny Bcrengvir; fur vf n qbhoyr ntrag, jbexvat sbe gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

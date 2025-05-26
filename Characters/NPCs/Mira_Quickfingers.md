@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 19:22:27"
+last_updated: "2025-05-25 23:41:06"
 type: "NPC"
 name: "Mira \"Quickfingers\""
 aliases: ["Mira"]
@@ -10,10 +10,13 @@ alignment: "Chaotic Neutral"
 occupation: "Fence"
 importance: "Supporting"
 disposition_to_pc: "Friendly"
-faction: ["Nightshade Guild", "Independent"]
+faction: ["[[Nightshade Guild]]", "Independent"]
 location: "[[Market Square]]"
 connections: ["[[Vaelin Shadowleaf]]"]
-tags: ["#fence", "#criminal", "#nightshade_guild", "#halfling"]
+employer: "Self-employed (Independent/Guild affiliated)" # (NEW)
+is_quest_giver_for: [] # (NEW)
+associated_items: [] # (NEW)
+tags: ["#fence", "#criminal", "#nightshade_guild", "#halfling", "#supporting_npc", "#opportunistic", "#market_square", "#independent", "#friendly_npc"] # (NEW/ENHANCED)
 ---
 # Mira "Quickfingers"
 
@@ -27,42 +30,43 @@ tags: ["#fence", "#criminal", "#nightshade_guild", "#halfling"]
 * **Importance:** Supporting
 * **Disposition towards PC:** Friendly
 
-## II. Appearance
+## I. Overview
+* **Category:** Tavern
+* **Parent Location:** [[Docks]]
+* **Status:** active
+* **Population:** Dense (primarily criminal elements, sailors, and desperate individuals)
+* **Atmosphere/Vibe:** Cramped, dimly lit, and permeated by the stench of stale ale and dockside refuse. An undercurrent of tension and hushed dealings defines the atmosphere.
+* **Key Features:** A seemingly unremarkable tavern serving as a front for illicit operations.
+
+## II. Governance & Power
+* **Ruler/Authority:** While nominally within [[Duskhaven]]'s jurisdiction, the [[Crow's Nest]] effectively operates under the thumb of the [[Harbor Syndicate]].
+* **Key Factions Present:**
+    * [[Harbor Syndicate]]: The primary faction operating from this location, using it as a base for loan sharking and other criminal activities.
+* **Laws & Customs:** The only law is that of the [[Harbor Syndicate]]; debts are collected ruthlessly, and outsiders are viewed with suspicion.
+
+## III. Geography & Layout
 ### Physical Description
-Mira is a nimble halfling woman in her late 20s. Her quick fingers and sharp hazel eyes constantly dart through the bustling crowds of the [[Market Square]]. Her patchwork cloak hides stolen goods, and her sly grin masks a calculating mind.
+The Crow’s Nest is a cramped, smoke-filled establishment on the [[Docks]]. Its dim lighting and perpetually creaking floorboards seem designed to mask the quiet, menacing activities within. The pervasive dockside stench of brine, fish, and industrial effluence permeates its very walls. Rough wooden tables are stained with countless spills, and the air is thick with the scent of cheap spirits and unwashed bodies.
+### Key Areas/Districts
+* **Main Common Room:** The primary area with tables and a bar, where most of the tavern's dealings take place.
+* **Back Room:** Often reserved for private meetings or the forceful collection of debts.
 
-## III. Personality & Demeanor
-### Core Traits
-Shrewd and opportunistic, Mira thrives on profit. She is also wary of Guild heat, prioritizing her own survival.
-### Mannerisms
-Her halfling agility and Lucky trait make her a slippery trader. She has a sly grin.
-### Ideal & Flaw
-**Ideal:** "Profit and survival above all else."
-**Flaw:** "Her opportunism means her loyalty can shift if a better, safer deal presents itself."
+## IV. Notable NPCs
+* [[Skarlix]] (loan shark)
+* [[Brak]] (thug)
 
-## IV. Background & History
-Mira has carved out a niche for herself in the bustling [[Market Square]] of [[Duskhaven]] as a highly effective fence. While operating independently, she maintains ties to the [[Nightshade Guild]], allowing her to move a wider variety of illicit goods. She has established a good working relationship with [[Vaelin Shadowleaf]], based on mutual profit.
+## V. Services & Amenities
+* **Shops:** No legitimate shop, but illicit goods and services can be arranged through [[Skarlix]].
+* **Inns/Taverns:** Serves cheap, potent ale and meager, unappetizing food.
+* **Other Services:** Loan sharking and debt enforcement.
 
-## V. Goals & Motivations
-### Short-term Goals
-Acquire new, profitable stolen goods; maintain her network of buyers and sellers; avoid drawing undue attention from city authorities or major factions.
-### Long-term Goals
-Increase her personal wealth and secure her position in Duskhaven's black market, perhaps even establishing a more formal fencing operation.
-### Primary Motivation
-Profit and self-preservation.
+## VI. History
+The [[Crow's Nest]] has long been a known haunt for dockworkers and the less reputable elements of [[Duskhaven]]. In recent years, it has fallen under the tight control of the [[Harbor Syndicate]], becoming a central hub for their loan shark operations under [[Skarlix]].
 
-## VI. Faction & Organization Affiliations
-* **Primary Faction:** [[Nightshade Guild]] (Informal ties/Independent)
-* **Other Affiliations:** Operates largely independently, but leverages contacts within the Guild for protection and larger deals.
-
-## VII. Current Status & Plot Hooks
-* **Current Location:** Operates primarily within the [[Market Square]] of [[Duskhaven]].
-* **Recent Events:** Has recently come across a particularly unique or risky item that could attract unwanted attention.
-* **Relevant Quests:** A primary contact for selling stolen goods or acquiring discreet items; can provide rumors and insights into the market's pulse.
-* **Potential Plot Hooks:** Mira might have a lead on a rare item Vaelin is seeking; she could be in trouble with a rival fence or a Guild boss, requiring Vaelin's aid; she might offer a lucrative but dangerous opportunity to acquire an item.
+## VII. Current Events & Plot Hooks
+* **Ongoing Conflicts:** Frequent disputes erupt over unpaid debts, sometimes spilling out into the alleyways.
+* **Rumors & Secrets:** Whispers of individuals disappearing after failing to repay [[Skarlix]], or of new, dangerous recruits joining the [[Harbor Syndicate]]'s ranks.
+* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might be tasked with retrieving something from a debtor, investigating a disappearance linked to [[Skarlix]], or gathering intelligence on the [[Harbor Syndicate]]'s finances.
 
 ## VIII. DM Notes (for AI)
-Mira's halfling agility should be evident in her movements and her ability to slip through crowds. Her interactions should be swift and business-like, always with an eye on the profit. Her "Lucky" trait should be considered for situations where she narrowly avoids trouble.
-
-### ROT-13 Encoded Secrets
-Zven'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.
+Emphasize the oppressive atmosphere, the constant low hum of threat, and the fact that most patrons are desperate or dangerous. [[Skarlix]] and [[Brak]] should project

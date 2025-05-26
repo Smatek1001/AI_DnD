@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 19:48:47"
+last_updated: "2025-05-25 23:49:15"
 type: "NPC"
 name: "The Shade"
 aliases: []
@@ -10,10 +10,13 @@ alignment: "Neutral Evil"
 occupation: "Syndicate Spy Master"
 importance: "Supporting"
 disposition_to_pc: "Neutral"
-faction: ["Harbor Syndicate"]
+faction: ["[[Harbor Syndicate]]"]
 location: "[[Docks]]"
 connections: ["[[The Anchor]]"]
-tags: ["#spy_master", "#criminal", "#harbor_syndicate", "#halfling"]
+employer: "[[The Anchor]]" # (NEW)
+is_quest_giver_for: [] # (NEW)
+associated_items: [] # (NEW)
+tags: ["#spy_master", "#criminal", "#harbor_syndicate", "#halfling", "#supporting_npc", "#devious", "#elusive", "#docks", "#informant_network"] # (NEW/ENHANCED)
 ---
 # The Shade
 
@@ -29,11 +32,11 @@ tags: ["#spy_master", "#criminal", "#harbor_syndicate", "#halfling"]
 
 ## II. Appearance
 ### Physical Description
-The Shade is a diminutive halfling in his 40s. His small stature and twinkling brown eyes belie his deadly cunning. His cloaked form slips through the [[Docks]]’ shadows. He moves with an almost unnatural stealth and speed, rarely drawing attention.
+The Shade is a diminutive [[Halfling]] in his 40s. His small stature and twinkling brown eyes belie his deadly cunning. His cloaked form slips through the [[Docks]]’ shadows. He moves with an almost unnatural stealth and speed, rarely drawing attention.
 
 ## III. Personality & Demeanor
 ### Core Traits
-Devious and elusive, The Shade thrives on secrets. His halfling nimbleness and Lucky trait make him nearly uncatchable. He is loyal to [[The Anchor]] but is open to manipulation for profit.
+Devious and elusive, The Shade thrives on secrets. His [[Halfling]] nimbleness and Lucky trait make him nearly uncatchable. He is loyal to [[The Anchor]] but is open to manipulation for profit.
 ### Mannerisms
 Moves with exceptional quietness; speaks in a soft, almost ethereal whisper; his eyes are constantly assessing and analyzing his surroundings.
 ### Ideal & Flaw
@@ -41,7 +44,7 @@ Moves with exceptional quietness; speaks in a soft, almost ethereal whisper; his
 **Flaw:** "His extreme discretion can make him overly cautious, sometimes missing opportunities by waiting too long. His love for profit can make him vulnerable."
 
 ## IV. Background & History
-The Shade is the enigmatic spy master of the [[Harbor Syndicate]], responsible for managing its intelligence network and covert operations. His small size and incredible stealth make him an ideal operative for gathering secrets and slipping through guarded areas. He works directly under [[The Anchor]], gathering information that fuels the Syndicate's dominance in [[Duskhaven]]'s underworld.
+The Shade is the enigmatic spy master of the [[Harbor Syndicate]], responsible for managing its intelligence network and covert operations. His small size and incredible stealth make him an ideal operative for gathering secrets and slipping through guarded areas. He works directly under [[The Anchor]], gathering information that fuels the [[Harbor Syndicate]]'s dominance in [[Duskhaven]]'s underworld.
 
 ## V. Goals & Motivations
 ### Short-term Goals
@@ -59,10 +62,10 @@ Control through information, and personal profit.
 * **Current Location:** Operates primarily within the [[Docks]], but moves covertly throughout [[Duskhaven]] wherever intelligence is needed.
 * **Recent Events:** Might be currently trying to uncover the secrets of [[The Society]] or the true power behind the [[Nightshade Guild]].
 * **Relevant Quests:** A prime target for intercepting valuable intelligence; can be a source of highly sensitive information if [[Vaelin Shadowleaf]] can outwit or out-stealth him.
-* **Potential Plot Hooks:** The Shade might attempt to recruit [[Vaelin Shadowleaf]] into his espionage network; he could be a rival for information on a particular target; Vaelin might intercept a message from The Shade that reveals a major Syndicate plot.
+* **Potential Plot Hooks:** The Shade might attempt to recruit [[Vaelin Shadowleaf]] into his espionage network; he could be a rival for information on a particular target; [[Vaelin Shadowleaf]] might intercept a message from The Shade that reveals a major [[Harbor Syndicate]] plot.
 
 ## VIII. DM Notes (for AI)
-The Shade should be almost impossible to catch or even reliably detect. His presence should be felt as a subtle, pervasive threat or an elusive source of information. His halfling traits (nimbleness, Lucky) are key to his elusiveness. Interaction with him should be a test of Vaelin's stealth and cunning.
+The Shade should be almost impossible to catch or even reliably detect. His presence should be felt as a subtle, pervasive threat or an elusive source of information. His [[Halfling]] traits (nimbleness, Lucky) are key to his elusiveness. Interaction with him should be a test of [[Vaelin Shadowleaf]]'s stealth and cunning.
 
 ### ROT-13 Encoded Secrets
 Gur Funqr'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 19:39:11"
+last_updated: "2025-05-25 23:45:30"
 type: "NPC"
 name: "Talia \"Whisper\""
 aliases: ["Talia"]
@@ -10,10 +10,13 @@ alignment: "Chaotic Neutral"
 occupation: "Society Operative / Mission Contact"
 importance: "Supporting"
 disposition_to_pc: "Friendly"
-faction: ["The Society"]
+faction: ["[[The Society]]"]
 location: "[[Drunken Raven]]"
 connections: ["[[Vaelin Shadowleaf]]", "[[Elyndra]]"]
-tags: ["#society_operative", "#information_broker", "#ally", "#human"]
+employer: "[[The Society]]" # (NEW)
+is_quest_giver_for: [] # (NEW)
+associated_items: [] # (NEW)
+tags: ["#society_operative", "#information_broker", "#ally", "#human", "#supporting_npc", "#ambitious", "#resourceful", "#drunken_raven", "#contact", "#spy"] # (NEW/ENHANCED)
 ---
 # Talia "Whisper"
 
@@ -29,7 +32,7 @@ tags: ["#society_operative", "#information_broker", "#ally", "#human"]
 
 ## II. Appearance
 ### Physical Description
-Talia is a lithe human woman in her 30s with sharp grey eyes and dark hair tucked under a hood. She moves with calculated grace. Her soft voice carries coded messages, and her unassuming presence masks a cunning Society operative. Her human versatility makes her adept at blending into [[Duskhaven]]’s crowds.
+Talia is a lithe [[Human]] woman in her 30s with sharp grey eyes and dark hair tucked under a hood. She moves with calculated grace. Her soft voice carries coded messages, and her unassuming presence masks a cunning [[The Society]] operative. Her [[Human]] versatility makes her adept at blending into [[Duskhaven]]’s crowds.
 
 ## III. Personality & Demeanor
 ### Core Traits
@@ -41,15 +44,15 @@ Moves with quiet efficiency; often leans in conspiratorially; her eyes constantl
 **Flaw:** "She struggles to trust anyone outside her immediate circle, leading to a solitary existence. Her ambition can lead her to push others, even allies, too hard."
 
 ## IV. Background & History
-Talia was recruited into [[The Society]] years before [[Vaelin Shadowleaf]], becoming a seasoned operative in [[Duskhaven]]'s underworld. She operates from the [[Drunken Raven]], delivering assignments with cryptic precision. She recently secured a provisional council seat in The Society, aiming to solidify her position through Vaelin’s successes. She sees Vaelin as a little brother and junior partner, a bond forged through years of mentorship after [[Elyndra]] trained him. More experienced than Vaelin, she assigns challenging missions to push his growth, expecting much because she believes in his potential to be a top operative.
+Talia was recruited into [[The Society]] years before [[Vaelin Shadowleaf]], becoming a seasoned operative in [[Duskhaven]]'s underworld. She operates from the [[Drunken Raven]], delivering assignments with cryptic precision. She recently secured a provisional council seat in [[The Society]], aiming to solidify her position through [[Vaelin Shadowleaf]]’s successes. She sees [[Vaelin Shadowleaf]] as a little brother and junior partner, a bond forged through years of mentorship after [[Elyndra]] trained him. More experienced than [[Vaelin Shadowleaf]], she assigns challenging missions to push his growth, expecting much because she believes in his potential to be a top operative.
 
 ## V. Goals & Motivations
 ### Short-term Goals
-Successfully complete current Society missions, expand her information network, and keep her contacts safe. As she’s secured a provisional council seat, she aims to solidify her position through Vaelin’s successes.
+Successfully complete current [[The Society]] missions, expand her information network, and keep her contacts safe. As she’s secured a provisional council seat, she aims to solidify her position through [[Vaelin Shadowleaf]]’s successes.
 ### Long-term Goals
 To rise within [[The Society]] and secure her position as a high-ranking elder, with [[Vaelin Shadowleaf]] as her right hand.
 ### Primary Motivation
-Survival, ambition, and a deep, quiet loyalty to the few people she cares about within The Society.
+Survival, ambition, and a deep, quiet loyalty to the few people she cares about within [[The Society]].
 
 ## VI. Faction & Organization Affiliations
 * **Primary Faction:** [[The Society]] (Key information operative, provisional council member)
@@ -59,10 +62,10 @@ Survival, ambition, and a deep, quiet loyalty to the few people she cares about 
 * **Current Location:** Mostly at the [[Drunken Raven]], but moves covertly throughout [[Duskhaven]].
 * **Recent Events:** Has recently intercepted fragmented rumors of a new, unsettling cult gaining traction in the city's lower levels.
 * **Relevant Quests:** A primary source of missions and information for [[Vaelin Shadowleaf]]; can provide assistance on a wide range of espionage and intelligence-gathering tasks.
-* **Potential Plot Hooks:** Talia might be captured or compromised, requiring Vaelin's intervention; she could provide a crucial lead on Vaelin's past or [[Therandril]]; she might assign a mission that pits Vaelin against another powerful faction. She’ll express frustration if Vaelin falters (e.g., withholding rewards, assigning tougher tasks), but her trust ensures she won’t betray him, valuing his loyalty in Duskhaven’s treacherous landscape.
+* **Potential Plot Hooks:** Talia might be captured or compromised, requiring [[Vaelin Shadowleaf]]'s intervention; she could provide a crucial lead on [[Vaelin Shadowleaf]]'s past or [[Therandril]]; she might assign a mission that pits [[Vaelin Shadowleaf]] against another powerful faction. She’ll express frustration if [[Vaelin Shadowleaf]] falters (e.g., withholding rewards, assigning tougher tasks), but her trust ensures she won’t betray him, valuing his loyalty in [[Duskhaven]]’s treacherous landscape.
 
 ## VIII. DM Notes (for AI)
-Talia should speak in a low, conspiratorial tone. She always has a piece of information or a task ready. She cares for Vaelin like a sibling and will subtly try to keep him out of unnecessary danger, without being overbearing. Her ambition is a key driving force.
+Talia should speak in a low, conspiratorial tone. She always has a piece of information or a task ready. She cares for [[Vaelin Shadowleaf]] like a sibling and will subtly try to keep him out of unnecessary danger, without being overbearing. Her ambition is a key driving force.
 
 ### ROT-13 Encoded Secrets
 Gnyvn'f erpxyrff srra va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

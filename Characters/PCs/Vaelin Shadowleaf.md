@@ -1,7 +1,7 @@
 ---
-last_updated: "2025-05-25 17:11:28"
+last_updated: "2025-05-25 23:14:54"
 # YAML Frontmatter: Core Character Data
-name: "Vaelin Shadowleaf"
+name: "Vaelin Shadowleaf" # Your Character's Full Name
 alias: [Vaelin]
 race: "Elf"
 subrace: "High Elf"
@@ -16,7 +16,8 @@ temp_hp: 0
 armor_class: 14
 passive_perception: 11
 initiative_mod: 3 # Based on Dexterity modifier
-speed: 30ft
+speed: 30ft # e.g., 30ft, 25ft
+
 # Class Breakdown (for multi-class characters)
 class1_name: "Rogue"
 class1_level: 1
@@ -31,6 +32,10 @@ class2_subclass:
 class2_spellcasting_ability:
 class2_spell_save_dc: 0
 class2_spell_attack_bonus: 0
+
+employer: "[[The Society]]" # (NEW) Explicitly links PC to their primary employer/faction
+associated_items: [] # [[Item Name]] (NEW) List key items specifically associated with Vaelin
+tags: ["#player_character", "#rogue", "#spy", "#high_elf", "#grimdark", "#noir_protagonist", "#main_character", "#magic_user", "#void_influenced", "#therandril_legacy", "#long_term_arc"] # (NEW/ENHANCED)
 ---
 
 # Player Character: Vaelin Shadowleaf
@@ -74,13 +79,13 @@ class2_spell_attack_bonus: 0
 * **Keen Senses:** You have proficiency in the Perception skill. (Already applied above.)
 * **Fey Ancestry:** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 * **Trance:** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. The Common word for this meditation is "trance." While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
-* **Cantrip:** You know the _Minor Illusion_ cantrip. (As per your house rule, you start with Prestidigitation and can swap it after a long rest.) Intelligence is your spellcasting ability for it.
+* **Cantrip:** You know the _Minor Illusion_ cantrip. (As per your house rule, you start with Prestidigitation and can swap it after a long rest). Intelligence is your spellcasting ability for it.
 * **Extra Language:** You can speak, read, and write **Undercommon**.
 
 ### Class Features (Rogue Level 1):
 * **Expertise:** You have Expertise in **Stealth** and **Thieves' Tools**. Your proficiency bonus is doubled for any ability check you make that uses either of these proficiencies.
-* **Sneak Attack (1d6):** See main DM Instructions for details.
-* **Thieves' Cant:** See main DM Instructions for details.
+* **Sneak Attack (1d6):** See main [[_DM_Instructions/DM Instructions|DM Instructions]] for details.
+* **Thieves' Cant:** See main [[_DM_Instructions/DM Instructions|DM Instructions]] for details.
 
 ### Background Feature (Spy):
 * **Criminal Contact:** You have a reliable contact who can get messages to and from you, or who can get you illegal goods and arrange a meeting with other criminals.
@@ -101,7 +106,7 @@ class2_spell_attack_bonus: 0
 ## V. Character Personality & Roleplaying
 
 ### Appearance:
-A 5’11” High Elf Rogue, Vaelin Shadowleaf moves with the graceful precision of a shadow. Fair skin and platinum blonde hair, tied back in a tight braid before missions, mark his elven heritage, but both are darkened with a disguise kit or a smear of dirt to blend seamlessly as a “grey man.” Hypnotic blue eyes, radiant as polished sapphires yet fathomless as an endless sea, mesmerize with an enchanting depth that betrays the “grey man” facade, drawing fleeting glances before a practiced smile redirects attention. A lean frame slips effortlessly into Duskhaven’s crowds, clad in charcoal-grey leather armor beneath a dark, hooded cloak. A silver leaf amulet with a sapphire hangs on a chain around his neck, and a hidden tattoo of ancient elven runes in a mysterious script, its meaning unknown to Vaelin and glowing faintly in the presence of magic, marks his chest over his heart.
+A 5’11” [[Elf]] [[High Elf]] Rogue, Vaelin Shadowleaf moves with the graceful precision of a shadow. Fair skin and platinum blonde hair, tied back in a tight braid before missions, mark his elven heritage, but both are darkened with a disguise kit or a smear of dirt to blend seamlessly as a “grey man.” Hypnotic blue eyes, radiant as polished sapphires yet fathomless as an endless sea, mesmerize with an enchanting depth that betrays the “grey man” facade, drawing fleeting glances before a practiced smile redirects attention. A lean frame slips effortlessly into [[Duskhaven]]’s crowds, clad in charcoal-grey leather armor beneath a dark, hooded cloak. A **silver leaf amulet** with a sapphire hangs on a chain around his neck, and a hidden **tattoo of ancient elven runes** in a mysterious script, its meaning unknown to Vaelin and glowing faintly in the presence of magic, marks his chest over his heart.
 
 ### Personality Traits:
 * Blends into any crowd, presence forgotten the moment of departure.
@@ -111,23 +116,23 @@ A 5’11” High Elf Rogue, Vaelin Shadowleaf moves with the graceful precision 
 * Knowledge is the ultimate weapon.
 
 ### Bonds:
-* The shadowy secret society (The Society) saved a lost soul; loyalty is unwavering.
-* [[Talia_Whisper|Talia "Whisper]] is like a big sister.
+* The shadowy secret society ([[The Society]]) saved a lost soul; loyalty is unwavering.
+* [[Talia "Whisper"]] is like a big sister.
 * [[Finch]] is like a little sister.
 * [[Greta "Mama" Stoneheart]] is maternal figure.
-* [[Elyndra]] is Vaelin's mentor within The Society.
+* [[Elyndra]] is Vaelin's mentor within [[The Society]].
 
 ### Flaws:
 * An obsession with arcane secrets leads to reckless risks.
 
 ### Background Summary:
-Vaelin Shadowleaf was born in **[[Therandril]]**, a radiant high elf city of arcane splendor, its spires glowing with enchanted light and its halls filled with ancient wisdom. As a child, he witnessed its cataclysmic fall, triggered by a desperate pact with dragons—benevolent, neutral, and evil factions—that went awry, opening a rift to **[[The_Nameless_Void]]**, a sanity-shattering cosmic horror. Amid blinding light and screams, Therandril collapsed, leaving Vaelin alone in [[Duskhaven]]’s grim streets, clutching a **silver leaf amulet** etched with cryptic runes and adorned with a sapphire, and bearing a **runic tattoo** across his chest that glows faintly near Therandril-linked magic. Orphaned, he survived by scavenging and theft until caught pickpocketing by **[[The_Society]]**, a secretive organization that trained him as a spy. Grateful yet wary, Vaelin serves The Society’s enigmatic leaders, unaware of their role in Therandril’s destruction—a secret buried in their labyrinthine agenda. Driven by fragmented memories, he pursues arcane knowledge as a tool for thievery, a source of power, a key to his amulet and tattoo, and a bridge to Therandril’s lost past, navigating Duskhaven’s dangers and [[The_Cult]]’s Void-worshipping schemes.
+Vaelin Shadowleaf was born in [[Therandril]], a radiant high elf city of arcane splendor, its spires glowing with enchanted light and its halls filled with ancient wisdom. As a child, he witnessed its cataclysmic fall, triggered by a desperate pact with dragons—benevolent, neutral, and evil factions—that went awry, opening a rift to [[The Nameless Void]], a sanity-shattering cosmic horror. Amid blinding light and screams, [[Therandril]] collapsed, leaving Vaelin alone in [[Duskhaven]]’s grim streets, clutching a **silver leaf amulet** etched with cryptic runes and adorned with a sapphire, and bearing a **runic tattoo** across his chest that glows faintly near Therandril-linked magic. Orphaned, he survived by scavenging and theft until caught pickpocketing by [[The Society]], a secretive organization that trained him as a spy. Grateful yet wary, Vaelin serves [[The Society]]’s enigmatic leaders, unaware of their role in [[Therandril]]’s destruction—a secret buried in their labyrinthine agenda. Driven by fragmented memories, he pursues arcane knowledge as a tool for thievery, a source of power, a key to his amulet and tattoo, and a bridge to [[Therandril]]’s lost past, navigating [[Duskhaven]]’s dangers and [[The Cult]]’s Void-worshipping schemes.
 
-Vaelin Shadowleaf operates within The Society, a secretive organization cloaked in mystery, where neither he nor most members grasp its full scope. The Society functions as a labyrinth of veiled intentions, with only its enigmatic leaders holding the true knowledge of its goals. To Vaelin, it’s a shadowy benefactor that honed his skills as a thief and spy after a life of scavenging in Duskhaven’s grim streets. Yet, he questions the shadows he serves, driven by a compulsion for arcane knowledge. This pursuit is fueled by practical needs (magic as a thief’s tool), a belief that knowledge is power, enigmatic runes on his silver leaf amulet and chest tattoo, and fleeting memories of Therandril, his lost elven home. These threads—practicality, philosophy, and personal mystery—draw Vaelin deeper into Duskhaven’s dangers, seeking answers that may illuminate or consume him.
+Vaelin Shadowleaf operates within [[The Society]], a secretive organization cloaked in mystery, where neither he nor most members grasp its full scope. [[The Society]] functions as a labyrinth of veiled intentions, with only its enigmatic leaders holding the true knowledge of its goals. To Vaelin, it’s a shadowy benefactor that honed his skills as a thief and spy after a life of scavenging in [[Duskhaven]]’s grim streets. Yet, he questions the shadows he serves, driven by a compulsion for arcane knowledge. This pursuit is fueled by practical needs (magic as a thief’s tool), a belief that knowledge is power, enigmatic runes on his **silver leaf amulet** and **chest tattoo**, and fleeting memories of [[Therandril]], his lost elven home. These threads—practicality, philosophy, and personal mystery—draw Vaelin deeper into [[Duskhaven]]’s dangers, seeking answers that may illuminate or consume him.
 
 ## VI. Current Status & Notes
 
-* **Current Location:** [[Current Location Name]]
+* **Current Location:** [[Abandoned Bakery Attic]]
 * **Current Quest(s):**
     * [[Active Quest 1]]
     * [[Active Quest 2]]
@@ -140,18 +145,18 @@ Vaelin Shadowleaf operates within The Society, a secretive organization cloaked 
 * (What does your character ultimately want to achieve outside of the current main quest? e.g., "Become a renowned master of the arcane arts," "Found a powerful guild," "Seek revenge on the bandit who killed my family," "Redeem a fallen deity.")
 
 ### Desired Mechanical Progression:
-* Rogue (Assassin): Assassinate
+* Rogue ([[Assassin]]): Assassinate
     * story: trained in spy-craft for espionage and assassination
-* Warlock (Archfey Patron): Pact of the Chain, Pact of the Tome
+* Warlock ([[Archfey Patron]]): Pact of the Chain, Pact of the Tome
     * story: patron and/or familiar is a mentor for magic and arcane knowledge
-* Ranger (Gloom Stalker) 5: Dread Ambusher, Umbral Sight, extra attack
+* Ranger ([[Gloom Stalker]]) 5: Dread Ambusher, Umbral Sight, extra attack
     * story: learning espionage in wilderness areas
 * Fighter 2: action surge
-* Wizard (Illusionist)
-* Artificer (Armorer)
+* Wizard ([[Illusionist]])
+* Artificer ([[Armorer]])
 
 ### Envisioned Character Arcs / Moral Shifts:
 * (Do you have a specific moral or ethical journey in mind? e.g., "Shift from lawful good to chaotic good," "Struggle with temptation to use dark powers," "Learn to trust others after a betrayal.")
 
 ### Important Relationships to Cultivate/Resolve:
-* (Are there specific NPCs or factions your character wants to build stronger ties with, reconcile with, or confront? e.g., "Befriend the reclusive sage Elara," "Resolve the conflict with my estranged sister," "Expose the corruption within the city guard.")
+* (Are there specific NPCs or factions your character wants to build stronger ties with, reconcile with, or confront? e.g., "Befriend the reclusive sage [[Elaris]]," "Resolve the conflict with my estranged sister," "Expose the corruption within the city guard.")

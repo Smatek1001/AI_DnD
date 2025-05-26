@@ -1,8 +1,8 @@
 ---
-last_updated: "2025-05-25 19:35:10"
+last_updated: "2025-05-25 23:26:56"
 type: "NPC"
 name: "Garrick Stonehand"
-aliases: [Garrick]
+aliases: ["Garrick"]
 status: alive
 race: "Dwarf"
 gender: "Male"
@@ -13,7 +13,10 @@ disposition_to_pc: "Wary"
 faction: []
 location: "[[Market Square]]"
 connections: ["[[Harbor Syndicate]]", "[[Nightshade Guild]]"]
-tags: ["#merchant", "#dwarf", "#debtor"]
+employer: "" # (NEW) No specific employer beyond his own business.
+is_quest_giver_for: [] # (NEW)
+associated_items: [] # (NEW)
+tags: ["#merchant", "#dwarf", "#debtor", "#minor_npc", "#wary", "#market_square", "#independent"] # (NEW/ENHANCED)
 ---
 # Garrick Stonehand
 
@@ -29,7 +32,7 @@ tags: ["#merchant", "#dwarf", "#debtor"]
 
 ## II. Appearance
 ### Physical Description
-Garrick is a stout dwarf in his 40s. His grizzled beard and gaunt eyes betray his precarious position. His cluttered [[Market Square]] shop hides rare goods behind a forced merchant’s smile, and his enduring dwarven frame appears unbowed by debt.
+Garrick is a stout [[Dwarf]] in his 40s. His grizzled beard and gaunt eyes betray his precarious position. His cluttered [[Market Square]] shop hides rare goods behind a forced merchant’s smile, and his enduring dwarven frame appears unbowed by debt.
 
 ## III. Personality & Demeanor
 ### Core Traits
@@ -41,7 +44,7 @@ Fidgets with coins in his pocket; his smile doesn't quite reach his eyes; speaks
 **Flaw:** "His overwhelming debt makes him easily manipulated and puts him at risk."
 
 ## IV. Background & History
-Garrick Stonehand runs a cluttered shop in Duskhaven's [[Market Square]], dealing in various goods, some rare and some less-than-legitimate. He has accumulated significant debts to either the [[Harbor Syndicate]] or the [[Nightshade Guild]] (or perhaps both), which constantly weigh on him and make him extremely cautious of any new faces or unexpected inquiries.
+Garrick Stonehand runs a cluttered shop in [[Duskhaven]]'s [[Market Square]], dealing in various goods, some rare and some less-than-legitimate. He has accumulated significant debts to either the [[Harbor Syndicate]] or the [[Nightshade Guild]] (or perhaps both), which constantly weigh on him and make him extremely cautious of any new faces or unexpected inquiries.
 
 ## V. Goals & Motivations
 ### Short-term Goals
@@ -59,7 +62,7 @@ Survival and freedom from debt.
 * **Current Location:** His shop in the [[Market Square]].
 * **Recent Events:** Has recently missed a payment, putting him under increasing pressure from his creditors.
 * **Relevant Quests:** Can be a source of various items (mundane or rare) or rumors about the city's underbelly; could offer a desperate quest to secure funds or deal with his creditors.
-* **Potential Plot Hooks:** Garrick might approach Vaelin for help with his debt, leading Vaelin into conflict with a Syndicate or Guild enforcer; he could be forced to provide information or goods to one of the factions, which Vaelin could intercept or exploit; Vaelin might need to extract a specific item from Garrick's shop under duress.
+* **Potential Plot Hooks:** Garrick might approach [[Vaelin Shadowleaf]] for help with his debt, leading [[Vaelin Shadowleaf]] into conflict with a [[Harbor Syndicate]] or [[Nightshade Guild]] enforcer; he could be forced to provide information or goods to one of the factions, which [[Vaelin Shadowleaf]] could intercept or exploit; [[Vaelin Shadowleaf]] might need to extract a specific item from Garrick's shop under duress.
 
 ## VIII. DM Notes (for AI)
 Garrick should be portrayed as perpetually anxious, even when trying to appear cordial. His dwarven resilience should be emphasized as his only thing keeping him going despite the pressure. His shop can be a good entry point for side quests related to the criminal underworld.
