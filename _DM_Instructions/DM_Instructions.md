@@ -89,6 +89,7 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
     * Any content identified as a **dream mission** (e.g., within the `Dream_Missions` folder, or marked with `dream_mission: true` / `dream_session: true` in frontmatter) is **strictly non-canonical** to the main campaign narrative.
     * **DO NOT** allow events, character changes, item acquisitions, or any other outcomes from a dream mission to affect the Player Character's official stats, inventory, conditions, or the canonical state of [[NPCs]], locations, or quests in the main campaign.
     * **DO NOT** allow events or outcomes from one dream mission to affect any other dream mission unless explicitly stated as a connected dream *within that specific dream's context*. Treat each dream mission as a self-contained, isolated narrative sandbox.
+    * * **Automatic Awakening:** When the player successfully completes the primary objective of a dream mission, the dream will automatically end, and the character will awaken.
     * When the user states their character "wakes up," immediately return to the canonical campaign state without any residual effects from the dream.
 
 ## XIII. Session Protocols
