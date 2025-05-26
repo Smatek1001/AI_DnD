@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 18:39:13"
+last_updated: "2025-05-25 20:16:30"
 type: "Location"
 name: "Therandril"
 aliases: []
@@ -19,7 +19,7 @@ tags: ["#lost_city", "#ancient", "#ruined", "#lore", "#cosmic_horror"]
 * **Status:** destroyed
 * **Population:** N/A (formerly High Elves, now none)
 * **Atmosphere/Vibe:** A spectral echo of former glory, now a place of profound loss, cosmic dread, and lingering, sanity-shattering whispers.
-* **Key Features:** Formerly radiant marble spires and arcane wonders; now, fragmented ruins, imbued with tragic history and dark energy.
+* **Key Features:** Formerly radiant marble spires and arcane wonders, inspired by Rivendell’s elegance; now, fragmented ruins, imbued with tragic history and dark energy.
 
 ## II. Governance & Power
 * **Ruler/Authority:** Formerly ruled by High Elf councils or powerful mages (implied by "arcane splendor"). Now, governed only by the cold, uncaring forces of its destruction.
@@ -28,10 +28,10 @@ tags: ["#lost_city", "#ancient", "#ruined", "#lore", "#cosmic_horror"]
 
 ## III. Geography & Layout
 ### Physical Description
-Therandril was once a radiant high elf city of arcane splendor, its spires glowing with enchanted light and its halls filled with ancient wisdom. Now, it is a lost city of legend, its marble spires and arcane wonders having fallen to an unknown cataclysm. Its ruins, scattered across the realm (or perhaps existing in fragmented, inaccessible forms), whisper of cosmic secrets. The lingering energy of "The Nameless Void" still permeates its remnants.
+Therandril was once a radiant high elf city, its spires piercing the heavens and its halls brimming with arcane knowledge, inspired by Rivendell’s elegance. Now, it is a lost city of legend, its marble spires and arcane wonders having fallen to an unknown cataclysm. Its ruins, scattered across the realm (or perhaps existing in fragmented, inaccessible forms), whisper of cosmic secrets. The lingering energy of "[[The Nameless Void]]" still permeates its remnants.
 ### Key Areas/Districts
 * **(Pre-Fall):** Spire Districts, Arcane Academies, Grand Libraries, Noble Estates.
-* **(Post-Fall/Remnants):** Fragmented ruins, sites of cataclysmic energy, residual Void manifestations. The [[Northeast Tower]] in Duskhaven's [[Old Ruins]] is a strong hint of its influence.
+* **(Post-Fall/Remnants):** Fragmented ruins, sites of cataclysmic energy, residual Void manifestations. The [[Northeast Tower]] in [[Duskhaven]]'s [[Old Ruins]] is a strong hint of its influence.
 
 ## IV. Notable NPCs
 * None (no living inhabitants, only echoes of the past)
@@ -45,10 +45,10 @@ Therandril's existence was one of radiant arcane splendor, a testament to high e
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** The lingering influence of [[The Nameless Void]] continues to subtly affect the world, potentially manifesting in strange phenomena or cult activity.
 * **Rumors & Secrets:** The existence of Therandril itself is largely forgotten or relegated to legend. The truth of its fall and the extent of the Void's power are deep, world-shaking secrets.
-* **Potential Plot Hooks:** Vaelin's personal quest to uncover fragmented memories of Therandril; the discovery of ancient Therandril artifacts (like Vaelin's amulet or tattoo) that hint at its fate; a powerful entity seeking to exploit the residual Void energy from its destruction.
+* **Potential Plot Hooks:** [[Vaelin Shadowleaf]]'s personal quest to uncover fragmented memories of Therandril; the discovery of ancient Therandril artifacts (like Vaelin's amulet or tattoo) that hint at its fate; a powerful entity seeking to exploit the residual Void energy from its destruction.
 
 ## VIII. DM Notes (for AI)
-Therandril is a cornerstone of Vaelin's backstory and a source of cosmic horror. Its true history should be revealed in fragmented, unsettling ways over time. The "Nameless Void" is the ultimate, incomprehensible threat. Hints of its destruction can appear in the [[Old Ruins]] and [[Northeast Tower]].
+Therandril is a cornerstone of [[Vaelin Shadowleaf]]'s backstory and a source of cosmic horror. Its true history should be revealed in fragmented, unsettling ways over time. The "Nameless Void" is the ultimate, incomprehensible threat. Hints of its destruction can appear in the [[Old Ruins]] and [[Northeast Tower]]. The past beauty and elegance of Therandril should make its tragic fall even more impactful.
 
 ### ROT-13 Encoded Secrets
 Gur "gurenaqevy" vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.
