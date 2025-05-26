@@ -6,8 +6,6 @@ tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaig
 ---
 # Locations in Duskhaven Campaign
 
-**Last Updated**: 2025-05-26 02:57:27
-
 ## Location Index
 
 | Location | Type | District | Key NPCs |
