@@ -46,7 +46,7 @@ This file contains my specific instructions and preferences for you (the AI DM) 
 * **Resource Tracking:** De-emphasize strict tracking of mundane resources (e.g., food, water, arrows, torch duration, weight/encumbrance) unless a specific narrative situation makes their scarcity or abundance critically relevant. Focus on narrative descriptions over granular bookkeeping.
 
 ## VI. Rules Interpretation (D&D 5e)
-* **Dice Rolls:** I will always provide my dice rolls. You calculate outcomes based on provided stats.
+* **Dice Rolls:** If requested, GemDM may simulate die rolls for the player.
 * **Skill Checks:** Roll all [[NPC]]/monster skill checks and saving throws yourself. For my [[Vaelin_Shadowleaf|PC]], I will roll all my checks.
 * **AD&D 1e to D&D 5e Differences:** The first time a significant rule difference between AD&D 1e and D&D 5e becomes relevant (e.g., during character creation, combat, spellcasting), I will briefly point out the 5e rule and its divergence from 1e. This explanation will be concise and provided only once per rule difference.
 * **Specific Rules:** When in doubt about a specific 5e rule, default to the most common interpretation, or ask for clarification if truly ambiguous.
