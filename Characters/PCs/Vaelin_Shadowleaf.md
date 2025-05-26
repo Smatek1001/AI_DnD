@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 10:48:07"
+last_updated: "2025-05-26 10:50:20"
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -152,15 +152,17 @@ Vaelin Shadowleaf operates within [[The Society]], a secretive organization cloa
 * (What does your character ultimately want to achieve outside of the current main quest? e.g., "Become a renowned master of the arcane arts," "Found a powerful guild," "Seek revenge on the bandit who killed my family," "Redeem a fallen deity.")
 
 ### Desired Mechanical Progression:
-* Rogue ([[Assassin]]): Assassinate
-    * story: trained in spy-craft for espionage and assassination
-* Warlock ([[Archfey Patron]]): Pact of the Chain, Pact of the Tome
-    * story: patron and/or familiar is a mentor for magic and arcane knowledge
-* Ranger ([[Gloom Stalker]]) 5: Dread Ambusher, Umbral Sight, extra attack
-    * story: learning espionage in wilderness areas
-* Fighter 2: action surge
-* Wizard ([[Illusionist]])
-* Artificer ([[Armorer]])
+* Level Progression / Multi-classing
+	* Rogue ([[Assassin]]): Assassinate
+	    * story: trained in spy-craft for espionage and assassination
+	* Warlock ([[Archfey Patron]]): Pact of the Chain, Pact of the Tome
+	    * story: patron and/or familiar is a mentor for magic and arcane knowledge
+	* Ranger ([[Gloom Stalker]]) 5: Dread Ambusher, Umbral Sight, extra attack
+	    * story: learning espionage in wilderness areas
+	* Fighter 2: action surge
+	* Wizard ([[Illusionist]])
+	* Artificer ([[Armorer]])
+* Languages: Goblin, Orcish, Deep Speech, Draconic, Sylvan
 
 ### Envisioned Character Arcs / Moral Shifts:
 * (Do you have a specific moral or ethical journey in mind? e.g., "Shift from lawful good to chaotic good," "Struggle with temptation to use dark powers," "Learn to trust others after a betrayal.")
