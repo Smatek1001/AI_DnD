@@ -1,7 +1,7 @@
 ---
-last_updated: "2025-05-26 07:34:09"
+last_updated: "2025-05-26 08:38:04"
 index_type: "Dream Session Log Overview"
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 tags: ["#dream_session_log_index", "#non_canonical", "#dream_mission", "#index_file", "#campaign_data", "#session_tracking", "#dream_logs"] # (NEW/ENHANCED)
 ---
 # Dream Session Logs - Index (Non-Canonical)

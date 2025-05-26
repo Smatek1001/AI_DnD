@@ -1,7 +1,7 @@
 ---
-last_updated: "2025-05-26 00:41:40"
+last_updated: "2025-05-26 08:43:20"
 type: "DM Brainstorm"
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 idea_categories: ["Character-Specific Seeds", "World-Specific Hooks & Concepts", "Item/Artifact Ideas", "NPC Concepts", "Dungeon/Location Concepts", "Random Encounters/Side Quests", "General \"What If\" Questions"] # (NEW)
 linked_pcs: [] # (NEW)
 linked_npcs: [] # (NEW)
@@ -10,7 +10,7 @@ linked_factions: [] # (NEW)
 linked_items: [] # (NEW)
 tags: ["#plot_ideas", "#brainstorm", "#future_seeds", "#dm_notes", "#campaign_planning", "#creative_input", "#plot_hooks"] # (NEW/ENHANCED)
 ---
-# {{campaign_name}} - Plot Ideas & Future Seeds
+# Vaelin's Campaign - Plot Ideas & Future Seeds
 
 This document is a collection of unassigned ideas, potential plot hooks, intriguing concepts, and "what if" scenarios that you (the player/DM) think might be interesting for the campaign's future. These are not necessarily formalized quests or [[NPCs]] yet, but rather raw creative input for the AI DM to draw upon when planning.
 

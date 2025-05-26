@@ -1,7 +1,7 @@
 ---
-last_updated: "2025-05-26 00:27:52"
+last_updated: "2025-05-26 08:37:52"
 index_type: "Item Overview"
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 tags: ["#item_index", "#item_overview", "#magic_items", "#index_file", "#campaign_data", "#unique_items"] # (NEW/ENHANCED)
 ---
 # Items - Index

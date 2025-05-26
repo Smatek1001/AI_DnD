@@ -1,12 +1,12 @@
 ---
-last_updated: "2025-05-26 00:40:39"
+last_updated: "2025-05-26 08:43:09"
 rule_type: "House Rules"
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 rules_focus_areas: ["General Rules", "Combat Rules", "Spellcasting Rules", "Exploration & Social Rules", "Character Creation & Advancement", "Specific Class/Race Modifications"] # (NEW)
 gameplay_modifications: ["Bonus Action Healing Potions", "Flanking Advantage", "Exhaustion at 0 HP", "Free Feat at Level 1", "Max HP at Level Up"] # (NEW)
 tags: ["#house_rules", "#campaign_rules", "#rules_modifications", "#5e_variant", "#homebrew", "#gameplay_mechanics"] # (NEW/ENHANCED)
 ---
-# {{campaign_name}} - House Rules
+# Vaelin's Campaign - House Rules
 
 This document outlines any modifications, additions, or specific interpretations of the Dungeons & Dragons 5th Edition ruleset that we will be using for this campaign. Please adhere to these rules. Some House Rules are taken from the newer 2024 ruleset. Some House Rules are homebrew rules.
 

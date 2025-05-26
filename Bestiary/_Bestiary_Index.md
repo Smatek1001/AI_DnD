@@ -1,7 +1,7 @@
 ---
-last_updated: "2025-05-26 00:26:54"
+last_updated: "2025-05-26 08:39:06"
 index_type: "Bestiary Overview"
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 tags: ["#bestiary_index", "#creature_overview", "#monster_list", "#index_file", "#campaign_data", "#fey", "#beasts", "#aberrations"] # (NEW/ENHANCED)
 ---
 # Bestiary - Index

@@ -1,7 +1,7 @@
 ---
-last_updated: 2025-05-26 00:24:15
+last_updated: "2025-05-26 08:42:50"
 type: Campaign Narrative
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 current_campaign_phase: ""
 key_pcs_involved:
   - "[[Vaelin_Shadowleaf]]"
@@ -17,7 +17,7 @@ tags:
   - "#plot_summary"
   - "#campaign_overview"
 ---
-# {{campaign_name}} - Campaign Narrative
+# Vaelin's Campaign - Campaign Narrative
 
 This document provides a high-level narrative summary of the campaign's story so far, charting the major arcs, key events, and the evolving state of the world and the Player Character(s). It's a living history of our adventures.
 

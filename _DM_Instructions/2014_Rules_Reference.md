@@ -1,7 +1,7 @@
 ---
-last_updated: 2025-05-26 00:39:16
+last_updated: "2025-05-26 08:41:45"
 rule_type: Official 2014 Rule Reference
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 rules_edition: Dungeons & Dragons 5th Edition 2014
 source_book: PHB 2014
 tags:

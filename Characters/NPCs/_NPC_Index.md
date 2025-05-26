@@ -1,7 +1,7 @@
 ---
-last_updated: "2025-05-26 00:30:37"
+last_updated: "2025-05-26 08:38:46"
 index_type: "NPC Overview"
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 tags: ["#npc_index", "#character_overview", "#index_file", "#campaign_data", "#character_list", "#allies", "#enemies", "#contacts"] # (NEW/ENHANCED)
 ---
 # Non-Player Characters (NPCs) - Index
