@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:34:23"
+last_updated: "2025-05-26 02:10:43"
 index_type: "Dream Session Log Overview"
 campaign_name: "{{campaign_name}}"
 tags: ["#dream_session_log_index", "#non_canonical", "#dream_mission", "#index_file", "#campaign_data", "#session_tracking", "#dream_logs"] # (NEW/ENHANCED)
@@ -12,7 +12,7 @@ This document serves as an index for all dream session logs. These logs detail e
 
 | Session Date | Session Title | Days Passed | PC Level |
 |---|---|---|---|
-| (No dream session logs yet) | | | | |
+| 2025-05-26 | [[2025-05-26_Dream_Heist_Collector.md]] | 0 | 1 |
 
 ---
 **Note to DM (AI):** Remember that all dream session logs are strictly non-canonical. No character changes or item acquisitions from these sessions should affect the main campaign.

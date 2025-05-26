@@ -122,3 +122,6 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
 
 ## XIV. Notes & Special Directives
 * (Any specific, temporary instructions for the current phase of the campaign, e.g., "Focus on horror elements for the next few sessions.")
+
+## XV. Output Formatting
+* **Wikilink Syntax:** When generating narrative text or responses not intended as direct file content for your Obsidian vault, **DO NOT** use double brackets `[[]]` for internal links. This syntax should be reserved **ONLY** for wikilinks within Markdown file content that you explicitly instruct me to generate for your Obsidian vault (e.g., when providing updates for `PC_Main.md`, `Quest.md`, etc., or new session logs). For general chat output, refer to concepts or entities by their name without the double brackets.
