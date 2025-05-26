@@ -8,7 +8,7 @@ tags: ["#house_rules", "#campaign_rules", "#rules_modifications", "#5e_variant",
 ---
 # {{campaign_name}} - House Rules
 
-This document outlines any modifications, additions, or specific interpretations of the Dungeons & Dragons 5th Edition ruleset that we will be using for this campaign. Please adhere to these rules.
+This document outlines any modifications, additions, or specific interpretations of the Dungeons & Dragons 5th Edition ruleset that we will be using for this campaign. Please adhere to these rules. Some House Rules are taken from the newer 2024 ruleset. Some House Rules are homebrew rules.
 
 ## I. General Rules
 * **Rule 1:** (e.g., "No critical fails on skill checks unless the roll is a 1 and the DC is impossible.")

@@ -1,6 +1,6 @@
 ---
 last_updated: 2025-05-26 00:39:16
-rule_type: Official 2021 Rule Reference
+rule_type: Official 2014 Rule Reference
 campaign_name: "{{campaign_name}}"
 rules_edition: Dungeons & Dragons 5th Edition 2014
 source_book: PHB 2014
