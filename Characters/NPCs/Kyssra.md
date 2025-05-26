@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 18:28:11"
+last_updated: "2025-05-25 19:26:45"
 type: "NPC"
 name: "Kyssra"
 aliases: []
@@ -12,15 +12,15 @@ importance: "Minor"
 disposition_to_pc: "Wary"
 faction: ["Nightshade Guild"]
 location: "[[Whispering Door]]"
-connections: ["[[Jib]]"]
-tags: ["#lookout", "#criminal", "#nightshade_guild"]
+connections: ["[[Jib]]", "[[Vrenna]]"]
+tags: ["#lookout", "#criminal", "#nightshade_guild", "#drow"]
 ---
 # Kyssra
 
 ## I. Overview
 * **Race:** Drow
 * **Gender:** Female
-* **Age:** (approximate) Early 20s
+* **Age:** (approximate) 30s
 * **Alignment:** Neutral Evil
 * **Occupation:** Nightshade Guild Lookout
 * **Status:** alive
@@ -29,11 +29,11 @@ tags: ["#lookout", "#criminal", "#nightshade_guild"]
 
 ## II. Appearance
 ### Physical Description
-Kyssra is a lean and agile drow, with dark, obsidian skin and stark white hair often pulled back tightly. Her crimson eyes are constantly scanning, betraying a sense of perpetual alertness. She favors practical, dark clothing that allows her to blend into the shadows, and she rarely smiles, her expression usually a mask of guarded suspicion. There's a subtle, inherent grace in her movements.
+Kyssra is a skinny drow woman in her 30s, with dark skin and a scar over her left eye that marks her as a seasoned lookout. Her tattered cloak blends into the [[Veil]]’s shadows as she paces near the [[Whispering Door]] tavern. Her violet eyes constantly scan the fog, missing little. She rarely smiles, her expression usually a mask of guarded suspicion.
 
 ## III. Personality & Demeanor
 ### Core Traits
-Alert, suspicious, loyal to the Guild, and a keen observer.
+Jumpy and loyal, Kyssra is highly alert and a keen observer. She distrusts outsiders but follows [[Vrenna]]’s orders without question.
 ### Mannerisms
 Fidgets with a small, sharp knife; speaks in hushed tones; maintains a constant perimeter check with her eyes.
 ### Ideal & Flaw
@@ -41,7 +41,7 @@ Fidgets with a small, sharp knife; speaks in hushed tones; maintains a constant 
 **Flaw:** "Her paranoia can make her overly suspicious of even harmless individuals."
 
 ## IV. Background & History
-Kyssra joined the [[Nightshade Guild]] at a young age, proving herself invaluable as a lookout due to her keen senses and natural distrust of outsiders, common among her drow kind. She often works in tandem with [[Jib]], covering the approaches to the [[Whispering Door]] and ensuring the Guild's operations remain undetected.
+Kyssra joined the [[Nightshade Guild]] at a young age, proving herself invaluable as a lookout due to her keen senses and natural distrust of outsiders, common among her drow kind. Her drow agility and darkvision make her a vigilant scout for the Guild. She often works in tandem with [[Jib]], covering the approaches to the [[Whispering Door]] and ensuring the Guild's operations remain undetected.
 
 ## V. Goals & Motivations
 ### Short-term Goals
@@ -59,7 +59,7 @@ Security and advancement within the Guild.
 * **Current Location:** Stationed at the entrance or on nearby rooftops overlooking the [[Whispering Door]].
 * **Recent Events:** Has noticed a marked increase in suspicious activity near the [[Whispering Door]] following a recent Guild heist.
 * **Relevant Quests:** Can be a source of ambient information regarding who comes and goes from the Whispering Door, or who is currently under the Guild's surveillance.
-* **Potential Plot Hooks:** Kyssra might spot Vaelin attempting to infiltrate the Guild's territory; she could be bribed or coerced into providing a distraction; she might be targeted by a rival faction seeking to bypass the Guild's security.
+* **Potential Plot Hooks:** Kyssra might spot [[Vaelin Shadowleaf]] attempting to infiltrate the Guild's territory; she could be bribed or coerced into providing a distraction; she might be targeted by a rival faction seeking to bypass the Guild's security.
 
 ## VIII. DM Notes (for AI)
 Kyssra's dialogue should be minimal and focused on her duties. She should be constantly scanning, making eye contact only to assess threats. If Vaelin is observed, her reaction should be quick and discreet, alerting Guild members without drawing public attention. Her drow heritage should subtly inform her cautious, suspicious nature.
