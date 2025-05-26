@@ -1,44 +1,45 @@
 ---
-last_updated: "2025-05-26 02:21:48"
-campaign_name: "{{campaign_name}}"
-current_in_game_date: "Month Day, Year (e.g., '1st of Deepwinter, 1492 DR')"
-days_passed_since_campaign_start: 0 # Cumulative days since the start of the campaign
-last_session_summary: "" # A very brief summary of the last session's ending
-current_pc_status: "" # e.g., "Healthy, in the city of X, seeking Y"
-current_party_location: "[[Abandoned_Bakery_Attic]]"
-active_quests: [] # [[Quest Name]]
-notable_npcs_nearby: [] # [[NPC Name]]
-key_plot_points_pending: [] # Brief notes on unresolved plot points
+last_updated: "2025-05-26 03:05:30"
+campaign_name: "Duskhaven Campaign"
+current_in_game_date: "" # To be filled in at the start of a canonical session
+days_passed_since_campaign_start: 0
+last_session_summary: "Vaelin completed a dream mission, retrieving a mysterious jade idol from a distorted Sewer Network and evading an unseen creature."
+current_pc_status: "Healthy, awake in his hideout in the Shadow Quarter."
+current_party_location: "[[Abandoned Bakery Attic]]"
+active_quests: []
+notable_npcs_nearby: ["[[Finch]]"]
+key_plot_points_pending: ["Uncovering the true nature of The Society's agenda", "Investigating the connection between Duskhaven's dark history and the fall of Therandril", "Navigating the treacherous alliances and betrayals within the city's underworld."]
 ---
 
-# Current Campaign Status - {{campaign_name}}
+# Current Campaign Status - Duskhaven Campaign
 
 ## I. Current In-Game Time & Location
 
-* **Current In-Game Date:** {{current_in_game_date}}
-* **Days Passed Since Campaign Start:** {{days_passed_since_campaign_start}} days
-* **Current Party Location:** [[Abandoned_Bakery_Attic]]
-* **Brief Description of Location:** (e.g., "The party is currently in the bustling market square of Silverwood.")
+* **Current In-Game Date:** (To be filled in at the start of a canonical session)
+* **Days Passed Since Campaign Start:** 0 days
+* **Current Party Location:** [[Abandoned Bakery Attic]]
+* **Brief Description of Location:** The attic hideout, nestled above a derelict bakery in Duskhaven's Shadow Quarter, is Vaelin's secure but grimy sanctuary. It's currently early morning, the city's perpetual fog just beginning to thin outside the cracked skylight.
 
 ## II. Last Session Recap
 
-* **Last Session Summary:** {{last_session_summary}}
-* **PC Status at Last Session End:** {{current_pc_status}}
+* **Last Session Summary:** Vaelin completed a dream mission, navigating a grotesque, dream-like Sewer Network to retrieve a "trinket of the forgotten"—a bizarre jade idol. He encountered and evaded an unseen slithering creature before successfully acquiring the idol, which caused him to automatically awaken back in his hideout.
+* **PC Status at Last Session End:** Vaelin is healthy, with 8/8 HP, all spell slots (Minor Illusion cantrip only) and resources available. No lingering conditions.
 
 ## III. Active Quests & Plot Threads
 
-* **Active Quests:**
-    * (List brief summary of active quests. Link to [[Quest Name]] files.)
+* **Active Quests:** None yet.
 * **Key Plot Points Pending:**
-    * (Brief notes on immediate, unresolved plot threads or mysteries.)
+    * Uncovering the true nature of The Society's agenda.
+    * Investigating the connection between Duskhaven's dark history and the fall of Therandril.
+    * Navigating the treacherous alliances and betrayals within the city's underworld.
 
 ## IV. Notable NPCs & Factions Nearby
 
-* **Notable NPCs:**
-    * (List NPCs the party is likely to encounter or interact with soon. Link to [[NPC Name]] files.)
-* **Factions Present:**
-    * (List key factions active in the current location or relevant to immediate plot. Link to [[Faction Name]] files.)
+* **Notable NPCs:** [[Finch]] (leader of the Ratlings, ally, operates in the Shadow Quarter).
+* **Factions Present:** [[Ratlings]] (active in the Shadow Quarter), and the distant influence of [[The Society]].
 
 ## V. DM Notes for Next Session
 
-* (Any specific notes or reminders for me to pick up on for the next session. This might include weather, upcoming encounters, or NPC reactions.)
+* Start with Vaelin in his hideout, feeling the lingering effects of the dream.
+* Consider having Finch arrive with street intel or a message from Talia to kick off the first canonical mission.
+* Emphasize the contrast between the grim exterior of the Shadow Quarter and the relative safety of Vaelin's hideout, reflecting the updated grimdark intensity rule.
