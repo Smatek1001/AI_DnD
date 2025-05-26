@@ -6,7 +6,7 @@ name: "The Collector's Trinket"
 status: completed # active, completed, failed, pending, retired
 quest_type: "heist" # main, side, personal, faction, dungeon_crawl, investigation, espionage, intrigue, social, assassination, heist, etc.
 patron: "Unseen Voice (Dream)" # [[NPC Name]] or [[Faction Name]]
-location: "Dream Sewer Network" # [[Location Name]]
+location: "Sewer Network" # [[Location Name]]
 reward: "None (Dream-only)" # e.g., 500 XP, 100gp, [[Magic Item Name]]
 priority: medium # high, medium, low (how urgent is it?)
 ---

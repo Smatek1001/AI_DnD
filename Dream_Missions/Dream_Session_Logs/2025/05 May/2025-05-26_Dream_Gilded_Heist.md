@@ -1,20 +1,22 @@
 ---
-last_updated: "2025-05-26 07:02:35"
-chat_link: "https://g.co/gemini/share/349e5eebe839" # Public share link to the corresponding chat session
+last_updated: 2025-05-26 07:02:35
+chat_link: https://g.co/gemini/share/349e5eebe839
 dream_session: true
-session_date: "{{date:YYYY-MM-DD}}"
-session_title: "The Gilded Heist"
-campaign_day: 0 # Dream mission, not canonical
-days_passed_since_campaign_start: 0 # Dream mission, not canonical
-pc_current_level: 1 # Level of the PC at the end of this session
+session_date: 2025-05-26
+session_title: The Gilded Heist
+campaign_day: 0
+days_passed_since_campaign_start: 0
+pc_current_level: 1
 xp_gained: 0
-gold_gained_total: 0 # Total gold gained in this session
-magic_items_acquired: [] # List names of magic items acquired this session for quick identification
-level_up_occurred: false # Set to true if a PC leveled up this session
-key_npcs_encountered: ["Lord Varyn"] # [[NPC Name]]
-key_locations_visited: ["Lord Varyn's Manor (High District)"] # [[Location Name]]
-quests_advanced: [] # [[Quest Name]]
-quests_completed: [] # [[Quest Name]]
+gold_gained_total: 0
+magic_items_acquired: 
+level_up_occurred: false
+key_npcs_encountered:
+  - Lord Varyn
+key_locations_visited:
+  - Lord Varyn's Manor (High District)
+quests_advanced: 
+quests_completed:
 ---
 
 # Session Log - The Gilded Heist (2025-05-26)

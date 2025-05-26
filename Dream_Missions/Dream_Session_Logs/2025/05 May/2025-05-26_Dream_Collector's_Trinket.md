@@ -12,7 +12,7 @@ gold_gained_total: 0
 magic_items_acquired: []
 level_up_occurred: false
 key_npcs_encountered: []
-key_locations_visited: ["[[Dream Sewer Network]]", "[[Dream Cavern]]"] # Placeholder for dream locations
+key_locations_visited: ["[[Sewer_Network]]"] # Placeholder for dream locations
 quests_advanced: []
 quests_completed: ["[[The_Collector's_Trinket]]"] # Placeholder for dream quest
 ---
