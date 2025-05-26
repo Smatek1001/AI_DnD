@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 10:50:20"
+last_updated: "2025-05-26 10:53:07"
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -65,13 +65,13 @@ tags:
 * Charisma: +1
 
 ### Skill Proficiencies:
-* Stealth: +7 (Proficient, Expertise, Dex +3, Prof +2, Expertise +2)
-* Sleight of Hand: +5 (Proficient, Dex +3, Prof +2)
 * Acrobatics: +5 (Proficient, Dex +3, Prof +2)
+* Deception: +3 (Proficient, Cha +1, Prof +2)
 * Investigation: +4 (Proficient, Int +2, Prof +2)
 * Perception: +3 (Proficient, Wis +1, Prof +2)
-* Deception: +3 (Proficient, Cha +1, Prof +2)
 * Persuasion: +3 (Proficient, Cha +1, Prof +2)
+* Sleight of Hand: +5 (Proficient, Dex +3, Prof +2)
+* Stealth: +7 (Proficient, Expertise, Dex +3, Prof +2, Expertise +2)
 
 ### Other Key Combat Stats:
 * **Armor Class (AC):** 14 (Leather Armor + Dex Modifier)
