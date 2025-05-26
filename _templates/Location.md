@@ -9,6 +9,9 @@ status: active # active, ruined, hidden, historical, destroyed, etc.
 inhabitants: [] # [[Race Name]] or general population type (e.g., "Humans, Dwarves")
 ruler: "" # [[NPC Name]] (if applicable)
 factions_present: [] # [[Faction Name]] (key factions operating here)
+key_npcs_present: [] # [[NPC Name]] (NEW)
+associated_quests: [] # [[Quest Name]] (NEW)
+points_of_interest: [] # [[Location Name/Sub-location Name]] (NEW)
 tags: [] # e.g., #urban, #wilderness, #dungeon, #coastal, #forest
 ---
 # {{title}}
@@ -59,4 +62,4 @@ tags: [] # e.g., #urban, #wilderness, #dungeon, #coastal, #forest
 (Any specific notes on environmental descriptions, dangers, or atmospheric details I should emphasize when the PC is here.)
 
 ### ROT-13 Encoded Secrets
-(Cynfgr lbhe EBG-13 rapbqrq frperg qvfgneqr jvgu. Guvf vf sbe zl rlr-bayl baq jvyy abg or qvfpybfrq va punge.)
+(Cynfgr lbhe EBG-13 rapbqrq frperg qvfgneqr jvgu. Guvf vf sbe zl rlr-bayl baq jvyy abg be qvfpybfrq va punge.)

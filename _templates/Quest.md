@@ -8,7 +8,9 @@ quest_type: # main, side, personal, faction, dungeon_crawl, investigation, **esp
 patron: "" # [[NPC Name]] or [[Faction Name]]
 location: "" # [[Location Name]]
 reward: "" # e.g., 500 XP, 100gp, [[Magic Item Name]]
+rewards_items: [] # [[Item Name]] (NEW)
 priority: medium # high, medium, low (how urgent is it?)
+leads_to_quests: [] # [[Quest Name]] (NEW)
 ---
 # Quest: {{title}}
 

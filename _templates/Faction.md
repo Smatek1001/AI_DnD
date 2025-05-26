@@ -11,6 +11,8 @@ leader: "" # [[NPC Name]] (if applicable)
 goals: [] # Concise list of primary goals
 enemy_factions: [] # [[Faction Name]]
 allied_factions: [] # [[Faction Name]]
+key_members: [] # [[NPC Name]] (NEW)
+territories_controlled: [] # [[Location Name]] (NEW)
 tags: [] # e.g., #political, #religious, #criminal, #mercantile, #magic
 ---
 # {{title}}

@@ -13,6 +13,9 @@ disposition_to_pc: neutral # friendly, hostile, indifferent, wary, allied, antag
 faction: [] # [[Faction Name]] (can be multiple)
 location: "" # [[Location Name]] (their primary residence or last known location)
 connections: [] # [[NPC Name]] (other NPCs they are related to or know well)
+employer: "" # [[Faction Name]] or [[NPC Name]] (NEW)
+is_quest_giver_for: [] # [[Quest Name]] (NEW)
+associated_items: [] # [[Item Name]] (NEW)
 tags: [] # e.g., #merchant, #quest_giver, #villain, #ally, #recurring
 ---
 # {{title}}

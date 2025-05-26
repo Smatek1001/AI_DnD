@@ -8,6 +8,8 @@ rarity: # Common, Uncommon, Rare, Very Rare, Legendary, Artifact
 attunement: false # true/false
 source: "" # e.g., DMG, Custom, [[NPC Name]]
 current_owner: "" # [[PC Name]] or [[NPC Name]]
+origin_location: "" # [[Location Name]] (NEW)
+quest_item_for: [] # [[Quest Name]] (NEW)
 status: active # active, lost, destroyed, consumed, locked_away
 tags: [] # e.g., #weapon, #armor, #magic, #cursed, #relic
 ---
@@ -41,4 +43,4 @@ tags: [] # e.g., #weapon, #armor, #magic, #cursed, #relic
 (Any specific notes on how the item functions, its true power, potential consequences of use, or clues for its lore.)
 
 ### ROT-13 Encoded Secrets
-(Cynfgr lbhe EBG-13 rapbqrq frperg qvfgneqr jvgu. Guvf vf sbe zl rlr-bayl baq jvyy abg or qvfpybfrq va punge.)
+(Cynfgr lbhe EBG-13 rapbqrq frperg qvfgneqr jvgu. Guvf vf sbe zl rlr-bayl baq jvyy abg be qvfpybfrq va punge.)
