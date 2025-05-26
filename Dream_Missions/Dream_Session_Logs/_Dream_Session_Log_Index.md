@@ -12,7 +12,8 @@ This document serves as an index for all dream session logs. These logs detail e
 
 | Session Date | Session Title | Days Passed | PC Level |
 |---|---|---|---|
-| 2025-05-26 | [[2025-05-26_Dream_Heist_Collector.md]] | 0 | 1 |
+| 2025-05-26 | [[2025-05-26_Dream_Heist_Collector]] | 0 | 1 |
+| 2025-05-26 | [[2025-05-26_Dream_Gilded_Heist]] | 0 | 1 |
 
 ---
 **Note to DM (AI):** Remember that all dream session logs are strictly non-canonical. No character changes or item acquisitions from these sessions should affect the main campaign.

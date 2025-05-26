@@ -13,6 +13,7 @@ This document serves as an index for all dream quests. Events in these quests ar
 | Quest Name | Status | Type | Patron | Primary Location |
 |---|---|---|---|---|
 | [[The_Collector's_Trinket]] | Completed | Dream | Self | Dream Sewer Network |
+| [[The Gilded Heist]] | Completed | Dream | Self | Lord Varyn's Manor (High District) |
 
 ---
 **Note to DM (AI):** Remember that all dream quests are strictly non-canonical. No character changes or item acquisitions from these sessions should affect the main campaign.

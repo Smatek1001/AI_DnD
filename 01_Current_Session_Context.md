@@ -1,9 +1,9 @@
 ---
-last_updated: "2025-05-26 03:05:30"
+last_updated: "2025-05-26 07:11:55"
 campaign_name: "Duskhaven Campaign"
 current_in_game_date: "" # To be filled in at the start of a canonical session
 days_passed_since_campaign_start: 0
-last_session_summary: "Vaelin completed a dream mission, retrieving a mysterious jade idol from a distorted Sewer Network and evading an unseen creature."
+last_session_summary: "Vaelin successfully completed a non-canonical dream heist, infiltrating Lord Varyn's manor, overcoming an Arcane Lock, and acquiring a gilded music box without detection."
 current_pc_status: "Healthy, awake in his hideout in the Shadow Quarter."
 current_party_location: "[[Abandoned Bakery Attic]]"
 active_quests: []
@@ -22,7 +22,7 @@ key_plot_points_pending: ["Uncovering the true nature of The Society's agenda", 
 
 ## II. Last Session Recap
 
-* **Last Session Summary:** Vaelin completed a dream mission, navigating a grotesque, dream-like Sewer Network to retrieve a "trinket of the forgotten"—a bizarre jade idol. He encountered and evaded an unseen slithering creature before successfully acquiring the idol, which caused him to automatically awaken back in his hideout.
+* **Last Session Summary:** Vaelin successfully completed a non-canonical dream heist, infiltrating Lord Varyn's manor, overcoming an Arcane Lock, and acquiring a gilded music box without detection.
 * **PC Status at Last Session End:** Vaelin is healthy, with 8/8 HP, all spell slots (Minor Illusion cantrip only) and resources available. No lingering conditions.
 
 ## III. Active Quests & Plot Threads
