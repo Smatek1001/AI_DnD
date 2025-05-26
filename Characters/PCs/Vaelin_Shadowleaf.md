@@ -153,6 +153,8 @@ Vaelin Shadowleaf operates within [[The Society]], a secretive organization cloa
 
 ### Desired Mechanical Progression:
 * Level Progression / Multi-classing
+	* My first level up will be to multi-class into Warlock
+	* My next level up will be to take another level in Warlock
 	* Rogue (Assassin): Assassinate
 	    * story: trained in spy-craft for espionage and assassination
 	* Warlock (Archfey Patron): Pact of the Chain, Pact of the Tome
