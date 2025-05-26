@@ -1,7 +1,10 @@
 ---
-last_updated: "2025-05-24 06:00:45"
+last_updated: "2025-05-26 00:39:16"
 rule_type: "Official 2024 Rule Reference"
 campaign_name: "{{campaign_name}}"
+rules_edition: "Dungeons & Dragons 5th Edition 2024" # (NEW)
+source_book: "PHB 2024" # (NEW)
+tags: ["#rules_reference", "#official_rules", "#5e_rules", "#campaign_data", "#rulebook", "#character_creation", "#races", "#classes", "#spells"] # (NEW/ENHANCED)
 ---
 # {{campaign_name}} - 2024 Official Rules Reference
 
@@ -21,7 +24,7 @@ This document serves as a specific reference for rules from the Dungeons & Drago
         * **Keen Senses:** Proficiency in Insight, Perception, or Survival skill (choose one).
         * **Trance:** Don't need to sleep; magic can't put you to sleep. Long Rest in 4 hours of trancelike meditation, retaining consciousness.
     * **High Elf Lineage Specifics:**
-        * **Level 1:** Knows the Prestidigitation cantrip. Can replace it with a different Wizard cantrip after a Long Rest.
+        * **Level 1:** Knows the Prestidigitation cantrip. Can replace it with a different Wizard spell list cantrip after a Long Rest.
         * **Level 3:** Learns the Detect Magic spell.
         * **Level 5:** Learns the Misty Step spell.
 

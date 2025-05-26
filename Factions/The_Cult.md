@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 20:14:15"
+last_updated: "2025-05-26 00:16:05"
 type: "Faction"
 name: "The Cult"
 aliases: []
@@ -11,7 +11,9 @@ leader: "Unknown Leaders"
 goals: ["Seek forbidden thrills", "Chase enlightenment (dark)", "Find belonging", "Perform rituals", "Grow influence"]
 enemy_factions: []
 allied_factions: ["[[Ebon Web Syndicate]]"]
-tags: ["#cult", "#cosmic_horror", "#secretive", "#chaotic"]
+key_members: [] # (NEW) No named members currently, led by "Unknown Leaders"
+territories_controlled: [] # (NEW) No fixed territories, uses hidden lairs.
+tags: ["#cult", "#cosmic_horror", "#secretive", "#chaotic", "#evil_faction", "#void_worshippers", "#hidden_lairs", "#dangerous", "#grimdark"] # (NEW/ENHANCED)
 ---
 # The Cult
 
@@ -26,7 +28,7 @@ tags: ["#cult", "#cosmic_horror", "#secretive", "#chaotic"]
 * **Secret Agenda (if any):** Their activities remain mysterious for now, but their influence will grow. Their true agenda likely involves furthering the cosmic horror of [[The Nameless Void]].
 
 ## II. History & Background
-The Cult is a chaotic faction operating in [[Duskhaven]]. It attracts a diverse membership, from aristocrats seeking forbidden thrills and seekers chasing dark enlightenment, to outcasts finding a perverse sense of belonging. Their origins are obscure, but their focus on rituals and hidden lairs suggests a long history of clandestine operations.
+The [[Cult]] is a chaotic faction operating in [[Duskhaven]]. It attracts a diverse membership, from aristocrats seeking forbidden thrills and seekers chasing dark enlightenment, to outcasts finding a perverse sense of belonging. Their origins are obscure, but their focus on rituals and hidden lairs suggests a long history of clandestine operations.
 
 ## III. Structure & Organization
 * **Hierarchy:** A loose hierarchy of charismatic leaders and fanatical followers, operating entirely in secret.
@@ -41,13 +43,13 @@ The Cult is a chaotic faction operating in [[Duskhaven]]. It attracts a diverse 
 ## V. Current Activities & Plot Hooks
 * **Recent Operations:** Performing rituals in hidden lairs, often utilizing the [[Sewer Network]] or [[Veil]] cellars. Their activities remain mysterious for now.
 * **Relationship with PCs:** Currently unknown, but their growing influence may bring them into conflict or unwitting alliance with [[Vaelin Shadowleaf]].
-* **Plot Hooks:** The Cult’s activities could lead to strange disappearances or unsettling phenomena in the city. Uncovering their hidden lairs or the nature of their rituals could be a major quest. They might attempt to recruit [[Vaelin Shadowleaf]] if they sense his connection to the arcane or the Void.
+* **Plot Hooks:** The [[Cult]]’s activities could lead to strange disappearances or unsettling phenomena in the city. Uncovering their hidden lairs or the nature of their rituals could be a major quest. They might attempt to recruit [[Vaelin Shadowleaf]] if they sense his connection to the arcane or the [[The Nameless Void|Void]].
 
 ## VI. Key Members
 * None yet identified by name, led by "Unknown Leaders".
 
 ## VII. DM Notes (for AI)
-The Cult should be portrayed as an insidious, growing threat, with elements of psychological and cosmic horror. Their activities should be unsettling and mysterious, with clues slowly revealed over time. Their motivations should be alien or deeply disturbing. The idea of "forbidden thrills" should be a core driver for some members.
+The [[Cult]] should be portrayed as an insidious, growing threat, with elements of psychological and cosmic horror. Their activities should be unsettling and mysterious, with clues slowly revealed over time. Their motivations should be alien or deeply disturbing. The idea of "forbidden thrills" should be a core driver for some members.
 
 ### ROT-13 Encoded Secrets
 Gur Phyg'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

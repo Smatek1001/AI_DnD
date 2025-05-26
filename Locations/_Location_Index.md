@@ -1,6 +1,12 @@
+---
+last_updated: "2025-05-26 00:29:15"
+index_type: "Location Overview"
+campaign_name: "{{campaign_name}}"
+tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaign_data", "#duskhaven_districts"] # (NEW/ENHANCED)
+---
 # Locations in Duskhaven Campaign
 
-**Last Updated**: 2025-05-25 19:50:30
+**Last Updated**: 2025-05-26 00:29:15
 
 ## Location Index
 
@@ -20,5 +26,8 @@
 | [[Old Ruins]] | Ruined District | [[Old Ruins]] | None (various creatures/scavengers) |
 | [[Therandril]] | Lost City | Unknown | None (echoes of past) |
 | [[Beyond Duskhaven]] | Outside City | N/A | [[Farmer Gildas]] (Dream-Only) |
-| [[Market Square]] | District | [[Duskhaven]] | [[Mira "Quickfingers"]], [[Garrick Stonehand]] |
-| [[Noble District]] | District | [[Duskhaven]] | [[Lord Varyn]], [[Silas "Inkfinger"]] |
+| [[Market Square]] | District | [[Duskhaven]] | [[Mira \"Quickfingers\"]], [[Garrick Stonehand]] |
+| [[Noble District]] | District | [[Duskhaven]] | [[Lord Varyn]], [[Silas \"Inkfinger\"]] |
+
+---
+**Note to DM (AI):** This index will help track the various peoples and their customs. Remember to create individual files for specific cultures or unique racial groups as they become relevant.

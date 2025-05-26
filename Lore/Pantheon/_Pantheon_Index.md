@@ -1,7 +1,8 @@
 ---
-last_updated: "2025-05-25 20:36:10"
+last_updated: "2025-05-26 00:35:09"
 index_type: "Pantheon Overview"
 campaign_name: "{{campaign_name}}"
+tags: ["#pantheon_index", "#religion_overview", "#index_file", "#campaign_lore", "#deities", "#cults", "#spiritual_beliefs"] # (NEW/ENHANCED)
 ---
 # Pantheon & Religions - Index
 

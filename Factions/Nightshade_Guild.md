@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 20:12:35"
+last_updated: "2025-05-26 00:13:58"
 type: "Faction"
 name: "Nightshade Guild"
 aliases: []
@@ -11,7 +11,9 @@ leader: "[[The Wraith]]"
 goals: ["Control Duskhaven's shadows", "Thrive on guile and betrayal", "Deal in stolen goods and secrets"]
 enemy_factions: ["[[Harbor Syndicate]]"]
 allied_factions: ["[[Ebon Web Syndicate]]"]
-tags: ["#criminal_guild", "#thieves", "#spies", "#underworld"]
+key_members: ["[[The Wraith]]", "[[Thorne]]", "[[Mara]]", "[[Vrenna]]", "[[Rynna]]", "[[Kyssra]]", "[[Jib]]", "[[Mira \"Quickfingers\"]]"] # (NEW)
+territories_controlled: ["[[Veil]]", "[[Whispering Door]]"] # (NEW)
+tags: ["#criminal_guild", "#thieves", "#spies", "#underworld", "#organized_crime", "#neutral_evil", "#covert_operations", "#heists", "#espionage", "#veil", "#shadow_operations"] # (NEW/ENHANCED)
 ---
 # Nightshade Guild
 
@@ -21,12 +23,12 @@ tags: ["#criminal_guild", "#thieves", "#spies", "#underworld"]
 * **Size:** Large (extensive network of thieves and spies)
 * **Headquarters:** [[Whispering Door]]
 * **Leader(s):** [[The Wraith]]
-* **Primary Goals:** To rule Duskhaven’s shadows, thriving on guile and betrayal, and dealing in stolen goods and secrets.
+* **Primary Goals:** To rule [[Duskhaven]]’s shadows, thriving on guile and betrayal, and dealing in stolen goods and secrets.
 * **Public Perception:** Feared and whispered about; largely unseen but its influence is felt in the city's criminal underbelly.
 * **Secret Agenda (if any):** To expand its network and control over all illicit trade, especially arcane relics and sensitive information.
 
 ## II. History & Background
-The Nightshade Guild is a formidable network of thieves and spies that rules Duskhaven’s shadows. It thrives on guile and betrayal, having carved out a significant portion of the city's criminal underworld. Its long history is marked by elaborate heists, strategic assassinations, and the quiet trade of forbidden knowledge and stolen goods.
+The [[Nightshade Guild]] is a formidable network of thieves and spies that rules [[Duskhaven]]’s shadows. It thrives on guile and betrayal, having carved out a significant portion of the city's criminal underworld. Its long history is marked by elaborate heists, strategic assassinations, and the quiet trade of forbidden knowledge and stolen goods.
 
 ## III. Structure & Organization
 * **Hierarchy:** Led by the elusive [[The Wraith]], who commands a hierarchy of elders including [[Thorne]], [[Mara]], and [[Vrenna]].
@@ -41,7 +43,7 @@ The Nightshade Guild is a formidable network of thieves and spies that rules Dus
 ## V. Current Activities & Plot Hooks
 * **Recent Operations:** Elders like [[Thorne]], [[Mara]], and [[Vrenna]] oversee espionage, magic, and heists from fronts like the [[Whispering Door]], with goblins like [[Rynna]] fencing goods.
 * **Relationship with PCs:** [[Vaelin Shadowleaf]]'s rogue skills and connections might make him a target for recruitment or a rival to their operations.
-* **Plot Hooks:** The Guild’s clashes with the [[Harbor Syndicate]] can lead to direct missions or opportunities for [[Vaelin Shadowleaf]] to gain leverage. Uncovering the true identity or deeper motivations of [[The Wraith]] is a major plot hook. The Guild's negotiation with the [[Ebon Web Syndicate]] for sewer access could involve Vaelin.
+* **Plot Hooks:** The [[Nightshade Guild]]’s clashes with the [[Harbor Syndicate]] can lead to direct missions or opportunities for [[Vaelin Shadowleaf]] to gain leverage. Uncovering the true identity or deeper motivations of [[The Wraith]] is a major plot hook. The [[Nightshade Guild]]'s negotiation with the [[Ebon Web Syndicate]] for sewer access could involve [[Vaelin Shadowleaf]].
 
 ## VI. Key Members
 * [[The Wraith]] (Guildmaster)
@@ -54,7 +56,7 @@ The Nightshade Guild is a formidable network of thieves and spies that rules Dus
 * [[Mira "Quickfingers"]] (Fence, with ties to Guild)
 
 ## VII. DM Notes (for AI)
-Emphasize the Guild's cunning and reliance on deception, stealth, and arcane power. Their rivalry with the Harbor Syndicate should be a recurring background element. Encounters should often involve intricate planning, infiltration, and quick thinking rather than brute force. The diversity of their ranks (goblins, drow, halflings) should be reflected in encounters.
+Emphasize the [[Nightshade Guild]]'s cunning and reliance on deception, stealth, and arcane power. Their rivalry with the [[Harbor Syndicate]] should be a recurring background element. Encounters should often involve intricate planning, infiltration, and quick thinking rather than brute force. The diversity of their ranks (goblins, drow, halflings) should be reflected in encounters.
 
 ### ROT-13 Encoded Secrets
 Gur Avtugfunqr Thvyq vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

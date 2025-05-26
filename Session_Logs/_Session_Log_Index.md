@@ -1,7 +1,8 @@
 ---
-last_updated: "2025-05-25 20:38:00"
+last_updated: "2025-05-26 00:33:00"
 index_type: "Session Log Overview"
 campaign_name: "{{campaign_name}}"
+tags: ["#session_log_index", "#session_tracking", "#index_file", "#campaign_data", "#chronology", "#game_progress"] # (NEW/ENHANCED)
 ---
 # Session Logs - Index
 

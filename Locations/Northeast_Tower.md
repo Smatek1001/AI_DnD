@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 18:37:48"
+last_updated: "2025-05-25 23:56:45"
 type: "Location"
 name: "Northeast Tower"
 aliases: []
@@ -9,7 +9,10 @@ status: active
 inhabitants: []
 ruler: ""
 factions_present: []
-tags: ["#ruined", "#ancient_site", "#lore", "#mystery"]
+key_npcs_present: [] # (NEW)
+associated_quests: [] # (NEW)
+points_of_interest: [] # (NEW)
+tags: ["#ruined", "#ancient_site", "#lore", "#mystery", "#cosmic_horror_connection", "#exploration", "#old_ruins", "#forgotten_history"] # (NEW/ENHANCED)
 ---
 # Northeast Tower
 
@@ -41,12 +44,12 @@ The Northeast Tower is a crumbling stone tower rising from the misty landscape o
 * N/A (A ruined site, not a place of commerce or comfort)
 
 ## VI. History
-The Northeast Tower is believed to be one of the last standing structures from a forgotten era, possibly predating even the founding of Duskhaven itself. Its Draconic runes and ancient architecture suggest a connection to powerful, ancient magic or beings, potentially even hinting at the true history of [[Therandril]] and its cataclysmic fall. It has stood abandoned for centuries, its purpose lost to time.
+The Northeast Tower is believed to be one of the last standing structures from a forgotten era, possibly predating even the founding of [[Duskhaven]] itself. Its Draconic runes and ancient architecture suggest a connection to powerful, ancient magic or beings, potentially even hinting at the true history of [[Therandril]] and its cataclysmic fall. It has stood abandoned for centuries, its purpose lost to time.
 
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Wildlife or minor monstrous creatures might have made the tower their lair. Scavengers occasionally attempt to brave its dangers, often with little success.
-* **Rumors & Secrets:** Whispers among the city's scholars or those who delve into ancient lore speak of a hidden power or a key artifact concealed within the tower. Its connection to [[Therandril]] and the Void is a deep secret waiting to be uncovered.
-* **Potential Plot Hooks:** Vaelin might be sent to investigate unusual energy readings or strange disappearances near the tower; he could discover an ancient text that speaks of the tower's true purpose; a powerful magic item might be hidden within, protected by ancient wards.
+* **Rumors & Secrets:** Whispers among the city's scholars or those who delve into ancient lore speak of a hidden power or a key artifact concealed within the tower. Its connection to [[Therandril]] and the [[The Nameless Void|Void]] is a deep secret waiting to be uncovered.
+* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might be sent to investigate unusual energy readings or strange disappearances near the tower; he could discover an ancient text that speaks of the tower's true purpose; a powerful magic item might be hidden within, protected by ancient wards.
 
 ## VIII. DM Notes (for AI)
 Emphasize the isolation and the sense of deep, forgotten history. The tower should feel unstable and potentially dangerous to explore. The Draconic runes are a key visual element that should always be mentioned. This location is designed for mystery and exploration.

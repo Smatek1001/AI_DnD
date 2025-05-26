@@ -1,7 +1,8 @@
 ---
-last_updated: "2025-05-25 20:37:15"
+last_updated: "2025-05-26 00:30:00"
 index_type: "Cultures & Races Overview"
 campaign_name: "{{campaign_name}}"
+tags: ["#culture_index", "#races_overview", "#index_file", "#campaign_lore", "#demographics", "#world_details"] # (NEW/ENHANCED)
 ---
 # Cultures & Races - Index
 

@@ -1,30 +1,34 @@
 ---
-last_updated: "2025-05-25 20:00:00"
+last_updated: "2025-05-26 00:21:00"
 type: "Creature"
 species: "Flickerling"
-name: "" # This entry is for the generic species, not a specific individual
+name: "" # If this entry is for a specific named creature, otherwise omit
 category: "Fey"
 status: "active"
-familiar: true # Flickerlings can serve as familiars
-owner: "" # This entry is for the generic species, not a specific individual's owner
+familiar: true # true/false - set to true if this creature is a familiar for a PC/NPC
+owner: "" # [[PC Name]] or [[NPC Name]] - if it's a familiar or owned creature
 alignment: "Unaligned" # Or Chaotic Neutral, if their mischievous nature is considered inherent to the species
 habitat: ["Feywild", "Planar Crossroads", "Hidden Groves"]
-tags: ["#fey", "#familiar_species", "#scouting", "#espionage"]
+associated_quests: [] # [[Quest Name]] (NEW)
+associated_npcs: ["[[Lirael]]"] # [[NPC Name]] (NEW) Links to specific named Flickerlings
+tags: ["#fey", "#familiar_species", "#scouting", "#espionage", "#tiny_creature", "#magic_resistance", "#shapeshifter", "#arcane_affinity", "#mischievous"] # (NEW/ENHANCED)
 ---
 # Creature: Flickerling
 
 ## I. Overview
 * **Species:** Flickerling
+* **Name:** (If applicable, specify individual name here)
 * **Category:** Fey
 * **Role/Purpose:** Tiny, mischievous fey creatures known for their ability to shapeshift into various animal forms, making them excellent scouts, spies, and stealthy companions. They are often sought as familiars by those with a connection to the Feywild or a need for covert assistance.
 * **Status:** active
+* **Owner:** [[Lirael]] (This is the specific named Flickerling in campaign)
 
 ## II. Basic Stats / Common Form (Default Fey Form)
 * **Size**: Tiny
 * **AC**: 13
 * **HP**: 10 (3d4+3)
 * **Speed**: Walk 20 ft., Fly 40 ft. (hover)
-* **Ability Scores:**
+* **Abilities Scores:** (STR, DEX, CON, INT, WIS, CHA with modifiers)
     * **STR:** 1 (-5)
     * **DEX:** 16 (+3)
     * **CON:** 12 (+1)
@@ -36,9 +40,9 @@ tags: ["#fey", "#familiar_species", "#scouting", "#espionage"]
 * **Challenge Rating (CR)**: 1/4 (estimated)
 
 ### Physical Description
-In their default form, Flickerlings are delicate, winged creatures resembling miniature young women with shimmering dragonfly wings and luminous skin. Their voice sounds like a chorus of faint tinkling bells. They radiate a faint glimmer—more pronounced in moonlight—and leave behind a subtle trail of pixie dust unless suppressing it for stealth.
+In their default form, Flickerlings are delicate, winged creatures resembling a miniature young woman with shimmering dragonfly wings and luminous skin. Their voice sounds like a chorus of faint tinkling bells. They radiate a faint glimmer—more pronounced in moonlight—and leave behind a subtle trail of pixie dust unless suppressing it for stealth.
 
-## III. Variations / Other Forms
+## III. Variations / Other Forms (If Applicable)
 Flickerings are known for their ability to shift between specialized animal forms:
 
 ### Moonfeather Owl Form
@@ -89,7 +93,7 @@ Flickerlings are native to the **Feywild**, a magical realm characterized by unt
 * **Weaknesses/Vulnerabilities:** While magically resistant, strong iron or cold iron weapons might bypass some of their defenses (DM discretion). Their mischievous nature can sometimes be exploited.
 
 ## VII. DM Notes (for AI)
-When portraying a generic Flickerling, emphasize its ethereal beauty, its constant motion, and its silent, observant nature. Their presence should feel magical and slightly alien, contrasting with the grimdark setting of Duskhaven. Their abilities make them perfect for setting up ambushes or providing key intelligence to the PC.
+When portraying a generic Flickerling, emphasize its ethereal beauty, its constant motion, and its silent, observant nature. Their presence should feel magical and slightly alien, contrasting with the grimdark setting of [[Duskhaven]]. Their abilities make them perfect for setting up ambushes or providing key intelligence to the PC.
 
 ### ROT-13 Encoded Secrets
 Sybpxreyvatf ner frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

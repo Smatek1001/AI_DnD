@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 18:47:00"
+last_updated: "2025-05-26 00:19:34"
 type: "Item"
 name: "Shadowpiercer"
 aliases: []
@@ -9,7 +9,9 @@ attunement: true
 source: "Custom"
 current_owner: ""
 status: active
-tags: ["#wondrous_item", "#hand_crossbow", "#shadow", "#assassin", "#attunement"]
+origin_location: "" # [[Location Name]] (NEW)
+quest_item_for: [] # [[Quest Name]] (NEW)
+tags: ["#wondrous_item", "#hand_crossbow", "#shadow", "#assassin", "#attunement", "#rare", "#custom", "#stealth_focused", "#teleportation", "#ranged_weapon", "#gloom_stalker_synergy"] # (NEW/ENHANCED)
 ---
 # Item: Shadowpiercer
 
@@ -86,7 +88,7 @@ In **direct sunlight**, Shadowpiercer:
 * **Potential Plot Hooks:** A former owner might seek to reclaim it; its unique magic might draw unwanted attention from arcane scholars or shadowy organizations.
 
 ## VI. DM Notes (for AI)
-This item is specifically tailored for Vaelin's desired mechanical progression and his rogue/spy/assassin theme. Its limitations in sunlight create interesting tactical challenges. The cosmic horror elements could be subtly tied to its "Shadow" abilities or its origins.
+This item is specifically tailored for [[Vaelin Shadowleaf]]'s desired mechanical progression and his rogue/spy/assassin theme. Its limitations in sunlight create interesting tactical challenges. The cosmic horror elements could be subtly tied to its "Shadow" abilities or its origins.
 
 ### ROT-13 Encoded Secrets
 Gur Vgrz vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

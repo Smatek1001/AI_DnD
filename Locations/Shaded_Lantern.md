@@ -1,15 +1,18 @@
 ---
-last_updated: "2025-05-25 18:35:56"
+last_updated: "2025-05-26 00:04:47"
 type: "Location"
 name: "Shaded Lantern"
 aliases: []
 category: "Arcane Shop"
 parent_location: "[[Veil]]"
 status: active
-inhabitants: ["Elaris", "Lyra"]
+inhabitants: ["[[Elaris]]", "[[Lyra]]"]
 ruler: ""
 factions_present: []
-tags: ["#shop", "#arcane", "#veil", "#magic_items"]
+key_npcs_present: ["[[Elaris]]", "[[Lyra]]"] # (NEW)
+associated_quests: [] # (NEW)
+points_of_interest: [] # (NEW)
+tags: ["#shop", "#arcane", "#veil", "#magic_items", "#knowledge_source", "#discreet", "#mysterious"] # (NEW/ENHANCED)
 ---
 # Shaded Lantern
 
@@ -32,7 +35,7 @@ The Shaded Lantern is a cluttered arcane shop nestled in a quiet, less-trafficke
 ### Key Areas/Districts
 * **Main Shop Floor:** The central area filled with shelves, display cases, and workbenches.
 * **Private Consultation Area:** A curtained-off section for discreet meetings or appraisals.
-* **Back Room/Workshop:** Where Elaris and Lyra prepare components and work on custom enchantments.
+* **Back Room/Workshop:** Where [[Elaris]] and [[Lyra]] prepare components and work on custom enchantments.
 
 ## IV. Notable NPCs
 * [[Elaris]] (shop proprietor)
@@ -44,15 +47,15 @@ The Shaded Lantern is a cluttered arcane shop nestled in a quiet, less-trafficke
 * **Other Services:** Identification of magical items, minor enchanting services, and a source for esoteric information for the right price.
 
 ## VI. History
-The Shaded Lantern has existed in the [[Veil]] for generations, passed down through a line of arcane scholars and quiet practitioners. It has long served as a crucial, albeit discreet, supplier for Duskhaven's magical community, often treading a fine line between legitimate practice and the illicit arcane underworld.
+The [[Shaded Lantern]] has existed in the [[Veil]] for generations, passed down through a line of arcane scholars and quiet practitioners. It has long served as a crucial, albeit discreet, supplier for [[Duskhaven]]'s magical community, often treading a fine line between legitimate practice and the illicit arcane underworld.
 
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Avoids direct conflict, but is aware of the tensions between the [[Nightshade Guild]] and [[Harbor Syndicate]], often having to adjust its operations to bypass their disputes.
-* **Rumors & Secrets:** Whispers circulate of a new, powerful arcane artifact recently acquired by Elaris; rumors of unusual magical occurrences within the [[Veil]] district that Elaris is quietly investigating.
-* **Potential Plot Hooks:** Vaelin might seek a rare magical component for a ritual; Elaris might offer a quest to retrieve a lost arcane text; a powerful individual might be targeting the Shaded Lantern for its wares, requiring Vaelin's intervention.
+* **Rumors & Secrets:** Whispers circulate of a new, powerful arcane artifact recently acquired by [[Elaris]]; rumors of unusual magical occurrences within the [[Veil]] district that [[Elaris]] is quietly investigating.
+* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might seek a rare magical component for a ritual; [[Elaris]] might offer a quest to retrieve a lost arcane text; a powerful individual might be targeting the [[Shaded Lantern]] for its wares, requiring [[Vaelin Shadowleaf]]'s intervention.
 
 ## VIII. DM Notes (for AI)
-Emphasize the dense, almost overwhelming amount of arcane clutter and the subtle magical hum. Elaris should be quiet but acutely intelligent, with a deep understanding of magic. Lyra should be observant and quick.
+Emphasize the dense, almost overwhelming amount of arcane clutter and the subtle magical hum. [[Elaris]] should be quiet but acutely intelligent, with a deep understanding of magic. [[Lyra]] should be observant and quick.
 
 ### ROT-13 Encoded Secrets
 Gur "funqrq ynaare" vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

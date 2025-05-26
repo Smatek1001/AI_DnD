@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 20:11:30"
+last_updated: "2025-05-26 00:16:34"
 type: "Faction"
 name: "The Society"
 aliases: []
@@ -11,7 +11,9 @@ leader: "Shadowy Council"
 goals: ["Manipulate Duskhaven's elite", "Pursue a deeper, obscured agenda", "Influence events from the shadows"]
 enemy_factions: []
 allied_factions: []
-tags: ["#secret_society", "#covert", "#manipulation", "#political"]
+key_members: ["Shadowy Council (Leaders)", "[[Elyndra]]", "[[Talia \"Whisper\"]]", "[[Vaelin Shadowleaf]]", "[[Lord Varyn]]"] # (NEW)
+territories_controlled: [] # (NEW) Operates through influence, not direct territorial control.
+tags: ["#secret_society", "#covert", "#manipulation", "#political", "#lawful_neutral", "#influential_faction", "#shadow_operations", "#therandril_connection", "#void_lore", "#intrigue"] # (NEW/ENHANCED)
 ---
 # The Society
 
@@ -21,12 +23,12 @@ tags: ["#secret_society", "#covert", "#manipulation", "#political"]
 * **Size:** Large (hundreds to thousands of members/influence)
 * **Headquarters:** [[Starfall Manor]]
 * **Leader(s):** A shadowy council
-* **Primary Goals:** To manipulate Duskhaven’s elite and influence events from the shadows, pursuing a deeper, obscured agenda.
+* **Primary Goals:** To manipulate [[Duskhaven]]’s elite and influence events from the shadows, pursuing a deeper, obscured agenda.
 * **Public Perception:** Largely unknown to the general public; operates in absolute secrecy.
 * **Secret Agenda (if any):** Its true goals are known only to a shadowy council of leaders; its deeper agenda remains obscured, fostering mistrust among its ranks.
 
 ## II. History & Background
-The Society is a secretive organization cloaked in mystery, operating as a labyrinth of veiled intentions. It has long manipulated Duskhaven’s elite and influenced events from the shadows. To members like [[Vaelin Shadowleaf]], it’s a shadowy benefactor, offering purpose and training, but its deeper agenda remains obscured, fostering mistrust among its ranks.
+[[The Society]] is a secretive organization cloaked in mystery, operating as a labyrinth of veiled intentions. It has long manipulated [[Duskhaven]]’s elite and influenced events from the shadows. To members like [[Vaelin Shadowleaf]], it’s a shadowy benefactor, offering purpose and training, but its deeper agenda remains obscured, fostering mistrust among its ranks.
 
 ## III. Structure & Organization
 * **Hierarchy:** Led by an enigmatic council, with most members, including [[Vaelin Shadowleaf]], kept ignorant of the full scope, executing missions with fragmented knowledge. Elders like [[Elyndra]] mentor operatives like [[Talia "Whisper"]].
@@ -34,14 +36,14 @@ The Society is a secretive organization cloaked in mystery, operating as a labyr
 * **Resources:** Possesses significant resources in terms of information networks, trained operatives, and influence over powerful individuals and institutions.
 
 ## IV. Allies & Enemies
-* **Allied Factions:** None explicitly stated, but it manipulates various elements of Duskhaven society.
+* **Allied Factions:** None explicitly stated, but it manipulates various elements of [[Duskhaven]] society.
 * **Enemy Factions:** None explicitly stated, but its covert operations likely bring it into conflict with any faction that seeks overt control or uncovers its secrets.
 * **Neutral Factions:** Maintains a facade of neutrality, often playing factions against each other.
 
 ## V. Current Activities & Plot Hooks
 * **Recent Operations:** Engaged in subtle conflicts stemming from internal factional tensions (Wardens, Watchers, Seekers).
 * **Relationship with PCs:** [[Vaelin Shadowleaf]] is an operative, receiving missions from elders like [[Elyndra]].
-* **Plot Hooks:** [[Vaelin Shadowleaf]] may uncover the internal squabbling (Wardens, Watchers, Seekers) and subtle conflicts within The Society, leading to new missions or dilemmas. Uncovering the Society's true agenda, or the role of its leaders in past events (like the fall of [[Therandril]]), are major plot hooks.
+* **Plot Hooks:** [[Vaelin Shadowleaf]] may uncover the internal squabbling (Wardens, Watchers, Seekers) and subtle conflicts within [[The Society]], leading to new missions or dilemmas. Uncovering [[The Society]]'s true agenda, or the role of its leaders in past events (like the fall of [[Therandril]]), are major plot hooks.
 
 ## VI. Key Members
 * [[Elyndra]] (Elder)
@@ -55,7 +57,7 @@ The Society is a secretive organization cloaked in mystery, operating as a labyr
 * **Seekers:** Arrogant manipulators pursuing their own schemes, underestimating faction dangers.
 
 ## VIII. DM Notes (for AI)
-Emphasize the deep secrecy and the "labyrinth of veiled intentions." Interactions with The Society should always feel like Vaelin is only getting a piece of the puzzle. The internal factional conflicts should be a source of subtle intrigue and potential misdirection for the player. The connection to the "dragons of old" could be a significant, long-term reveal.
+Emphasize the deep secrecy and the "labyrinth of veiled intentions." Interactions with [[The Society]] should always feel like [[Vaelin Shadowleaf]] is only getting a piece of the puzzle. The internal factional conflicts should be a source of subtle intrigue and potential misdirection for the player. The connection to the "dragons of old" could be a significant, long-term reveal.
 
 ### ROT-13 Encoded Secrets
 Gur Fbpvrgl vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

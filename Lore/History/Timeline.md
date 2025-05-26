@@ -1,8 +1,12 @@
 ---
-last_updated: "2025-05-25 20:35:10"
+last_updated: "2025-05-26 00:24:49"
 type: "History"
 name: "Timeline"
 campaign_name: "{{campaign_name}}"
+key_eras: [] # (NEW) e.g., "Age of Creation", "Age of Arcane Splendor", "The Cataclysm"
+major_conflicts: [] # (NEW) e.g., "Dragon-Void War", "Guild Wars"
+key_figures: [] # (NEW) e.g., "Ancient Elven Mages", "The Founders"
+tags: ["#timeline", "#history", "#lore", "#campaign_history", "#major_events", "#cosmic_horror_influence", "#therandril_fall"] # (NEW/ENHANCED)
 ---
 # Campaign Timeline
 
@@ -16,7 +20,7 @@ This document serves as a chronological record of major events, discoveries, and
 
 ### Month [Month Name]
 
-* **[Date (e.g., Day 1 of Month)]:** [Brief description of event, e.g., "PC arrived in Duskhaven."]
+* **[Date (e.g., Day 1 of Month)]:** [Brief description of event, e.g., "[[Vaelin Shadowleaf|PC]] arrived in [[Duskhaven]]."]
 * **[Date (e.g., Day 5 of Month)]:** [Brief description of event, e.g., "First encounter with [[The Cult]]."]
 
 ---

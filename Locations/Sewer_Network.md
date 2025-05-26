@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 18:22:17"
+last_updated: "2025-05-26 00:04:15"
 type: "Location"
 name: "Sewer Network"
 aliases: []
@@ -8,8 +8,11 @@ parent_location: "[[Duskhaven]]"
 status: active
 inhabitants: ["Ratlings", "Criminals", "Monstrous Creatures"]
 ruler: ""
-factions_present: ["Ebon Web Syndicate"]
-tags: ["#underground", "#criminal_routes", "#dungeon_crawl"]
+factions_present: ["[[Ebon Web Syndicate]]"]
+key_npcs_present: [] # (NEW)
+associated_quests: [] # (NEW)
+points_of_interest: [] # (NEW)
+tags: ["#underground", "#criminal_routes", "#dungeon_crawl", "#ebon_web_syndicate_territory", "#dangerous", "#illicit_dealings", "#claustrophobic"] # (NEW/ENHANCED)
 ---
 # Sewer Network
 
@@ -30,7 +33,7 @@ tags: ["#underground", "#criminal_routes", "#dungeon_crawl"]
 
 ## III. Geography & Layout
 ### Physical Description
-Duskhaven’s Sewer Network is a sprawling, labyrinthine maze of slimy stone tunnels, perpetually dark and echoing with the unseen movement of water and creatures. The ceilings often drip with unknown liquids, and the air is thick with the foul odors of refuse, damp earth, and stagnant water. Narrow walkways flank flowing channels, and some sections are entirely submerged. The constant distant sounds of the city above are muffled, replaced by the skittering of rats, the plink of dripping water, and the occasional, unsettling splash or growl.
+[[Duskhaven]]’s Sewer Network is a sprawling, labyrinthine maze of slimy stone tunnels, perpetually dark and echoing with the unseen movement of water and creatures. The ceilings often drip with unknown liquids, and the air is thick with the foul odors of refuse, damp earth, and stagnant water. Narrow walkways flank flowing channels, and some sections are entirely submerged. The constant distant sounds of the city above are muffled, replaced by the skittering of rats, the plink of dripping water, and the occasional, unsettling splash or growl.
 ### Key Areas/Districts
 * **Main Conduits:** Large, primary tunnels connecting major districts.
 * **Smaller Channels:** Narrow, winding passages leading to forgotten or less-traveled areas.
@@ -46,12 +49,12 @@ Duskhaven’s Sewer Network is a sprawling, labyrinthine maze of slimy stone tun
 * **Other Services:** Primarily serves as a clandestine transportation network for criminals and a scavenging ground for the desperate.
 
 ## VI. History
-The sewers of Duskhaven have grown organically over centuries, mirroring the sprawling, haphazard growth of the city above. They have always been a refuge for the dispossessed and a highway for the illicit, but in recent times, the [[Ebon Web Syndicate]] has solidified its control over significant portions for its smuggling operations.
+The sewers of [[Duskhaven]] have grown organically over centuries, mirroring the sprawling, haphazard growth of the city above. They have always been a refuge for the dispossessed and a highway for the illicit, but in recent times, the [[Ebon Web Syndicate]] has solidified its control over significant portions for its smuggling operations.
 
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Skirmishes between rival criminal gangs over control of smuggling routes are common. Large, territorial monstrous creatures also pose a threat.
 * **Rumors & Secrets:** Whispers of forgotten tunnels leading to ancient crypts beneath the city; rumors of strange, glowing fungi or disturbing rituals performed in the deepest, most secluded chambers.
-* **Potential Plot Hooks:** Vaelin might need to use the sewers for a stealthy infiltration; he could be tasked with disrupting an [[Ebon Web Syndicate]] smuggling operation; the presence of a new, dangerous creature might require investigation.
+* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might need to use the sewers for a stealthy infiltration; he could be tasked with disrupting an [[Ebon Web Syndicate]] smuggling operation; the presence of a new, dangerous creature might require investigation.
 
 ## VIII. DM Notes (for AI)
 Emphasize the claustrophobia, darkness, and foul smells. Movement should feel deliberate and often treacherous. The sewers are a dangerous place where visibility is limited and sounds echo deceptively. This is a gritty, often combat-focused environment.

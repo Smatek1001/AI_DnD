@@ -1,7 +1,8 @@
 ---
-last_updated: "2025-05-25 19:51:24"
+last_updated: "2025-05-26 00:30:37"
 index_type: "NPC Overview"
 campaign_name: "{{campaign_name}}"
+tags: ["#npc_index", "#character_overview", "#index_file", "#campaign_data", "#character_list", "#allies", "#enemies", "#contacts"] # (NEW/ENHANCED)
 ---
 # Non-Player Characters (NPCs) - Index
 
@@ -30,7 +31,6 @@ This document serves as an index for all notable Non-Player Characters encounter
 | [[Mira "Quickfingers"]] | Halfling | Fence | [[Nightshade Guild]] / Independent | [[Market Square]] |
 | [[Rorik "Wavebreaker"]] | Human | Smuggler | Independent / [[Harbor Syndicate]] | [[Docks]] |
 | [[Rynna]] | Goblin | Nightshade Guild Fence | [[Nightshade Guild]] | [[Whispering Door]] |
-| [[The Shade]] | Halfling | Syndicate Spy Master | [[Harbor Syndicate]] | [[Docks]] |
 | [[Skarlix]] | Goblin | Harbor Syndicate Loan Shark | [[Harbor Syndicate]] | [[Crow's Nest]] |
 | [[Skrix]] | Goblin | Harbor Syndicate Courier | [[Harbor Syndicate]] | [[Syndicate Warehouse]] |
 | [[Talia "Whisper"]] | Human | Society Operative / Mission Contact | [[The Society]] | [[Drunken Raven]] |

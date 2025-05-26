@@ -1,7 +1,8 @@
 ---
-last_updated: "2025-05-25 20:29:34"
+last_updated: "2025-05-26 00:27:55"
 index_type: "Faction Overview"
 campaign_name: "{{campaign_name}}"
+tags: ["#faction_index", "#organization_overview", "#index_file", "#campaign_data", "#criminal_factions", "#political_factions", "#underworld_factions"] # (NEW/ENHANCED)
 ---
 # Factions & Organizations - Index
 

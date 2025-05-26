@@ -1,7 +1,10 @@
 ---
-last_updated: "2025-05-24 00:57:46"
+last_updated: "2025-05-26 00:40:39"
 rule_type: "House Rules"
 campaign_name: "{{campaign_name}}"
+rules_focus_areas: ["General Rules", "Combat Rules", "Spellcasting Rules", "Exploration & Social Rules", "Character Creation & Advancement", "Specific Class/Race Modifications"] # (NEW)
+gameplay_modifications: ["Bonus Action Healing Potions", "Flanking Advantage", "Exhaustion at 0 HP", "Free Feat at Level 1", "Max HP at Level Up"] # (NEW)
+tags: ["#house_rules", "#campaign_rules", "#rules_modifications", "#5e_variant", "#homebrew", "#gameplay_mechanics"] # (NEW/ENHANCED)
 ---
 # {{campaign_name}} - House Rules
 
@@ -13,7 +16,7 @@ This document outlines any modifications, additions, or specific interpretations
 
 ## II. Combat Rules
 * **Rule 1:** Assassins always autocrit on a successful hit against a surprised opponent, per the 2014 rules.
-* **Rule 2:** (e.g., "When dropping to 0 HP, PCs gain one level of exhaustion.")
+* **Rule 2:** (e.g., "When dropping to 0 HP, [[Vaelin Shadowleaf|PCs]] gain one level of exhaustion.")
 
 ## III. Spellcasting Rules
 * **Rule 1:** Control Flame is available as a Wizard cantrip, per the 2014 rules.
@@ -24,7 +27,7 @@ This document outlines any modifications, additions, or specific interpretations
 * **Rule 2:** (e.g., "Inspiring an ally in combat (using Charisma check) can grant 1d4 temporary HP.")
 
 ## V. Character Creation & Advancement
-* **Rule 1:** The main pc always gains the maximum allowable hp at creation and each level up.
+* **Rule 1:** The main [[Vaelin Shadowleaf|PC]] always gains the maximum allowable hp at creation and each level up.
 * **Rule 2:** (e.g., "Ability Score Increases are always +2 to one score, or +1 to two scores.")
 
 ## VI. Specific Class/Race Modifications
