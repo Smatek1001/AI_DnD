@@ -1,21 +1,31 @@
 ---
-last_updated: "2025-05-25 23:31:02"
-type: "NPC"
-name: "Lirael"
+last_updated: 2025-05-25 23:31:02
+type: NPC
+name: Lirael
 aliases: []
-status: "pending"
-race: "Flickerling"
-gender: "Female"
-occupation: "Familiar"
-importance: "Pivotal"
-disposition_to_pc: "Friendly"
+status: pending
+race: Flickerling
+gender: Female
+occupation: Familiar
+importance: Pivotal
+disposition_to_pc: Friendly
 faction: []
-location: "[[Vaelin Shadowleaf]]"
-connections: ["[[Vaelin Shadowleaf]]"]
-employer: "[[Vaelin Shadowleaf]]" # (NEW)
-is_quest_giver_for: [] # (NEW)
-associated_items: [] # (NEW)
-tags: ["#familiar", "#fey", "#ally", "#pivotal_npc", "#pending_status", "#stealth_focused", "#informant", "#magical_companion", "#mischievous"] # (NEW/ENHANCED)
+location: "[[Vaelin_Shadowleaf]]"
+connections:
+  - "[[Vaelin_Shadowleaf]]"
+employer: "[[Vaelin_Shadowleaf]]"
+is_quest_giver_for: []
+associated_items: []
+tags:
+  - "#familiar"
+  - "#fey"
+  - "#ally"
+  - "#pivotal_npc"
+  - "#pending_status"
+  - "#stealth_focused"
+  - "#informant"
+  - "#magical_companion"
+  - "#mischievous"
 ---
 # Lirael
 
@@ -26,7 +36,7 @@ tags: ["#familiar", "#fey", "#ally", "#pivotal_npc", "#pending_status", "#stealt
 * **Alignment:** Chaotic Good (inferred from "mischievous and playful")
 * **Occupation:** Familiar (gained through Pact of the Chain)
 * **Status:** pending (not yet active in-game)
-* **Importance:** Pivotal (as [[Vaelin Shadowleaf]]'s familiar)
+* **Importance:** Pivotal (as [[Vaelin_Shadowleaf]]'s familiar)
 * **Disposition towards PC:** Friendly
 
 ## II. Appearance
@@ -37,25 +47,25 @@ Lirael is a delicate, winged creature resembling a miniature young woman with sh
 ### Core Traits
 Mischievous and playful, yet sharp and capable in dangerous situations. She is a lover of secrets and gossip. Highly adaptive, using her animal forms to suit the mission.
 ### Mannerisms
-Often whispers enemy nicknames like “Snotgob,” “Bignose,” or “Buttstink” in [[Vaelin Shadowleaf]]'s ear. Prone to perching on [[Vaelin Shadowleaf]]'s shoulder, whispering spontaneous suggestions. Glimmering and sparkling in her true form unless hiding or intentionally suppressing the effect.
+Often whispers enemy nicknames like “Snotgob,” “Bignose,” or “Buttstink” in [[Vaelin_Shadowleaf]]'s ear. Prone to perching on [[Vaelin_Shadowleaf]]'s shoulder, whispering spontaneous suggestions. Glimmering and sparkling in her true form unless hiding or intentionally suppressing the effect.
 ### Ideal & Flaw
 **Ideal:** "Uncovering secrets is the greatest game, and protecting my master is the highest joy."
 **Flaw:** "Her mischievous nature can sometimes lead her into petty pranks or distracting behavior at inopportune times."
 
 ## IV. Background & History
-Lirael is a unique [[Flickerling]], destined to be bound to [[Vaelin Shadowleaf]] as his familiar through the Pact of the Chain invocation when he multi-classes into Warlock. Her existence will be tied to [[Vaelin Shadowleaf]]'s burgeoning arcane path, and she will serve as his constant companion and invaluable aid in his espionage endeavors once summoned.
+Lirael is a unique [[Flickerling]], destined to be bound to [[Vaelin_Shadowleaf]] as his familiar through the Pact of the Chain invocation when he multi-classes into Warlock. Her existence will be tied to [[Vaelin_Shadowleaf]]'s burgeoning arcane path, and she will serve as his constant companion and invaluable aid in his espionage endeavors once summoned.
 
 ## V. Goals & Motivations
 ### Short-term Goals
 (Will develop once summoned)
 ### Long-term Goals
-To explore the world alongside [[Vaelin Shadowleaf]]; to witness and participate in the grand unfolding of secrets and mysteries.
+To explore the world alongside [[Vaelin_Shadowleaf]]; to witness and participate in the grand unfolding of secrets and mysteries.
 ### Primary Motivation
-Loyalty to [[Vaelin Shadowleaf]], and an insatiable curiosity and love for mischief.
+Loyalty to [[Vaelin_Shadowleaf]], and an insatiable curiosity and love for mischief.
 
 ## VI. Faction & Organization Affiliations
-* **Primary Faction:** None (will be bound to [[Vaelin Shadowleaf]])
-* **Other Affiliations:** Inherently tied to the [[Feywild]], but will largely operate independently with [[Vaelin Shadowleaf]].
+* **Primary Faction:** None (will be bound to [[Vaelin_Shadowleaf]])
+* **Other Affiliations:** Inherently tied to the [[Feywild]], but will largely operate independently with [[Vaelin_Shadowleaf]].
 
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Unmanifested (exists conceptually, but not physically in-game).
@@ -64,7 +74,7 @@ Loyalty to [[Vaelin Shadowleaf]], and an insatiable curiosity and love for misch
 * **Potential Plot Hooks:** (Will become relevant once summoned). Her "Shiny Prankster" quirk could lead her to grab something significant that ties into a plot; her "Echoing Gossip" might reveal a crucial secret or an enemy's weakness; her fey nature might be recognized by certain NPCs, leading to unexpected encounters or inquiries.
 
 ## VIII. DM Notes (for AI)
-Lirael is currently unmanifested. She will only become an active NPC in the game once [[Vaelin Shadowleaf]] gains the Pact of the Chain familiar feature from his Warlock multi-classing. Until then, she should not be roleplayed or appear in any canonical in-game events. Once summoned, she will be a highly versatile familiar for [[Vaelin Shadowleaf]], excelling in scouting, stealth, and intelligence gathering, complementing his rogue/spy abilities. Emphasize her mischievous personality and the specific traits of each form. Her subtle fey signs should be for flavor.
+Lirael is currently unmanifested. She will only become an active NPC in the game once [[Vaelin_Shadowleaf]] gains the Pact of the Chain familiar feature from his Warlock multi-classing. Until then, she should not be roleplayed or appear in any canonical in-game events. Once summoned, she will be a highly versatile familiar for [[Vaelin_Shadowleaf]], excelling in scouting, stealth, and intelligence gathering, complementing his rogue/spy abilities. Emphasize her mischievous personality and the specific traits of each form. Her subtle fey signs should be for flavor.
 
 ### ROT-13 Encoded Secrets
 Yvenry vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

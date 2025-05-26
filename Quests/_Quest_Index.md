@@ -21,4 +21,4 @@ This document serves as an index for all quests, both active and completed, with
 | (No completed quests yet) | | | | |
 
 ---
-**Note to DM (AI):** This index will help track the [[Vaelin Shadowleaf|PC]]'s progress on various quests. Remember to update the status of quests as they advance or are completed.
+**Note to DM (AI):** This index will help track the [[Vaelin_Shadowleaf|PC]]'s progress on various quests. Remember to update the status of quests as they advance or are completed.

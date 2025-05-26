@@ -42,8 +42,8 @@ The [[Nightshade Guild]] is a formidable network of thieves and spies that rules
 
 ## V. Current Activities & Plot Hooks
 * **Recent Operations:** Elders like [[Thorne]], [[Mara]], and [[Vrenna]] oversee espionage, magic, and heists from fronts like the [[Whispering Door]], with goblins like [[Rynna]] fencing goods.
-* **Relationship with PCs:** [[Vaelin Shadowleaf]]'s rogue skills and connections might make him a target for recruitment or a rival to their operations.
-* **Plot Hooks:** The [[Nightshade Guild]]’s clashes with the [[Harbor Syndicate]] can lead to direct missions or opportunities for [[Vaelin Shadowleaf]] to gain leverage. Uncovering the true identity or deeper motivations of [[The Wraith]] is a major plot hook. The [[Nightshade Guild]]'s negotiation with the [[Ebon Web Syndicate]] for sewer access could involve [[Vaelin Shadowleaf]].
+* **Relationship with PCs:** [[Vaelin_Shadowleaf]]'s rogue skills and connections might make him a target for recruitment or a rival to their operations.
+* **Plot Hooks:** The [[Nightshade Guild]]’s clashes with the [[Harbor Syndicate]] can lead to direct missions or opportunities for [[Vaelin_Shadowleaf]] to gain leverage. Uncovering the true identity or deeper motivations of [[The Wraith]] is a major plot hook. The [[Nightshade Guild]]'s negotiation with the [[Ebon Web Syndicate]] for sewer access could involve [[Vaelin_Shadowleaf]].
 
 ## VI. Key Members
 * [[The Wraith]] (Guildmaster)

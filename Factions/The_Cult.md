@@ -42,8 +42,8 @@ The [[Cult]] is a chaotic faction operating in [[Duskhaven]]. It attracts a dive
 
 ## V. Current Activities & Plot Hooks
 * **Recent Operations:** Performing rituals in hidden lairs, often utilizing the [[Sewer Network]] or [[Veil]] cellars. Their activities remain mysterious for now.
-* **Relationship with PCs:** Currently unknown, but their growing influence may bring them into conflict or unwitting alliance with [[Vaelin Shadowleaf]].
-* **Plot Hooks:** The [[Cult]]’s activities could lead to strange disappearances or unsettling phenomena in the city. Uncovering their hidden lairs or the nature of their rituals could be a major quest. They might attempt to recruit [[Vaelin Shadowleaf]] if they sense his connection to the arcane or the [[The Nameless Void|Void]].
+* **Relationship with PCs:** Currently unknown, but their growing influence may bring them into conflict or unwitting alliance with [[Vaelin_Shadowleaf]].
+* **Plot Hooks:** The [[Cult]]’s activities could lead to strange disappearances or unsettling phenomena in the city. Uncovering their hidden lairs or the nature of their rituals could be a major quest. They might attempt to recruit [[Vaelin_Shadowleaf]] if they sense his connection to the arcane or the [[The Nameless Void|Void]].
 
 ## VI. Key Members
 * None yet identified by name, led by "Unknown Leaders".

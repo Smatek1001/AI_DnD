@@ -62,7 +62,7 @@ Learning and a desire for security and belonging.
 * **Current Location:** Always at the [[Shaded Lantern]].
 * **Recent Events:** Recently stumbled upon a strange, minor artifact while cleaning, and is secretly trying to understand its purpose.
 * **Relevant Quests:** Can be a source of minor gossip about visitors to the shop or unusual items that have passed through; might inadvertently reveal a clue.
-* **Potential Plot Hooks:** Lyra might accidentally activate a cursed item, requiring [[Vaelin Shadowleaf]]'s help; she could be approached by someone trying to get information about [[Elaris]] or the shop's inventory; she might be interested in a seemingly mundane item [[Vaelin Shadowleaf]] possesses, hinting at its true nature.
+* **Potential Plot Hooks:** Lyra might accidentally activate a cursed item, requiring [[Vaelin_Shadowleaf]]'s help; she could be approached by someone trying to get information about [[Elaris]] or the shop's inventory; she might be interested in a seemingly mundane item [[Vaelin_Shadowleaf]] possesses, hinting at its true nature.
 
 ## VIII. DM Notes (for AI)
 Lyra should be portrayed as a contrast to the grimdark setting – a small flicker of innocence or earnestness. Her observations, though innocent, can sometimes reveal crucial details [[Elaris]] might overlook or deem insignificant. She looks up to [[Elaris]] greatly.

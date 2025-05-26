@@ -40,7 +40,7 @@
  Duskhaven is a sprawling metropolis cloaked in perpetual twilight, its sky often obscured by the smoke and steam belching from its industrial heart. Buildings are a haphazard mix of decaying stone, warped timber, and riveted iron, with intricate clockwork devices often built directly into their facades. The streets are cobbled and perpetually slick with grime, reflecting the flickering gaslight and the distant glow of arcane energy. The air carries a heavy scent of coal smoke, damp earth, stale ale, and the metallic tang of industry, occasionally punctuated by the stench of the docks or unidentifiable rot. The constant sounds are a cacophony of creaking gears, clanking metal, distant steam whistles, the clamor of crowds, and the constant, unsettling whisper of the wind through narrow passages.
  ### Key Areas/Districts
  * [[Docks]]: The bustling, grimy port district.
- * [[Shadow Quarter]]: The forgotten, low-income district where [[Vaelin Shadowleaf]] resides.
+ * [[Shadow Quarter]]: The forgotten, low-income district where [[Vaelin_Shadowleaf]] resides.
  * [[Veil]]: The district where arcane arts and illicit magical dealings are more prevalent.
  * [[High District]]: The affluent and politically powerful district.
  * [[Old Ruins]]: A sprawling, abandoned district on the city's outskirts.

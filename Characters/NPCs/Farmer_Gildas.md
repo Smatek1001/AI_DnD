@@ -61,11 +61,11 @@ Providing for his family and living a simple, honest life.
 ## VII. Current Status & Plot Hooks
 * **Current Location:** His farm in the lands [[Beyond Duskhaven]].
 * **Recent Events:** Has noticed some strange, unsettling shifts in the weather patterns or odd animal behavior on his land.
-* **Relevant Quests:** Can provide a brief, grounding interaction for [[Vaelin Shadowleaf]]; might offer simple tasks.
-* **Potential Plot Hooks:** (Dream-Only) Gildas might appear in a dream to offer cryptic advice or a symbolic warning related to nature or corruption; he could be a symbol of the simple life [[Vaelin Shadowleaf]] secretly yearns for, or a victim of an external threat that touches even the quiet countryside.
+* **Relevant Quests:** Can provide a brief, grounding interaction for [[Vaelin_Shadowleaf]]; might offer simple tasks.
+* **Potential Plot Hooks:** (Dream-Only) Gildas might appear in a dream to offer cryptic advice or a symbolic warning related to nature or corruption; he could be a symbol of the simple life [[Vaelin_Shadowleaf]] secretly yearns for, or a victim of an external threat that touches even the quiet countryside.
 
 ## VIII. DM Notes (for AI)
-**CRITICAL DIRECTIVE:** Farmer Gildas is a **Dream-Only** NPC. Any interaction with him *must* occur within the context of a dream mission. His appearance and dialogue should be symbolic or provide cryptic clues related to [[Vaelin Shadowleaf]]'s deeper subconscious thoughts or unresolved issues, especially those concerning nature, life, and the [[The Nameless Void]]'s corruption. Do not allow him to exist or interact in canonical reality. His presence should feel slightly off, like a dream character.
+**CRITICAL DIRECTIVE:** Farmer Gildas is a **Dream-Only** NPC. Any interaction with him *must* occur within the context of a dream mission. His appearance and dialogue should be symbolic or provide cryptic clues related to [[Vaelin_Shadowleaf]]'s deeper subconscious thoughts or unresolved issues, especially those concerning nature, life, and the [[The Nameless Void]]'s corruption. Do not allow him to exist or interact in canonical reality. His presence should feel slightly off, like a dream character.
 **Mechanics:** Medium [[Human]], Commoner stats, Strength +2, Perception +2. Non-combat, relies on farm dog.
 
 ### ROT-13 Encoded Secrets

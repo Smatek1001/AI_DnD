@@ -54,7 +54,7 @@ The sewers of [[Duskhaven]] have grown organically over centuries, mirroring the
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Skirmishes between rival criminal gangs over control of smuggling routes are common. Large, territorial monstrous creatures also pose a threat.
 * **Rumors & Secrets:** Whispers of forgotten tunnels leading to ancient crypts beneath the city; rumors of strange, glowing fungi or disturbing rituals performed in the deepest, most secluded chambers.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might need to use the sewers for a stealthy infiltration; he could be tasked with disrupting an [[Ebon Web Syndicate]] smuggling operation; the presence of a new, dangerous creature might require investigation.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might need to use the sewers for a stealthy infiltration; he could be tasked with disrupting an [[Ebon Web Syndicate]] smuggling operation; the presence of a new, dangerous creature might require investigation.
 
 ## VIII. DM Notes (for AI)
 Emphasize the claustrophobia, darkness, and foul smells. Movement should feel deliberate and often treacherous. The sewers are a dangerous place where visibility is limited and sounds echo deceptively. This is a gritty, often combat-focused environment.

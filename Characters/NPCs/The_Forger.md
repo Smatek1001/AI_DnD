@@ -56,13 +56,13 @@ Professional pride and the desire for a secure, uninterrupted environment to pra
 
 ## VI. Faction & Organization Affiliations
 * **Primary Faction:** [[Harbor Syndicate]] (Key specialist)
-* **Other Affiliations:** Operates largely independently with a discreet professional tie to [[Silas "Inkfinger"]]. Also works for [[Vaelin Shadowleaf]] and other clients.
+* **Other Affiliations:** Operates largely independently with a discreet professional tie to [[Silas "Inkfinger"]]. Also works for [[Vaelin_Shadowleaf]] and other clients.
 
 ## VII. Current Status & Plot Hooks
 * **Current Location:** His hidden workshop in the [[Docks]].
 * **Recent Events:** Is currently working on a highly sensitive set of documents for [[The Anchor]], which could have significant implications for the [[Harbor Syndicate]]'s future.
-* **Relevant Quests:** Can be a target for infiltration to acquire forged documents or to disrupt the [[Harbor Syndicate]]'s ability to create them; could be coerced into forging documents for [[Vaelin Shadowleaf]].
-* **Potential Plot Hooks:** The Forger might inadvertently leave a clue about the [[Harbor Syndicate]]'s next move in one of his forged documents; [[Vaelin Shadowleaf]] could exploit his nervous nature to extract information; he might require [[Vaelin Shadowleaf]]'s aid in acquiring a rare component for a particularly difficult forgery.
+* **Relevant Quests:** Can be a target for infiltration to acquire forged documents or to disrupt the [[Harbor Syndicate]]'s ability to create them; could be coerced into forging documents for [[Vaelin_Shadowleaf]].
+* **Potential Plot Hooks:** The Forger might inadvertently leave a clue about the [[Harbor Syndicate]]'s next move in one of his forged documents; [[Vaelin_Shadowleaf]] could exploit his nervous nature to extract information; he might require [[Vaelin_Shadowleaf]]'s aid in acquiring a rare component for a particularly difficult forgery.
 
 ## VIII. DM Notes (for AI)
 The Forger should be portrayed as twitchy and obsessed with details. His workshop should be filled with various tools, inks, and papers. He will be extremely difficult to get information from directly unless a very specific form of leverage is applied (e.g., threatening his tools or his precision).

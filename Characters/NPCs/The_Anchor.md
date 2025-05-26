@@ -1,22 +1,39 @@
 ---
-last_updated: "2025-05-25 23:47:06"
-type: "NPC"
-name: "The Anchor"
+last_updated: 2025-05-25 23:47:06
+type: NPC
+name: The Anchor
 aliases: []
 status: alive
-race: "Human"
-gender: "Male"
-alignment: "Lawful Evil"
-occupation: "Harbor Syndicate Mastermind"
-importance: "Pivotal"
-disposition_to_pc: "Hostile"
-faction: ["[[Harbor Syndicate]]"]
+race: Human
+gender: Male
+alignment: Lawful Evil
+occupation: Harbor Syndicate Mastermind
+importance: Pivotal
+disposition_to_pc: Hostile
+faction:
+  - "[[Harbor Syndicate]]"
 location: "[[Syndicate Warehouse]]"
-connections: ["[[Harbor Syndicate]]", "[[Vaelin Shadowleaf]]", "[[Korgal Iron Fist]]", "[[The Forger]]", "[[Skrix]]", "[[The Shade]]"]
-employer: "Self-employed (Leader of Harbor Syndicate)" # (NEW)
-is_quest_giver_for: [] # (NEW)
-associated_items: [] # (NEW)
-tags: ["#criminal_mastermind", "#harbor_syndicate", "#villain", "#human", "#pivotal_npc", "#ruthless", "#calculating", "#smuggling", "#extortion", "#docks"] # (NEW/ENHANCED)
+connections:
+  - "[[Harbor Syndicate]]"
+  - "[[Vaelin_Shadowleaf]]"
+  - "[[Korgal Iron Fist]]"
+  - "[[The Forger]]"
+  - "[[Skrix]]"
+  - "[[The Shade]]"
+employer: Self-employed (Leader of Harbor Syndicate)
+is_quest_giver_for: []
+associated_items: []
+tags:
+  - "#criminal_mastermind"
+  - "#harbor_syndicate"
+  - "#villain"
+  - "#human"
+  - "#pivotal_npc"
+  - "#ruthless"
+  - "#calculating"
+  - "#smuggling"
+  - "#extortion"
+  - "#docks"
 ---
 # The Anchor
 
@@ -28,7 +45,7 @@ tags: ["#criminal_mastermind", "#harbor_syndicate", "#villain", "#human", "#pivo
 * **Occupation:** Mastermind of the [[Harbor Syndicate]], controlling smuggling and extortion
 * **Status:** alive
 * **Importance:** Pivotal
-* **Disposition towards PC:** Hostile (sees [[Vaelin Shadowleaf]] as a potential pawn or threat)
+* **Disposition towards PC:** Hostile (sees [[Vaelin_Shadowleaf]] as a potential pawn or threat)
 
 ## II. Appearance
 ### Physical Description
@@ -36,7 +53,7 @@ The Anchor is a tall [[Human]] man in his 50s. His weathered face and steely gre
 
 ## III. Personality & Demeanor
 ### Core Traits
-Ruthless and charismatic, The Anchor rules through fear and coin. His [[Human]] ambition drives the [[Harbor Syndicate]]’s dominance. He is highly intelligent, a meticulous planner, and patient. He sees [[Vaelin Shadowleaf]] as a potential pawn or threat.
+Ruthless and charismatic, The Anchor rules through fear and coin. His [[Human]] ambition drives the [[Harbor Syndicate]]’s dominance. He is highly intelligent, a meticulous planner, and patient. He sees [[Vaelin_Shadowleaf]] as a potential pawn or threat.
 ### Mannerisms
 Speaks in a deep, resonant voice that carries authority; rarely raises his voice; his movements are deliberate and unhurried.
 ### Ideal & Flaw
@@ -61,8 +78,8 @@ Power, wealth, and absolute control over the city's illicit economy.
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Primarily operating from a hidden office within the [[Syndicate Warehouse]], or other secure, undisclosed locations.
 * **Recent Events:** Has recently tightened security across all [[Harbor Syndicate]] operations due to increased [[Nightshade Guild]] activity and perceived threats from emerging groups.
-* **Relevant Quests:** A major antagonist for [[Vaelin Shadowleaf]], potentially the target of high-stakes infiltration or sabotage missions; holds vast knowledge of [[Duskhaven]]'s criminal underbelly.
-* **Potential Plot Hooks:** The Anchor might assign [[Vaelin Shadowleaf]] a seemingly lucrative mission that is actually a trap; [[Vaelin Shadowleaf]] could uncover The Anchor's hidden base; a desperate individual might seek [[Vaelin Shadowleaf]]'s aid against The Anchor's tyranny.
+* **Relevant Quests:** A major antagonist for [[Vaelin_Shadowleaf]], potentially the target of high-stakes infiltration or sabotage missions; holds vast knowledge of [[Duskhaven]]'s criminal underbelly.
+* **Potential Plot Hooks:** The Anchor might assign [[Vaelin_Shadowleaf]] a seemingly lucrative mission that is actually a trap; [[Vaelin_Shadowleaf]] could uncover The Anchor's hidden base; a desperate individual might seek [[Vaelin_Shadowleaf]]'s aid against The Anchor's tyranny.
 
 ## VIII. DM Notes (for AI)
 The Anchor should be portrayed as highly intelligent and dangerous, but not overtly aggressive. His power comes from his planning and his vast network. He should feel like a significant, looming threat. Information about him should be hard to come by.

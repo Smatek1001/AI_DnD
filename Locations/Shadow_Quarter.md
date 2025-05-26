@@ -1,18 +1,38 @@
 ---
-last_updated: "2025-05-26 00:05:30"
-type: "Location"
-name: "Shadow Quarter"
+last_updated: 2025-05-26 00:05:30
+type: Location
+name: Shadow Quarter
 aliases: []
-category: "District"
+category: District
 parent_location: "[[Duskhaven]]"
 status: active
-inhabitants: ["Humans", "Ratlings", "Impoverished", "Criminals"]
+inhabitants:
+  - Humans
+  - Ratlings
+  - Impoverished
+  - Criminals
 ruler: ""
-factions_present: ["[[Ratlings]]", "[[The Society]]"]
-key_npcs_present: ["[[Finch]]", "[[Talia \"Whisper\"]]", "[[Vaelin Shadowleaf]]"] # (NEW)
-associated_quests: [] # (NEW)
-points_of_interest: ["[[Abandoned Bakery Attic]]"] # (NEW)
-tags: ["#district", "#slums", "#criminal_territory", "#hideout", "#urban", "#grimdark", "#ratlings_territory", "#pc_location", "#dangerous", "#fog_choked"] # (NEW/ENHANCED)
+factions_present:
+  - "[[Ratlings]]"
+  - "[[The Society]]"
+key_npcs_present:
+  - "[[Finch]]"
+  - '[[Talia "Whisper"]]'
+  - "[[Vaelin_Shadowleaf]]"
+associated_quests: []
+points_of_interest:
+  - "[[Abandoned Bakery Attic]]"
+tags:
+  - "#district"
+  - "#slums"
+  - "#criminal_territory"
+  - "#hideout"
+  - "#urban"
+  - "#grimdark"
+  - "#ratlings_territory"
+  - "#pc_location"
+  - "#dangerous"
+  - "#fog_choked"
 ---
 # Shadow Quarter
 
@@ -39,12 +59,12 @@ The [[Shadow Quarter]] is a sprawling, decaying district defined by its crumblin
 * **Hidden Courtyards:** Small, secluded open spaces tucked away behind buildings, often used for quiet gatherings or illicit exchanges.
 * **Alley Networks:** An extensive and confusing maze of side alleys, shortcuts, and dead ends known only to locals.
 * **Finch's Roost:** A central, well-hidden meeting point for the [[Ratlings]].
-* **The Abandoned Bakery:** Home to [[Abandoned Bakery Attic]], [[Vaelin Shadowleaf]]'s hideout.
+* **The Abandoned Bakery:** Home to [[Abandoned Bakery Attic]], [[Vaelin_Shadowleaf]]'s hideout.
 
 ## IV. Notable NPCs
 * [[Finch]] ([[Ratlings]] leader)
 * [[Talia "Whisper"]] (often operates here)
-* [[Vaelin Shadowleaf]] (makes his home here)
+* [[Vaelin_Shadowleaf]] (makes his home here)
 
 ## V. Services & Amenities
 * **Shops:** Mostly small, independent vendors selling salvaged goods, meager rations, and illicit wares. Prices are often negotiable.
@@ -57,7 +77,7 @@ The [[Shadow Quarter]] has always been the neglected underbelly of [[Duskhaven]]
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Occasional turf wars with external criminal elements attempting to encroach on [[Ratlings]] territory; internal disputes over resources.
 * **Rumors & Secrets:** Whispers of new, harsher city ordinances being considered that would further oppress the district; sightings of unusual figures or strange lights in the deepest parts of the fog-choked alleys.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might need to navigate a tense negotiation between [[Ratlings]] and a rival gang; a resident could appeal to [[Vaelin Shadowleaf]] for help against a corrupt city official; a new plot hook could emerge from [[Finch]] regarding strange occurrences in the district.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might need to navigate a tense negotiation between [[Ratlings]] and a rival gang; a resident could appeal to [[Vaelin_Shadowleaf]] for help against a corrupt city official; a new plot hook could emerge from [[Finch]] regarding strange occurrences in the district.
 
 ## VIII. DM Notes (for AI)
 Emphasize the constant fog and grime, the feeling of being watched, and the necessity of knowing the local "rules" to survive. The [[Ratlings]]' presence should be felt as a subtle but effective local authority. Stealth and local knowledge are paramount here.

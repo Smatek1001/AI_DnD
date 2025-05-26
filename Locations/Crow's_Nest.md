@@ -52,7 +52,7 @@ The [[Crow's Nest]] has long been a known haunt for dockworkers and the less rep
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Frequent disputes erupt over unpaid debts, sometimes spilling out into the alleyways.
 * **Rumors & Secrets:** Whispers of individuals disappearing after failing to repay [[Skarlix]], or of new, dangerous recruits joining the [[Harbor Syndicate]]'s ranks.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might be tasked with retrieving something from a debtor, investigating a disappearance linked to [[Skarlix]], or gathering intelligence on the [[Harbor Syndicate]]'s finances.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might be tasked with retrieving something from a debtor, investigating a disappearance linked to [[Skarlix]], or gathering intelligence on the [[Harbor Syndicate]]'s finances.
 
 ## VIII. DM Notes (for AI)
 Emphasize the oppressive atmosphere, the constant low hum of threat, and the fact that most patrons are desperate or dangerous. [[Skarlix]] and [[Brak]] should project a sense of quiet menace.

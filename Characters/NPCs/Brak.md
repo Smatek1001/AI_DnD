@@ -62,7 +62,7 @@ Loyalty (to [[Skarlix]]/[[Harbor Syndicate]]) and a simple, brutal existence.
 * **Current Location:** Always near [[Skarlix]] at the [[Crow's Nest]], or out on collection runs in the [[Docks]] district.
 * **Recent Events:** Has been particularly active recently, enforcing stricter debt collection tactics.
 * **Relevant Quests:** A major physical obstacle to any direct infiltration or confrontation with [[Skarlix]]; could be interrogated (though difficult) for Syndicate information if captured.
-* **Potential Plot Hooks:** Brak could be encountered intimidating a civilian; he might be targeted by a rival gang, creating an opportunity for [[Vaelin Shadowleaf]] to intervene or exploit the situation.
+* **Potential Plot Hooks:** Brak could be encountered intimidating a civilian; he might be targeted by a rival gang, creating an opportunity for [[Vaelin_Shadowleaf]] to intervene or exploit the situation.
 
 ## VIII. DM Notes (for AI)
 Brak is a straightforward bruiser. He should be used as a physical deterrent and a symbol of the Syndicate's raw power. He's not subtle and will react predictably to direct threats. His [[half-orc]] strength and "Relentless Endurance" (mechanic from npcs.txt, source 128) should make him a formidable foe.

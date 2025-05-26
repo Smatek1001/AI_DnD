@@ -42,8 +42,8 @@ The [[Harbor Syndicate]] is a brutal criminal empire dominating [[Duskhaven]]’
 
 ## V. Current Activities & Plot Hooks
 * **Recent Operations:** Lieutenants like [[Korgal Iron Fist]], [[The Forger]], and [[The Shade]] wield violence and cunning to maintain control.
-* **Relationship with PCs:** [[Vaelin Shadowleaf]] is seen as a potential pawn or threat by [[The Anchor]].
-* **Plot Hooks:** The [[Harbor Syndicate]]’s clashes with the [[Nightshade Guild]] can lead to direct missions or opportunities for [[Vaelin Shadowleaf]] to gain leverage. Infiltrating the [[Syndicate Warehouse]] to disrupt operations or steal valuable goods is a common objective. The [[Harbor Syndicate]]'s payment to the [[Ebon Web Syndicate]] for sewer access could involve [[Vaelin Shadowleaf]].
+* **Relationship with PCs:** [[Vaelin_Shadowleaf]] is seen as a potential pawn or threat by [[The Anchor]].
+* **Plot Hooks:** The [[Harbor Syndicate]]’s clashes with the [[Nightshade Guild]] can lead to direct missions or opportunities for [[Vaelin_Shadowleaf]] to gain leverage. Infiltrating the [[Syndicate Warehouse]] to disrupt operations or steal valuable goods is a common objective. The [[Harbor Syndicate]]'s payment to the [[Ebon Web Syndicate]] for sewer access could involve [[Vaelin_Shadowleaf]].
 
 ## VI. Key Members
 * [[The Anchor]] (Mastermind)

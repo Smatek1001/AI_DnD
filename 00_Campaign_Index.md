@@ -16,7 +16,7 @@ This document serves as the central index for all campaign information. It outli
 * [[_DM_Instructions/2024_Rules_Reference]]
 
 ## II. Live Campaign Elements
-* **Player Character:** [[Characters/PCs/{{PC_Name}}|Vaelin Shadowleaf]] (Link to your main PC file)
+* **Player Character:** [[Vaelin_Shadowleaf|Vaelin Shadowleaf]] (Link to your main PC file)
 * **Non-Player Characters (NPCs):** [[Characters/NPCs/_NPC_Index]] (Or directly to the `Characters/NPCs` folder if you prefer an auto-generated Dataview index there)
 * **Locations:** [[Locations/_Location_Index]] (Or directly to the `Locations` folder if you prefer an auto-generated Dataview index there)
 * **Factions & Organizations:** [[Factions/_Faction_Index]] (Or directly to the `Factions` folder if you prefer an auto-generated Dataview index there)

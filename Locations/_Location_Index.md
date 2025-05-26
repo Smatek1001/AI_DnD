@@ -12,12 +12,12 @@ tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaig
 
 | Location | Type | District | Key NPCs |
 |---|---|---|---|
-| [[Abandoned Bakery Attic]] | Hideout | [[Shadow Quarter]] | [[Vaelin Shadowleaf]], [[Finch]] |
+| [[Abandoned Bakery Attic]] | Hideout | [[Shadow Quarter]] | [[Vaelin_Shadowleaf]], [[Finch]] |
 | [[Crow's Nest]] | Tavern | [[Docks]] | [[Skarlix]], [[Brak]] |
 | [[Drunken Raven]] | Tavern | [[Shadow Quarter]] | [[Talia "Whisper"]], [[Tarren]] |
 | [[Rusty Anchor]] | Tavern | [[Docks]] | [[Greta "Mama" Stoneheart]], [[Elara "Lark" Stoneheart]] |
 | [[Sewer Network]] | Tunnels | Citywide | None (various criminals/creatures) |
-| [[Shadow Quarter]] | District | [[Shadow Quarter]] | [[Finch]], [[Ratlings]] (group), [[Vaelin Shadowleaf]], [[Talia "Whisper"]] |
+| [[Shadow Quarter]] | District | [[Shadow Quarter]] | [[Finch]], [[Ratlings]] (group), [[Vaelin_Shadowleaf]], [[Talia "Whisper"]] |
 | [[Whispering Door]] | Tavern | [[Veil]] | [[Rynna]], [[Vrenna]], [[Kyssra]], [[Jib]], [[The Wraith]], [[Thorne]], [[Mara]] |
 | [[Syndicate Warehouse]] | Hideout | [[Docks]] | [[The Anchor]], [[Korgal Iron Fist]], [[The Forger]], [[Skrix]], [[The Shade]] |
 | [[Shaded Lantern]] | Arcane Shop | [[Veil]] | [[Elaris]], [[Lyra]] |

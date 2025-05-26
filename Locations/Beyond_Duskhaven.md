@@ -51,7 +51,7 @@ The lands surrounding [[Duskhaven]] have fed the city for centuries, a quiet cou
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Occasional banditry or predatory beasts threaten the rural communities.
 * **Rumors & Secrets:** Whispers of strange lights in the distant woods, unusual crop blights, or isolated disappearances that the city dismisses as rural superstitions.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might need to escape the city and seek refuge in the countryside; he could be tasked with retrieving something from a rural location; a threat to the city's food supply might draw him here.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might need to escape the city and seek refuge in the countryside; he could be tasked with retrieving something from a rural location; a threat to the city's food supply might draw him here.
 
 ## VIII. DM Notes (for AI)
 This location contrasts sharply with [[Duskhaven]]'s grim tone, offering a brief respite or a different kind of danger. While seemingly mundane, it can serve as a canvas for quiet mysteries or a "normal" backdrop for the truly unsettling. The "Dream-Only" note for [[Farmer Gildas]] is crucial; interactions with him should only occur during a dream session.

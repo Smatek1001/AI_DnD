@@ -1,22 +1,35 @@
 ---
-last_updated: "2025-05-25 23:41:06"
-type: "NPC"
-name: "Mira \"Quickfingers\""
-aliases: ["Mira"]
+last_updated: 2025-05-25 23:41:06
+type: NPC
+name: Mira "Quickfingers"
+aliases:
+  - Mira
 status: alive
-race: "Halfling"
-gender: "Female"
-alignment: "Chaotic Neutral"
-occupation: "Fence"
-importance: "Supporting"
-disposition_to_pc: "Friendly"
-faction: ["[[Nightshade Guild]]", "Independent"]
+race: Halfling
+gender: Female
+alignment: Chaotic Neutral
+occupation: Fence
+importance: Supporting
+disposition_to_pc: Friendly
+faction:
+  - "[[Nightshade Guild]]"
+  - Independent
 location: "[[Market Square]]"
-connections: ["[[Vaelin Shadowleaf]]"]
-employer: "Self-employed (Independent/Guild affiliated)" # (NEW)
-is_quest_giver_for: [] # (NEW)
-associated_items: [] # (NEW)
-tags: ["#fence", "#criminal", "#nightshade_guild", "#halfling", "#supporting_npc", "#opportunistic", "#market_square", "#independent", "#friendly_npc"] # (NEW/ENHANCED)
+connections:
+  - "[[Vaelin_Shadowleaf]]"
+employer: Self-employed (Independent/Guild affiliated)
+is_quest_giver_for: []
+associated_items: []
+tags:
+  - "#fence"
+  - "#criminal"
+  - "#nightshade_guild"
+  - "#halfling"
+  - "#supporting_npc"
+  - "#opportunistic"
+  - "#market_square"
+  - "#independent"
+  - "#friendly_npc"
 ---
 # Mira "Quickfingers"
 
@@ -66,7 +79,7 @@ The [[Crow's Nest]] has long been a known haunt for dockworkers and the less rep
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Frequent disputes erupt over unpaid debts, sometimes spilling out into the alleyways.
 * **Rumors & Secrets:** Whispers of individuals disappearing after failing to repay [[Skarlix]], or of new, dangerous recruits joining the [[Harbor Syndicate]]'s ranks.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might be tasked with retrieving something from a debtor, investigating a disappearance linked to [[Skarlix]], or gathering intelligence on the [[Harbor Syndicate]]'s finances.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might be tasked with retrieving something from a debtor, investigating a disappearance linked to [[Skarlix]], or gathering intelligence on the [[Harbor Syndicate]]'s finances.
 
 ## VIII. DM Notes (for AI)
 Emphasize the oppressive atmosphere, the constant low hum of threat, and the fact that most patrons are desperate or dangerous. [[Skarlix]] and [[Brak]] should project

@@ -88,7 +88,7 @@ In **direct sunlight**, Shadowpiercer:
 * **Potential Plot Hooks:** A former owner might seek to reclaim it; its unique magic might draw unwanted attention from arcane scholars or shadowy organizations.
 
 ## VI. DM Notes (for AI)
-This item is specifically tailored for [[Vaelin Shadowleaf]]'s desired mechanical progression and his rogue/spy/assassin theme. Its limitations in sunlight create interesting tactical challenges. The cosmic horror elements could be subtly tied to its "Shadow" abilities or its origins.
+This item is specifically tailored for [[Vaelin_Shadowleaf]]'s desired mechanical progression and his rogue/spy/assassin theme. Its limitations in sunlight create interesting tactical challenges. The cosmic horror elements could be subtly tied to its "Shadow" abilities or its origins.
 
 ### ROT-13 Encoded Secrets
 Gur Vgrz vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

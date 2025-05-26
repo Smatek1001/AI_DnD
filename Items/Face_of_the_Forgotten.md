@@ -63,10 +63,10 @@ A flawless porcelain mask veined with silvery shadows. When worn, it molds to yo
 ## V. Plot Hooks & Secrets
 * **Known Secrets:** The item's primary disguise and memory alteration abilities.
 * **Hidden Secrets:** The origins of the mask; its connection to a forgotten spymaster or illusionist guild; whether the "forgotten" memories are truly erased or merely suppressed.
-* **Potential Plot Hooks:** The mask might have a hidden, more powerful ability that can be unlocked; its use might draw the attention of an organization that seeks to reclaim or control such items; a creature immune to its memory-wiping effect might remember [[Vaelin Shadowleaf]] from a previous encounter.
+* **Potential Plot Hooks:** The mask might have a hidden, more powerful ability that can be unlocked; its use might draw the attention of an organization that seeks to reclaim or control such items; a creature immune to its memory-wiping effect might remember [[Vaelin_Shadowleaf]] from a previous encounter.
 
 ## VI. DM Notes (for AI)
-This item strongly supports [[Vaelin Shadowleaf]]'s rogue/spy theme, especially deception and infiltration. Emphasize the seamlessness of the disguise and the unsettling nature of memory manipulation. It should encourage creative problem-solving over direct combat.
+This item strongly supports [[Vaelin_Shadowleaf]]'s rogue/spy theme, especially deception and infiltration. Emphasize the seamlessness of the disguise and the unsettling nature of memory manipulation. It should encourage creative problem-solving over direct combat.
 
 ### ROT-13 Encoded Secrets
 Gur "snpr bs gur sbetbggra" vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

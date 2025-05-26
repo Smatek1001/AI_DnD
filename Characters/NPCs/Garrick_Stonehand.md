@@ -62,7 +62,7 @@ Survival and freedom from debt.
 * **Current Location:** His shop in the [[Market Square]].
 * **Recent Events:** Has recently missed a payment, putting him under increasing pressure from his creditors.
 * **Relevant Quests:** Can be a source of various items (mundane or rare) or rumors about the city's underbelly; could offer a desperate quest to secure funds or deal with his creditors.
-* **Potential Plot Hooks:** Garrick might approach [[Vaelin Shadowleaf]] for help with his debt, leading [[Vaelin Shadowleaf]] into conflict with a [[Harbor Syndicate]] or [[Nightshade Guild]] enforcer; he could be forced to provide information or goods to one of the factions, which [[Vaelin Shadowleaf]] could intercept or exploit; [[Vaelin Shadowleaf]] might need to extract a specific item from Garrick's shop under duress.
+* **Potential Plot Hooks:** Garrick might approach [[Vaelin_Shadowleaf]] for help with his debt, leading [[Vaelin_Shadowleaf]] into conflict with a [[Harbor Syndicate]] or [[Nightshade Guild]] enforcer; he could be forced to provide information or goods to one of the factions, which [[Vaelin_Shadowleaf]] could intercept or exploit; [[Vaelin_Shadowleaf]] might need to extract a specific item from Garrick's shop under duress.
 
 ## VIII. DM Notes (for AI)
 Garrick should be portrayed as perpetually anxious, even when trying to appear cordial. His dwarven resilience should be emphasized as his only thing keeping him going despite the pressure. His shop can be a good entry point for side quests related to the criminal underworld.

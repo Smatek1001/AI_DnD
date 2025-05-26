@@ -62,7 +62,7 @@ Power, control, and the expansion of the [[Nightshade Guild]]'s domain.
 * **Current Location:** Operates from hidden, highly secure locations within the [[Veil]] district, likely the innermost sanctums of the [[Whispering Door]].
 * **Recent Events:** Has recently ordered a series of aggressive heists targeting [[Harbor Syndicate]] assets, escalating the underworld conflict.
 * **Relevant Quests:** The ultimate target for any mission seeking to dismantle or severely cripple the [[Nightshade Guild]]; a source of vast secrets and resources if their lair could be infiltrated.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might be tasked by [[The Society]] to gather intelligence on The Wraith's operations; The Wraith might take a personal interest in [[Vaelin Shadowleaf]]'s unique skills, attempting to recruit or eliminate him; uncovering the Wraith's true identity or past could be a major campaign arc.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might be tasked by [[The Society]] to gather intelligence on The Wraith's operations; The Wraith might take a personal interest in [[Vaelin_Shadowleaf]]'s unique skills, attempting to recruit or eliminate him; uncovering the Wraith's true identity or past could be a major campaign arc.
 
 ## VIII. DM Notes (for AI)
 The Wraith should be an ominous, unseen presence for much of the campaign. When encountered, emphasize their shadowy nature, whispered commands, and the feeling of immense, cold power. Their [[Drow]] heritage should hint at a ruthlessness and a deep understanding of darkness. They are a true antagonist.

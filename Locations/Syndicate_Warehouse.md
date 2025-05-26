@@ -56,7 +56,7 @@ This particular warehouse has been a long-standing asset for the [[Harbor Syndic
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** A frequent target for rival gangs (like the [[Nightshade Guild]]) seeking to disrupt the [[Harbor Syndicate]]'s flow of goods.
 * **Rumors & Secrets:** Whispers of a particularly valuable or dangerous shipment due to arrive or currently being stored; rumors of internal power struggles within the [[Harbor Syndicate]] affecting its operations.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might be tasked with infiltrating the warehouse to steal a specific item or intel; he could be hired to sabotage a shipment; or he might need to extract a captive held within its walls. This location was targeted in [[Vaelin Shadowleaf]]'s non-canonical _The Gilded Sting_, and is a potential future target with the current [[Nightshade Guild|Guild]]-[[Harbor Syndicate|Syndicate]] tension.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might be tasked with infiltrating the warehouse to steal a specific item or intel; he could be hired to sabotage a shipment; or he might need to extract a captive held within its walls. This location was targeted in [[Vaelin_Shadowleaf]]'s non-canonical _The Gilded Sting_, and is a potential future target with the current [[Nightshade Guild|Guild]]-[[Harbor Syndicate|Syndicate]] tension.
 
 ## VIII. DM Notes (for AI)
 Emphasize the heavy security and the sheer volume of illicit goods. Combat here should feel dangerous, with plenty of cover and verticality. The atmosphere should be one of constant, low-level threat.

@@ -20,7 +20,7 @@ This document serves as a chronological record of major events, discoveries, and
 
 ### Month [Month Name]
 
-* **[Date (e.g., Day 1 of Month)]:** [Brief description of event, e.g., "[[Vaelin Shadowleaf|PC]] arrived in [[Duskhaven]]."]
+* **[Date (e.g., Day 1 of Month)]:** [Brief description of event, e.g., "[[Vaelin_Shadowleaf|PC]] arrived in [[Duskhaven]]."]
 * **[Date (e.g., Day 5 of Month)]:** [Brief description of event, e.g., "First encounter with [[The Cult]]."]
 
 ---

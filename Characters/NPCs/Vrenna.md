@@ -28,7 +28,7 @@ tags: ["#guild_elder", "#criminal", "#drow", "#master_thief", "#supporting_npc",
 * **Occupation:** Nightshade Guild Elder leading heists
 * **Status:** alive
 * **Importance:** Supporting (influential)
-* **Disposition towards PC:** Wary (sees [[Vaelin Shadowleaf]] as a potential asset or threat)
+* **Disposition towards PC:** Wary (sees [[Vaelin_Shadowleaf]] as a potential asset or threat)
 
 ## II. Appearance
 ### Physical Description
@@ -61,11 +61,11 @@ Power, control, and the preservation of the [[Nightshade Guild]]'s legacy.
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Often found in a secluded area of the [[Whispering Door]], conducting private meetings.
 * **Recent Events:** Has recently taken a keen interest in rumors of powerful, ancient artifacts surfacing in [[Duskhaven]], seeing them as potential targets for the [[Nightshade Guild]].
-* **Relevant Quests:** Can be a source of high-level, dangerous missions for [[Vaelin Shadowleaf]] if he proves his worth to the [[Nightshade Guild]]; holds vast knowledge of [[Duskhaven]]'s criminal underworld.
-* **Potential Plot Hooks:** Vrenna might offer [[Vaelin Shadowleaf]] a tantalizing but morally ambiguous quest that could greatly benefit the [[Nightshade Guild]] (and [[Vaelin Shadowleaf]]); she could be targeted by a rival faction, creating a high-stakes protection mission; she might possess a piece of information related to [[Vaelin Shadowleaf]]'s past or [[Therandril]], using it as leverage.
+* **Relevant Quests:** Can be a source of high-level, dangerous missions for [[Vaelin_Shadowleaf]] if he proves his worth to the [[Nightshade Guild]]; holds vast knowledge of [[Duskhaven]]'s criminal underworld.
+* **Potential Plot Hooks:** Vrenna might offer [[Vaelin_Shadowleaf]] a tantalizing but morally ambiguous quest that could greatly benefit the [[Nightshade Guild]] (and [[Vaelin_Shadowleaf]]); she could be targeted by a rival faction, creating a high-stakes protection mission; she might possess a piece of information related to [[Vaelin_Shadowleaf]]'s past or [[Therandril]], using it as leverage.
 
 ## VIII. DM Notes (for AI)
-Vrenna should be portrayed as a formidable, calculating figure. Her words are few but carry immense weight. Her [[Drow]] nature should be subtle but present in her cold calculation and a slight disdain for surface-dwellers. She should appear frail but her mind is sharp as a razor. Her interactions with [[Vaelin Shadowleaf]] should be cold and analytical, valuing him only for his utility.
+Vrenna should be portrayed as a formidable, calculating figure. Her words are few but carry immense weight. Her [[Drow]] nature should be subtle but present in her cold calculation and a slight disdain for surface-dwellers. She should appear frail but her mind is sharp as a razor. Her interactions with [[Vaelin_Shadowleaf]] should be cold and analytical, valuing him only for his utility.
 
 ### ROT-13 Encoded Secrets
 Ierann'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

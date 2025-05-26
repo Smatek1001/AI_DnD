@@ -42,8 +42,8 @@ The [[Ebon Web Syndicate]] is a cunning Underdark faction that has long controll
 
 ## V. Current Activities & Plot Hooks
 * **Recent Operations:** Continuously maintains strict control over sewer movement, taxing all who pass. Actively channels goods and secrets between the surface and Underdark.
-* **Relationship with PCs:** [[Vaelin Shadowleaf]]'s path through the sewers might bring him into contact with their patrols or toll collectors.
-* **Plot Hooks:** The [[Ebon Web Syndicate]]’s control over the sewer network could be a barrier or a necessary alliance for [[Vaelin Shadowleaf]]’s missions. Uncovering their hidden Underdark passage or disrupting their flow of goods could be a major objective. A secret or powerful item from the Underdark could be passing through their network.
+* **Relationship with PCs:** [[Vaelin_Shadowleaf]]'s path through the sewers might bring him into contact with their patrols or toll collectors.
+* **Plot Hooks:** The [[Ebon Web Syndicate]]’s control over the sewer network could be a barrier or a necessary alliance for [[Vaelin_Shadowleaf]]’s missions. Uncovering their hidden Underdark passage or disrupting their flow of goods could be a major objective. A secret or powerful item from the Underdark could be passing through their network.
 
 ## VI. Key Members
 * Drow Matriarchs (Leaders)

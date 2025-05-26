@@ -49,7 +49,7 @@ The Northeast Tower is believed to be one of the last standing structures from a
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Wildlife or minor monstrous creatures might have made the tower their lair. Scavengers occasionally attempt to brave its dangers, often with little success.
 * **Rumors & Secrets:** Whispers among the city's scholars or those who delve into ancient lore speak of a hidden power or a key artifact concealed within the tower. Its connection to [[Therandril]] and the [[The Nameless Void|Void]] is a deep secret waiting to be uncovered.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might be sent to investigate unusual energy readings or strange disappearances near the tower; he could discover an ancient text that speaks of the tower's true purpose; a powerful magic item might be hidden within, protected by ancient wards.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might be sent to investigate unusual energy readings or strange disappearances near the tower; he could discover an ancient text that speaks of the tower's true purpose; a powerful magic item might be hidden within, protected by ancient wards.
 
 ## VIII. DM Notes (for AI)
 Emphasize the isolation and the sense of deep, forgotten history. The tower should feel unstable and potentially dangerous to explore. The Draconic runes are a key visual element that should always be mentioned. This location is designed for mystery and exploration.

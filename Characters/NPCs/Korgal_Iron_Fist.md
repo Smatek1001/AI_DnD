@@ -62,7 +62,7 @@ Loyalty, and the satisfaction of dominating those who oppose the [[Harbor Syndic
 * **Current Location:** Often found patrolling the [[Syndicate Warehouse]], personally overseeing security, or on high-value enforcement missions.
 * **Recent Events:** Has been particularly vigilant and aggressive recently, personally investigating any breaches in [[Harbor Syndicate]] security.
 * **Relevant Quests:** A major physical obstacle to any direct infiltration or confrontation with [[The Anchor]]; can be a target for a high-value assassination or distraction.
-* **Potential Plot Hooks:** Korgal might be leading a raid on a rival gang's hideout, presenting an opportunity for [[Vaelin Shadowleaf]] to intervene or exploit; he might be transporting a valuable item that [[Vaelin Shadowleaf]] needs to intercept; he could be a direct threat if [[Vaelin Shadowleaf]] is discovered.
+* **Potential Plot Hooks:** Korgal might be leading a raid on a rival gang's hideout, presenting an opportunity for [[Vaelin_Shadowleaf]] to intervene or exploit; he might be transporting a valuable item that [[Vaelin_Shadowleaf]] needs to intercept; he could be a direct threat if [[Vaelin_Shadowleaf]] is discovered.
 
 ## VIII. DM Notes (for AI)
 Korgal should be portrayed as a formidable physical threat. His presence alone should be intimidating. He is not subtle and will react to threats with direct, brutal force. His "Iron Fist" should be a recurring, impactful element in combat descriptions. His [[Half-Orc]] nature should emphasize his raw strength and tenacity.

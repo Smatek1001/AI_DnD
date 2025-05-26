@@ -55,7 +55,7 @@ The [[Whispering Door]] has long been associated with the shadier side of the [[
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** The [[Nightshade Guild]] often uses this location to plan operations against the [[Harbor Syndicate]], leading to heightened tension and increased security.
 * **Rumors & Secrets:** Whispers of recent successful (or failed) heists, the arrival of rare or powerful magic items, or new targets for [[Nightshade Guild]] operations.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might need to infiltrate the tavern to gather intelligence on the [[Nightshade Guild]]'s next target; he could be tasked with retrieving a stolen item that passed through [[Rynna]]'s hands; a [[Nightshade Guild]] member might be seeking a specialist for a difficult heist.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might need to infiltrate the tavern to gather intelligence on the [[Nightshade Guild]]'s next target; he could be tasked with retrieving a stolen item that passed through [[Rynna]]'s hands; a [[Nightshade Guild]] member might be seeking a specialist for a difficult heist.
 
 ## VIII. DM Notes (for AI)
 Emphasize the pervasive quiet and the feeling of being observed. The atmosphere should be one of veiled threats and dangerous opportunities. NPCs should be wary and communicate in clipped, indirect phrases.

@@ -50,10 +50,10 @@ The Old Ruins are what remains of an ancient city, possibly even [[Therandril]] 
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Monstrous creatures (often mutated or driven mad by residual Void energy) lair within the ruins, preying on desperate scavengers. Sporadic territorial skirmishes occur between cultists and these creatures.
 * **Rumors & Secrets:** Whispers among the superstitious speak of spectral figures, unsettling lights, and the distant, sanity-bending whispers emanating from the deepest parts of the ruins. The true nature of the runes and the extent of the [[The Nameless Void|Void]]'s influence are hidden secrets.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might need to retrieve an artifact from the ruins; he could track a cultist cell to their hidden lair within the ruins; strange phenomena might draw him to investigate, leading to a confrontation with a Void-influenced entity.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might need to retrieve an artifact from the ruins; he could track a cultist cell to their hidden lair within the ruins; strange phenomena might draw him to investigate, leading to a confrontation with a Void-influenced entity.
 
 ## VIII. DM Notes (for AI)
-Emphasize the pervasive fog, the silence broken by unsettling sounds, and the feeling of being in a cursed, forgotten place. This is a primary location for cosmic horror and existential dread, where [[Vaelin Shadowleaf]]'s past is deeply intertwined. Encounters should be tense and psychologically unsettling.
+Emphasize the pervasive fog, the silence broken by unsettling sounds, and the feeling of being in a cursed, forgotten place. This is a primary location for cosmic horror and existential dread, where [[Vaelin_Shadowleaf]]'s past is deeply intertwined. Encounters should be tense and psychologically unsettling.
 
 ### ROT-13 Encoded Secrets
 Gur "byq ehvaf" vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

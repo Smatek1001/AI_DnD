@@ -61,11 +61,11 @@ Efficiency, speed, and proving his worth (driven by fear and self-preservation).
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Constantly moving throughout [[Duskhaven]], originating from or returning to the [[Syndicate Warehouse]].
 * **Recent Events:** Is currently carrying a message or package of high importance related to the [[Harbor Syndicate]]'s recent tightening of security.
-* **Relevant Quests:** A prime target for interception if [[Vaelin Shadowleaf]] needs to acquire [[Harbor Syndicate]] intel or disrupt their communication; can be a source of ambient information if observed.
-* **Potential Plot Hooks:** Skrix might inadvertently lead [[Vaelin Shadowleaf]] to a secret [[Harbor Syndicate]] meeting; he could be cornered by rival agents, creating an opportunity for [[Vaelin Shadowleaf]] to intervene or exploit; he might drop a crucial piece of information that [[Vaelin Shadowleaf]] can discover.
+* **Relevant Quests:** A prime target for interception if [[Vaelin_Shadowleaf]] needs to acquire [[Harbor Syndicate]] intel or disrupt their communication; can be a source of ambient information if observed.
+* **Potential Plot Hooks:** Skrix might inadvertently lead [[Vaelin_Shadowleaf]] to a secret [[Harbor Syndicate]] meeting; he could be cornered by rival agents, creating an opportunity for [[Vaelin_Shadowleaf]] to intervene or exploit; he might drop a crucial piece of information that [[Vaelin_Shadowleaf]] can discover.
 
 ## VIII. DM Notes (for AI)
-Skrix should be portrayed as a blur of motion. Encounters with him should emphasize his speed and [[Vaelin Shadowleaf]]'s stealth/pursuit skills. He will not engage in combat unless cornered, preferring to escape. His paranoia should be a key personality trait.
+Skrix should be portrayed as a blur of motion. Encounters with him should emphasize his speed and [[Vaelin_Shadowleaf]]'s stealth/pursuit skills. He will not engage in combat unless cornered, preferring to escape. His paranoia should be a key personality trait.
 
 ### ROT-13 Encoded Secrets
 Fxebrf'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

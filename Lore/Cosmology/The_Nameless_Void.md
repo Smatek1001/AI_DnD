@@ -27,7 +27,7 @@ Whispers of The Nameless Void exist only in forbidden texts or the ramblings of 
 * **Cults:** Drives desperate or power-hungry individuals to form cults dedicated to its incomprehensible will, seeking "forbidden thrills" or "dark enlightenment."
 
 ## V. Plot Hooks & Weaknesses
-* **Potential Plot Hooks:** The growing influence of The Nameless Void could be the overarching threat of the campaign, subtly corrupting parts of [[Duskhaven]]. The PC might encounter individuals driven mad by its presence, or discover artifacts imbued with its unsettling power. Learning about its nature could be a key to understanding [[Vaelin Shadowleaf]]'s past and the fall of [[Therandril]].
+* **Potential Plot Hooks:** The growing influence of The Nameless Void could be the overarching threat of the campaign, subtly corrupting parts of [[Duskhaven]]. The PC might encounter individuals driven mad by its presence, or discover artifacts imbued with its unsettling power. Learning about its nature could be a key to understanding [[Vaelin_Shadowleaf]]'s past and the fall of [[Therandril]].
 * **Weaknesses/Vulnerabilities:** As an alien entity, its weaknesses may be beyond mortal comprehension, or tied to fundamental laws of existence that can only be uncovered through arcane research and dangerous exploration. It is likely not a foe that can be "killed," but perhaps sealed or banished.
 
 ## VI. DM Notes (for AI)

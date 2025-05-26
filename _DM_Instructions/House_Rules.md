@@ -16,7 +16,7 @@ This document outlines any modifications, additions, or specific interpretations
 
 ## II. Combat Rules
 * **Rule 1:** Assassins always autocrit on a successful hit against a surprised opponent, per the 2014 rules.
-* **Rule 2:** (e.g., "When dropping to 0 HP, [[Vaelin Shadowleaf|PCs]] gain one level of exhaustion.")
+* **Rule 2:** (e.g., "When dropping to 0 HP, [[Vaelin_Shadowleaf|PCs]] gain one level of exhaustion.")
 
 ## III. Spellcasting Rules
 * **Rule 1:** Control Flame is available as a Wizard cantrip, per the 2014 rules.
@@ -27,7 +27,7 @@ This document outlines any modifications, additions, or specific interpretations
 * **Rule 2:** (e.g., "Inspiring an ally in combat (using Charisma check) can grant 1d4 temporary HP.")
 
 ## V. Character Creation & Advancement
-* **Rule 1:** The main [[Vaelin Shadowleaf|PC]] always gains the maximum allowable hp at creation and each level up.
+* **Rule 1:** The main [[Vaelin_Shadowleaf|PC]] always gains the maximum allowable hp at creation and each level up.
 * **Rule 2:** (e.g., "Ability Score Increases are always +2 to one score, or +1 to two scores.")
 
 ## VI. Specific Class/Race Modifications

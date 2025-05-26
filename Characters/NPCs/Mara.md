@@ -62,7 +62,7 @@ Magical mastery and control.
 * **Current Location:** Operates from a hidden magical workshop within the [[Veil]], likely connected to the [[Whispering Door]].
 * **Recent Events:** Might be working on a powerful illusion spell to facilitate a major heist, or researching a dangerous ancient artifact that has caught the [[Nightshade Guild]]'s attention.
 * **Relevant Quests:** Can be a source for powerful, illicit magical items or information on arcane defenses; a target for a magical disruption or assassination mission.
-* **Potential Plot Hooks:** Mara might offer [[Vaelin Shadowleaf]] a magically complex task that requires his stealth and cunning; her arrogance could lead her to reveal too much information about [[Nightshade Guild]] operations; [[Vaelin Shadowleaf]] might seek her out for knowledge of magical illusions or a counter to a spell.
+* **Potential Plot Hooks:** Mara might offer [[Vaelin_Shadowleaf]] a magically complex task that requires his stealth and cunning; her arrogance could lead her to reveal too much information about [[Nightshade Guild]] operations; [[Vaelin_Shadowleaf]] might seek her out for knowledge of magical illusions or a counter to a spell.
 
 ## VIII. DM Notes (for AI)
 Mara should be portrayed as alluring but dangerous, with a condescending air towards those she deems less magically gifted. Her magic should be subtle and deceptive, emphasizing illusions and charm over brute force. Her presence should be unsettling due to her hidden intentions.

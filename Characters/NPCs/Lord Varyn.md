@@ -82,7 +82,7 @@ Greed and self-aggrandizement.
 * **Current Location:** Resides in the [[Noble District]] of [[Duskhaven]].
 * **Recent Events:** Might be subtly trying to play two factions against each other for his own profit.
 * **Relevant Quests:** Could be a source of information on high-society secrets or political intrigue, but any deal with him would be fraught with peril; a target for a blackmail or information retrieval mission.
-* **Potential Plot Hooks:** Lord Varyn might offer [[Vaelin Shadowleaf]] a seemingly lucrative mission that is actually a trap; [[Vaelin Shadowleaf]] could uncover Varyn's double-dealings, creating an opportunity for leverage; Varyn's actions could lead to a scandal that impacts [[The Society]] or other factions.
+* **Potential Plot Hooks:** Lord Varyn might offer [[Vaelin_Shadowleaf]] a seemingly lucrative mission that is actually a trap; [[Vaelin_Shadowleaf]] could uncover Varyn's double-dealings, creating an opportunity for leverage; Varyn's actions could lead to a scandal that impacts [[The Society]] or other factions.
 
 ## VIII. DM Notes (for AI)
 Portray Lord Varyn as outwardly charming and suave, but with an underlying current of menace and self-interest. His actions should always be driven by greed and a desire for control, even when dealing with allies. He is a master manipulator.

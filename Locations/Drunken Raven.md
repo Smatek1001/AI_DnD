@@ -53,7 +53,7 @@ The Drunken Raven has long been a fixture of the [[Shadow Quarter]], but its tru
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Minor skirmishes erupt occasionally if outsiders try to disrupt the tavern's neutrality, but these are quickly suppressed.
 * **Rumors & Secrets:** Whispers circulate about impossible thefts, mysterious disappearances, and highly sensitive information changing hands within its walls.
-* **Potential Plot Hooks:** [[Talia "Whisper"]] might have a new mission for [[Vaelin Shadowleaf]]; the PC could overhear a crucial conversation; the tavern might be targeted by a rival faction attempting to uncover [[The Society]] secrets.
+* **Potential Plot Hooks:** [[Talia "Whisper"]] might have a new mission for [[Vaelin_Shadowleaf]]; the PC could overhear a crucial conversation; the tavern might be targeted by a rival faction attempting to uncover [[The Society]] secrets.
 
 ## VIII. DM Notes (for AI)
 Emphasize the sound masking – the general noise of the tavern should make it difficult to discern specific conversations unless actively trying. [[Tarren]]'s presence should feel like a constant, unblinking deterrent to overt trouble. The sense of secrets being exchanged should be palpable.

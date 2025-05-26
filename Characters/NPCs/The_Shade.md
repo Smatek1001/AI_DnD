@@ -28,7 +28,7 @@ tags: ["#spy_master", "#criminal", "#harbor_syndicate", "#halfling", "#supportin
 * **Occupation:** Syndicate Spy Master
 * **Status:** alive
 * **Importance:** Supporting
-* **Disposition towards PC:** Neutral (likely views [[Vaelin Shadowleaf]] as a target for intelligence or a pawn if useful)
+* **Disposition towards PC:** Neutral (likely views [[Vaelin_Shadowleaf]] as a target for intelligence or a pawn if useful)
 
 ## II. Appearance
 ### Physical Description
@@ -61,11 +61,11 @@ Control through information, and personal profit.
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Operates primarily within the [[Docks]], but moves covertly throughout [[Duskhaven]] wherever intelligence is needed.
 * **Recent Events:** Might be currently trying to uncover the secrets of [[The Society]] or the true power behind the [[Nightshade Guild]].
-* **Relevant Quests:** A prime target for intercepting valuable intelligence; can be a source of highly sensitive information if [[Vaelin Shadowleaf]] can outwit or out-stealth him.
-* **Potential Plot Hooks:** The Shade might attempt to recruit [[Vaelin Shadowleaf]] into his espionage network; he could be a rival for information on a particular target; [[Vaelin Shadowleaf]] might intercept a message from The Shade that reveals a major [[Harbor Syndicate]] plot.
+* **Relevant Quests:** A prime target for intercepting valuable intelligence; can be a source of highly sensitive information if [[Vaelin_Shadowleaf]] can outwit or out-stealth him.
+* **Potential Plot Hooks:** The Shade might attempt to recruit [[Vaelin_Shadowleaf]] into his espionage network; he could be a rival for information on a particular target; [[Vaelin_Shadowleaf]] might intercept a message from The Shade that reveals a major [[Harbor Syndicate]] plot.
 
 ## VIII. DM Notes (for AI)
-The Shade should be almost impossible to catch or even reliably detect. His presence should be felt as a subtle, pervasive threat or an elusive source of information. His [[Halfling]] traits (nimbleness, Lucky) are key to his elusiveness. Interaction with him should be a test of [[Vaelin Shadowleaf]]'s stealth and cunning.
+The Shade should be almost impossible to catch or even reliably detect. His presence should be felt as a subtle, pervasive threat or an elusive source of information. His [[Halfling]] traits (nimbleness, Lucky) are key to his elusiveness. Interaction with him should be a test of [[Vaelin_Shadowleaf]]'s stealth and cunning.
 
 ### ROT-13 Encoded Secrets
 Gur Funqr'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

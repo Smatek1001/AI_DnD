@@ -62,10 +62,10 @@ Security and advancement within the [[Nightshade Guild]].
 * **Current Location:** Stationed at the entrance or on nearby rooftops overlooking the [[Whispering Door]].
 * **Recent Events:** Has noticed a marked increase in suspicious activity near the [[Whispering Door]] following a recent [[Nightshade Guild]] heist.
 * **Relevant Quests:** Can be a source of ambient information regarding who comes and goes from the [[Whispering Door]], or who is currently under the [[Nightshade Guild]]'s surveillance.
-* **Potential Plot Hooks:** Kyssra might spot [[Vaelin Shadowleaf]] attempting to infiltrate the [[Nightshade Guild]]'s territory; she could be bribed or coerced into providing a distraction; she might be targeted by a rival faction seeking to bypass the [[Nightshade Guild]]'s security.
+* **Potential Plot Hooks:** Kyssra might spot [[Vaelin_Shadowleaf]] attempting to infiltrate the [[Nightshade Guild]]'s territory; she could be bribed or coerced into providing a distraction; she might be targeted by a rival faction seeking to bypass the [[Nightshade Guild]]'s security.
 
 ## VIII. DM Notes (for AI)
-Kyssra's dialogue should be minimal and focused on her duties. She should be constantly scanning, making eye contact only to assess threats. If [[Vaelin Shadowleaf]] is observed, her reaction should be quick and discreet, alerting [[Nightshade Guild]] members without drawing public attention. Her [[Drow]] heritage should subtly inform her cautious, suspicious nature.
+Kyssra's dialogue should be minimal and focused on her duties. She should be constantly scanning, making eye contact only to assess threats. If [[Vaelin_Shadowleaf]] is observed, her reaction should be quick and discreet, alerting [[Nightshade Guild]] members without drawing public attention. Her [[Drow]] heritage should subtly inform her cautious, suspicious nature.
 
 ### ROT-13 Encoded Secrets
 Xlffnen'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

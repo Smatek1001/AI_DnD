@@ -18,8 +18,8 @@ This document outlines the major, high-level narrative arcs and long-term object
 
 ## II. Major Story Beats / Milestones (High-Level)
 * **Arc 1: The Gathering Storm:** (e.g., "PC discovers initial hints of the [[BBEG_Name]]'s plot, gains first ally.")
-* **Arc 2: The Race Against Time:** (e.g., "[[Vaelin Shadowleaf|PC]] must retrieve XYZ artifact before the [[BBEG_Name]], facing direct opposition.")
-* **Arc 3: Confrontation & Resolution:** (e.g., "[[Vaelin Shadowleaf|PC]] faces the [[BBEG_Name]], climactic battle, consequences.")
+* **Arc 2: The Race Against Time:** (e.g., "[[Vaelin_Shadowleaf|PC]] must retrieve XYZ artifact before the [[BBEG_Name]], facing direct opposition.")
+* **Arc 3: Confrontation & Resolution:** (e.g., "[[Vaelin_Shadowleaf|PC]] faces the [[BBEG_Name]], climactic battle, consequences.")
 
 ## III. Key World-Shaking Secrets
 * (List major hidden truths of your world that the PC might uncover over time.)
@@ -27,9 +27,9 @@ This document outlines the major, high-level narrative arcs and long-term object
     * **Secret 2:** (e.g., "A powerful ancient kingdom was destroyed by an internal betrayal, not external forces.")
 
 ## IV. Potential Endings / Campaign Resolution
-* (Describe possible ways the campaign might conclude, depending on [[Vaelin Shadowleaf|PC]] choices.)
-    * **Triumphant Success:** (e.g., "[[BBEG_Name]] defeated, world saved, [[Vaelin Shadowleaf|PC]] becomes a hero.")
-    * **Pyrrhic Victory:** (e.g., "[[BBEG_Name]] defeated, but at great cost to the world or [[Vaelin Shadowleaf|PC]].")
+* (Describe possible ways the campaign might conclude, depending on [[Vaelin_Shadowleaf|PC]] choices.)
+    * **Triumphant Success:** (e.g., "[[BBEG_Name]] defeated, world saved, [[Vaelin_Shadowleaf|PC]] becomes a hero.")
+    * **Pyrrhic Victory:** (e.g., "[[BBEG_Name]] defeated, but at great cost to the world or [[Vaelin_Shadowleaf|PC]].")
     * **Partial Success / Ongoing Struggle:** (e.g., "[[BBEG_Name]] contained, but not truly defeated, leaving future threats.")
     * **Tragic/Failed Ending:** (e.g., "[[BBEG_Name]] wins, world is irrevocably changed for the worse.")
 

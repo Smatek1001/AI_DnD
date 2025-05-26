@@ -15,8 +15,8 @@ tags: ["#plot_ideas", "#brainstorm", "#future_seeds", "#dm_notes", "#campaign_pl
 This document is a collection of unassigned ideas, potential plot hooks, intriguing concepts, and "what if" scenarios that you (the player/DM) think might be interesting for the campaign's future. These are not necessarily formalized quests or [[NPCs]] yet, but rather raw creative input for the AI DM to draw upon when planning.
 
 ## I. Character-Specific Seeds (for [[PC_Name]])
-* (Idea related to [[Vaelin Shadowleaf|PC]]'s background, future goals, or relationships. e.g., "What if [[Vaelin Shadowleaf|PC]]'s long-lost sibling is actually a villain?")
-* (Another [[Vaelin Shadowleaf|PC]]-centric idea.)
+* (Idea related to [[Vaelin_Shadowleaf|PC]]'s background, future goals, or relationships. e.g., "What if [[Vaelin_Shadowleaf|PC]]'s long-lost sibling is actually a villain?")
+* (Another [[Vaelin_Shadowleaf|PC]]-centric idea.)
 
 ## II. World-Specific Hooks & Concepts
 * (General world event ideas. e.g., "A long-dormant volcano begins to stir.")
@@ -33,7 +33,7 @@ This document is a collection of unassigned ideas, potential plot hooks, intrigu
 * (Ideas for interesting places to explore. e.g., "A floating island dungeon built by ancient giants.")
 
 ## VI. Random Encounters/Side Quests
-* (Quick ideas for minor diversions or interesting encounters. e.g., "[[Vaelin Shadowleaf|PCs]] encounter a traveling circus with a dark secret.")
+* (Quick ideas for minor diversions or interesting encounters. e.g., "[[Vaelin_Shadowleaf|PCs]] encounter a traveling circus with a dark secret.")
 
 ## VII. General "What If" Questions
 * (Broad questions to ponder that could spark plot. e.g., "What if the main villain isn't truly evil, but misguided?")

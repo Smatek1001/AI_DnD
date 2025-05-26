@@ -52,7 +52,7 @@ The [[Shaded Lantern]] has existed in the [[Veil]] for generations, passed down 
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Avoids direct conflict, but is aware of the tensions between the [[Nightshade Guild]] and [[Harbor Syndicate]], often having to adjust its operations to bypass their disputes.
 * **Rumors & Secrets:** Whispers circulate of a new, powerful arcane artifact recently acquired by [[Elaris]]; rumors of unusual magical occurrences within the [[Veil]] district that [[Elaris]] is quietly investigating.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might seek a rare magical component for a ritual; [[Elaris]] might offer a quest to retrieve a lost arcane text; a powerful individual might be targeting the [[Shaded Lantern]] for its wares, requiring [[Vaelin Shadowleaf]]'s intervention.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might seek a rare magical component for a ritual; [[Elaris]] might offer a quest to retrieve a lost arcane text; a powerful individual might be targeting the [[Shaded Lantern]] for its wares, requiring [[Vaelin_Shadowleaf]]'s intervention.
 
 ## VIII. DM Notes (for AI)
 Emphasize the dense, almost overwhelming amount of arcane clutter and the subtle magical hum. [[Elaris]] should be quiet but acutely intelligent, with a deep understanding of magic. [[Lyra]] should be observant and quick.

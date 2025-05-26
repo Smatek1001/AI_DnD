@@ -84,8 +84,8 @@ tags: ["#player_character", "#rogue", "#spy", "#high_elf", "#grimdark", "#noir_p
 
 ### Class Features (Rogue Level 1):
 * **Expertise:** You have Expertise in **Stealth** and **Thieves' Tools**. Your proficiency bonus is doubled for any ability check you make that uses either of these proficiencies.
-* **Sneak Attack (1d6):** See main [[_DM_Instructions/DM Instructions|DM Instructions]] for details.
-* **Thieves' Cant:** See main [[_DM_Instructions/DM Instructions|DM Instructions]] for details.
+* **Sneak Attack (1d6):** See main [[_DM_Instructions/DM_Instructions|DM_Instructions]] for details.
+* **Thieves' Cant:** See main [[_DM_Instructions/DM_Instructions|DM_Instructions]] for details.
 
 ### Background Feature (Spy):
 * **Criminal Contact:** You have a reliable contact who can get messages to and from you, or who can get you illegal goods and arrange a meeting with other criminals.

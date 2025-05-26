@@ -62,7 +62,7 @@ Greed and control.
 * **Current Location:** Primarily at the [[Crow's Nest]], overseeing his operations.
 * **Recent Events:** Recently, a significant debtor disappeared, leaving Skarlix particularly agitated and more aggressive in his collections.
 * **Relevant Quests:** Could be a source of information on [[Docks]]' underworld dealings, or a target for a retrieval/sabotage mission against the [[Harbor Syndicate]].
-* **Potential Plot Hooks:** Skarlix could offer a desperate [[Vaelin Shadowleaf]] a "loan" with impossible terms; he might put a bounty on the missing debtor, leading [[Vaelin Shadowleaf]] into a deeper mystery; he could be a source of conflict if the PC interferes with his collections.
+* **Potential Plot Hooks:** Skarlix could offer a desperate [[Vaelin_Shadowleaf]] a "loan" with impossible terms; he might put a bounty on the missing debtor, leading [[Vaelin_Shadowleaf]] into a deeper mystery; he could be a source of conflict if the PC interferes with his collections.
 
 ## VIII. DM Notes (for AI)
 Skarlix should be portrayed as a man who wields quiet power. His threats are rarely loud but always carry weight. He should have [[Brak]] nearby for any physical enforcement. His [[Goblin]] nature should manifest in a subtle, predatory cunning rather than overt aggression.

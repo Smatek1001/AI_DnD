@@ -54,10 +54,10 @@ The [[Rusty Anchor]] has been a fixture of the [[Docks]] for generations, passed
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** While generally peaceful, underlying tensions between [[Harbor Syndicate]] and [[Nightshade Guild]] members occasionally threaten the truce, requiring [[Greta "Mama" Stoneheart|Greta's]] firm intervention.
 * **Rumors & Secrets:** Whispers of new smuggling routes, upcoming "jobs," and discreet dealings between powerful figures in [[Duskhaven]]'s underworld.
-* **Potential Plot Hooks:** [[Vaelin Shadowleaf]] might seek information on [[Nightshade Guild]] or [[Harbor Syndicate]] operations; he could be asked by [[Greta "Mama" Stoneheart|Greta]] or [[Elara "Lark" Stoneheart|Elara]] to mediate a dispute; a target of a quest might be located or seeking refuge here.
+* **Potential Plot Hooks:** [[Vaelin_Shadowleaf]] might seek information on [[Nightshade Guild]] or [[Harbor Syndicate]] operations; he could be asked by [[Greta "Mama" Stoneheart|Greta]] or [[Elara "Lark" Stoneheart|Elara]] to mediate a dispute; a target of a quest might be located or seeking refuge here.
 
 ## VIII. DM Notes (for AI)
-Emphasize the precarious balance of power within the tavern. [[Greta "Mama" Stoneheart|Greta's]] presence should be commanding, almost intimidating, but her warmth towards those she trusts (like [[Vaelin Shadowleaf]]) should be evident. [[Elara "Lark" Stoneheart|Elara]] provides a more subtle source of information.
+Emphasize the precarious balance of power within the tavern. [[Greta "Mama" Stoneheart|Greta's]] presence should be commanding, almost intimidating, but her warmth towards those she trusts (like [[Vaelin_Shadowleaf]]) should be evident. [[Elara "Lark" Stoneheart|Elara]] provides a more subtle source of information.
 
 ### ROT-13 Encoded Secrets
 Gur "efgly napube" vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

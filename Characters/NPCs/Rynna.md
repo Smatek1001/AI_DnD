@@ -62,10 +62,10 @@ Profit and the security that comes with it.
 * **Current Location:** Primarily at the [[Whispering Door]], specifically her locked loft.
 * **Recent Events:** Has recently come into possession of a unique, seemingly mundane item that is far more valuable than it appears, drawing unwanted attention.
 * **Relevant Quests:** A primary contact for selling stolen goods or acquiring rare items; can offer specific information on [[Nightshade Guild]] targets or rival operations for the right price.
-* **Potential Plot Hooks:** Rynna might require [[Vaelin Shadowleaf]]'s help in acquiring a difficult item or securing a sensitive transaction; she might become a target for a rival faction seeking to disrupt the [[Nightshade Guild]]'s finances; she could offer [[Vaelin Shadowleaf]] a quest related to a particularly valuable magical artifact.
+* **Potential Plot Hooks:** Rynna might require [[Vaelin_Shadowleaf]]'s help in acquiring a difficult item or securing a sensitive transaction; she might become a target for a rival faction seeking to disrupt the [[Nightshade Guild]]'s finances; she could offer [[Vaelin_Shadowleaf]] a quest related to a particularly valuable magical artifact.
 
 ## VIII. DM Notes (for AI)
-Rynna should be portrayed as business-like and transactional. She's not easily impressed or swayed by emotional appeals. Her interactions with [[Vaelin Shadowleaf]] should be purely professional unless he proves exceptionally valuable. She will use coded language in public. Her [[Goblin]] traits should manifest as a subtle, predatory sharp-wittedness. Her increased paranoia under [[Vrenna]]'s pressure should be evident.
+Rynna should be portrayed as business-like and transactional. She's not easily impressed or swayed by emotional appeals. Her interactions with [[Vaelin_Shadowleaf]] should be purely professional unless he proves exceptionally valuable. She will use coded language in public. Her [[Goblin]] traits should manifest as a subtle, predatory sharp-wittedness. Her increased paranoia under [[Vrenna]]'s pressure should be evident.
 
 ### ROT-13 Encoded Secrets
 Elana vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

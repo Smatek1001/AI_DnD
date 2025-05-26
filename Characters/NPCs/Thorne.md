@@ -1,22 +1,35 @@
 ---
-last_updated: "2025-05-25 23:50:57"
-type: "NPC"
-name: "Thorne"
+last_updated: 2025-05-25 23:50:57
+type: NPC
+name: Thorne
 aliases: []
 status: alive
-race: "Human"
-gender: "Male"
-alignment: "Lawful Evil"
-occupation: "Nightshade Guild Elder (Espionage)"
-importance: "Supporting"
-disposition_to_pc: "Wary"
-faction: ["[[Nightshade Guild]]"]
+race: Human
+gender: Male
+alignment: Lawful Evil
+occupation: Nightshade Guild Elder (Espionage)
+importance: Supporting
+disposition_to_pc: Wary
+faction:
+  - "[[Nightshade Guild]]"
 location: "[[Veil]]"
-connections: ["[[Rynna]]", "[[Vaelin Shadowleaf]]"]
-employer: "[[Nightshade Guild]]" # (NEW)
-is_quest_giver_for: [] # (NEW)
-associated_items: [] # (NEW)
-tags: ["#guild_elder", "#espionage", "#criminal", "#human", "#master_spy", "#supporting_npc", "#calculating", "#sadistic", "#veil", "#wary_npc"] # (NEW/ENHANCED)
+connections:
+  - "[[Rynna]]"
+  - "[[Vaelin_Shadowleaf]]"
+employer: "[[Nightshade Guild]]"
+is_quest_giver_for: []
+associated_items: []
+tags:
+  - "#guild_elder"
+  - "#espionage"
+  - "#criminal"
+  - "#human"
+  - "#master_spy"
+  - "#supporting_npc"
+  - "#calculating"
+  - "#sadistic"
+  - "#veil"
+  - "#wary_npc"
 ---
 # Thorne
 
@@ -28,7 +41,7 @@ tags: ["#guild_elder", "#espionage", "#criminal", "#human", "#master_spy", "#sup
 * **Occupation:** Nightshade Guild Elder (overseeing espionage)
 * **Status:** alive
 * **Importance:** Supporting
-* **Disposition towards PC:** Wary (distrusts [[Vaelin Shadowleaf]] but sees his potential)
+* **Disposition towards PC:** Wary (distrusts [[Vaelin_Shadowleaf]] but sees his potential)
 
 ## II. Appearance
 ### Physical Description
@@ -36,7 +49,7 @@ Thorne is a lean [[Human]] man in his 40s. His close-cropped dark hair and cold 
 
 ## III. Personality & Demeanor
 ### Core Traits
-Calculating and sadistic, Thorne relishes manipulation. His [[Human]] versatility makes him a master spy. He distrusts [[Vaelin Shadowleaf]] but sees his potential. He is patient and observes more than he speaks.
+Calculating and sadistic, Thorne relishes manipulation. His [[Human]] versatility makes him a master spy. He distrusts [[Vaelin_Shadowleaf]] but sees his potential. He is patient and observes more than he speaks.
 ### Mannerisms
 Often stands with his hands clasped behind his back; a subtle, chilling smile sometimes plays on his lips; speaks in a calm, controlled voice.
 ### Ideal & Flaw
@@ -61,11 +74,11 @@ Power through knowledge and manipulation.
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Operates from hidden offices or meeting points within the [[Veil]] district, often near the [[Whispering Door]].
 * **Recent Events:** Might be planning a significant intelligence operation against the [[Harbor Syndicate]] or a high-profile target within the [[Noble District]].
-* **Relevant Quests:** Can be a source of dangerous espionage missions for [[Vaelin Shadowleaf]], where [[Vaelin Shadowleaf]] might be tasked to gather intel or infiltrate a rival organization; potentially holds information that could be leveraged.
-* **Potential Plot Hooks:** Thorne might subtly try to recruit or test [[Vaelin Shadowleaf]], seeing his potential for espionage; [[Vaelin Shadowleaf]] could stumble upon one of Thorne's covert operations, putting him at risk; Thorne might order a difficult intelligence extraction that challenges [[Vaelin Shadowleaf]]'s skills.
+* **Relevant Quests:** Can be a source of dangerous espionage missions for [[Vaelin_Shadowleaf]], where [[Vaelin_Shadowleaf]] might be tasked to gather intel or infiltrate a rival organization; potentially holds information that could be leveraged.
+* **Potential Plot Hooks:** Thorne might subtly try to recruit or test [[Vaelin_Shadowleaf]], seeing his potential for espionage; [[Vaelin_Shadowleaf]] could stumble upon one of Thorne's covert operations, putting him at risk; Thorne might order a difficult intelligence extraction that challenges [[Vaelin_Shadowleaf]]'s skills.
 
 ## VIII. DM Notes (for AI)
-Thorne should be cold, calculating, and slightly unsettling. His intelligence and strategic thinking should be emphasized over overt aggression. His interactions with [[Vaelin Shadowleaf]] should feel like a chess match, with Thorne always probing and assessing.
+Thorne should be cold, calculating, and slightly unsettling. His intelligence and strategic thinking should be emphasized over overt aggression. His interactions with [[Vaelin_Shadowleaf]] should feel like a chess match, with Thorne always probing and assessing.
 
 ### ROT-13 Encoded Secrets
 Guebar'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

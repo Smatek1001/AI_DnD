@@ -62,7 +62,7 @@ Self-preservation and a desire for stability.
 * **Current Location:** Stationed at various vantage points around the [[Whispering Door]], particularly where arcane activity might be a concern.
 * **Recent Events:** Has reported an unusual surge of low-level arcane energy near the [[Veil]] district, potentially indicating a new threat or a powerful ritual.
 * **Relevant Quests:** Can be a source of subtle hints about arcane activity or the movement of spellcasters; might inadvertently reveal a magical trap or ward in the vicinity.
-* **Potential Plot Hooks:** Jib might be the first to notice a powerful spellcaster attempting to infiltrate the [[Nightshade Guild]]'s territory; [[Vaelin Shadowleaf]] might need to exploit Jib's nervous nature to bypass his watch; Jib could be a target for a rival faction seeking to neutralize the [[Nightshade Guild]]'s magical detection capabilities.
+* **Potential Plot Hooks:** Jib might be the first to notice a powerful spellcaster attempting to infiltrate the [[Nightshade Guild]]'s territory; [[Vaelin_Shadowleaf]] might need to exploit Jib's nervous nature to bypass his watch; Jib could be a target for a rival faction seeking to neutralize the [[Nightshade Guild]]'s magical detection capabilities.
 
 ## VIII. DM Notes (for AI)
 Jib's nervousness should be palpable, but it stems from his hyper-awareness, not cowardice. His observations might be delivered in a rapid, almost frantic manner. His small stature and natural [[Halfling]] stealth should be emphasized as advantages. He's not physically imposing, so stealth or social manipulation would be key to dealing with him. His sensitivity to magic should be a recurring, subtle element.
