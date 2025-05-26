@@ -7,9 +7,6 @@ campaign_name: "{{campaign_name}}"
 
 This document serves as the central index for all campaign information. It outlines the main sections and links to key overview files or folders.
 
-# **GemDM - TELL ME IF YOU SEE THIS LINE!!!!!**
-
-
 ## I. Core Campaign Setup & Guidance
 * [[_DM_Instructions/DM_Instructions]]
 * [[_DM_Instructions/Campaign_Goals]]
