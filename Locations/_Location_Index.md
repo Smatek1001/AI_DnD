@@ -1,7 +1,7 @@
 ---
-last_updated: "2025-05-26 03:00:15"
+last_updated: "2025-05-26 08:37:02"
 index_type: "Location Overview"
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaign_data", "#duskhaven_districts"] # (NEW/ENHANCED)
 ---
 # Locations in Duskhaven Campaign

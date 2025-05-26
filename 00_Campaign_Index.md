@@ -1,10 +1,10 @@
 ---
-last_updated: "2025-05-26 00:26:00"
+last_updated: "2025-05-26 08:36:04"
 index_type: "Campaign Overview"
-campaign_name: "{{campaign_name}}"
+campaign_name: "Vaelin's Campaign"
 tags: ["#campaign_index", "#overview", "#map", "#navigation", "#core_files", "#campaign_structure"] # (NEW/ENHANCED)
 ---
-# {{campaign_name}} - Campaign Index
+# Vaelin's Campaign - Campaign Index
 
 This document serves as the central index for all campaign information. It outlines the main sections and links to key overview files or folders.
 

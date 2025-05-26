@@ -1,6 +1,6 @@
 ---
 last_updated: "2025-05-26 07:11:55"
-campaign_name: "Duskhaven Campaign"
+campaign_name: "Vaelin's Campaign"
 current_in_game_date: "" # To be filled in at the start of a canonical session
 days_passed_since_campaign_start: 0
 last_session_summary: "Vaelin successfully completed a non-canonical dream heist, infiltrating Lord Varyn's manor, overcoming an Arcane Lock, and acquiring a gilded music box without detection."
