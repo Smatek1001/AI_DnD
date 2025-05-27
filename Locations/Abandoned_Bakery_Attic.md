@@ -70,7 +70,7 @@ Nestled above a derelict bakery in [[Duskhaven]]’s [[Shadow Quarter]], [[Vaeli
 * **Ritual Circle:** Chalk-drawn, surrounded by stones, a vial, a feather, and amulet symbols. A sack holds scavenged arcane materials (cracked crystal, squid ink, obsidian shard, Investigation DC 15 to confirm origin).
 * **Finch’s Access:** [[Finch]] enters/leaves undetected, bypassing traps. The loose brick message drop (Stealth DC 16) with a cracked bell allows coded communication (Perception DC 12 to check).
 * **Ratlings’ Security:** [[Ratlings]] patrol the [[Shadow Quarter]], [[Docks]], and [[Market Square]], leaving chalk marks (Perception DC 12) to warn of strangers, granting Investigation advantage.
-* **Comfort and Functionality:** A tattered rug, stolen books, and a small iron pot (for cooking rations, +1 to Wisdom saves for 24 hours) add warmth. Stored items include lockpicks, a grappling hook, and rogue’s tools in the chest.
+* **Comfort and Functionality:** A tattered rug, stolen books, and a small iron pot add warmth. Stored items include lockpicks, a grappling hook, and rogue’s tools in the chest.
 * **Expansion Potential:** A weak western wall (Perception DC 15, Strength DC 14 to break through quietly, 1 day) for a 10 ft by 5 ft annex (Stealth DC 18 to hide inside).
 
 ## IV. Notable NPCs
