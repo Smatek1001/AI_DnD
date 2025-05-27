@@ -31,7 +31,7 @@ class2_subclass:
 class2_spellcasting_ability:
 class2_spell_save_dc: 0
 class2_spell_attack_bonus: 0
-employer: "[[Factions/The_Society]]"
+employer: "[[Factions/The_Society|The Society]]"
 ---
 
 # Player Character: Vaelin Shadowleaf
@@ -80,8 +80,8 @@ employer: "[[Factions/The_Society]]"
 
 ### Class Features (Rogue Level 1):
 * **Expertise:** You have Expertise in **Stealth** and **Thieves' Tools**. Your proficiency bonus is doubled for any ability check you make that uses either of these proficiencies.
-* **Sneak Attack (1d6):** See main [[DM_Instructions]] for details.
-* **Thieves' Cant:** See main [[DM_Instructions]] for details.
+* **Sneak Attack (1d6):** See main [[DM_Instructions|DM Instructions]] for details.
+* **Thieves' Cant:** See main [[DM_Instructions|DM Instructions]] for details.
 
 ### Background Feature (Spy):
 * **Criminal Contact:** You have a reliable contact who can get messages to and from you, or who can get you illegal goods and arrange a meeting with other criminals.
@@ -112,19 +112,19 @@ A 5’11” High Elf Rogue, Vaelin Shadowleaf moves with the graceful precision 
 * Knowledge is the ultimate weapon.
 
 ### Bonds:
-* The shadowy secret society ([[Factions/The_Society]]) saved a lost soul; loyalty is unwavering.
-* [[Characters/NPCs/Talia_Whisper]] is like a big sister.
-* [[Characters/NPCs/Finch]] is like a little sister.
-* [[Characters/NPCs/Greta_Mama_Stoneheart]] is maternal figure.
-* [[Characters/NPCs/Elyndra]] is Vaelin's mentor within [[Factions/The_Society]].
+* The shadowy secret society ([[Factions/The_Society|The Society]]) saved a lost soul; loyalty is unwavering.
+* [[Characters/NPCs/Talia_Whisper|Talia "Whisper"]] is like a big sister.
+* [[Characters/NPCs/Finch|Finch]] is like a little sister.
+* [[Characters/NPCs/Greta_Mama_Stoneheart|Greta "Mama" Stoneheart]] is maternal figure.
+* [[Characters/NPCs/Elyndra|Elyndra]] is Vaelin's mentor within [[Factions/The_Society|The Society]].
 
 ### Flaws:
 * An obsession with arcane secrets leads to reckless risks.
 
 ### Background Summary:
-Vaelin Shadowleaf was born in [[Locations/Therandril]], a radiant high elf city of arcane splendor, its spires glowing with enchanted light and its halls filled with ancient wisdom. As a child, he witnessed its cataclysmic fall, triggered by a desperate pact with dragons—benevolent, neutral, and evil factions—that went awry, opening a rift to [[Lore/Cosmology/The_Nameless_Void]], a sanity-shattering cosmic horror. Amid blinding light and screams, Therandril collapsed, leaving Vaelin alone in Duskhaven’s grim streets, clutching a **silver leaf amulet** etched with cryptic runes and adorned with a sapphire, and bearing a **runic tattoo** across his chest that glows faintly near Therandril-linked magic. Orphaned, he survived by scavenging and theft until caught pickpocketing by [[Factions/The_Society]], a secretive organization that trained him as a spy. Grateful yet wary, Vaelin serves The Society’s enigmatic leaders, unaware of their role in Therandril’s destruction—a secret buried in their labyrinthine agenda. Driven by fragmented memories, he pursues arcane knowledge as a tool for thievery, a source of power, a key to his amulet and tattoo, and a bridge to Therandril’s lost past, navigating [[Locations/Duskhaven]]’s dangers and [[Factions/The_Cult]]’s Void-worshipping schemes.
+Vaelin Shadowleaf was born in [[Locations/Therandril|Therandril]], a radiant high elf city of arcane splendor, its spires glowing with enchanted light and its halls filled with ancient wisdom. As a child, he witnessed its cataclysmic fall, triggered by a desperate pact with dragons—benevolent, neutral, and evil factions—that went awry, opening a rift to [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]], a sanity-shattering cosmic horror. Amid blinding light and screams, Therandril collapsed, leaving Vaelin alone in Duskhaven’s grim streets, clutching a **silver leaf amulet** etched with cryptic runes and adorned with a sapphire, and bearing a **runic tattoo** across his chest that glows faintly near Therandril-linked magic. Orphaned, he survived by scavenging and theft until caught pickpocketing by [[Factions/The_Society|The Society]], a secretive organization that trained him as a spy. Grateful yet wary, Vaelin serves The Society’s enigmatic leaders, unaware of their role in Therandril’s destruction—a secret buried in their labyrinthine agenda. Driven by fragmented memories, he pursues arcane knowledge as a tool for thievery, a source of power, a key to his amulet and tattoo, and a bridge to Therandril’s lost past, navigating [[Locations/Duskhaven|Duskhaven]]’s dangers and [[Factions/The_Cult|The Cult]]’s Void-worshipping schemes.
 
-Vaelin Shadowleaf operates within [[Factions/The_Society]], a secretive organization cloaked in mystery, where neither he nor most members grasp its full scope. The Society functions as a labyrinth of veiled intentions, with only its enigmatic leaders holding the true knowledge of its goals. To Vaelin, it’s a shadowy benefactor that honed his skills as a thief and spy after a life of scavenging in [[Locations/Duskhaven]]’s grim streets. Yet, he questions the shadows he serves, driven by a compulsion for arcane knowledge. This pursuit is fueled by practical needs (magic as a thief’s tool), a belief that knowledge is power, enigmatic runes on his silver leaf amulet and chest tattoo, and fleeting memories of [[Locations/Therandril]], his lost elven home. These threads—practicality, philosophy, and personal mystery—draw Vaelin deeper into [[Locations/Duskhaven]]’s dangers, seeking answers that may illuminate or consume him.
+Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secretive organization cloaked in mystery, where neither he nor most members grasp its full scope. The Society functions as a labyrinth of veiled intentions, with only its enigmatic leaders holding the true knowledge of its goals. To Vaelin, it’s a shadowy benefactor that honed his skills as a thief and spy after a life of scavenging in [[Locations/Duskhaven|Duskhaven]]’s grim streets. Yet, he questions the shadows he serves, driven by a compulsion for arcane knowledge. This pursuit is fueled by practical needs (magic as a thief’s tool), a belief that knowledge is power, enigmatic runes on his silver leaf amulet and chest tattoo, and fleeting memories of [[Locations/Therandril|Therandril]], his lost elven home. These threads—practicality, philosophy, and personal mystery—draw Vaelin deeper into [[Locations/Duskhaven|Duskhaven]]’s dangers, seeking answers that may illuminate or consume him.
 
 ## VI. Current Status & Notes
 
@@ -155,4 +155,4 @@ Vaelin Shadowleaf operates within [[Factions/The_Society]], a secretive organiza
 * (Do you have a specific moral or ethical journey in mind? e.g., "Shift from lawful good to chaotic good," "Struggle with temptation to use dark powers," "Learn to trust others after a betrayal.")
 
 ### Important Relationships to Cultivate/Resolve:
-* (Are there specific NPCs or factions your character wants to build stronger ties with, reconcile with, or confront? e.g., "Befriend the reclusive sage [[Characters/NPCs/Elaris]]," "Resolve the conflict with my estranged sister," "Expose the corruption within the city guard.")
+* (Are there specific NPCs or factions your character wants to build stronger ties with, reconcile with, or confront? e.g., "Befriend the reclusive sage [[Characters/NPCs/Elaris|Elaris]]," "Resolve the conflict with my estranged sister," "Expose the corruption within the city guard.")
