@@ -12,7 +12,7 @@ This document serves as an index for all known creatures and monster species wit
 
 | Species | Category | Alignment | Habitat | CR |
 |---|---|---|---|---|
-| [[Flickerling]] | Fey | Unaligned | [[Feywild]], Planar Crossroads, Hidden Groves | 1/4 |
+| [[Flickerling]] | Fey | Unaligned | Feywild, Planar Crossroads, Hidden Groves | 1/4 |
 
 ---
 **Note to DM (AI):** This index provides a quick reference for all creatures. When searching for creature details, refer to their individual files. Remember to add specific named individuals (like [[Lirael]]) to your [[Characters/NPCs/_NPC_Index|NPC index]].

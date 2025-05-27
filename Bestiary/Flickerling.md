@@ -21,7 +21,7 @@ tags: ["#fey", "#familiar_species", "#scouting", "#espionage", "#tiny_creature",
 * **Category:** Fey
 * **Role/Purpose:** Tiny, mischievous fey creatures known for their ability to shapeshift into various animal forms, making them excellent scouts, spies, and stealthy companions. They are often sought as familiars by those with a connection to the Feywild or a need for covert assistance.
 * **Status:** active
-* **Owner:** [[Lirael]] (This is the specific named Flickerling in campaign)
+* **Owner:**
 
 ## II. Basic Stats / Common Form (Default Fey Form)
 * **Size**: Tiny
