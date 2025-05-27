@@ -14,6 +14,7 @@ This document serves as an index for all dream quests. Events in these quests ar
 |---|---|---|---|---|
 | [[The_Collector's_Trinket]] | Completed | Dream | Self | Dream Sewer Network |
 | [[The_Gilded_Heist]] | Completed | Dream | Self | Lord Varyn's Manor (High District) |
+| [[Dream_Heist_Elias_Curios]] | completed | espionage | Subconscious Urge / Unseen Influence | [[Dream_Missions/Dream_Locations/Elias_Curios_and_Sundries_Dream]] |
 
 ---
 **Note to DM (AI):** Remember that all dream quests are strictly non-canonical. No character changes or item acquisitions from these sessions should affect the main campaign.
