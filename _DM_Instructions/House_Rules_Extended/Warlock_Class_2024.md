@@ -84,7 +84,9 @@ As a Warlock, you gain the following class features when you reach the specified
 
 #### Level 1: Eldritch Invocations
 You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class's description.
+
 **Prerequisites.** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
+
 **Replacing and Gaining Invocations.** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have. When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table. You can't pick the same invocation more than once unless its description says otherwise.
 
 #### Level 1: Pact Magic
@@ -408,6 +410,3 @@ In addition, immediately after a creature you can see hits you with an attack ro
 (Any specific instructions for me, GemDM, on how to interpret edge cases, prioritize this rule, or integrate it with other existing rules. Also note if any parts of this rule are NOT being adopted.)
 * (e.g., "For the Pact of the Blade, ensure it aligns with House Rule X regarding weapon summoning.")
 * (e.g., "The 'Mystic Arcanum' feature listed here is adopted as written.")
-
----
-**Link in main House Rules:** Remember to add a link to this file from your primary [[_DM_Instructions/House_Rules|House Rules]] document.
