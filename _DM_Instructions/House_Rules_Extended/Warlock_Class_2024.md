@@ -46,18 +46,18 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 ### C. Becoming a Warlock
 
 #### As a Level 1 Character:
-- Gain all the traits in the Core Warlock Traits table.
-- Gain the Warlock's level 1 features, which are listed in the Warlock Features table.
+- Gain all the traits in the [[#A. Core Warlock Traits|Core Warlock Traits table]].
+- Gain the Warlock's level 1 features, which are listed in the [[#Warlock Features Table|Warlock Features table]].
 
 #### As a Multiclass Character:
-• Gain the following traits from the Core Warlock Traits table: Hit Point Die and training with Light armor.
-• Gain the Warlock's level 1 features, which are listed in the Warlock Features table. See the multiclassing rules to determine your available spell slots.
+• Gain the following traits from the [[#A. Core Warlock Traits|Core Warlock Traits table]]: Hit Point Die and training with Light armor.
+• Gain the Warlock's level 1 features, which are listed in the [[#Warlock Features Table|Warlock Features table]]. See the multiclassing rules to determine your available spell slots.
 
 ### D. Warlock Class Features
 
 As a Warlock, you gain the following class features when you reach the specified Warlock levels. These features are listed in the Warlock Features table.
 
-**Warlock Features Table**
+#### Warlock Features Table
 
 |Level | Proficiency Bonus | Class Features | Eldritch Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -83,7 +83,7 @@ As a Warlock, you gain the following class features when you reach the specified
 | 20 | +6 | Eldritch Master | 10 | 4 | 15 | 4 | 5 |
 
 #### Level 1: Eldritch Invocations
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class's description.
+You have unearthed [[#E. Eldritch Invocation Options|Eldritch Invocations]], pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class's description.
 
 **Prerequisites.** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
@@ -116,7 +116,7 @@ You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.
 You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a Long Rest.
 
 #### Level 3: Warlock Subclass
-You gain a Warlock subclass of your choice. The Archfey Patron, Celestial Patron, Fiend Patron, and Great Old One Patron subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain eldritch of your subclass's features that are of you Warlock level or lower.
+You gain a [[#G. Warlock Subclasses|Warlock subclass]] of your choice. The [[#Archfey Patron]], [[#Celestial Patron]], [[#Fiend Patron]], and [[#Great Old One Patron]] subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain eldritch of your subclass's features that are of you Warlock level or lower.
 
 #### Level 4. Ability Score Improvement
 You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
