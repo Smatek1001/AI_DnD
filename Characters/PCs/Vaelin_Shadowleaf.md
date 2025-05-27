@@ -155,15 +155,17 @@ Vaelin Shadowleaf operates within [[The Society]], a secretive organization cloa
 * Level Progression / Multi-classing
 	* My first level up will be to multi-class into Warlock
 	* I will continue to take levels in Warlock until 3-5
-	* Rogue (Assassin): Assassinate
-	    * story: trained in spy-craft for espionage and assassination
-	* Warlock (Archfey Patron): Pact of the Chain, Pact of the Tome
-	    * story: patron and/or familiar is a mentor for magic and arcane knowledge
-	* Ranger (Gloom Stalker) 5: Dread Ambusher, Umbral Sight, extra attack
-	    * story: learning espionage in wilderness areas
-	* Fighter 2: action surge
-	* Wizard (Illusionist)
-	* Artificer (Armorer)
+	* Desired Multi-classing:
+		* Rogue (Assassin): Assassinate
+		    * story: trained in spy-craft for espionage and assassination
+		* Warlock (Archfey Patron): Pact of the Chain, Pact of the Tome
+			* Vaelin's obsession with arcane mysteries and occult knowledge lean into this
+		    * story: patron and/or familiar is a mentor for magic and arcane knowledge
+		* Ranger (Gloom Stalker) 5: Dread Ambusher, Umbral Sight, extra attack
+		    * story: learning espionage in wilderness areas
+		* Fighter 2: action surge
+		* Wizard (Illusionist)
+		* Artificer (Armorer)
 * Languages: Goblin, Orcish, Deep Speech, Draconic, Sylvan
 
 ### Envisioned Character Arcs / Moral Shifts:
