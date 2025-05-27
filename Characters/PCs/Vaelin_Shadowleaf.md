@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 18:22:27"
+last_updated: "2025-05-26 20:36:49"
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -154,7 +154,7 @@ Vaelin Shadowleaf operates within [[The Society]], a secretive organization cloa
 ### Desired Mechanical Progression:
 * Level Progression / Multi-classing
 	* My first level up will be to multi-class into Warlock
-	* My next level up will be to take another level in Warlock
+	* I will continue to take levels in Warlock until 3-5
 	* Rogue (Assassin): Assassinate
 	    * story: trained in spy-craft for espionage and assassination
 	* Warlock (Archfey Patron): Pact of the Chain, Pact of the Tome
