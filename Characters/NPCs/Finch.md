@@ -57,7 +57,7 @@ Fidgets with a loose thread or a pebble when thinking; speaks in short, clipped 
 **Flaw:** "Her loyalty to her gang can sometimes blind her to larger threats or opportunities. She may hold back details to protect her [[Ratlings]] unless pressed."
 
 ## IV. Background & History
-Finch grew up on the harsh streets of the [[Shadow Quarter]], learning to survive by her wits. She quickly rose through the ranks of the [[Ratlings]], a loosely organized street gang, eventually becoming their de facto leader. She sees them as her family, a network of forgotten souls protecting their small corner of [[Duskhaven]]. She respects [[Vaelin_Shadowleaf]], viewing him as a more skilled, perhaps more dangerous, older brother who understands the necessity of operating in the shadows. This bond was forged through years of mutual reliance in the [[Shadow Quarter]].
+Finch grew up on the harsh streets of the [[Locations/Shadow_Quarter|Shadow Quarter]], learning to survive by her wits. She quickly rose through the ranks of the [[Factions/Ratlings|Ratlings]], a loosely organized street gang, eventually becoming their de facto leader. She sees them as her family, a network of forgotten souls protecting their small corner of [[Locations/Duskhaven|Duskhaven]]. She respects [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], viewing him as a more skilled, perhaps more dangerous, older brother who understands the necessity of operating in the shadows. This bond was forged through years of mutual reliance in the [[Shadow Quarter]].
 
 ## V. Goals & Motivations
 ### Short-term Goals

@@ -93,7 +93,7 @@ Flickerlings are native to the **Feywild**, a magical realm characterized by unt
 * **Weaknesses/Vulnerabilities:** While magically resistant, strong iron or cold iron weapons might bypass some of their defenses (DM discretion). Their mischievous nature can sometimes be exploited.
 
 ## VII. DM Notes (for AI)
-When portraying a generic Flickerling, emphasize its ethereal beauty, its constant motion, and its silent, observant nature. Their presence should feel magical and slightly alien, contrasting with the grimdark setting of [[Duskhaven]]. Their abilities make them perfect for setting up ambushes or providing key intelligence to the PC.
+When portraying a generic Flickerling, emphasize its ethereal beauty, its constant motion, and its silent, observant nature. Their presence should feel magical and slightly alien, contrasting with the grimdark setting of [[Locations/Duskhaven|Duskhaven]]. Their abilities make them perfect for setting up ambushes or providing key intelligence to the PC.
 
 ### ROT-13 Encoded Secrets
 Sybpxreyvatf ner frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.
