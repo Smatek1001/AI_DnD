@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-25 23:52:15
+last_updated: "2025-05-26 22:38:19"
 type: Location
 name: Abandoned Bakery Attic
 aliases: []
