@@ -1,9 +1,9 @@
 ---
-last_updated: "2025-05-27 16:19:22"
+last_updated: "2025-05-27 16:20:27"
 rule_set: D&D 5e 2024
 category: Class
 name: Warlock Class (2024)
-status: active
+status: under_review
 source_document: PHB 2024 pg. 153-163
 supersedes: Warlock Class (PHB 2014 pg. 105-111)
 tags:

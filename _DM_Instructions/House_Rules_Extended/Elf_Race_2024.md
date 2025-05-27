@@ -1,9 +1,9 @@
 ---
-last_updated: "2025-05-27 15:57:32"
+last_updated: "2025-05-27 16:19:55"
 rule_set: D&D 5e 2024
 category: Race
 name: Elf Race (2024)
-status: under_review
+status: active
 source_document: PHB 2024 pg. 189-190
 supersedes: Elf Race (PHB 2014 pg. 21-24)
 tags:
