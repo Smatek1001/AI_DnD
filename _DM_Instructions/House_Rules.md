@@ -34,7 +34,8 @@ This document outlines any modifications, additions, or specific interpretations
 * **Rule 1:** Rogues may use Acrobatics (DEX) instead of Athletics (STR) for climbing.
 * **Rule 2:** Rogues who can cast Mage Hand use the Arcane Trickster version (Mage Hand Legerdemain).
 * **Rule 3:** Use the [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024|2024 version of Elves]].
-* **Rule 4:** Warlocks with the Pact of the Tome Invocation may add new spells to their Book of Shadows as if they had the Book of the Ancient Secrets Invocation, per the 2014 rules.
+* **Rule 4:** Use the [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|2024 version of Warlocks]].
+* **Rule 5.** Warlocks with the Pact of the Tome Invocation may add new spells to their Book of Shadows as if they had the Book of the Ancient Secrets Invocation, per the 2014 rules.
 
 ---
 **Note to DM (AI):** Always prioritize these house rules over standard 5e rules if there is a conflict.
