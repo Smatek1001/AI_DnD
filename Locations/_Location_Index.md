@@ -13,7 +13,7 @@ tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaig
 | [[Abandoned Bakery Attic]] | Hideout | [[Shadow Quarter]] | [[Vaelin Shadowleaf]], [[Finch]] |
 | [[Beyond Duskhaven]] | Outside City | N/A | [[Farmer Gildas]] (Dream-Only) |
 | [[Crow's Nest]] | Tavern | [[Docks]] | [[Skarlix]], [[Brak]] |
-| [[Drunken Raven]] | Tavern | [[Shadow Quarter]] | [[Talia "Whisper"]], [[Tarren]] |
+| [[Drunken_Raven]] | Tavern | [[Shadow Quarter]] | [[Talia "Whisper"]], [[Tarren]] |
 | [[Duskhaven]] | City | N/A | (See Duskhaven.md for full list) |
 | [[Market Square]] | District | [[Duskhaven]] | [[Mira "Quickfingers"]], [[Garrick Stonehand]] |
 | [[Noble District]] | District | [[Duskhaven]] | [[Lord Varyn]], [[Silas "Inkfinger"]] |
@@ -23,7 +23,7 @@ tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaig
 | [[Sewer Network]] | Tunnels | Citywide | None (various criminals/creatures) |
 | [[Shaded Lantern]] | Arcane Shop | [[Veil]] | [[Elaris]], [[Lyra]] |
 | [[Shadow Quarter]] | District | [[Shadow Quarter]] | [[Finch]], [[Ratlings]] (group), [[Vaelin Shadowleaf]], [[Talia "Whisper"]] |
-| [[Starfall Manor]] | Society Base | [[High District]] | [[Elyndra]] |
+| [[Starfall_Manor]] | Society Base | [[High District]] | [[Elyndra]] |
 | [[Syndicate Warehouse]] | Hideout | [[Docks]] | [[The Anchor]], [[Korgal Iron Fist]], [[The Forger]], [[Skrix]], [[The Shade]] |
 | [[Therandril]] | Lost City | Unknown | None (echoes of past) |
 | [[Veil]] | District | [[Duskhaven]] | [[The Wraith]], [[Thorne]], [[Mara]], [[Vrenna]], [[Elaris]], [[Lyra]], [[Rynna]], [[Kyssra]], [[Jib]] |

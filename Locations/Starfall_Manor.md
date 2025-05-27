@@ -32,7 +32,7 @@ tags: ["#society_base", "#high_district", "#covert_operations", "#secretive", "#
 
 ## III. Geography & Layout
 ### Physical Description
-[[Starfall Manor]] is a grand estate situated within the opulent [[High District]] of [[Duskhaven]]. Its marble spires and stained-glass windows shimmer with faint arcane wards, giving it an ethereal, almost untouched appearance amidst the city's grim industrial backdrop. Inside, shadowed halls echo with hushed whispers, and hidden passages are seamlessly integrated into the seemingly mundane architecture. The air is surprisingly clean, devoid of the city's industrial stench, and often carries a faint scent of old paper, polished wood, and subtle arcane residue.
+[[Starfall_Manor]] is a grand estate situated within the opulent [[High District]] of [[Duskhaven]]. Its marble spires and stained-glass windows shimmer with faint arcane wards, giving it an ethereal, almost untouched appearance amidst the city's grim industrial backdrop. Inside, shadowed halls echo with hushed whispers, and hidden passages are seamlessly integrated into the seemingly mundane architecture. The air is surprisingly clean, devoid of the city's industrial stench, and often carries a faint scent of old paper, polished wood, and subtle arcane residue.
 ### Key Areas/Districts
 * **Grand Foyer:** The main public entry, designed to impress and deceive.
 * **Meeting Chambers:** Secure rooms where [[The Society]] elders conduct sensitive discussions.
@@ -49,7 +49,7 @@ tags: ["#society_base", "#high_district", "#covert_operations", "#secretive", "#
 * **Other Services:** Central coordination for [[The Society]]'s missions, research into arcane secrets, and training of its operatives.
 
 ## VI. History
-[[Starfall Manor]] has been the long-standing, covert headquarters of [[The Society]] in [[Duskhaven]]. Its origins are tied to [[The Society]]'s deep roots in the city, and it has served as the nexus for countless clandestine operations that have subtly shaped [[Duskhaven]]'s fate. Its very existence is a testament to [[The Society]]'s power and secrecy.
+[[Starfall_Manor]] has been the long-standing, covert headquarters of [[The Society]] in [[Duskhaven]]. Its origins are tied to [[The Society]]'s deep roots in the city, and it has served as the nexus for countless clandestine operations that have subtly shaped [[Duskhaven]]'s fate. Its very existence is a testament to [[The Society]]'s power and secrecy.
 
 ## VII. Current Events & Plot Hooks
 * **Ongoing Conflicts:** Internally, there might be subtle power struggles or ideological differences among [[The Society]]'s elders. Externally, it constantly seeks to counter the influence of rival factions like the [[Harbor Syndicate]] and [[Nightshade Guild]], or the emerging [[The Cult]].
@@ -57,7 +57,7 @@ tags: ["#society_base", "#high_district", "#covert_operations", "#secretive", "#
 * **Potential Plot Hooks:** [[Elyndra]] might assign [[Vaelin_Shadowleaf]] a high-level, sensitive mission originating from the Manor; [[Vaelin_Shadowleaf]] could seek access to its arcane library for information on his past or [[Therandril]]; the Manor itself might come under threat from an external force, requiring [[Vaelin_Shadowleaf]] to defend it. [[Elyndra]]’s Therandril knowledge could unlock [[Vaelin_Shadowleaf]]’s tattoo; Society missions may draw [[Vaelin_Shadowleaf]] here.
 
 ## VIII. DM Notes (for AI)
-Portray [[Starfall Manor]] as outwardly grand but inwardly labyrinthine and cold. The atmosphere should be one of deep secrets and quiet power. Every interaction should feel like it has layers of hidden meaning. The NPCs here are highly intelligent and discreet.
+Portray [[Starfall_Manor]] as outwardly grand but inwardly labyrinthine and cold. The atmosphere should be one of deep secrets and quiet power. Every interaction should feel like it has layers of hidden meaning. The NPCs here are highly intelligent and discreet.
 
 ### ROT-13 Encoded Secrets
 Fgnesnyy Znab'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

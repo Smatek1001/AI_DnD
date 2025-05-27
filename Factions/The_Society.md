@@ -6,7 +6,7 @@ aliases: []
 status: active
 alignment: Lawful Neutral
 size: Large
-headquarters: "[[Starfall Manor]]"
+headquarters: "[[Starfall_Manor]]"
 leader: Shadowy Council
 goals:
   - Manipulate Duskhaven's elite
@@ -39,7 +39,7 @@ tags:
 * **Status:** active
 * **Alignment:** Lawful Neutral
 * **Size:** Large (hundreds to thousands of members/influence)
-* **Headquarters:** [[Starfall Manor]]
+* **Headquarters:** [[Starfall_Manor]]
 * **Leader(s):** A shadowy council
 * **Primary Goals:** To manipulate [[Duskhaven]]’s elite and influence events from the shadows, pursuing a deeper, obscured agenda.
 * **Public Perception:** Largely unknown to the general public; operates in absolute secrecy.

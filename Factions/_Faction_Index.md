@@ -12,12 +12,12 @@ This document serves as an index for all known factions and organizations within
 
 | Faction | Alignment | Leader(s) | Primary Headquarters |
 |---|---|---|---|
-| [[The Society]] | Lawful Neutral | Shadowy Council | [[Starfall Manor]] |
-| [[Nightshade Guild]] | Neutral Evil | [[The Wraith]] | [[Whispering Door]] |
-| [[Harbor Syndicate]] | Lawful Evil | [[The Anchor]] | [[Syndicate Warehouse]] |
-| [[The Cult]] | Chaotic Evil | Unknown Leaders | Hidden lairs |
-| [[Ebon Web Syndicate]] | Lawful Evil | Drow Matriarchs | [[Sewer Network]] (hidden passage to Underdark) |
-| [[Ratlings]] | Chaotic Neutral | [[Finch]] | No formal headquarters (operate from [[Shadow Quarter]]) |
+| [[The_Society]] | Lawful Neutral | Shadowy Council | [[Starfall_Manor]] |
+| [[Nightshade_Guild]] | Neutral Evil | [[The_Wraith]] | [[Whispering_Door]] |
+| [[Harbor_Syndicate]] | Lawful Evil | [[The_Anchor]] | [[Syndicate_Warehouse]] |
+| [[The_Cult]] | Chaotic Evil | Unknown Leaders | Hidden lairs |
+| [[Ebon_Web_Syndicate]] | Lawful Evil | Drow Matriarchs | [[Sewer_Network]] (hidden passage to Underdark) |
+| [[Ratlings]] | Chaotic Neutral | [[Finch]] | No formal headquarters (operate from [[Shadow_Quarter]]) |
 
 ---
 **Note to DM (AI):** This index provides a quick reference for all factions. When searching for faction details, refer to their individual files.

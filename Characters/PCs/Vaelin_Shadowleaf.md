@@ -1,12 +1,13 @@
 ---
-last_updated: "2025-05-25 17:11:28" # Assuming you want to keep the original last_updated for now, or you can update it.
-# YAML Frontmatter: Core Character Data
-name: "Vaelin Shadowleaf"
-alias: [Vaelin]
-race: "Elf"
-subrace: "High Elf"
-background: "Spy"
-alignment: "Neutral"
+last_updated: 2025-05-25 17:11:28
+name: Vaelin Shadowleaf
+aliases:
+  - Vaelin
+  - Vaelin Shadowleaf
+race: Elf
+subrace: High Elf
+background: Spy
+alignment: Neutral
 level: 1
 xp: 0
 status: active
@@ -15,20 +16,18 @@ max_hp: 8
 temp_hp: 0
 armor_class: 14
 passive_perception: 11
-initiative_mod: 3 # Based on Dexterity modifier
+initiative_mod: 3
 speed: 30ft
-# Class Breakdown (for multi-class characters)
-class1_name: "Rogue"
+class1_name: Rogue
 class1_level: 1
-class1_subclass: "" # To be chosen at level 3
+class1_subclass: ""
 class1_spellcasting_ability: ""
 class1_spell_save_dc: 0
 class1_spell_attack_bonus: 0
-
-class2_name:
+class2_name: 
 class2_level: 0
-class2_subclass:
-class2_spellcasting_ability:
+class2_subclass: 
+class2_spellcasting_ability: 
 class2_spell_save_dc: 0
 class2_spell_attack_bonus: 0
 employer: "[[Factions/The_Society|The Society]]"

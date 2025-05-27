@@ -16,7 +16,7 @@ This document serves as an index for all notable Non-Player Characters encounter
 | [[Brak]] | Half-Orc | Syndicate Thug / Enforcer | [[Harbor Syndicate]] | [[Crow's Nest]] |
 | [[Elara "Lark" Stoneheart]] | Human | Tavern Server / Informant | None | [[Rusty Anchor]] |
 | [[Elaris]] | Elf | Arcane Sage | Independent | [[Shaded Lantern]] |
-| [[Elyndra]] | High Elf | Society Elder / Vaelin's Mentor | [[The Society]] | [[Starfall Manor]] |
+| [[Elyndra]] | High Elf | Society Elder / Vaelin's Mentor | [[The Society]] | [[Starfall_Manor]] |
 | [[Farmer Gildas]] | Human | Farmer | None | [[Beyond Duskhaven]] |
 | [[Finch]] | Human | Leader of the Ratlings | [[Ratlings]] | [[Shadow Quarter]] |
 | [[The Forger]] | Human | Master Forger / Document Faker | [[Harbor Syndicate]] | [[Docks]] |
@@ -33,8 +33,8 @@ This document serves as an index for all notable Non-Player Characters encounter
 | [[Rynna]] | Goblin | Nightshade Guild Fence | [[Nightshade Guild]] | [[Whispering Door]] |
 | [[Skarlix]] | Goblin | Harbor Syndicate Loan Shark | [[Harbor Syndicate]] | [[Crow's Nest]] |
 | [[Skrix]] | Goblin | Harbor Syndicate Courier | [[Harbor Syndicate]] | [[Syndicate Warehouse]] |
-| [[Talia "Whisper"]] | Human | Society Operative / Mission Contact | [[The Society]] | [[Drunken Raven]] |
-| [[Tarren]] | Human | Tavern Bouncer | [[The Society]] | [[Drunken Raven]] |
+| [[Talia "Whisper"]] | Human | Society Operative / Mission Contact | [[The Society]] | [[Drunken_Raven]] |
+| [[Tarren]] | Human | Tavern Bouncer | [[The Society]] | [[Drunken_Raven]] |
 | [[Thorne]] | Human | Nightshade Guild Elder (Espionage) | [[Nightshade Guild]] | [[Veil]] |
 | [[Vrenna]] | Drow | Nightshade Guild Elder (Heists) | [[Nightshade Guild]] | [[Whispering Door]] |
 | [[The Wraith]] | Drow | Guildmaster of the Nightshade Guild | [[Nightshade Guild]] | [[Veil]] |

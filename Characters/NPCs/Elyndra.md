@@ -12,7 +12,7 @@ importance: Pivotal
 disposition_to_pc: Neutral
 faction:
   - "[[The Society]]"
-location: "[[Starfall Manor]]"
+location: "[[Starfall_Manor]]"
 connections:
   - "[[Vaelin_Shadowleaf]]"
   - "[[Therandril]]"
@@ -75,7 +75,7 @@ Duty and allegiance to [[The Society]]'s grand, unseen purpose, coupled with a d
 * **Other Affiliations:** Potentially has covert connections with other powerful, secretive organizations or individuals outside of [[Duskhaven]], if it serves [[The Society]]'s aims.
 
 ## VII. Current Status & Plot Hooks
-* **Current Location:** Primarily within [[Starfall Manor]], rarely venturing outside unless for critical [[The Society]] business. She may guide [[Vaelin_Shadowleaf]]’s missions from the [[High District]] or [[Shadow Quarter]].
+* **Current Location:** Primarily within [[Starfall_Manor]], rarely venturing outside unless for critical [[The Society]] business. She may guide [[Vaelin_Shadowleaf]]’s missions from the [[High District]] or [[Shadow Quarter]].
 * **Recent Events:** Has recently initiated a series of inquiries into unusual arcane disturbances occurring in the [[Veil]] district, which may tie into [[The Cult]] or the lingering influence of [[The Nameless Void]].
 * **Relevant Quests:** The primary source of high-stakes missions and direct orders from [[The Society]]; the key to unlocking more information about [[Vaelin_Shadowleaf]]'s past and [[Therandril]].
 * **Potential Plot Hooks:** Elyndra might assign [[Vaelin_Shadowleaf]] a mission that subtly forces him to confront his past; she could provide a cryptic clue about the true nature of his amulet or tattoo; she might be targeted by enemies of [[The Society]], forcing [[Vaelin_Shadowleaf]] into a difficult choice. Failure to deliver results could strain their bond.

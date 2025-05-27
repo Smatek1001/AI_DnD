@@ -12,7 +12,7 @@ importance: Minor
 disposition_to_pc: Indifferent
 faction:
   - "[[The Society]]"
-location: "[[Drunken Raven]]"
+location: "[[Drunken_Raven]]"
 connections:
   - '[[Talia "Whisper"]]'
   - "[[Vaelin_Shadowleaf]]"
@@ -43,7 +43,7 @@ tags:
 
 ## II. Appearance
 ### Physical Description
-Tarren is a burly [[Human]] man in his 40s. His scarred face and broad shoulders dominate the [[Drunken Raven]]’s door. His deep-set eyes miss little, and his fists enforce order. He wears simple, sturdy clothes that conceal his surprising strength.
+Tarren is a burly [[Human]] man in his 40s. His scarred face and broad shoulders dominate the [[Drunken_Raven]]’s door. His deep-set eyes miss little, and his fists enforce order. He wears simple, sturdy clothes that conceal his surprising strength.
 
 ## III. Personality & Demeanor
 ### Core Traits
@@ -55,11 +55,11 @@ Speaks only when necessary; uses gestures or a pointed gaze to deter trouble; ha
 **Flaw:** "He prefers to avoid conflict, sometimes turning a blind eye to minor illicit dealings as long as they don't disrupt the peace."
 
 ## IV. Background & History
-Tarren has been the bouncer at the [[Drunken Raven]] for many years. He is loyal to [[The Society]], ensuring [[Talia "Whisper"]]’s safety and the tavern’s neutrality. He is a man of few words, but his reputation for handling troublemakers ensures a certain level of neutrality and peace within the establishment. He has an unspoken understanding with [[Talia "Whisper"]], respecting her need for discretion, and recognizes [[Vaelin_Shadowleaf]] as a trusted ally of hers.
+Tarren has been the bouncer at the [[Drunken_Raven]] for many years. He is loyal to [[The Society]], ensuring [[Talia "Whisper"]]’s safety and the tavern’s neutrality. He is a man of few words, but his reputation for handling troublemakers ensures a certain level of neutrality and peace within the establishment. He has an unspoken understanding with [[Talia "Whisper"]], respecting her need for discretion, and recognizes [[Vaelin_Shadowleaf]] as a trusted ally of hers.
 
 ## V. Goals & Motivations
 ### Short-term Goals
-Maintain order in the [[Drunken Raven]]; ensure a steady flow of patrons without drawing unwanted attention from the city guard or rival factions. Ensure [[Talia "Whisper"]]'s safety.
+Maintain order in the [[Drunken_Raven]]; ensure a steady flow of patrons without drawing unwanted attention from the city guard or rival factions. Ensure [[Talia "Whisper"]]'s safety.
 ### Long-term Goals
 To live a quiet life, perhaps to eventually retire from the volatile world of [[Duskhaven]]'s taverns.
 ### Primary Motivation
@@ -70,7 +70,7 @@ Peace and a steady income, and loyalty to [[Talia "Whisper"]] and [[The Society]
 * **Other Affiliations:** Has professional acquaintances among various bar owners and bouncers in [[Duskhaven]].
 
 ## VII. Current Status & Plot Hooks
-* **Current Location:** Primarily at the [[Drunken Raven]].
+* **Current Location:** Primarily at the [[Drunken_Raven]].
 * **Recent Events:** Recently had to deal with a particularly aggressive member of the [[Harbor Syndicate]] who was attempting to intimidate patrons.
 * **Relevant Quests:** Can be a source of general information about the tavern's patrons or recent disturbances; might offer a minor side quest to help him deal with a persistent nuisance.
 * **Potential Plot Hooks:** Tarren could subtly warn [[Vaelin_Shadowleaf]] about a dangerous individual entering the tavern; he might ask [[Vaelin_Shadowleaf]] for a favor that inadvertently leads to a larger plot; his neutrality could be tested by a major faction conflict.
