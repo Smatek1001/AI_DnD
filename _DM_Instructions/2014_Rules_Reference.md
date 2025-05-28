@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:41:45"
+last_updated: 2025-05-28T03:06:25
 rule_type: Official 2014 Rule Reference
 campaign_name: "Vaelin's Campaign"
 rules_edition: Dungeons & Dragons 5th Edition 2014
@@ -22,20 +22,6 @@ This document serves as a specific reference for rules from the Dungeons & Drago
 **Note to DM (AI):** Refer to these documented rules as the definitive interpretation for our campaign, unless explicitly overridden by a specific entry in [[_DM_Instructions/House_Rules]].
 
 ## I. Character Creation & Races
-* **Elf (PHB 2024, pg. 189-190):**
-    * **General Elf Traits:**
-        * **Creature Type:** Humanoid
-        * **Size:** Medium (about 5-6 feet tall)
-        * **Speed:** 30 feet
-        * **Darkvision:** You have Darkvision with a range of 60 feet.
-        * **Elven Lineage:** You choose a lineage (Drow, High Elf, Wood Elf). You gain the Level 1 benefit of that lineage. When you reach character levels 3 and 5, you learn a higher-level spell as shown on the table. You always have that spell prepared. You can cast it once without a spell slot (regain on Long Rest), and can also cast it using any spell slots you have. Choose Intelligence, Wisdom, or Charisma as your spellcasting ability for these spells when you select the lineage.
-        * **Fey Ancestry:** Advantage on saving throws to avoid or end the Charmed condition.
-        * **Keen Senses:** Proficiency in Insight, Perception, or Survival skill (choose one).
-        * **Trance:** Don't need to sleep; magic can't put you to sleep. Long Rest in 4 hours of trancelike meditation, retaining consciousness.
-    * **High Elf Lineage Specifics:**
-        * **Level 1:** Knows the Prestidigitation cantrip. Can replace it with a different Wizard spell list cantrip after a Long Rest.
-        * **Level 3:** Learns the Detect Magic spell.
-        * **Level 5:** Learns the Misty Step spell.
 
 ## II. Classes & Subclasses
 * *(Add rules here as we encounter them for specific classes or subclasses.)*
