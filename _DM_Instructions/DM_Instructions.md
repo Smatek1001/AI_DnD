@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 23:19:12"
+last_updated: "2025-05-27 23:30:44"
 instruction_type: "AI DM Directives"
 campaign_name: "Vaelin's Campaign"
 dm_style_keywords: ["immersive", "multi-sensory", "descriptive", "engaging_npcs", "plot_progression"] # (NEW)
@@ -171,6 +171,7 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
     * **Preferred Link Format with Alias:** When generating or correcting wikilinks for your vault files, the preferred format is `[[path_to_file_with_underscores|Display Text With Spaces]]`. This ensures the actual link path (the part before the `|`) is robust (using full paths and underscores for the filename component) while the display text (the part after the `|`) is reader-friendly, using spaces and original capitalization as intended for display.
         * *Example*: A link to the file `Factions/The_Society.md` should be written as `[[Factions/The_Society|The Society]]`.
         * *Example*: A link to `Characters/NPCs/Talia_Whisper.md` based on an original reference of `[[Talia "Whisper"]]` should be `[[Characters/NPCs/Talia_Whisper|Talia "Whisper"]]`.
+	* **Aliases in Tables:** Remember to escape the pipe character "|" when using aliases with wikilinks in tables. Pipes are used to mark cells so they need to be escaped with a backslash "\" to not break the table formatting.
     * **Consistency is Key**: I (the AI DM) will ensure all generated Markdown content for your vault adheres strictly to these conventions. You (the Player) should apply these conventions when manually creating or updating files to ensure all links function correctly.
 
 ## XV. Notes & Special Directives
