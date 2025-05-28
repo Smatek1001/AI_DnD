@@ -2,7 +2,7 @@
 last_updated: "2025-05-25 23:29:20"
 type: "NPC"
 name: "Korgal Iron Fist"
-aliases: []
+aliases: [Korgal]
 status: alive
 race: "Half-Orc"
 gender: "Male"
