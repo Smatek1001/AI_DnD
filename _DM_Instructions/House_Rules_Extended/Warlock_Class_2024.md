@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-27 19:40:48"
+last_updated: "2025-05-27 19:41:08"
 rule_set: D&D 5e 2024
 category: Class
 name: Warlock Class (2024)
@@ -317,7 +317,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | _Misty Step_ | Conjuration | - |
 | _Ray of Enfeeblement_ | Necromancy | C |
 | _Spider Climb_ | Transmutation | C |
- | Enchantment | C |
+| _Suggestion_ | Enchantment | C |
 
 #### Level 3 Warlock Spells
 
