@@ -564,6 +564,7 @@ When you cast _Summon Aberration_, you can modify it so that it doesn't require 
 In addition, the first time each turn the Aberration hits a creature under the effect of your _Hex_, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
 
 ## III. Key Differences from Standard 2014 Rules (If Applicable)
+
 * Pact Boons are merged into Eldritch Invocations.
 * Eldritch Invocations are now acquired starting at level 1.
 * Subclass Patrons are not acquired until level 3.
