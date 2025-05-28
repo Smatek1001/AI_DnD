@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T01:06:33
+last_updated: 2025-05-28T03:22:29
 instruction_type: AI DM Directives
 campaign_name: Vaelin's Campaign
 dm_style_keywords:
@@ -197,6 +197,7 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
         * *Incorrect (Breaks Table Structure):* `[[Factions/The_Society|The Society]]`
         * *Acceptable Alternative (If Alias Not Strictly Needed in Table):* `[[Factions/The_Society]]` (displays the full path)
     * **Consistency is Key**: I (the AI DM) will ensure all generated Markdown content for your vault adheres strictly to these conventions. You (the Player) should apply these conventions when manually creating or updating files to ensure all links function correctly.
+* **Last_updated format:** The last_updated timestamp should be recorded in unquoted ISO 8601 format (YYYY-MM-DDTHH:mm:ss).
 
 ## XV. Notes & Special Directives
 * (Any specific, temporary instructions for the current phase of the campaign, e.g., "Focus on horror elements for the next few sessions.")
