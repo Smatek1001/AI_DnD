@@ -4,7 +4,7 @@ type: NPC
 name: Talia "Whisper"
 aliases:
   - Talia
-  - "The Whisper"
+  - The "Whisper"
 status: alive
 race: Human
 gender: Female
@@ -19,8 +19,8 @@ connections:
   - "[[Vaelin_Shadowleaf]]"
   - "[[Elyndra]]"
 employer: "[[The Society]]"
-is_quest_giver_for: []
-associated_items: []
+is_quest_giver_for: 
+associated_items: 
 tags:
   - "#society_operative"
   - "#information_broker"

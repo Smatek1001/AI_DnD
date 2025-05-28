@@ -16,7 +16,7 @@ tags: ["#fey", "#familiar_species", "#scouting", "#espionage", "#tiny_creature",
 # Creature: Flickerling
 
 ## I. Overview
-* **Species:** Flickerling
+* **Species:** [[Bestiary/Flickerling|Flickerling]]
 * **Name:** (If applicable, specify individual name here)
 * **Category:** Fey
 * **Role/Purpose:** Tiny, mischievous fey creatures known for their ability to shapeshift into various animal forms, making them excellent scouts, spies, and stealthy companions. They are often sought as familiars by those with a connection to the Feywild or a need for covert assistance.
@@ -40,7 +40,7 @@ tags: ["#fey", "#familiar_species", "#scouting", "#espionage", "#tiny_creature",
 * **Challenge Rating (CR)**: 1/4 (estimated)
 
 ### Physical Description
-In their default form, Flickerlings are delicate, winged creatures resembling a miniature young woman with shimmering dragonfly wings and luminous skin. Their voice sounds like a chorus of faint tinkling bells. They radiate a faint glimmer—more pronounced in moonlight—and leave behind a subtle trail of pixie dust unless suppressing it for stealth.
+In their default form, [[Bestiary/Flickerling|Flickerling]]s are delicate, winged creatures resembling a miniature young woman with shimmering dragonfly wings and luminous skin. Their voice sounds like a chorus of faint tinkling bells. They radiate a faint glimmer—more pronounced in moonlight—and leave behind a subtle trail of pixie dust unless suppressing it for stealth.
 
 ## III. Variations / Other Forms (If Applicable)
 Flickerings are known for their ability to shift between specialized animal forms:
@@ -60,11 +60,11 @@ Flickerings are known for their ability to shift between specialized animal form
 ## IV. Traits & Abilities
 Flickerings possess innate magical and special abilities across all their forms, especially when serving as familiars (enhanced by Pact of the Chain, if applicable):
 
-* **Standard Familiar Characteristics:** As familiars summoned via _Find Familiar_ (enhanced by Pact of the Chain):
+* **Standard Familiar Characteristics:** As familiars summoned via _Find Familiar_ (enhanced by [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024#E. Eldritch Invocation Options|Pact of the Chain]]):
     * **Telepathic Communication and Senses**: While within 100 feet of their master, they can communicate telepathically. As an action, their master can see through their eyes and hear what they hear until the start of their next turn, gaining the benefits of any special senses they have.
     * **Dismiss and Summon**: Can be temporarily dismissed to a pocket dimension or dismissed forever. Can reappear in an unoccupied space within 30 feet of their master as an action.
     * **Spell Delivery**: Can deliver touch spells cast by their master.
-    * **Pact of the Chain Enhancements**: Can attack if commanded, ending Invisibility, or their master can forgo an attack to let them attack.
+    * **[[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024#E. Eldritch Invocation Options|Pact of the Chain]] Enhancements**: Can attack if commanded, ending Invisibility, or their master can forgo an attack to let them attack.
 * **Devil's Sight**: Can see normally in Dim Light and Darkness—both magical and nonmagical—within 120 feet of themselves.
 * **Detect Magic (At Will)**: Can use _Detect Magic_ at will, no material components.
 * **See Invisibility (1/day)**: Can cast _See Invisibility_ once per day.
@@ -80,9 +80,9 @@ Flickerings possess innate magical and special abilities across all their forms,
 * **Saboteur’s Nudge (3/day, Reaction)**: Can subtly distract a creature within 30 feet, causing disadvantage on an attack roll or ability check.
 * **Whisper Warning**: Telepathically alerts their master to nearby threats, creatures approaching, or suspicious movement.
 * **Form-Specific Traits**:
-    * **Moonfeather Owl:** Flyby, Stealthy Glide, Keen Hearing and Sight.
-    * **Glimmerpond Frog:** Amphibious, Wilderness Camouflage, Sudden Leap.
-    * **Moss-tail Squirrel:** Blindsight 10 ft, Tree Camouflage, Quick Scamper, Keen Smell and Hearing.
+    * **[[Bestiary/Flickerling#Moonfeather Owl Form|Moonfeather Owl]]:** Flyby, Stealthy Glide, Keen Hearing and Sight.
+    * **[[Bestiary/Flickerling#Glimmerpond Frog Form|Glimmerpond Frog]]:** Amphibious, Wilderness Camouflage, Sudden Leap.
+    * **[[Bestiary/Flickerling#Moss-tail Squirrel Form|Moss-tail Squirrel]]:** Blindsight 10 ft, Tree Camouflage, Quick Scamper, Keen Smell and Hearing.
 
 ## V. Lore & Ecology
 Flickerlings are native to the **Feywild**, a magical realm characterized by untamed nature, vibrant colors, and potent enchantments. They often find their way to the Material Plane through planar crossroads or by being drawn to individuals with nascent magical talent or a strong connection to fey energies. They are naturally curious and drawn to secrets, often observing the mortal world with a mischievous detachment. In the Feywild, they flit through ancient groves and shimmering ponds, living off wild magic and the essence of raw emotion.
@@ -93,7 +93,7 @@ Flickerlings are native to the **Feywild**, a magical realm characterized by unt
 * **Weaknesses/Vulnerabilities:** While magically resistant, strong iron or cold iron weapons might bypass some of their defenses (DM discretion). Their mischievous nature can sometimes be exploited.
 
 ## VII. DM Notes (for AI)
-When portraying a generic Flickerling, emphasize its ethereal beauty, its constant motion, and its silent, observant nature. Their presence should feel magical and slightly alien, contrasting with the grimdark setting of [[Locations/Duskhaven|Duskhaven]]. Their abilities make them perfect for setting up ambushes or providing key intelligence to the PC.
+When portraying a generic [[Bestiary/Flickerling|Flickerling]], emphasize its ethereal beauty, its constant motion, and its silent, observant nature. Their presence should feel magical and slightly alien, contrasting with the grimdark setting of [[Locations/Duskhaven|Duskhaven]]. Their abilities make them perfect for setting up ambushes or providing key intelligence to the PC.
 
 ### ROT-13 Encoded Secrets
 Sybpxreyvatf ner frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

@@ -1,22 +1,35 @@
 ---
-last_updated: "2025-05-25 23:32:00"
-type: "NPC"
-name: "Lord Varyn"
-aliases: ["Varyn"]
+last_updated: 2025-05-25 23:32:00
+type: NPC
+name: Lord Varyn
+aliases:
+  - Varyn
+  - Lord Varyn
 status: alive
-race: "Human"
-gender: "Male"
-alignment: "Lawful Evil"
-occupation: "Corrupt Noble"
-importance: "Supporting"
-disposition_to_pc: "Wary"
-faction: ["[[The Society (Untrustworthy)]]"]
+race: Human
+gender: Male
+alignment: Lawful Evil
+occupation: Corrupt Noble
+importance: Supporting
+disposition_to_pc: Wary
+faction:
+  - "[[The Society (Untrustworthy)]]"
 location: "[[Noble District]]"
-connections: ["[[The Society]]"]
-employer: "Self-Employed (manipulates for gain)" # (NEW)
-is_quest_giver_for: [] # (NEW)
-associated_items: [] # (NEW)
-tags: ["#noble", "#corrupt", "#society_contact", "#villain", "#supporting_npc", "#manipulator", "#greedy", "#high_district", "#untrustworthy"] # (NEW/ENHANCED)
+connections:
+  - "[[The Society]]"
+employer: Self-Employed (manipulates for gain)
+is_quest_giver_for: 
+associated_items: 
+tags:
+  - "#noble"
+  - "#corrupt"
+  - "#society_contact"
+  - "#villain"
+  - "#supporting_npc"
+  - "#manipulator"
+  - "#greedy"
+  - "#high_district"
+  - "#untrustworthy"
 ---
 ---
 last_updated: "2025-05-25 23:32:00"

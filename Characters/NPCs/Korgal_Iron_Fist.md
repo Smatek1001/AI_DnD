@@ -1,22 +1,37 @@
 ---
-last_updated: "2025-05-25 23:29:20"
-type: "NPC"
-name: "Korgal Iron Fist"
-aliases: [Korgal, "The Iron Fist"]
+last_updated: 2025-05-25 23:29:20
+type: NPC
+name: Korgal Iron Fist
+aliases:
+  - Korgal Iron Fist
+  - Korgal
+  - The Iron Fist
 status: alive
-race: "Half-Orc"
-gender: "Male"
-alignment: "Lawful Evil"
-occupation: "Harbor Syndicate Chief Lieutenant / Enforcer"
-importance: "Minor"
-disposition_to_pc: "Hostile"
-faction: ["[[Harbor Syndicate]]"]
+race: Half-Orc
+gender: Male
+alignment: Lawful Evil
+occupation: Harbor Syndicate Chief Lieutenant / Enforcer
+importance: Minor
+disposition_to_pc: Hostile
+faction:
+  - "[[Harbor Syndicate]]"
 location: "[[Syndicate Warehouse]]"
-connections: ["[[The Anchor]]", "[[Skrix]]"]
-employer: "[[The Anchor]]" # (NEW)
-is_quest_giver_for: [] # (NEW)
-associated_items: [] # (NEW)
-tags: ["#enforcer", "#criminal", "#harbor_syndicate", "#half_orc", "#lieutenant", "#hostile_npc", "#combat_focused", "#brutal", "#loyal"] # (NEW/ENHANCED)
+connections:
+  - "[[The Anchor]]"
+  - "[[Skrix]]"
+employer: "[[The Anchor]]"
+is_quest_giver_for: 
+associated_items: 
+tags:
+  - "#enforcer"
+  - "#criminal"
+  - "#harbor_syndicate"
+  - "#half_orc"
+  - "#lieutenant"
+  - "#hostile_npc"
+  - "#combat_focused"
+  - "#brutal"
+  - "#loyal"
 ---
 # Korgal Iron Fist
 

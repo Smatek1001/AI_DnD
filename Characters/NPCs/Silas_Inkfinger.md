@@ -4,6 +4,7 @@ type: NPC
 name: Silas "Inkfinger"
 aliases:
   - Silas
+  - Inkfinger
 status: alive
 race: Gnome
 gender: Male
@@ -11,14 +12,14 @@ alignment: Neutral
 occupation: Forger / Alchemist
 importance: Supporting
 disposition_to_pc: Neutral
-faction: []
+faction: 
 location: "[[Noble District]]"
 connections:
   - "[[Vaelin_Shadowleaf]]"
   - "[[The Forger]]"
 employer: Self-employed (Independent, with Syndicate ties)
-is_quest_giver_for: []
-associated_items: []
+is_quest_giver_for: 
+associated_items: 
 tags:
   - "#forger"
   - "#alchemist"

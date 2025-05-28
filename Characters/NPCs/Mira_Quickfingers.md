@@ -4,6 +4,7 @@ type: NPC
 name: Mira "Quickfingers"
 aliases:
   - Mira
+  - Quickfingers
 status: alive
 race: Halfling
 gender: Female
@@ -18,8 +19,8 @@ location: "[[Market Square]]"
 connections:
   - "[[Vaelin_Shadowleaf]]"
 employer: Self-employed (Independent/Guild affiliated)
-is_quest_giver_for: []
-associated_items: []
+is_quest_giver_for: 
+associated_items: 
 tags:
   - "#fence"
   - "#criminal"

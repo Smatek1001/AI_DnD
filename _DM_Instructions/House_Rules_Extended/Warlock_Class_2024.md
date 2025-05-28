@@ -568,9 +568,10 @@ In addition, the first time each turn the Aberration hits a creature under the e
 * Pact Boons are merged into Eldritch Invocations.
 * Eldritch Invocations are now acquired starting at level 1.
 * Subclass Patrons are not acquired until level 3.
-* Magical Cunning allows Warlocks to regain some spell slots with a 1 minute ritual, once per long rest.
+* Magical Cunning allows Warlocks to regain some spell slots with a 1 minute ritual, once per long res
 
 ## IV. DM Notes (for AI - How to Interpret/Apply)
 (Any specific instructions for me, GemDM, on how to interpret edge cases, prioritize this rule, or integrate it with other existing rules. Also note if any parts of this rule are NOT being adopted.)
 * (e.g., "For the Pact of the Blade, ensure it aligns with House Rule X regarding weapon summoning.")
 * (e.g., "The 'Mystic Arcanum' feature listed here is adopted as written.")
+* [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] may choose a [[Bestiary/Flickerling|Flickerling]] familiar with [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024#E. Eldritch Invocation Options|Pact of the Chain]].

@@ -1,22 +1,36 @@
 ---
-last_updated: "2025-05-25 23:50:06"
-type: "NPC"
-name: "The Wraith"
-aliases: ["The Wraith"]
+last_updated: 2025-05-25 23:50:06
+type: NPC
+name: The Wraith
+aliases:
+  - The Wraith
+  - Wraith
 status: alive
-race: "Drow"
-gender: "Unknown"
-alignment: "Lawful Evil"
-occupation: "Guildmaster of the Nightshade Guild"
-importance: "Pivotal"
-disposition_to_pc: "Hostile"
-faction: ["[[Nightshade Guild]]"]
+race: Drow
+gender: Unknown
+alignment: Lawful Evil
+occupation: Guildmaster of the Nightshade Guild
+importance: Pivotal
+disposition_to_pc: Hostile
+faction:
+  - "[[Nightshade Guild]]"
 location: "[[Veil]]"
-connections: ["[[Nightshade Guild]]"]
-employer: "Self-employed (Guildmaster)" # (NEW)
-is_quest_giver_for: [] # (NEW)
-associated_items: [] # (NEW)
-tags: ["#guildmaster", "#criminal", "#drow", "#enigmatic", "#pivotal_npc", "#hostile_npc", "#master_orchestrator", "#veil", "#ruthless", "#secretive"] # (NEW/ENHANCED)
+connections:
+  - "[[Nightshade Guild]]"
+employer: Self-employed (Guildmaster)
+is_quest_giver_for: 
+associated_items: 
+tags:
+  - "#guildmaster"
+  - "#criminal"
+  - "#drow"
+  - "#enigmatic"
+  - "#pivotal_npc"
+  - "#hostile_npc"
+  - "#master_orchestrator"
+  - "#veil"
+  - "#ruthless"
+  - "#secretive"
 ---
 # The Wraith
 

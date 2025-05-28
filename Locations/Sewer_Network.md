@@ -2,7 +2,7 @@
 last_updated: "2025-05-26 00:04:15"
 type: "Location"
 name: "Sewer Network"
-aliases: ["Sewer Network", "The Sewers"]
+aliases: ["Sewer Network", "The Sewers", sewer, sewers]
 category: "Tunnels"
 parent_location: "[[Duskhaven]]"
 status: active

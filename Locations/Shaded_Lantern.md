@@ -18,14 +18,14 @@ tags: ["#shop", "#arcane", "#veil", "#magic_items", "#knowledge_source", "#discr
 
 ## I. Overview
 * **Category:** Arcane Shop
-* **Parent Location:** [[Veil]]
+* **Parent Location:** [[Locations/Veil|Veil]]
 * **Status:** active
 * **Population:** Sparse (primarily the proprietors and occasional, discerning customers)
 * **Atmosphere/Vibe:** Cluttered and hushed, with a palpable hum of arcane energy. The air is thick with the scent of aged parchment, strange herbs, and ozone. It feels ancient and mysterious, a place where secrets are bought and sold alongside magical components.
 * **Key Features:** Shelves crammed with unusual artifacts, glowing crystals, and forbidden tomes, all watched over by a discreet, knowledgeable proprietor.
 
 ## II. Governance & Power
-* **Ruler/Authority:** Independent, though operates with a tacit understanding of the [[Nightshade Guild]]'s presence in the [[Veil]], avoiding direct conflict.
+* **Ruler/Authority:** Independent, though operates with a tacit understanding of the [[Factions/Nightshade_Guild|Nightshade Guild]]'s presence in the [[Veil]], avoiding direct conflict.
 * **Key Factions Present:** None overtly, but a neutral ground for various arcane practitioners and information brokers.
 * **Laws & Customs:** Discretion is paramount. Questions are answered for a price, and prying is not tolerated. Knowledge is the currency.
 

@@ -4,6 +4,8 @@ type: NPC
 name: Rorik "Wavebreaker"
 aliases:
   - Rorik
+  - The "Wavebreaker"
+  - Wavebreaker
 status: alive
 race: Human
 gender: Male
@@ -11,14 +13,14 @@ alignment: Neutral
 occupation: Smuggler
 importance: Supporting
 disposition_to_pc: Neutral
-faction: []
+faction: 
 location: "[[Docks]]"
 connections:
   - "[[Vaelin_Shadowleaf]]"
   - "[[Harbor Syndicate]]"
 employer: Self-employed (Independent, with Syndicate ties)
-is_quest_giver_for: []
-associated_items: []
+is_quest_giver_for: 
+associated_items: 
 tags:
   - "#smuggler"
   - "#human"
