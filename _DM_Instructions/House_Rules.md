@@ -49,6 +49,7 @@ This document outlines any modifications, additions, or specific interpretations
 		* Voice of the Chain Master:
 			* **Prerequisite:** Pact of the Chain feature
 			* You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+* **Rule 5:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] may chose a [[Bestiary/Flickerling|Flickerling]] familiar with the [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024#E. Eldritch Invocation Options|Pact of the Chain]] Eldritch Invocation as a Warlock. 
 
 ---
 **Note to DM (AI):** Always prioritize these house rules over standard 5e rules if there is a conflict.
