@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T00:58:31
+last_updated: 2025-05-28T01:05:38
 instruction_type: AI DM Directives
 campaign_name: Vaelin's Campaign
 dm_style_keywords:

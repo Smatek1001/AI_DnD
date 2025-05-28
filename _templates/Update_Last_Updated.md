@@ -8,29 +8,28 @@ if (!file) {
 // Read the current content of the file
 let content = await app.vault.read(file);
 
-// Define the regular expression to find the 'last_updated' line.
-// This regex now looks for 'last_updated:' followed by:
-// - an optional quote,
-// - any characters (the date string),
-// - an optional closing quote.
-// This makes it match whether the date is quoted or not.
-const oldDateRegex = /^last_updated:\s*(?:".*?"|[^"\s]+)\s*$/m;
+// Regex to find the 'last_updated' line, accommodating various formats:
+// - Quoted strings (e.g., "YYYY-MM-DD HH:mm:ss" or "YYYY-MM-DDTHH:mm:ss" or "any text")
+// - Unquoted specific date formats (YYYY-MM-DD HH:mm:ss or YYYY-MM-DDTHH:mm:ss)
+// - Other unquoted non-whitespace strings
+const lineFinderRegex = /^last_updated:\s*(?:"[^"]*"|\d{4}-\d{2}-\d{2}[ T]\d{2}:\d{2}:\d{2}|[^\s"]+)\s*$/m;
 
-// Get the current date and time in the desired ISO 8601 format
+// Get the current date and time in the desired new ISO 8601 format (YYYY-MM-DDTHH:mm:ss)
 const newDate = tp.date.now("YYYY-MM-DDTHH:mm:ss");
 
-// Construct the new line to replace the old one (now without quotes around the date)
+// Construct the replacement line in the new format (unquoted)
 const replacementLine = `last_updated: ${newDate}`;
 
-// Check if the 'last_updated' line exists in the content
-if (oldDateRegex.test(content)) {
-    // Replace the old line with the new timestamp line
-    content = content.replace(oldDateRegex, replacementLine);
+// Check if a 'last_updated' line exists in any recognizable format
+if (lineFinderRegex.test(content)) {
+    // Replace the found line (whatever its old format was) with the new timestamp line
+    content = content.replace(lineFinderRegex, replacementLine);
     // Write the modified content back to the file
     await app.vault.modify(file, content);
-    new Notice("Last updated timestamp successfully updated (unquoted ISO 8601 format)!");
+    new Notice("Last updated timestamp successfully updated to unquoted ISO 8601 format (YYYY-MM-DDTHH:mm:ss)!");
 } else {
-    // If the 'last_updated' line isn't found, notify the user.
-    new Notice("The 'last_updated' field was not found in the frontmatter. Please ensure it exists in a recognized format (e.g., last_updated: YYYY-MM-DDTHH:mm:ss or last_updated: \"YYYY-MM-DDTHH:mm:ss\").");
+    // If the 'last_updated' line isn't found at all, notify the user.
+    // Updated message to be more generic about the expected field name.
+    new Notice("The 'last_updated' field was not found or its format was not recognized. Please ensure the line starts with 'last_updated:'.");
 }
 _%>
