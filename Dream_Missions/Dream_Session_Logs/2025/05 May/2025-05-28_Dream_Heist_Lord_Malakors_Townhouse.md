@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-05-28T04:45:53
-chat_link: https://g.co/gemini/share/20577ce9e070
+last_updated: 2025-05-28T04:54:06
+chat_link: https://g.co/gemini/share/d627ff1b78b7
 dream_session: true
 session_date: 2025-05-28
 session_title: "Dream Heist: Lord Malakor's Townhouse"
@@ -92,4 +92,4 @@ Vaelin undertook a non-canonical dream heist into Lord Malakor's townhouse. He s
 This dream reinforced Vaelin's core skills and introduced subtle elements of the overarching cosmic horror plot. The discovery of the cryptic note, even in a dream, should resonate with Vaelin's obsession with arcane secrets and his past with Therandril. The "sun-etched metal" connection to the locket is a good lead. This dream could serve as a symbolic precursor to future real-world challenges or revelations. The experience of navigating a noble's house and finding hidden secrets adds to his perceived competency.
 
 ---
-**Full Chat Session Link:** https://g.co/gemini/share/20577ce9e070
+**Full Chat Session Link:** https://g.co/gemini/share/d627ff1b78b7
