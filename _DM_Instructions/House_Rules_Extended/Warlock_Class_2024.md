@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-27 19:41:08"
+last_updated: "2025-05-27 20:07:39"
 rule_set: D&D 5e 2024
 category: Class
 name: Warlock Class (2024)
@@ -323,45 +323,88 @@ This section presents the Warlock spell list. The spells are organized by spell 
 
 | Spell | School | Special |
 | --- | --- | :---: |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
+| _Counterspell_ | Abjuration | - |
+| _Dispel Magic_ | Abjuration | - |
+| _Fear_ | Illusion | C |
+| _Fly_ | Transmutation | C |
+| _Gaseous Form_ | Transmutation | C |
+| _Hunger of Hadar_ | Conjuration | C |
+| _Hypnotic Pattern_ | Illusion | C |
+| _Magic Circle_ | Abjuration | M |
+| _Major Image_ | Illusion | C |
+| _Remove Curse_ | Abjuration | - |
+| _Summon Fey_ | Conjuration | C, M |
+| _Summon Undead_ | Necromancy | C, M |
+| _Tongues_ | Divination | - |
+| _Vampiric Touch_ | Necromancy | C |
 
 #### Level 4 Warlock Spells
 
-
+| Spell | School | Special |
+| --- | --- | :---: |
+| _Banishment_ | Abjuration | C |
+| _Blight_ | Necromancy | - |
+| _Charm Monster_ | Enchantment | - |
+| _Dimension Door_ | Conjuration | - |
+| _Hallucinatory Terrain_ | Illusion | - |
+| _Summon Aberration_ | Conjuration | C, M |
 
 #### Level 5 Warlock Spells
 
-
+| Spell | School | Special |
+| --- | --- | :---: |
+| _Contact Other Plane_ | Divination | R |
+| _Dream_ | Illusion | - |
+| _Hold Monster_ | Enchantment | C |
+| _Jallarzi's Storm of Radiance_ | Evocation | C |
+| _Mislead_ | Illusion | C |
+| _Planar Binding_ | Abjuration | M |
+| _Scrying_ | Divination | C, M |
+| _Synaptic Static_ | Enchantment | - |
+| _Teleportation Circle_ | Conjuration | M |
 
 #### Level 6 Warlock Spells
 
-
+| Spell | School | Special |
+| --- | --- | :---: |
+| _Arcane Gate_ | Conjuration | C |
+| _Circle of Death_ | Necromancy | M |
+| _Create Undead_ | Necromancy | M |
+| _Eyebite_ | Necromancy | C |
+| _Summon Fiend_ | Conjuration | C, M |
+| _Tasha's Bubbling Cauldron_ | Conjuration | M |
+| _True Seeing_ | Divination | M |
 
 #### Level 7 Warlock Spells
 
-
+| Spell | School | Special |
+| --- | --- | :---: |
+| _Etherealness_ | Conjuration | - |
+| _Finger of Death_ | Necromancy | - |
+| _Forcecage_ | Evocation | C, M |
+| _Plane Shift_ | Conjuration | M |
 
 #### Level 8 Warlock Spells
 
-
+| Spell | School | Special |
+| --- | --- | :---: |
+| _Befuddlement_ | Enchantment | - |
+| _Demiplane_ | Conjuration | - |
+| _Dominate Monster_ | Enchantment | C |
+| _Glibness_ | Enchantment | - |
+| _Power Word Stun_ | Enchantment | - |
 
 #### Level 9 Warlock Spells
 
-
+| Spell | School | Special |
+| --- | --- | :---: |
+| _Astral Projection_ | Necromancy | M |
+| _Foresight_ | Divination | - |
+| _Gate_ | Conjuration | C, M |
+| _Imprisonment_ | Abjuration | M |
+| _Power Word Kill_ | Enchantment | - |
+| _True Polymorph_ | Transmutation | C |
+| _Weird_ | Illusion | C |
 
 ### G. Warlock Subclasses
 
