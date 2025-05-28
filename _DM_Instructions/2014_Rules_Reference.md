@@ -19,7 +19,7 @@ tags:
 
 This document serves as a specific reference for rules from the Dungeons & Dragons 5th Edition 2014 ruleset that are relevant to our campaign. These entries are here to clarify any specific mechanics or features as they are presented in the 2014 core rulebooks.
 
-**Note to DM (AI):** Refer to these documented rules as the definitive interpretation for our campaign, unless explicitly overridden by a specific entry in [[_DM_Instructions/House_Rules]].
+**Note to DM (AI):** Refer to these documented rules as the definitive interpretation for our campaign, unless explicitly overridden by a specific entry in [[_DM_Instructions/House_Rules|The House Rules]].
 
 ## I. Character Creation & Races
 

@@ -1,10 +1,30 @@
 ---
 last_updated: 2025-05-28T03:18:33
-rule_type: "House Rules"
-campaign_name: "Vaelin's Campaign"
-rules_focus_areas: ["General Rules", "Combat Rules", "Spellcasting Rules", "Exploration & Social Rules", "Character Creation & Advancement", "Specific Class/Race Modifications"] # (NEW)
-gameplay_modifications: ["Bonus Action Healing Potions", "Flanking Advantage", "Exhaustion at 0 HP", "Free Feat at Level 1", "Max HP at Level Up"] # (NEW)
-tags: ["#house_rules", "#campaign_rules", "#rules_modifications", "#5e_variant", "#homebrew", "#gameplay_mechanics"] # (NEW/ENHANCED)
+rule_type: House Rules
+aliases:
+  - The House Rules
+  - House Rules
+campaign_name: Vaelin's Campaign
+rules_focus_areas:
+  - General Rules
+  - Combat Rules
+  - Spellcasting Rules
+  - Exploration & Social Rules
+  - Character Creation & Advancement
+  - Specific Class/Race Modifications
+gameplay_modifications:
+  - Bonus Action Healing Potions
+  - Flanking Advantage
+  - Exhaustion at 0 HP
+  - Free Feat at Level 1
+  - Max HP at Level Up
+tags:
+  - "#house_rules"
+  - "#campaign_rules"
+  - "#rules_modifications"
+  - "#5e_variant"
+  - "#homebrew"
+  - "#gameplay_mechanics"
 ---
 # Vaelin's Campaign - House Rules
 
