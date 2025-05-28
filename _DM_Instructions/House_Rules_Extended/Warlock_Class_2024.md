@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-27 18:32:25"
+last_updated: "2025-05-27 19:29:50"
 rule_set: D&D 5e 2024
 category: Class
 name: Warlock Class (2024)
@@ -139,127 +139,125 @@ When you use your Magical Cunning feature, you regain all your expended Pact Mag
 Eldritch Invocation options appear in alphabetical order.
 
 - Agonizing Blast
-	- Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage
+	- **Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage
 	- Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls.
-	- **Repeatable** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+	- **Repeatable:** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 - Armor of Shadows
 	- You can cast _Mage Armor_ on yourself without expending a spell slot.
 
 - Ascendant Step
-	- Prerequisite: Level 5+ Warlock
+	- **Prerequisite:** Level 5+ Warlock
 	You can cast _Levitate_ on yourself without expending a spell slot.
 
 - Devil's Sight
-	- Prerequisite: Level 2+ Warlock
+	- **Prerequisite:** Level 2+ Warlock
 	- You can see normally in Dim Light and Darkness, both magical and nonmagical, within 120 feet of yourself.
 
 - Devouring Blade
-	- Prerequisite: Level 12+ Warlock, _Thirsting Blade_ Invocation
+	- **Prerequisite:** Level 12+ Warlock, _Thirsting Blade_ Invocation
 	- The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
 
 - Eldritch Mind
 	- You have Advantage on Constitution saving throws that you make to maintain Concentration.
 
 - Eldritch Smite
-	- Prerequisite: Level 5+ Warlock, _Pact of the Blade_ Invocation
+	- **Prerequisite:** Level 5+ Warlock, _Pact of the Blade_ Invocation
 	- Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
 
 - Eldritch Spear
-	- Prerequisite: Level 2+ Warlock, a Warlock Cantrip that deals damage
+	- **Prerequisite:** Level 2+ Warlock, a Warlock Cantrip that deals damage
 	- Choose one of your known Warlock cantrips that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.
-	- **Repeatable** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+	- **Repeatable:** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 - Fiendish Vigor
-	- Prerequisite: Level 2+ Warlock
+	- **Prerequisite:** Level 2+ Warlock
 	- You can cast _False Life_ on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
 
 - Gaze of Two Minds
-	- Prerequisite: Level 5+ Warlock
+	- **Prerequisite:** Level 5+ Warlock
 	- You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
 	- While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
 
 - Gift of the Depths
-	- Prerequisite: Level 5+ Warlock
+	- **Prerequisite:** Level 5+ Warlock
 	- You can breathe underwater, and you gain a Swim Speed equal to your Speed.
 	- You can also cast _Water Breathing_ once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
 - Gift of the Protectors
-	- Prerequisite: Level 9+ Warlock, _Pact of the Tome_ Invocation
+	- **Prerequisite:** Level 9+ Warlock, _Pact of the Tome_ Invocation
 	- A new page appears in your _Book of Shadows_ when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of one name). When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a Long Rest. As a Magic action, you can erase a name on the page by touching it.
 
 - Investment of the Chain Master
-	- Prerequisite: Level 5+ Warlock, _Pact of the Chain_ Invocation
-When you cast _Find Familiar_, you infuse the summoned familiar with a measure of your eldritch power, granting the creature t he following benefits.
-**_Aerial_** _or_ **_Aquatic._** The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
-**_Quick Attack._** As a Bonus Action, you can command the familiar to take the Attack action.
-**_Necrotic_** _or_ **_Radiant_** **_Damage._** Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
-_Your_ **_Save_** DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
-**_Resistance._** When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
+	- **Prerequisite:** Level 5+ Warlock, _Pact of the Chain_ Invocation
+	- When you cast _Find Familiar_, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+		- **_Aerial_** _or_ **_Aquatic._** The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
+		- **_Quick Attack._** As a Bonus Action, you can command the familiar to take the Attack action.
+		- **_Necrotic_** _or_ **_Radiant_** **_Damage._** Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
+	- _Your_ **_Save_** DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+	- **_Resistance._** When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
 
 - Lessons of the First Ones
-_Prerequisite: Level 2+ Warlock_
-You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice (see chapter 5).
-**_Repeatable._** You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
+	- **Prerequisite:** Level 2+ Warlock
+	- You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice (see chapter 5).
+	- **Repeatable:** You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
 
 - Lifedrinker
-_Prerequisite: Level 9+ Warlock, Pact of the Blade_Invocation_
-Once per turn when you hit a creature with your pact weapon, you can deal an extra ld6 Necrotic Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+	- **Prerequisite:** Level 9+ Warlock, _Pact of the Blade_ Invocation
+	- Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
 - Mask of Many Faces
-_Prerequisite: Level 2+ Warlock_
-You can cast _Disguise Self_ without expending a spell slot.
+	- **Prerequisite:** Level 2+ Warlock
+	- You can cast _Disguise Self_ without expending a spell slot.
 
 - Master of Myriad Forms
-_Prerequisite: Level 5+ Warlock_
-You can cast _Alter Self_ without expending a spell slot.
+	- **Prerequisite:** Level 5+ Warlock
+	- You can cast _Alter Self_ without expending a spell slot.
 
 - Misty Visions
-Prerequisite: _Level 2+ Warlock_
-You can cast _Silent Image_ without expending a spell slot.
+	- **Prerequisite:** Level 2+ Warlock
+	- You can cast _Silent Image_ without expending a spell slot.
 
 - One with Shadows
-_Prerequisite: Level 5+ Warlock_
-While you're in an area of Dim Light or Darkness, you can cast _Invisibility_ on yourself without expending a spell slot.
+	- **Prerequisite:** Level 5+ Warlock
+	- While you're in an area of Dim Light or Darkness, you can cast _Invisibility_ on yourself without expending a spell slot.
 
 - Otherworldly Leap
-_Prerequisite: Level 2+ Warlock_
-You can cast _jump_ on yourself without expending a spell slot.
+	- **Prerequisite:** Level 2+ Warlock
+	- You can cast _Jump_ on yourself without expending a spell slot.
 
-- PACT OF THE BLADE
-As a Bonus Action, you can conjure a pact weapon in your hand- a Simple or Martial Melee weapon of your choice with which you bond- or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
-Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
-Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+- Pact of the Blade
+	- As a Bonus Action, you can conjure a pact weapon in your hand- a Simple or Martial Melee weapon of your choice with which you bond- or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+	- Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
+	- Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
-- PACT OF THE CHAIN
-You learn the Find _Familiar_ spell and can cast it as a Magic action without expending a spell slot.
-When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: **Imp,** **Pseudodragon,** **Quasit,** **Skeleton,** **Slaad** **Tadpole,** **Sphinx of Wonder,** **Sprite,** or **Venomous Snake** (see appendix B for the familiar's stat block). Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
+- Pact of the Chain
+	- You learn the Find _Familiar_ spell and can cast it as a Magic action without expending a spell slot.
+	- When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: **Imp,** **Pseudodragon,** **Quasit,** **Skeleton,** **Slaad** **Tadpole,** **Sphinx of Wonder,** **Sprite,** or **Venomous Snake** (see appendix B for the familiar's stat block). Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
 
-- PACT OF THE TOME
-	- Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or.Long Rest. This _Book of Shadows_ (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
-	- **_Cantrips and Rituals._** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
-	- **_Spellcasting Focus._** You can use the book as a Spellcasting Focus.
+- Pact of the Tome
+	- Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or Long Rest. This _Book of Shadows_ (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
+	- **Cantrips and Rituals:** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+	- **Spellcasting Focus:** You can use the book as a Spellcasting Focus.
 
-- REPELLING BLAST
-Prerequisite: Level 2+ Warlock, a Warlock Cantrip that deals damage via an attack roll
-Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
-**_Repeatable._** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+- Repelling Blast
+	- **Prerequisite:** Level 2+ Warlock, a Warlock Cantrip that deals damage via an attack roll
+	- Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
+	- **Repeatable:** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
-- THIRSTING BLADE
-Prerequisite: Level 5+ Warlock, _Pact of the Blade_ Invocation
-You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
+- Thirsting Blade
+	- **Prerequisite:** Level 5+ Warlock, _Pact of the Blade_ Invocation
+	- You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
 
-- VISIONS OF DISTANT REALMS
-	- Prerequisite: Level 9+ Warlock
+- Visions of Distant Realms
+	- **Prerequisite:** Level 9+ Warlock
 	- You can cast _Arcane Eye_ without expending a spell slot.
-- WHISPERS OF THE GRAVE
-	- Prerequisite: Level 7+ Warlock
+- Whispers of the Grave
+	- **Prerequisite:** Level 7+ Warlock
 	- You can cast _Speak with Dead_ without expending a spell slot.
-- WITCH SIGHT
-	- Prerequisite: Level 15+ Warlock
-	- You have Truesight with a range of 30 feet.
-
-
+- Witch Sight
+	- **Prerequisite:** Level 15+ Warlock
+	- You have _Truesight_ with a range of 30 feet.
 
 ### F. Warlock Spell List
 
@@ -287,21 +285,22 @@ This section presents the Warlock spell list. The spells are organized by spell 
 
 | Spell | School | Special |
 | --- | --- | :---: |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
+| _Armor of Agathys_ | Abjuration | - |
+| _Arms of Hadar_ | Conjuration | - |
+| _Bane_ | Enchantment | C |
+| _Charm Person_ | Enchantment | - |
+| _Comprehend Languages_ | Divination | R |
+| _Detect Magic_ | Divination | C, R |
+| _Expeditious Retreat_ | Transmutation | C |
+| _Hellish Rebuke_ | Evocation | - |
+| _Hex_ | Enchantment | C |
+| _Illusory Script_ | Illusion | R, M |
+| _Protection from Evil and Good_ | Abjuration | C, M |
+| _Speak with Animals_ | Divination | R |
+| _Tasha's Hideous Laughter_ | Enchantment | C |
+| _Unseen Servant_ | Conjuration | R |
+| _Witch Bolt_ | Evocation | C |
+
 
 #### Level 2 Warlock Spells
 
@@ -325,7 +324,23 @@ This section presents the Warlock spell list. The spells are organized by spell 
 
 #### Level 3 Warlock Spells
 
-
+| Spell | School | Special |
+| --- | --- | :---: |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
 
 #### Level 4 Warlock Spells
 
