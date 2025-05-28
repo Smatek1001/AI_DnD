@@ -7,7 +7,7 @@ session_title: "Dream Heist: Lord Malakor's Townhouse"
 campaign_day: 0
 days_passed_since_campaign_start: 0
 pc_current_level: 1
-xp_gained: -2
+xp_gained: 0
 gold_gained_total: 0
 magic_items_acquired: 
 level_up_occurred: false
