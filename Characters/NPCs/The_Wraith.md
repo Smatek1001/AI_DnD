@@ -2,7 +2,7 @@
 last_updated: "2025-05-25 23:50:06"
 type: "NPC"
 name: "The Wraith"
-aliases: []
+aliases: ["The Wraith"]
 status: alive
 race: "Drow"
 gender: "Unknown"

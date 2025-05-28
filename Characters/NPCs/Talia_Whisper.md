@@ -4,6 +4,7 @@ type: NPC
 name: Talia "Whisper"
 aliases:
   - Talia
+  - "The Whisper"
 status: alive
 race: Human
 gender: Female

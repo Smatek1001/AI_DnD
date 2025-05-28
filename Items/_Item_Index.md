@@ -12,9 +12,9 @@ This document serves as an index for all notable items within the campaign, part
 
 | Item Name | Category | Rarity | Attunement | Current Owner |
 |---|---|---|---|---|
-| [[Shadowpiercer]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
-| [[Face of the Forgotten]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
-| [[Mantle of the Veiled Step]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
+| [[Items/Shadowpiercer\|Shadowpiercer]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
+| [[Items/Face_of_the_Forgotten\|Face of the Forgotten]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
+| [[Items/Mantle_of_the_Veiled_Step\|Mantle_of_the_Veiled_Step]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
 
 ---
 **Note to DM (AI):** This index will help track important items. Remember to update the 'Current Owner' field when an item is acquired by the [[Vaelin_Shadowleaf|PC]] or a significant NPC.

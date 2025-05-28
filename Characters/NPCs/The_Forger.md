@@ -2,7 +2,7 @@
 last_updated: "2025-05-25 23:48:15"
 type: "NPC"
 name: "The Forger"
-aliases: []
+aliases: ["The Forger"]
 status: alive
 race: "Human"
 gender: "Male"

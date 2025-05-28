@@ -2,7 +2,7 @@
 last_updated: "2025-05-26 00:06:20"
 type: "Location"
 name: "Starfall Manor"
-aliases: []
+aliases: ["Starfall Manor"]
 category: "Society Base"
 parent_location: "[[High District]]"
 status: active

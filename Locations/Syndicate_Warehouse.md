@@ -2,7 +2,7 @@
 last_updated: "2025-05-26 00:07:08"
 type: "Location"
 name: "Syndicate Warehouse"
-aliases: []
+aliases: ["Syndicate Warehouse"]
 category: "Hideout"
 parent_location: "[[Docks]]"
 status: active

@@ -1,8 +1,8 @@
 ---
 last_updated: 2025-05-26 00:03:00
 type: Location
-name: Rusty Anchor
-aliases: []
+name: "Rusty Anchor"
+aliases: ["Rusty Anchor", "The Rusty Anchor"]
 category: Tavern
 parent_location: "[[Docks]]"
 status: active

@@ -2,7 +2,7 @@
 last_updated: "2025-05-26 00:04:47"
 type: "Location"
 name: "Shaded Lantern"
-aliases: []
+aliases: ["Shaded Lantern"]
 category: "Arcane Shop"
 parent_location: "[[Veil]]"
 status: active

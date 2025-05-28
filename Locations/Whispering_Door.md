@@ -2,7 +2,7 @@
 last_updated: "2025-05-26 00:10:00"
 type: "Location"
 name: "Whispering Door"
-aliases: []
+aliases: ["Whispering Door"]
 category: "Tavern"
 parent_location: "[[Veil]]"
 status: active

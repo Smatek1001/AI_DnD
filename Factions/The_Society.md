@@ -1,8 +1,8 @@
 ---
 last_updated: 2025-05-26 00:16:34
 type: Faction
-name: The Society
-aliases: []
+name: "The Society"
+aliases: ["The Society"]
 status: active
 alignment: Lawful Neutral
 size: Large

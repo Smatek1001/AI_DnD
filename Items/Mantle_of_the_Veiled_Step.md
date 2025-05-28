@@ -2,7 +2,7 @@
 last_updated: "2025-05-26 00:18:56"
 type: "Item"
 name: "Mantle of the Veiled Step"
-aliases: []
+aliases: ["Mantle of the Veiled Step", "The Mantle"]
 category: "Wondrous Item"
 rarity: "Rare"
 attunement: true
@@ -49,10 +49,10 @@ This cloak of whisper-soft shadow cloth hangs heavy in the hand but moves like s
 ## V. Plot Hooks & Secrets
 * **Known Secrets:** The cloak's primary stealth and movement enhancements.
 * **Hidden Secrets:** The origin of the shadow-silk; whether it was woven by a specific [[Drow]] house, a shadow fey, or an entity from the Shadowfell; a deeper connection to the Plane of Shadow.
-* **Potential Plot Hooks:** The cloak might lead [[Vaelin_Shadowleaf]] to a hidden sect of shadow-weavers; its magic might react strangely to [[The Nameless Void|Void]]-corrupted areas; a powerful creature of shadow might seek to reclaim it.
+* **Potential Plot Hooks:** The cloak might lead [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] to a hidden sect of shadow-weavers; its magic might react strangely to [[Lore/Cosmology/The_Nameless_Void|Void]]-corrupted areas; a powerful creature of shadow might seek to reclaim it.
 
 ## VI. DM Notes (for AI)
-This item is designed to heavily support a stealth-based character like [[Vaelin_Shadowleaf]], especially with his desired Gloom Stalker progression. Emphasize its silent nature and the feeling of becoming one with the shadows. Its features should reward careful positioning and surprise. It pairs *extremely* well with Gloom Stalker, Assassin, or Shadow Monk.
+This item is designed to heavily support a stealth-based character like [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], especially with his desired Gloom Stalker progression. Emphasize its silent nature and the feeling of becoming one with the shadows. Its features should reward careful positioning and surprise. It pairs *extremely* well with Gloom Stalker, Assassin, or Shadow Monk.
 
 ### ROT-13 Encoded Secrets
 Gur "znavgyr bs gur irvyrq fgvccr" vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

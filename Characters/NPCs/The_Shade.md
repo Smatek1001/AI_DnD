@@ -2,7 +2,7 @@
 last_updated: "2025-05-25 23:49:15"
 type: "NPC"
 name: "The Shade"
-aliases: []
+aliases: ["The Shade"]
 status: alive
 race: "Halfling"
 gender: "Male"

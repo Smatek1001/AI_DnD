@@ -2,7 +2,7 @@
 last_updated: "2025-05-25 23:55:55"
 type: "Location"
 name: "Drunken Raven"
-aliases: [The Raven]
+aliases: ["Drunken Raven", "The Raven"]
 category: "Tavern"
 parent_location: "[[Shadow Quarter]]"
 status: active

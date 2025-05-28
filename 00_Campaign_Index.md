@@ -13,7 +13,7 @@ This document serves as the central index for all campaign information. It outli
 * [[_DM_Instructions/Campaign_Goals]]
 * [[_DM_Instructions/House_Rules]]
 * [[_DM_Instructions/Plot_Ideas]]
-* [[2014_Rules_Reference]]
+* [[_DM_Instructions/2014_Rules_Reference]]
 
 ## II. Live Campaign Elements
 * **Player Character:** [[Vaelin_Shadowleaf|Vaelin Shadowleaf]] (Link to your main PC file)

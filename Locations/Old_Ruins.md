@@ -2,7 +2,7 @@
 last_updated: "2025-05-26 00:01:45"
 type: "Location"
 name: "Old Ruins"
-aliases: []
+aliases: ["Old Ruins"]
 category: "Ruined District"
 parent_location: "[[Duskhaven]]"
 status: active

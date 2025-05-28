@@ -1,8 +1,8 @@
 ---
 last_updated: 2025-05-25 23:47:06
 type: NPC
-name: The Anchor
-aliases: []
+name: "The Anchor"
+aliases: ["The Anchor"]
 status: alive
 race: Human
 gender: Male

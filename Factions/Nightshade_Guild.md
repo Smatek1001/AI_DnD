@@ -2,7 +2,7 @@
 last_updated: "2025-05-26 00:13:58"
 type: "Faction"
 name: "Nightshade Guild"
-aliases: []
+aliases: ["Nightshade Guild"]
 status: "active"
 alignment: "Neutral Evil"
 size: "Large"

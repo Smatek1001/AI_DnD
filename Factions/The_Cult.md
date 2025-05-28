@@ -2,7 +2,7 @@
 last_updated: "2025-05-26 00:16:05"
 type: "Faction"
 name: "The Cult"
-aliases: []
+aliases: ["The Cult"]
 status: "active"
 alignment: "Chaotic Evil"
 size: "Small" # Currently small, but influence will grow

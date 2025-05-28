@@ -2,7 +2,7 @@
 last_updated: "2025-05-25 23:56:45"
 type: "Location"
 name: "Northeast Tower"
-aliases: []
+aliases: ["Northeast Tower"]
 category: "Ancient Site"
 parent_location: "[[Old Ruins]]"
 status: active

@@ -1,8 +1,8 @@
 ---
 last_updated: 2025-05-26 00:05:30
 type: Location
-name: Shadow Quarter
-aliases: []
+name: "Shadow Quarter"
+aliases: ["Shadow Quarter"]
 category: District
 parent_location: "[[Duskhaven]]"
 status: active
