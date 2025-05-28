@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-27 20:07:39"
+last_updated: "2025-05-27 20:40:27"
 rule_set: D&D 5e 2024
 category: Class
 name: Warlock Class (2024)
@@ -452,9 +452,116 @@ Your patron teaches you how to guard your mind and body. You are immune to the C
 In addition, immediately after a creature you can see hits you with an attack roll, you can take a Reaction to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this Reaction, you can't use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 ####  Celestial Patron
-####  Fiend Patron
-####  Great Old One Patron
+_Call on the Power of the Heavens_
 
+Your pact draws on the Upper Planes, the realms of everlasting bliss. You might enter an agreement with an empyrean, a couatl, a sphinx, a unicorn, or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.
+
+##### Level 3: Celestial Spells
+
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Celestial Spells table, you thereafter always have the listed spells prepared.
+
+| Warlock Level | Spells |
+| :---: | --- |
+| 3 | _Aid_, _Cure Wounds_, _Guiding Bolt_,Lesser Restoration_, _Light_, _Sacred Flame_ |
+| 5 | _Daylight_, _Revivify_ |
+| 7 | _Guardian of Faith, Wall of Fire_ |
+| 9 | _Greater Restoration_, _Summon Celestial_ |
+
+##### Level 3: Healing Light
+
+You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
+
+As a Bonus Action, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of Hit Points equal to the rail's total. Your pool regains all expended dice when you finish a Long Rest.
+
+##### Level 6: Radiant Soul
+
+Your link to your patron allows you to serve as a conduit for radiant energy. You have Resistance to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
+
+##### Level 10: Celestial Resilience
+
+You gain Temporary Hit Points whenever you use your Magical Cunning feature or finish a Short or Long Rest. These Temporary Hit Points equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain Temporary Hit Points equal to half your Warlock level plus your Charisma modifier.
+
+##### Level 14: Searing Vengeance
+
+When you or an ally within 60 fee t of you is about to make a Death Saving Throw, you can unleash radiant energy to save the creature. The creature regains Hit Points equal to half its Hit Point maximum and can end the Prone condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to 2d8 plus your Charisma modifier, and each has the Blinded condition until the end of the current turn. Once you use this feature, you can't use it again until you finish a Long Rest.
+
+####  Fiend Patron
+_Make a Deal with the Lower Planes_
+
+Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron's aims are evil-the corruption or destruction of all things, ultimately including you-and your path is defined by the extent to which you strive against those aims.
+
+##### Level 3: Dark One's Blessing
+
+When you reduce an enemy to 0 Hit Points, you gain Temporary Hit Points equal to your Charisma modifier plus your Warlock level (minimum of 1 Temporary Hit Point). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 Hit Points.
+
+##### Level 3: Fiend Spells
+
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Fiend Spells table, you thereafter always have the listed spells prepared.
+
+| Warlock Level | Spells |
+| :---: | --- |
+|  3  | _Burning Hands_, _Command_, _Scorching Ray_, _Suggestion_ |
+|  5  |  _Fireball_, _Stinking Cloud_ |
+|  7  |  _Fire Shield_, _Wall of Fire_ |
+|  9  |  _Geas_, _Insect Plague_ |
+
+##### Level 6: Dark One's Own Luck
+
+You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this featu re to add 1d10 to your roll. You can do so after seeing the roll but before any of the rail's effects occur. You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a Long Rest.
+
+##### Level 10: Fiendish Resilience
+
+Choose one damage type, other than Force, whenever you finish a Short or Long Rest. You have Resistance to that damage type until you choose a different one with this feature.
+
+##### Level 14: Hurl Through Hell
+
+Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes 8d10 Psychic damage if it isn't a Fiend, and it has the Incapacitated condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+
+####  Great Old One Patron
+_Unearth Forbidden Lore of Ineffable Beings_
+
+When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god-a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.
+
+##### Level 3: Awakened Mind
+
+You can form a telepathic connection between your mind and the mind of another. As a Bonus Action, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.
+
+The telepathic connection lasts for a number of minutes equal to your Warlock level. It ends early if you use this feature to connect with a different creature.
+
+##### Level 3: Great Old One Spells
+
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Old One Spells table, you thereafter always have the listed spells prepared.
+
+| Warlock Level | Spells |
+| :---: | --- |
+| 3 | _Detect Thoughts_, _Dissonant Whispers_, _Phantasmal Force_, _Tasha's Hideous Laughter_ |
+| 5 |  _Clairvoyance_, _Hunger of Hadar_ |
+| 7 |  _Confusion_, _Summon Aberration_ |
+| 9 | _Modify Memory_, _Telekinesis_ |
+
+##### Level 3: Psychic Spells
+
+When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or Illusion, you can do so without Verbal or Somatic components.
+
+##### Level 6: Clairvoyant Combatant
+
+When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has Disadvantage on attack rolls against you, and you have Advantage on attack rolls against that creature for the duration of the bond.
+
+Once you use this feature, you can't use it again until you finish a Short or Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+
+##### Level 10: Eldritch Hex
+
+Your alien patron grants you a powerful curse. You always have the _Hex_ spell prepared. When you cast _Hex_ and choose an ability, the target also has Disadvantage on saving throws of the chosen ability for the duration of the spell.
+
+##### Level 10: Thought Shield
+
+Your thoughts can't be read by telepathy or other means unless you allow it. You also have Resistance to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
+
+##### Level 14: Create Thrall
+
+When you cast _Summon Aberration_, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier.
+
+In addition, the first time each turn the Aberration hits a creature under the effect of your _Hex_, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
 
 ## III. Key Differences from Standard 2014 Rules (If Applicable)
 (If this is an adopted 2024 rule or a significant modification, highlight the main changes from the 2014 baseline here for quick reference.)
