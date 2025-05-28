@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:37:02"
+last_updated: "2025-05-27 23:26:53"
 index_type: "Location Overview"
 campaign_name: "Vaelin's Campaign"
 tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaign_data", "#duskhaven_districts"] # (NEW/ENHANCED)
@@ -13,6 +13,7 @@ tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaig
 | [[Abandoned Bakery Attic]] | Hideout | [[Shadow Quarter]] | [[Vaelin Shadowleaf]], [[Finch]] |
 | [[Beyond Duskhaven]] | Outside City | N/A | [[Farmer Gildas]] (Dream-Only) |
 | [[Crow's Nest]] | Tavern | [[Docks]] | [[Skarlix]], [[Brak]] |
+| [[Locations/Docks|Docks]] | District | [[Locations/Duskhaven|Duskhaven]] | [[Characters/NPCs/Greta_Mama_Stoneheart|Greta]], [[Characters/NPCs/Elara_Lark_Stoneheart|Lark]], [[Characters/NPCs/The_Anchor|The_Anchor]] |
 | [[Drunken_Raven]] | Tavern | [[Shadow Quarter]] | [[Talia "Whisper"]], [[Tarren]] |
 | [[Duskhaven]] | City | N/A | (See Duskhaven.md for full list) |
 | [[Market Square]] | District | [[Duskhaven]] | [[Mira "Quickfingers"]], [[Garrick Stonehand]] |
