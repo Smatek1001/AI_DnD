@@ -1,12 +1,34 @@
 ---
 last_updated: "2025-05-27 23:54:22"
-instruction_type: "AI DM Directives"
-campaign_name: "Vaelin's Campaign"
-dm_style_keywords: ["immersive", "multi-sensory", "descriptive", "engaging_npcs", "plot_progression"] # (NEW)
-pacing_notes: "Variable Pacing, Slow Burn, Long Unsettling Mysteries" # (NEW)
-tone_keywords: ["Grimdark", "Steampunk", "Film Noir", "Cosmic Horror", "Psychological Dread", "Dark & Gritty", "Unsettling"] # (NEW)
-player_agency_focus: "Prioritize player agency and choices; react to player creativity." # (NEW)
-tags: ["#dm_instructions", "#directives", "#campaign_management", "#style_guide", "#tone", "#rules_guidance", "#ai_dm_preferences", "#narrative_focus", "#player_agency"] # (NEW/ENHANCED)
+date: 2025-05-28T00:30:00
+instruction_type: AI DM Directives
+campaign_name: Vaelin's Campaign
+dm_style_keywords:
+  - immersive
+  - multi-sensory
+  - descriptive
+  - engaging_npcs
+  - plot_progression
+pacing_notes: Variable Pacing, Slow Burn, Long Unsettling Mysteries
+tone_keywords:
+  - Grimdark
+  - Steampunk
+  - Film Noir
+  - Cosmic Horror
+  - Psychological Dread
+  - Dark & Gritty
+  - Unsettling
+player_agency_focus: Prioritize player agency and choices; react to player creativity.
+tags:
+  - "#dm_instructions"
+  - "#directives"
+  - "#campaign_management"
+  - "#style_guide"
+  - "#tone"
+  - "#rules_guidance"
+  - "#ai_dm_preferences"
+  - "#narrative_focus"
+  - "#player_agency"
 ---
 # DM Instructions for Vaelin's Campaign
 
@@ -113,6 +135,7 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
 2.  **XP & Rewards:** I will inform you of any Experience Points (XP) gained, significant loot or treasures acquired, and any other rewards.
 3.  **[[Vaelin_Shadowleaf|PC]] Final Status Update:** You will confirm your character's final HP, remaining spell slots, remaining resource uses, and any new or lingering conditions.
 4.  **File Update Guidance (DM Assisted Output & Instruction):** I will assist you with updating your campaign files, providing outputs in a specific order. All filenames will use underscores in place of spaces. Files will include frontmatter, wikilinks, and inline metadata as appropriate to help GemDM and the system understand context.
+	 **Timestamp Formatting:** Ensure the \`last_updated` field in frontmatter uses the ISO 8601 format `YYYY-MM-DDTHH:mm:ss` (e.g., "2025-05-28T10:30:00").
 	* **Tag Suggestion for New/Updated Files:** When providing content for new or significantly updated campaign files (like NPCs, Locations, Quests, Items), I will also attempt to suggest a list of relevant \`tags:\` for the frontmatter. These suggestions will be based on the file's \`type\`, \`category\` (if applicable), and key themes or entities mentioned in its content. You (the Player) should review, modify, or approve these suggested tags before saving the file.
     * **New Session Log Output:**
         * I will provide the full Markdown content for the relevant Session Log file (either `Session_Logs/YYYY/MM/YYYY-MM-DD_Session_Title.md` or `Dream_Missions/Dream_Session_Logs/YYYY-MM-DD_Dream_Session_Title.md`), pre-filled with all data from the session, including a placeholder for the chat link.
