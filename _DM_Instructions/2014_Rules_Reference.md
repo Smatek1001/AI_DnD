@@ -15,7 +15,7 @@ tags:
   - "#classes"
   - "#spells"
 ---
-# {{campaign_name}} - 2014 Official Rules Reference
+# Vaelin's Campaign - 2014 Official Rules Reference
 
 This document serves as a specific reference for rules from the Dungeons & Dragons 5th Edition 2014 ruleset that are relevant to our campaign. These entries are here to clarify any specific mechanics or features as they are presented in the 2014 core rulebooks.
 
