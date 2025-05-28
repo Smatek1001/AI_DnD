@@ -192,10 +192,10 @@ Eldritch Invocation options appear in alphabetical order.
 	- **Prerequisite:** Level 5+ Warlock, _Pact of the Chain_ Invocation
 	- When you cast _Find Familiar_, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 		- **_Aerial_** _or_ **_Aquatic._** The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
-		- **_Quick Attack._** As a Bonus Action, you can command the familiar to take the Attack action.
-		- **_Necrotic_** _or_ **_Radiant_** **_Damage._** Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
-	- _Your_ **_Save_** DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
-	- **_Resistance._** When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
+		- **Quick Attack:** As a Bonus Action, you can command the familiar to take the Attack action.
+		- **Necrotic or Radiant Damage:** Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
+	- **Your Save DC:**. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+	- **Resistance:** When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
 
 - Lessons of the First Ones
 	- **Prerequisite:** Level 2+ Warlock
@@ -306,21 +306,18 @@ This section presents the Warlock spell list. The spells are organized by spell 
 
 | Spell | School | Special |
 | --- | --- | :---: |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
+| _Cloud of Daggers_ | Conjuration | C |
+| _Crown of Madness_ | Enchantment | C |
+| _Darkness_ | Evocation | C |
+| _Enthrall_ | Enchantment | C |
+| _Hold Person_ | Enchantment | C |
+| _Invisibility_ | Illusion | C |
+| _Mind Spike_ | Divination | C |
+| _Mirror Image_ | Illusion | - |
+| _Misty Step_ | Conjuration | - |
+| _Ray of Enfeeblement_ | Necromancy | C |
+| _Spider Climb_ | Transmutation | C |
+| _Suggestion_ | Enchantment | C |
 
 #### Level 3 Warlock Spells
 
@@ -368,7 +365,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 
 ### G. Warlock Subclasses
 
-A Warlock subclass is a specialization that grants you features at certain Warlock levels, as specified in the subclass. This section presents the Archfey Patron, Celestial Patron, Fiend Patron, and Great Old One Patron subclasses.
+A Warlock subclass is a specialization that grants you features at certain Warlock levels, as specified in the subclass. This section presents the [[#Archfey Patron|Archfey Patron]], [[#Celestial Patron|Celestial Patron]], [[#Fiend Patron|Fiend Patron]], and [[#Great Old One Patron|Great Old One Patron]] subclasses.
 
 #### Archfey Patron
 _Bargain with Whimsical Fey_
