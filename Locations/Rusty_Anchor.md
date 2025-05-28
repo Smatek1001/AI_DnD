@@ -1,18 +1,32 @@
 ---
-last_updated: "2025-05-26 00:03:00"
-type: "Location"
-name: "Rusty Anchor"
+last_updated: 2025-05-26 00:03:00
+type: Location
+name: Rusty Anchor
 aliases: []
-category: "Tavern"
+category: Tavern
 parent_location: "[[Docks]]"
 status: active
-inhabitants: ["Sailors", "Smugglers", "Fences"]
+inhabitants:
+  - Sailors
+  - Smugglers
+  - Fences
 ruler: ""
-factions_present: ["[[Harbor Syndicate]]", "[[Nightshade Guild]]"]
-key_npcs_present: ["[[Greta \"Mama\" Stoneheart]]", "[[Elara \"Lark\" Stoneheart]]"] # (NEW)
-associated_quests: [] # (NEW)
-points_of_interest: [] # (NEW)
-tags: ["#tavern", "#docks", "#neutral_ground", "#criminal_hub", "#grimy", "#safe_haven", "#underworld_hub"] # (NEW/ENHANCED)
+factions_present:
+  - "[[Harbor Syndicate]]"
+  - "[[Nightshade Guild]]"
+key_npcs_present:
+  - '[[Greta "Mama" Stoneheart]]'
+  - '[[Elara "Lark" Stoneheart]]'
+associated_quests: 
+points_of_interest: 
+tags:
+  - "#tavern"
+  - "#docks"
+  - "#neutral_ground"
+  - "#criminal_hub"
+  - "#grimy"
+  - "#safe_haven"
+  - "#underworld_hub"
 ---
 # Rusty Anchor
 

@@ -1,15 +1,39 @@
 ---
-last_updated: "2025-05-27 23:24:00"
-type: "Location"
-name: "Docks"
-aliases: ["Duskhaven Docks", "The Waterfront"]
-category: "District"
+last_updated: 2025-05-28T01:09:08
+type: Location
+name: Docks
+aliases:
+  - Duskhaven Docks
+  - The Waterfront
+  - The Docks
+category: District
 parent_location: "[[Locations/Duskhaven|Duskhaven]]"
-status: "active"
-inhabitants: ["Humans", "Sailors", "Dockworkers", "Merchants", "Smugglers", "Criminals", "Goblins (Harbor Syndicate)", "Half-Orcs (Harbor Syndicate)"]
+status: active
+inhabitants:
+  - Humans
+  - Sailors
+  - Dockworkers
+  - Merchants
+  - Smugglers
+  - Criminals
+  - Goblins (Harbor Syndicate)
+  - Half-Orcs (Harbor Syndicate)
 ruler: "[[Factions/Harbor_Syndicate|Harbor Syndicate]] (De facto control)"
-factions_present: ["[[Factions/Harbor_Syndicate|Harbor Syndicate]]", "[[Factions/Nightshade_Guild|Nightshade Guild]] (operatives and fences active)"]
-tags: ["#district", "#port", "#docks", "#waterfront", "#criminal_element", "#harbor_syndicate_territory", "#grimy", "#industrial", "#steampunk_elements", "#commerce", "#smuggling_hub"]
+factions_present:
+  - "[[Factions/Harbor_Syndicate|Harbor Syndicate]]"
+  - "[[Factions/Nightshade_Guild|Nightshade Guild]] (operatives and fences active)"
+tags:
+  - "#district"
+  - "#port"
+  - "#docks"
+  - "#waterfront"
+  - "#criminal_element"
+  - "#harbor_syndicate_territory"
+  - "#grimy"
+  - "#industrial"
+  - "#steampunk_elements"
+  - "#commerce"
+  - "#smuggling_hub"
 ---
 # Docks
 

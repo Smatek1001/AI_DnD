@@ -1,15 +1,27 @@
 ---
-last_updated: "2025-05-26 02:56:18"
-type: "Location"
-name: "Veil"
-aliases: []
-category: "District"
+last_updated: 2025-05-28T01:09:03
+type: Location
+name: Veil
+aliases:
+  - The Veil
+category: District
 parent_location: "[[Duskhaven]]"
 status: active
-inhabitants: ["Humans", "Elves", "Tieflings", "Drow", "Arcane Practitioners", "Criminals"]
+inhabitants:
+  - Humans
+  - Elves
+  - Tieflings
+  - Drow
+  - Arcane Practitioners
+  - Criminals
 ruler: "[[Nightshade Guild]] (De Facto)"
-factions_present: ["[[Nightshade Guild]]"]
-tags: ["#district", "#arcane_underworld", "#criminal_hub", "#secrets"]
+factions_present:
+  - "[[Nightshade Guild]]"
+tags:
+  - "#district"
+  - "#arcane_underworld"
+  - "#criminal_hub"
+  - "#secrets"
 ---
 # Veil
 
