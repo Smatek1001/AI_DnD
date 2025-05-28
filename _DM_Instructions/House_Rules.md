@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T03:05:01
+last_updated: 2025-05-28T03:18:33
 rule_type: "House Rules"
 campaign_name: "Vaelin's Campaign"
 rules_focus_areas: ["General Rules", "Combat Rules", "Spellcasting Rules", "Exploration & Social Rules", "Character Creation & Advancement", "Specific Class/Race Modifications"] # (NEW)
