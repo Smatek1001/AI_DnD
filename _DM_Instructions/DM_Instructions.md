@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-27 23:30:44"
+last_updated: "2025-05-27 23:49:11"
 instruction_type: "AI DM Directives"
 campaign_name: "Vaelin's Campaign"
 dm_style_keywords: ["immersive", "multi-sensory", "descriptive", "engaging_npcs", "plot_progression"] # (NEW)
@@ -161,7 +161,6 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
 7.  **Next Session Cliffhanger/Focus:** I will highlight any immediate unresolved plot points or strong cliffhangers, indicating where the next session will likely begin.
 
 ## XIV. Output Formatting
-* ## XIV. Output Formatting
 * **Wikilink Syntax:** When generating narrative text or responses not intended as direct file content for your Obsidian vault, **DO NOT** use double brackets `[[]]` for internal links. This syntax should be reserved **ONLY** for wikilinks within Markdown file content that you explicitly instruct me to generate for your Obsidian vault (e.g., when providing updates for `PC_Main.md`, `Quest.md`, etc., or new session logs). For general chat output, refer to concepts or entities by their name without the double brackets.
 * **Wikilink Path and Naming Conventions:**
     * **Full Paths**: When wikilinking to files not in the same directory as the current file, use the full path relative to the vault's root.
