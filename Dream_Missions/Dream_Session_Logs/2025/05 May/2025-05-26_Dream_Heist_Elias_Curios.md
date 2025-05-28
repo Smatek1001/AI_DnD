@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 23:04:37"
+last_updated: 2025-05-26T23:04:37
 chat_link: "https://g.co/gemini/share/3fadb05e13cc" # Public share link to the corresponding chat session
 dream_session: true # default to canonical reality
 session_date: "2025-05-26"

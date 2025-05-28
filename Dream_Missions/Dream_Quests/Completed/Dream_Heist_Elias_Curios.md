@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 23:15:32"
+last_updated: 2025-05-26T23:15:32
 dream_mission: true
 type: "Quest"
 name: "Dream Heist: Elias's Curios"

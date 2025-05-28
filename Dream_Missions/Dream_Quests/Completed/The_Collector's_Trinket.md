@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 07:34:03"
+last_updated: 2025-05-26T07:34:03
 dream_mission: true
 type: "Quest"
 name: "The Collector's Trinket"

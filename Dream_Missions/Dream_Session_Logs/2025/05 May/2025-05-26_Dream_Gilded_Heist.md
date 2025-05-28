@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 07:33:57"
+last_updated: 2025-05-26T07:33:57
 chat_link: https://g.co/gemini/share/349e5eebe839
 dream_session: true
 session_date: 2025-05-26
