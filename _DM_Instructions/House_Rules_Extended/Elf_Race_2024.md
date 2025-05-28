@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-27 16:19:55"
+last_updated: 2025-05-28T01:16:57
 rule_set: D&D 5e 2024
 category: Race
 name: Elf Race (2024)
@@ -64,6 +64,7 @@ As an Elf, you have these special traits.
 ## III. Key Differences from Standard 2014 Rules (If Applicable)
 (If this is an adopted 2024 rule or a significant modification, highlight the main changes from the 2014 baseline here for quick reference.)
 * High Elves can pick a new Wizard cantrip of their choice after a long rest.
+* Drow no longer suffer from Sunlight Sensitivity.
 * Elves may choose proficiency in one of the following: Insight, Perception, Survival.
 
 ## IV. DM Notes (for AI - How to Interpret/Apply)
