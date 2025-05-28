@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T03:06:25
+last_updated: 2025-05-28T17:55:02
 rule_type: Official 2014 Rule Reference
 campaign_name: "Vaelin's Campaign"
 rules_edition: Dungeons & Dragons 5th Edition 2014

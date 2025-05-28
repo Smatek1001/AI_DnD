@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:36:22"
+last_updated: 2025-05-28T17:54:38
 index_type: "Cultures & Races Overview"
 campaign_name: "Vaelin's Campaign"
 tags: ["#culture_index", "#races_overview", "#index_file", "#campaign_lore", "#demographics", "#world_details"] # (NEW/ENHANCED)

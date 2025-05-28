@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:06:20"
+last_updated: 2025-05-28T17:54:27
 type: "Location"
 name: "Starfall Manor"
 aliases: ["Starfall Manor"]

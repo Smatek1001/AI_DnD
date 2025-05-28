@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:42:50"
+last_updated: 2025-05-28T17:55:05
 type: Campaign Narrative
 campaign_name: "Vaelin's Campaign"
 current_campaign_phase: ""

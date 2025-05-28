@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:12:07"
+last_updated: 2025-05-28T17:53:43
 type: "Faction"
 name: "Harbor Syndicate"
 aliases: ["Harbor Syndicate"]

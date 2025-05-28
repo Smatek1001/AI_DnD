@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:43:20"
+last_updated: 2025-05-28T17:55:09
 type: "DM Brainstorm"
 campaign_name: "Vaelin's Campaign"
 idea_categories: ["Character-Specific Seeds", "World-Specific Hooks & Concepts", "Item/Artifact Ideas", "NPC Concepts", "Dungeon/Location Concepts", "Random Encounters/Side Quests", "General \"What If\" Questions"] # (NEW)

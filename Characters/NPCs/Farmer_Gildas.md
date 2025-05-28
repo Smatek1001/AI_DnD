@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-25 23:25:31"
+last_updated: "2025-05-28T18:22:54"
 type: "NPC"
 name: "Farmer Gildas"
 aliases: ["Gildas"]
@@ -11,7 +11,7 @@ occupation: "Farmer"
 importance: "Minor"
 disposition_to_pc: "Friendly"
 faction: []
-location: "[[Beyond Duskhaven]]"
+location: "[[Locations/Beyond_Duskhaven]]"
 connections: []
 employer: "" # (NEW) No explicit employer for a farmer.
 is_quest_giver_for: [] # (NEW)
@@ -32,11 +32,11 @@ tags: ["#farmer", "#dream_only", "#human", "#minor_npc", "#friendly_npc", "#neut
 
 ## II. Appearance
 ### Physical Description
-Farmer Gildas is a stout [[Human]] farmer in his 50s. His weathered face and calloused hands reflect a life of labor. His simple tunic and straw hat mark him as a rural outsider. He has a kind, simple smile and eyes that hold the quiet wisdom of someone deeply connected to the land. He often smells faintly of earth and straw.
+Farmer Gildas is a stout human farmer in his 50s. His weathered face and calloused hands reflect a life of labor. His simple tunic and straw hat mark him as a rural outsider. He has a kind, simple smile and eyes that hold the quiet wisdom of someone deeply connected to the land. He often smells faintly of earth and straw.
 
 ## III. Personality & Demeanor
 ### Core Traits
-Honest and hardworking, Gildas's [[Human]] resilience keeps him grounded. He is protective of his farm and generally hospitable.
+Honest and hardworking, Gildas's human resilience keeps him grounded. He is protective of his farm and generally hospitable.
 ### Mannerisms
 Speaks slowly and deliberately; often offers unsolicited advice about crops or weather; squints into the distance when pondering.
 ### Ideal & Flaw
@@ -44,7 +44,7 @@ Speaks slowly and deliberately; often offers unsolicited advice about crops or w
 **Flaw:** "His trusting nature can make him naive to the dangers of the world beyond his farm."
 
 ## IV. Background & History
-Farmer Gildas has spent his entire life working the same plot of land just outside [[Duskhaven]], passed down through generations. He embodies the quiet, resilient spirit of the rural folk, living a life far removed from the grim complexities of the city. His days are governed by the sun, the soil, and the seasons.
+Farmer Gildas has spent his entire life working the same plot of land just outside [[Locations/Duskhaven|Duskhaven]], passed down through generations. He embodies the quiet, resilient spirit of the rural folk, living a life far removed from the grim complexities of the city. His days are governed by the sun, the soil, and the seasons.
 
 ## V. Goals & Motivations
 ### Short-term Goals
@@ -59,14 +59,14 @@ Providing for his family and living a simple, honest life.
 * **Other Affiliations:** Member of the local farming community.
 
 ## VII. Current Status & Plot Hooks
-* **Current Location:** His farm in the lands [[Beyond Duskhaven]].
+* **Current Location:** His farm in the lands [[Locations/Beyond_Duskhaven|Beyond Duskhaven]].
 * **Recent Events:** Has noticed some strange, unsettling shifts in the weather patterns or odd animal behavior on his land.
-* **Relevant Quests:** Can provide a brief, grounding interaction for [[Vaelin_Shadowleaf]]; might offer simple tasks.
-* **Potential Plot Hooks:** (Dream-Only) Gildas might appear in a dream to offer cryptic advice or a symbolic warning related to nature or corruption; he could be a symbol of the simple life [[Vaelin_Shadowleaf]] secretly yearns for, or a victim of an external threat that touches even the quiet countryside.
+* **Relevant Quests:** Can provide a brief, grounding interaction for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]; might offer simple tasks.
+* **Potential Plot Hooks:** (Dream-Only) Gildas might appear in a dream to offer cryptic advice or a symbolic warning related to nature or corruption; he could be a symbol of the simple life [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] secretly yearns for, or a victim of an external threat that touches even the quiet countryside.
 
 ## VIII. DM Notes (for AI)
-**CRITICAL DIRECTIVE:** Farmer Gildas is a **Dream-Only** NPC. Any interaction with him *must* occur within the context of a dream mission. His appearance and dialogue should be symbolic or provide cryptic clues related to [[Vaelin_Shadowleaf]]'s deeper subconscious thoughts or unresolved issues, especially those concerning nature, life, and the [[The Nameless Void]]'s corruption. Do not allow him to exist or interact in canonical reality. His presence should feel slightly off, like a dream character.
-**Mechanics:** Medium [[Human]], Commoner stats, Strength +2, Perception +2. Non-combat, relies on farm dog.
+**CRITICAL DIRECTIVE:** Farmer Gildas is a **Dream-Only** NPC. Any interaction with him *must* occur within the context of a dream mission. His appearance and dialogue should be symbolic or provide cryptic clues related to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]'s deeper subconscious thoughts or unresolved issues, especially those concerning nature, life, and the [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]'s corruption. Do not allow him to exist or interact in canonical reality. His presence should feel slightly off, like a dream character.
+**Mechanics:** Medium human, Commoner stats, Strength +2, Perception +2. Non-combat, relies on farm dog.
 
 ### ROT-13 Encoded Secrets
 Snezre Tvyqnf vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

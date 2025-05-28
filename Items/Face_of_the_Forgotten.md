@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:17:42"
+last_updated: 2025-05-28T17:53:55
 type: "Item"
 name: "Face of the Forgotten"
 aliases: ["Face of the Forgotten", "The Face"]

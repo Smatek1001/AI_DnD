@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-26 00:16:34
+last_updated: 2025-05-28T17:53:51
 type: Faction
 name: The Society
 aliases:
@@ -21,7 +21,7 @@ key_members:
   - "[[Elyndra]]"
   - '[[Talia "Whisper"]]'
   - "[[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]"
-  - "[[Lord Varyn]]"
+  - "[[Characters/NPCs/Lord_Varyn]]"
 territories_controlled: 
 tags:
   - "#secret_society"
@@ -69,7 +69,7 @@ tags:
 * [[Characters/NPCs/Elyndra|Elyndra]] (Elder)
 * [[Talia "Whisper"]] (Operative)
 * [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] (Operative)
-* [[Characters/NPCs/Lord Varyn|Lord Varyn]] (Corrupt Noble, aligned but untrustworthy)
+* [[Characters/NPCs/Lord_Varyn|Lord Varyn]] (Corrupt Noble, aligned but untrustworthy)
 
 ## VII. Sub-Factions
 * **Wardens:** Protectors seeking to shield the world from evils, viewing [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] as a potential asset.

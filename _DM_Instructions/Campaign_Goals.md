@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:41:30"
+last_updated: 2025-05-28T17:55:03
 goal_type: "Campaign Arc"
 campaign_name: "Vaelin's Campaign"
 main_antagonist_name: "[[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]" # (NEW) Explicitly define the BBEG

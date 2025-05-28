@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:36:36"
+last_updated: 2025-05-28T17:54:40
 index_type: "Pantheon Overview"
 campaign_name: "Vaelin's CampaignÒ"
 tags: ["#pantheon_index", "#religion_overview", "#index_file", "#campaign_lore", "#deities", "#cults", "#spiritual_beliefs"] # (NEW/ENHANCED)

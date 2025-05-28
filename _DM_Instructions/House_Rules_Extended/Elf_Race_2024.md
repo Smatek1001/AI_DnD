@@ -1,9 +1,10 @@
 ---
-last_updated: 2025-05-28T01:16:57
+last_updated: 2025-05-28T17:54:59
 rule_set: D&D 5e 2024
 category: Race
 name: Elf Race (2024)
 status: active
+aliases: Elf, elf
 source_document: PHB 2024 pg. 189-190
 supersedes: Elf Race (PHB 2014 pg. 21-24)
 tags:

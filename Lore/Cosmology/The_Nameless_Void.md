@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T03:36:15
+last_updated: 2025-05-28T17:54:37
 type: "Cosmology"
 name: "The Nameless Void"
 aliases: ["The Nameless Void", "The Void"]

@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:11:13"
+last_updated: 2025-05-28T17:53:42
 type: "Faction"
 name: "Ebon Web Syndicate"
 aliases: ["Ebon Web Syndicate"]

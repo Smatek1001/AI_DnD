@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:07:37"
+last_updated: 2025-05-28T17:54:29
 type: "Location"
 name: "Therandril"
 aliases: []

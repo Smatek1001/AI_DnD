@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:19:34"
+last_updated: 2025-05-28T17:53:59
 type: "Item"
 name: "Shadowpiercer"
 aliases: []

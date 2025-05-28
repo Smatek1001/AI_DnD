@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-26 00:05:30
+last_updated: 2025-05-28T17:54:25
 type: Location
 name: "Shadow Quarter"
 aliases: ["Shadow Quarter"]

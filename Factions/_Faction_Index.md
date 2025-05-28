@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:37:41"
+last_updated: 2025-05-28T17:53:40
 index_type: "Faction Overview"
 campaign_name: "Vaelin's Campaign"
 tags: ["#faction_index", "#organization_overview", "#index_file", "#campaign_data", "#criminal_factions", "#political_factions", "#underworld_factions"] # (NEW/ENHANCED)

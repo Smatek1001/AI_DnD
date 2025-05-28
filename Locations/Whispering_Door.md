@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:10:00"
+last_updated: 2025-05-28T17:54:31
 type: "Location"
 name: "Whispering Door"
 aliases: ["Whispering Door"]

@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:16:05"
+last_updated: 2025-05-28T17:53:49
 type: "Faction"
 name: "The Cult"
 aliases: ["The Cult"]

@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-28T04:30:03"
+last_updated: 2025-05-28T17:54:55
 campaign_name: "Vaelin's Campaign"
 current_in_game_date: "" # To be filled in at the start of a canonical session
 days_passed_since_campaign_start: 0

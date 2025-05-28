@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T03:18:33
+last_updated: 2025-05-28T17:55:07
 rule_type: House Rules
 aliases:
   - The House Rules

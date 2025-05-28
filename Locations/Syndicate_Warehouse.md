@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:07:08"
+last_updated: 2025-05-28T17:54:28
 type: "Location"
 name: "Syndicate Warehouse"
 aliases: ["Syndicate Warehouse"]

@@ -1,8 +1,9 @@
 ---
-last_updated: 2025-05-26 00:15:15
+last_updated: 2025-05-28T17:53:47
 type: Faction
 name: Ratlings
-aliases: ["The Ratlings"]
+aliases:
+  - The Ratlings
 status: active
 alignment: Chaotic Neutral
 size: Small
@@ -20,7 +21,7 @@ key_members:
 territories_controlled:
   - "[[Locations/Shadow_Quarter|Shadow Quarter]]"
   - "[[Locations/Docks|The Docks]]"
-  - "[[Locations/Market Square|Market Square]]"
+  - "[[Locations/Market_Square|Market_Square]]"
 tags:
   - "#gang"
   - "#urchins"
@@ -38,7 +39,7 @@ tags:
 * **Status:** active
 * **Alignment:** Chaotic Neutral
 * **Size:** Small (about a dozen street urchins)
-* **Headquarters:** No formal headquarters; they operate primarily in the [[Locations/Shadow_Quarter|Shadow Quarter]], [[Locations/Docks|The Docks]], and [[Locations/Market Square|Market Square]].
+* **Headquarters:** No formal headquarters; they operate primarily in the [[Locations/Shadow_Quarter|Shadow Quarter]], [[Locations/Docks|The Docks]], and [[Locations/Market_Square|Market_Square]].
 * **Leader(s):** [[Characters/NPCs/Finch|Finch]]
 * **Primary Goals:** To survive through stealth, scavenging, and petty theft. They are integral to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]’s intelligence and security network.
 * **Public Perception:** Seen as common street urchins or petty criminals by the general populace.

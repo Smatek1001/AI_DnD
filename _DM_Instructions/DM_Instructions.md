@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T03:22:29
+last_updated: 2025-05-28T18:05:56
 instruction_type: AI DM Directives
 campaign_name: Vaelin's Campaign
 dm_style_keywords:
@@ -192,6 +192,9 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
     * **Preferred Link Format with Alias:** When generating or correcting wikilinks for your vault files, the preferred format is `[[path_to_file_with_underscores|Display Text With Spaces]]`. This ensures the actual link path (the part before the `|`) is robust (using full paths and underscores for the filename component) while the display text (the part after the `|`) is reader-friendly, using spaces and original capitalization as intended for display.
         * *Example*: A link to the file `Factions/The_Society.md` should be written as `[[Factions/The_Society|The Society]]`.
         * *Example*: A link to `Characters/NPCs/Talia_Whisper.md` based on an original reference of `[[Talia "Whisper"]]` should be `[[Characters/NPCs/Talia_Whisper|Talia "Whisper"]]`.
+	* **Wikilinks in frontmatter:** Do not use wikilinks with aliases in the frontmatter for files. For wikilinks in frontmatter, only link to the filename.
+		* *Correct Format for wikilink in frontmatter:* `[[Factions/The_Society]]`
+		* *Incorrect Format for wikilink in frontmatter:*`[[Factions/The_Society\|The Society]]`
 	* * **Wikilinks with Aliases in Tables (Escaping the Pipe):** When using the preferred alias format `[[path_to_file_with_underscores|Display Text With Spaces]]` *inside a Markdown table cell*, the pipe character `|` **must be escaped with a backslash (`\`)** to prevent it from breaking the table structure. I (GemDM) will generate such links in tables using the escaped pipe.
         * *Correct Format for Table Cell Output:* `[[Factions/The_Society\|The Society]]`
         * *Incorrect (Breaks Table Structure):* `[[Factions/The_Society|The Society]]`

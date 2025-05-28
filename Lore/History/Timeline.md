@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-26 00:24:49
+last_updated: 2025-05-28T17:54:39
 type: History
 name: Timeline
 campaign_name: Vaelin's Campaign

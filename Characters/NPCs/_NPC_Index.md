@@ -1,8 +1,8 @@
 ---
-last_updated: "2025-05-26 08:38:46"
+last_updated: 2025-05-28T18:50:13
 index_type: "NPC Overview"
 campaign_name: "Vaelin's Campaign"
-tags: ["#npc_index", "#character_overview", "#index_file", "#campaign_data", "#character_list", "#allies", "#enemies", "#contacts"] # (NEW/ENHANCED)
+tags: ["#npc_index", "#character_overview", "#index_file", "#campaign_data", "#character_list", "#allies", "#enemies", "#contacts"]
 ---
 # Non-Player Characters (NPCs) - Index
 
@@ -12,32 +12,33 @@ This document serves as an index for all notable Non-Player Characters encounter
 
 | NPC | Race | Role | Faction | Primary Location |
 |---|---|---|---|---|
-| [[The Anchor]] | Human | Harbor Syndicate Mastermind | [[Harbor Syndicate]] | [[Syndicate Warehouse]] |
-| [[Brak]] | Half-Orc | Syndicate Thug / Enforcer | [[Harbor Syndicate]] | [[Crow's Nest]] |
-| [[Elara "Lark" Stoneheart]] | Human | Tavern Server / Informant | None | [[Rusty Anchor]] |
-| [[Elaris]] | Elf | Arcane Sage | Independent | [[Shaded Lantern]] |
-| [[Elyndra]] | High Elf | Society Elder / Vaelin's Mentor | [[The Society]] | [[Starfall_Manor]] |
-| [[Farmer Gildas]] | Human | Farmer | None | [[Beyond Duskhaven]] |
-| [[Finch]] | Human | Leader of the Ratlings | [[Ratlings]] | [[Shadow Quarter]] |
-| [[The Forger]] | Human | Master Forger / Document Faker | [[Harbor Syndicate]] | [[Docks]] |
-| [[Garrick Stonehand]] | Dwarf | Merchant | Independent | [[Market Square]] |
-| [[Greta "Mama" Stoneheart]] | Human | Tavern Proprietor | None | [[Rusty Anchor]] |
-| [[Jib]] | Halfling | Nightshade Guild Lookout | [[Nightshade Guild]] | [[Whispering Door]] |
-| [[Korgal Iron Fist]] | Half-Orc | Harbor Syndicate Chief Lieutenant / Enforcer | [[Harbor Syndicate]] | [[Syndicate Warehouse]] |
-| [[Kyssra]] | Drow | Nightshade Guild Lookout | [[Nightshade Guild]] | [[Whispering Door]] |
-| [[Lord Varyn]] | Human | Corrupt Noble | [[The Society (Untrustworthy)]] | [[Noble District]] |
-| [[Lyra]] | Human | Arcane Shop Assistant | None | [[Shaded Lantern]] |
-| [[Mara]] | Tiefling | Nightshade Guild Elder (Magic) | [[Nightshade Guild]] | [[Veil]] |
-| [[Mira "Quickfingers"]] | Halfling | Fence | [[Nightshade Guild]] / Independent | [[Market Square]] |
-| [[Rorik "Wavebreaker"]] | Human | Smuggler | Independent / [[Harbor Syndicate]] | [[Docks]] |
-| [[Rynna]] | Goblin | Nightshade Guild Fence | [[Nightshade Guild]] | [[Whispering Door]] |
-| [[Skarlix]] | Goblin | Harbor Syndicate Loan Shark | [[Harbor Syndicate]] | [[Crow's Nest]] |
-| [[Skrix]] | Goblin | Harbor Syndicate Courier | [[Harbor Syndicate]] | [[Syndicate Warehouse]] |
-| [[Talia "Whisper"]] | Human | Society Operative / Mission Contact | [[The Society]] | [[Drunken_Raven]] |
-| [[Tarren]] | Human | Tavern Bouncer | [[The Society]] | [[Drunken_Raven]] |
-| [[Thorne]] | Human | Nightshade Guild Elder (Espionage) | [[Nightshade Guild]] | [[Veil]] |
-| [[Vrenna]] | Drow | Nightshade Guild Elder (Heists) | [[Nightshade Guild]] | [[Whispering Door]] |
-| [[The Wraith]] | Drow | Guildmaster of the Nightshade Guild | [[Nightshade Guild]] | [[Veil]] |
+| [[Characters/NPCs/The_Anchor\|The Anchor]] | Human | Harbor Syndicate Mastermind | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Syndicate_Warehouse\|Syndicate Warehouse]] |
+| [[Characters/NPCs/Brak\|Brak]] | Half-Orc | Syndicate Thug / Enforcer | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Crow's_Nest\|Crow's_Nest]] |
+| [[Characters/NPCs/Elara_Lark_Stoneheart\|Elara "Lark" Stoneheart]] | Human | Tavern Server / Informant | None | [[Locations/Rusty_Anchor\|Rusty Anchor]] |
+| [[Characters/NPCs/Elaris\|Elaris]] | Elf | Arcane Sage | Independent | [[Locations/Shaded_Lantern\|Shaded Lantern]] |
+| [[Characters/NPCs/Elyndra\|Elyndra]] | High Elf | Society Elder / Vaelin's Mentor | [[Factions/The_Society\|The Society]] | [[Locations/Starfall_Manor\|Starfall Manor]] |
+| [[Characters/NPCs/Farmer_Gildas\|Farmer Gildas]] | Human | Farmer | None | [[Locations/Beyond_Duskhaven\|Beyond Duskhaven]] |
+| [[Characters/NPCs/Finch\|Finch]] | Human | Leader of the Ratlings | [[Factions/Ratlings\|Ratlings]] | [[Locations/Shadow_Quarter\|Shadow Quarter]] |
+| [[Characters/NPCs/The_Forger\|The Forger]] | Human | Master Forger / Document Faker | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Docks\|Docks]] |
+| [[Characters/NPCs/Garrick_Stonehand\|Garrick Stonehand]] | Dwarf | Merchant | Independent | [[Locations/Market_Square\|Market Square]] |
+| [[Characters/NPCs/Greta_Mama_Stoneheart\|Greta "Mama" Stoneheart"]] | Human | Tavern Proprietor | None | [[Locations/Rusty_Anchor\|Rusty Anchor]] |
+| [[Characters/NPCs/Jib\|Jib]] | Halfling | Nightshade Guild Lookout | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Whispering_Door\|Whispering Door]] |
+| [[Characters/NPCs/Korgal_Iron_Fist\|Korgal Iron Fist]] | Half-Orc | Harbor Syndicate Chief Lieutenant / Enforcer | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Syndicate_Warehouse\|Syndicate Warehouse]] |
+| [[Characters/NPCs/Kyssra\|Kyssra]] | Drow | Nightshade Guild Lookout | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Whispering_Door\|Whispering Door]] |
+| [[Characters/NPCs/Lirael\|Lirael]] | Flickerling | Familiar | None | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Characters/NPCs/Lord_Varyn\|Lord Varyn]] | Human | Corrupt Noble | [[Factions/The_Society\|The Society]] | [[Locations/Noble_District\|Noble District]] |
+| [[Characters/NPCs/Lyra\|Lyra]] | Human | Arcane Shop Assistant | None | [[Locations/Shaded_Lantern\|Shaded Lantern]] |
+| [[Characters/NPCs/Mara\|Mara]] | Tiefling | Nightshade Guild Elder (Magic) | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Veil\|Veil]] |
+| [[Characters/NPCs/Mira_Quickfingers\|Mira "Quickfingers"]] | Halfling | Fence | [[Factions/Nightshade_Guild\|Nightshade Guild]] / Independent | [[Locations/Market_Square\|Market Square]] |
+| [[Characters/NPCs/Rorik_Wavebreaker\|Rorik "Wavebreaker"]] | Human | Smuggler | Independent / [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Docks\|Docks]] |
+| [[Characters/NPCs/Rynna\|Rynna]] | Goblin | Nightshade Guild Fence | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Whispering_Door\|Whispering Door]] |
+| [[Characters/NPCs/Skarlix\|Skarlix]] | Goblin | Harbor Syndicate Loan Shark | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Crow's_Nest\|Crow's Nest]] |
+| [[Characters/NPCs/Skrix\|Skrix]] | Goblin | Harbor Syndicate Courier | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Syndicate_Warehouse\|Syndicate Warehouse]] |
+| [[Characters/NPCs/Talia_Whisper\|Talia "Whisper"]] | Human | Society Operative / Mission Contact | [[Factions/The_Society\|The Society]] | [[Locations/Drunken_Raven\|Drunken Raven]] |
+| [[Characters/NPCs/Tarren\|Tarren]] | Human | Tavern Bouncer | [[Factions/The_Society\|The Society]] | [[Locations/Drunken_Raven\|Drunken Raven]] |
+| [[Characters/NPCs/Thorne\|Thorne]] | Human | Nightshade Guild Elder (Espionage) | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Veil\|Veil]] |
+| [[Characters/NPCs/Vrenna\|Vrenna]] | Drow | Nightshade Guild Elder (Heists) | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Whispering_Door\|Whispering Door]] |
+| [[Characters/NPCs/The_Wraith\|The Wraith]] | Drow | Guildmaster of the Nightshade Guild | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Veil\|Veil]] |
 
 ---
 **Note to DM (AI):** This index provides a quick reference for all NPCs. When searching for character details, refer to their individual files.

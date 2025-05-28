@@ -1,9 +1,10 @@
 ---
-last_updated: 2025-05-28T01:13:04
+last_updated: 2025-05-28T17:55:00
 rule_set: D&D 5e 2024
 category: Class
 name: Warlock Class (2024)
 status: active
+aliases: Warlock, warlock
 source_document: PHB 2024 pg. 153-163
 supersedes: Warlock Class (PHB 2014 pg. 105-111)
 tags:

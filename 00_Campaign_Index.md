@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:36:04"
+last_updated: 2025-05-28T17:54:53
 index_type: "Campaign Overview"
 campaign_name: "Vaelin's Campaign"
 tags: ["#campaign_index", "#overview", "#map", "#navigation", "#core_files", "#campaign_structure"] # (NEW/ENHANCED)

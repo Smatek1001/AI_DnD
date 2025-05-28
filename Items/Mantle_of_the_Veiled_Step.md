@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:18:56"
+last_updated: 2025-05-28T17:53:57
 type: "Item"
 name: "Mantle of the Veiled Step"
 aliases: ["Mantle of the Veiled Step", "The Mantle"]

@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:13:58"
+last_updated: 2025-05-28T17:53:46
 type: "Faction"
 name: "Nightshade Guild"
 aliases: ["Nightshade Guild"]

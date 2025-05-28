@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T01:09:03
+last_updated: 2025-05-28T17:54:30
 type: Location
 name: Veil
 aliases:

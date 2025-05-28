@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 00:21:00"
+last_updated: 2025-05-28T17:53:34
 type: "Creature"
 species: "Flickerling"
 name: "" # If this entry is for a specific named creature, otherwise omit
