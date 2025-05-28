@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-05-26T23:04:37
-chat_link: "https://g.co/gemini/share/3fadb05e13cc" # Public share link to the corresponding chat session
+last_updated: 2025-05-28T04:45:57
+chat_link: "https://g.co/gemini/share/a719cb5a1512" # Public share link to the corresponding chat session
 dream_session: true # default to canonical reality
 session_date: "2025-05-26"
 session_title: "Dream Heist: Elias's Curios"
@@ -77,4 +77,4 @@ Vaelin undertook a non-canonical dream mission, targeting "Elias's Curios & Sund
 This dream mission served to deepen Vaelin's connection to the cosmic horror elements and his past, particularly the fall of Therandril and the Nameless Void, without affecting canonical gameplay. The themes of grimdark reality, unsettling mysteries, and the blurred lines between reality and dream were successfully explored. The ledger provides a narrative echo that can be woven into future canonical events, possibly through mentions of similar artifacts or lore.
 
 ---
-**Full Chat Session Link:** https://g.co/gemini/share/3fadb05e13cc
+**Full Chat Session Link:** https://g.co/gemini/share/a719cb5a1512

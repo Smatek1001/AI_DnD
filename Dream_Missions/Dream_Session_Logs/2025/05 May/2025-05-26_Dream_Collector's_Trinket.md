@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-05-26T07:33:55
-chat_link: "https://g.co/gemini/share/28047a8eeef5" # Public share link to the corresponding chat session
+last_updated: 2025-05-28T04:46:01
+chat_link: "https://g.co/gemini/share/4f7d008a6a79" # Public share link to the corresponding chat session
 dream_session: true
 session_date: "2025-05-26"
 session_title: "The Collector's Trinket (Dream)"
@@ -76,4 +76,4 @@ None (this was a solo dream mission with an unseen "Collector" and creature).
 This dream was a good test of Vaelin's core skills (stealth, investigation, evasion) in a tense, grimdark setting. The "Collector" could be an interesting future NPC or faction in the canonical world, potentially linked to [[The Nameless Void]] due to the idol's shifting geometry and the general atmosphere. The creature encountered could be a common sewer inhabitant in a later canonical encounter.
 
 ---
-**Full Chat Session Link:** https://g.co/gemini/share/28047a8eeef5
+**Full Chat Session Link:** https://g.co/gemini/share/4f7d008a6a79

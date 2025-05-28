@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-05-26T07:33:57
-chat_link: https://g.co/gemini/share/349e5eebe839
+last_updated: 2025-05-28T04:45:59
+chat_link: https://g.co/gemini/share/a30c5efb4a82
 dream_session: true
 session_date: 2025-05-26
 session_title: The Gilded Heist
@@ -81,4 +81,4 @@ Vaelin undertook a dream mission to infiltrate Lord Varyn's manor in the High Di
 (This section is for your personal notes as a DM to yourself. This is where you might jot down ideas for future sessions, things you need to remember about NPC reactions, specific plot points to introduce, or consequences to track. You can choose whether or not to include this when providing me the log.)
 
 ---
-**Full Chat Session Link:** https://g.co/gemini/share/349e5eebe839
+**Full Chat Session Link:** https://g.co/gemini/share/a30c5efb4a82
