@@ -1,6 +1,5 @@
 ---
-last_updated: "2025-05-27 23:54:22"
-date: 2025-05-28T00:30:00
+last_updated: 2025-05-27 23:54:22
 instruction_type: AI DM Directives
 campaign_name: Vaelin's Campaign
 dm_style_keywords:

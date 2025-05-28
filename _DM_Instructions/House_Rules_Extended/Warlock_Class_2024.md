@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-28T00:42:50"
+last_updated: "2025-05-28T00:51:32"
 rule_set: D&D 5e 2024
 category: Class
 name: Warlock Class (2024)
@@ -565,8 +565,8 @@ In addition, the first time each turn the Aberration hits a creature under the e
 
 ## III. Key Differences from Standard 2014 Rules (If Applicable)
 (If this is an adopted 2024 rule or a significant modification, highlight the main changes from the 2014 baseline here for quick reference.)
-* (Difference 1)
-* (Difference 2)
+* Invocations are now acquired starting at level 1.
+* Patrons are not acquired until level 3.
 
 ## IV. DM Notes (for AI - How to Interpret/Apply)
 (Any specific instructions for me, GemDM, on how to interpret edge cases, prioritize this rule, or integrate it with other existing rules. Also note if any parts of this rule are NOT being adopted.)
