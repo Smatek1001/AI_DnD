@@ -52,7 +52,7 @@ Vaelin was pulled into a dream, finding himself in a grotesque, distorted versio
 * **Failure Scenario:** (Not applicable, as success achieved.)
 
 ## VIII. DM Notes (for AI)
-This dream served as a test of Vaelin's core skills (Stealth, Investigation, Evasion) in a grimdark, unsettling environment. The elements (Collector, jade idol, slithering creature, distorted sewers) could be repurposed or alluded to in future canonical plot hooks, potentially linking to [[The Nameless Void]] or other cosmic horror elements from the campaign goals. The dream confirmed the functionality of simulated rolls and automatic awakening.
+This dream served as a test of Vaelin's core skills (Stealth, Investigation, Evasion) in a grimdark, unsettling environment. The elements (Collector, jade idol, slithering creature, distorted sewers) could be repurposed or alluded to in future canonical plot hooks, potentially linking to [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]] or other cosmic horror elements from the campaign goals. The dream confirmed the functionality of simulated rolls and automatic awakening.
 
 ### ROT-13 Encoded Secrets
 Gur "qernz zvffvba" pbyyrpgbe'f gebcrygl jnf n gnt sbe n fhowrpg jvgu n cebgerpgvir svryq, jvgu n sbejneq pbageby fha-fylvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

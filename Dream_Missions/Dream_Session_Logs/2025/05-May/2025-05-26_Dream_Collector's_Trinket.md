@@ -73,7 +73,7 @@ None (this was a solo dream mission with an unseen "Collector" and creature).
 
 ## VII. DM Notes (for your eyes only - for future reference)
 
-This dream was a good test of Vaelin's core skills (stealth, investigation, evasion) in a tense, grimdark setting. The "Collector" could be an interesting future NPC or faction in the canonical world, potentially linked to [[The Nameless Void]] due to the idol's shifting geometry and the general atmosphere. The creature encountered could be a common sewer inhabitant in a later canonical encounter.
+This dream was a good test of Vaelin's core skills (stealth, investigation, evasion) in a tense, grimdark setting. The "Collector" could be an interesting future NPC or faction in the canonical world, potentially linked to [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]] due to the idol's shifting geometry and the general atmosphere. The creature encountered could be a common sewer inhabitant in a later canonical encounter.
 
 ---
 **Full Chat Session Link:** https://g.co/gemini/share/4f7d008a6a79
