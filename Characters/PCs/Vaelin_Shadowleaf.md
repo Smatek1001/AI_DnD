@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T23:22:41
+last_updated: 2025-05-28T23:31:08
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -137,16 +137,18 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 ## VII. Character Aspirations & Future Goals
 
 ### Long-Term Personal Goals:
-* Having been trained in espionage by [[Factions/The_Society|The Society]], Vaelin's interest in arcane knowledge has been sparked by renewed interest in his chest tattoo, silver leaf amulet, and faint memories of his childhood in [[Locations/Therandril|Therandril]]. His research will lead to an encounter with an Archfey entity, becoming his patron when he multi-classes into [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] (Archfey Patron). The Archfey and his [[Characters/NPCs/Lirael|Familiar]] will mentor and guide him in his arcane and occult research, leading to future multi-classing into Wizard (Illusionist) and Artificer (Armorer).
-* Vaelin's espionage training will progress as he gains skills in assassination (Assassin subclass) and wilderness espionage (Ranger (Gloom Stalker)).
+* Remain unknown among the criminal underclass of the city. He doen't want to be connected to my espionage or criminal activities. He will strive to remain a shadow, a ghost.
+* Vaelin's espionage training with [[Factions/The_Society|The Society]] will progress as he gains skills in assassination (Assassin subclass) and wilderness espionage (Ranger (Gloom Stalker)).
+* Vaelin's interest in arcane knowledge has been sparked by renewed interest in his chest tattoo, silver leaf amulet, and faint memories of his childhood in [[Locations/Therandril|Therandril]]. His research will lead to an encounter with an Archfey entity, becoming his patron when he multi-classes into [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] (Archfey Patron). The Archfey and his [[Characters/NPCs/Lirael|Familiar]] will mentor and guide him in his arcane and occult research, leading to future multi-classing into Wizard (Illusionist) and Artificer (Armorer). These magical abilities and knowledge not only aid him in espionage, but will help him solve the mysteries of his youth and [[Locations/Therandril|Therandril]]. He also values them for their own sake.
 
 ### Desired Mechanical Progression:
 * [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] (Archfey Patron): Pact of the Chain, Pact of the Tome
     * story: patron and/or familiar is a mentor for magic and arcane knowledge
+    * will obtain spells and invocations that aid espionage and arcane research
 * Rogue (Assassin): Assassinate
-    * story: trained in spy-craft for espionage and assassination
+    * story: training in spy-craft for espionage and assassination
 * Ranger (Gloom Stalker) 5: Dread Ambusher, Umbral Sight, extra attack
-    * story: learning espionage in wilderness areas
+    * story: training espionage in wilderness areas
 * Fighter 2: action surge
 * Wizard (Illusionist)
 * Artificer (Armorer)
