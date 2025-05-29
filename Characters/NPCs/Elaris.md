@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T18:19:07
+last_updated: 2025-05-29T02:48:40
 type: NPC
 name: Elaris
 aliases: []
@@ -9,15 +9,15 @@ gender: Female
 alignment: Neutral
 occupation: Arcane Sage
 importance: Supporting
-disposition_to_pc: Neutral
+disposition_to_pc: professional_alliance # Changed from neutral to reflect solidified alliance
 faction: []
 location: "[[Locations/Shaded_Lantern]]"
 connections:
   - "[[Characters/PCs/Vaelin_Shadowleaf]]"
   - "[[Characters/NPCs/Lyra]]"
 employer: ""
-is_quest_giver_for: []
-associated_items: []
+is_quest_giver_for: ["[[Quests/The_Cipher_of_Whispers]]"] # Added completed quest
+associated_items: ["[[Items/Bone_and_Silver_Stylus]]"] # Added the stylus
 tags:
   - "#sage"
   - "#arcane"
@@ -39,11 +39,11 @@ tags:
 * **Occupation:** Independent Arcane Sage
 * **Status:** alive
 * **Importance:** Supporting
-* **Disposition towards PC:** Neutral (tentative alliance, wary)
+* **Disposition towards PC:** professional_alliance (formerly tentative alliance, wary; now solidified through mutual benefit)
 
 ## II. Appearance
 ### Physical Description
-Elaris is a lean [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#C. High Elves|Elf]] woman in her 100s. Her emerald eyes and flowing auburn hair shimmer with arcane energy. Her tattered robes belie her mastery of Draconic lore. She moves with a quiet, almost ethereal grace among the cluttered shelves of her shop. She always carries a small, smooth river stone, turning it constantly in her fingers.
+Elaris is a lean [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024|Elf]] woman in her 100s. Her emerald eyes and flowing auburn hair shimmer with arcane energy. Her tattered robes belie her mastery of Draconic lore. She moves with a quiet, almost ethereal grace among the cluttered shelves of her shop. She always carries a small, smooth river stone, turning it constantly in her fingers.
 
 ## III. Personality & Demeanor
 ### Core Traits
@@ -55,7 +55,7 @@ Speaks in a soft, precise voice; her eyes constantly dart to pick up subtle deta
 **Flaw:** "Her pursuit of arcane knowledge can sometimes lead her to take unethical actions or ignore the consequences of her discoveries. She is wary of committing to deeper relationships."
 
 ## IV. Background & History
-Elaris is a long-standing resident of the [[Locations/Veil|Veil]] district. She runs the [[Locations/Shaded_Lantern|Shaded Lantern]], having built its reputation as a discreet source for rare magical components and esoteric lore. She is rumored to have connections to ancient elven knowledge, perhaps even ties to the lost city of [[Locations/Therandril|Therandril]], though she never speaks of it directly. She has a tentative alliance with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], working together for mutual gain in arcane research. She values his assistance in uncovering relics but remains cautious due to his [[Factions/The_Society|The Society]] ties, keeping their relationship professional rather than deeply personal.
+Elaris is a long-standing resident of the [[Locations/Veil|Veil]] district. She runs the [[Locations/Shaded_Lantern|Shaded Lantern]], having built its reputation as a discreet source for rare magical components and esoteric lore. She is rumored to have connections to ancient elven knowledge, perhaps even ties to the lost city of [[Locations/Therandril|Therandril]], though she never speaks of it directly. She has a tentative alliance with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], working together for mutual gain in arcane research. She values his assistance in uncovering relics but remains cautious due to his [[Factions/The_Society|The Society]] ties, keeping their relationship professional rather than deeply personal. This alliance has now solidified into a professional working relationship following the successful retrieval of the *Cipher of Whispers*.
 
 ## V. Goals & Motivations
 ### Short-term Goals
@@ -71,12 +71,12 @@ The insatiable pursuit of knowledge and magical understanding.
 
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Always at the [[Locations/Shaded_Lantern|Shaded Lantern]].
-* **Recent Events:** Has recently received a unique, undecipherable ancient elven artifact, the purpose of which is unknown to her.
+* **Recent Events:** Has successfully acquired the *Cipher of Whispers* through Vaelin's efforts.
 * **Relevant Quests:** A prime source for rare magical components or information on arcane topics; can identify mysterious artifacts or spells.
-* **Potential Plot Hooks:** Elaris might offer [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] a quest to retrieve a missing piece of arcane lore related to Draconic studies; her knowledge of ancient elven history might provide a crucial clue to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]'s past or [[Locations/Therandril|Therandril]]; her shop could become a target for those seeking rare magical items, requiring [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]'s intervention.
+* **Potential Plot Hooks:** Elaris might offer [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] further quests to retrieve missing pieces of arcane lore related to Draconic studies or [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]; her knowledge of ancient elven history might provide a crucial clue to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]'s past or [[Locations/Therandril|Therandril]]; her shop could become a target for those seeking rare magical items, requiring [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]'s intervention.
 
 ## VIII. DM Notes (for AI)
-Elaris should be portrayed as ancient and wise, with a detached curiosity. Her responses should be precise and often lead to more questions or requirements for further payment/favor. Her subtle hints about ancient elven lore should be intriguing to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]. She's not a friend, but a valuable resource. Her wariness of [[Factions/The_Society|The Society]] is a key element.
+Elaris should be portrayed as ancient and wise, with a detached curiosity. Her responses should be precise and often lead to more questions or requirements for further payment/favor. Her subtle hints about ancient elven lore should be intriguing to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]. She's not a friend, but a valuable resource. Her wariness of [[Factions/The_Society|The Society]] is a key element. Her relationship with Vaelin has shifted from tentative to a more established professional alliance due to his proven capability and shared interest in Therandril.
 
 ### ROT-13 Encoded Secrets
 Rynef'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.
