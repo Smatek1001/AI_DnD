@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-29T02:48:40
+last_updated: 2025-05-29T03:27:09
 type: NPC
 name: Elaris
 aliases: []
@@ -16,7 +16,7 @@ connections:
   - "[[Characters/PCs/Vaelin_Shadowleaf]]"
   - "[[Characters/NPCs/Lyra]]"
 employer: ""
-is_quest_giver_for: ["[[Quests/The_Cipher_of_Whispers]]"] # Added completed quest
+is_quest_giver_for: ["[[Quests/Completed/The_Cipher_of_Whispers]]"] # Added completed quest
 associated_items: ["[[Items/Bone_and_Silver_Stylus]]"] # Added the stylus
 tags:
   - "#sage"
