@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:55:09
+last_updated: 2025-05-29T15:57:29
 type: "DM Brainstorm"
 campaign_name: "Vaelin's Campaign"
 idea_categories: ["Character-Specific Seeds", "World-Specific Hooks & Concepts", "Item/Artifact Ideas", "NPC Concepts", "Dungeon/Location Concepts", "Random Encounters/Side Quests", "General \"What If\" Questions"] # (NEW)
@@ -12,11 +12,11 @@ tags: ["#plot_ideas", "#brainstorm", "#future_seeds", "#dm_notes", "#campaign_pl
 ---
 # Vaelin's Campaign - Plot Ideas & Future Seeds
 
-This document is a collection of unassigned ideas, potential plot hooks, intriguing concepts, and "what if" scenarios that you (the player/DM) think might be interesting for the campaign's future. These are not necessarily formalized quests or [[NPCs]] yet, but rather raw creative input for the AI DM to draw upon when planning.
+This document is a collection of unassigned ideas, potential plot hooks, intriguing concepts, and "what if" scenarios that you (the player/DM) think might be interesting for the campaign's future. These are not necessarily formalized quests or NPCs yet, but rather raw creative input for the AI DM to draw upon when planning.
 
-## I. Character-Specific Seeds (for [[PC_Name]])
-* (Idea related to [[Vaelin_Shadowleaf|PC]]'s background, future goals, or relationships. e.g., "What if [[Vaelin_Shadowleaf|PC]]'s long-lost sibling is actually a villain?")
-* (Another [[Vaelin_Shadowleaf|PC]]-centric idea.)
+## I. Character-Specific Seeds (for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]])
+* (Idea related to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s background, future goals, or relationships. e.g., "What if [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s long-lost sibling is actually a villain?")
+* (Another [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]-centric idea.)
 
 ## II. World-Specific Hooks & Concepts
 * (General world event ideas. e.g., "A long-dormant volcano begins to stir.")
@@ -24,10 +24,10 @@ This document is a collection of unassigned ideas, potential plot hooks, intrigu
 * (New factions or organizations ideas. e.g., "A secret society of elementalists emerges.")
 
 ## III. Item/Artifact Ideas
-* (Concepts for new magic [[Items]], ancient artifacts, or cursed objects. e.g., "A sentient weapon that tries to control its wielder.")
+* (Concepts for new magic [[Items/_Item_Index|Items]], ancient artifacts, or cursed objects. e.g., "A sentient weapon that tries to control its wielder.")
 
 ## IV. NPC Concepts (unassigned)
-* (Brief ideas for [[NPCs]] not yet fleshed out. e.g., "A kindly old shopkeeper who is secretly a powerful retired adventurer.")
+* (Brief ideas for NPCs not yet fleshed out. e.g., "A kindly old shopkeeper who is secretly a powerful retired adventurer.")
 
 ## V. Dungeon/Location Concepts
 * (Ideas for interesting places to explore. e.g., "A floating island dungeon built by ancient giants.")
