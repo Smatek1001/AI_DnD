@@ -2,7 +2,9 @@
 last_updated: 2025-05-28T17:54:04
 type: Location
 name: Abandoned Bakery Attic
-aliases: []
+aliases:
+  - Vaelin's Hideout
+  - The Hideout
 category: Hideout
 parent_location: "[[Locations/Shadow_Quarter]]"
 status: active
@@ -16,8 +18,8 @@ factions_present:
 key_npcs_present:
   - "[[Characters/PCs/Vaelin_Shadowleaf]]"
   - "[[Characters/NPCs/Finch]]"
-associated_quests: []
-points_of_interest: []
+associated_quests: 
+points_of_interest: 
 tags:
   - "#hideout"
   - "#safehouse"

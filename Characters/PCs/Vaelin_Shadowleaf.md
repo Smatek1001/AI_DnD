@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:55:17
+last_updated: 2025-05-28T19:11:52
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -127,23 +127,23 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 
 ## VI. Current Status & Notes
 
-* **Current Location:** [[Current Location Name]]
+* **Current Location:** [[Locations/Abandoned_Bakery_Attic|The Hideout]]
 * **Current Quest(s):**
-    * [[Active Quest 1]]
-    * [[Active Quest 2]]
-* **Ongoing Effects/Conditions:** (e.g., Poisoned, Exhaustion Level 1, under a long-term spell effect)
+    * Random [[Dream_Missions/Dream_Quests/_Dream_Quest_Index|Dream Missions]]
+* **Ongoing Effects/Conditions:** none
 * **Session Notes:** (Any specific notes relevant to the current session or next steps for the character)
 
 ## VII. Character Aspirations & Future Goals
 
 ### Long-Term Personal Goals:
-* (What does your character ultimately want to achieve outside of the current main quest? e.g., "Become a renowned master of the arcane arts," "Found a powerful guild," "Seek revenge on the bandit who killed my family," "Redeem a fallen deity.")
+* Having been trained in espionage by [[Factions/The_Society|The Society]], Vaelin's interest in arcane knowledge has been sparked by renewed interest in his chest tattoo, silver leaf amulet, and faint memories of his childhood in [[Locations/Therandril|Therandril]]. His research will lead to an encounter with an Archfey entity, becoming his patron when he multi-classes into [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] (Archfey Patron). The Archfey and his [[Characters/NPCs/Lirael|Familiar]] will mentor and guide him in his arcane and occult research, leading to future multi-classing into Wizard (Illusionist) and Artificer (Armorer).
+* Vaelin's espionage training will progress as he gains skills in assassination (Assassin subclass) and wilderness espionage (Ranger (Gloom Stalker)).
 
 ### Desired Mechanical Progression:
-* Rogue (Assassin): Assassinate
-    * story: trained in spy-craft for espionage and assassination
 * [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] (Archfey Patron): Pact of the Chain, Pact of the Tome
     * story: patron and/or familiar is a mentor for magic and arcane knowledge
+* * Rogue (Assassin): Assassinate
+    * story: trained in spy-craft for espionage and assassination
 * Ranger (Gloom Stalker) 5: Dread Ambusher, Umbral Sight, extra attack
     * story: learning espionage in wilderness areas
 * Fighter 2: action surge
