@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:54:50
+last_updated: 2025-05-29T03:13:27
 index_type: Session Log Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -18,7 +18,7 @@ This document serves as a chronological index of all canonical play sessions, pr
 
 | Session Date | Session Title | Days Passed | PC Level | XP Gained |
 |---|---|---|---|---|
-| (No session logs yet) | | | | |
+| 2025-05-29 | [[Session_Logs/2025/05 May/2025-05-29_The_Cipher_of_Whispers_Completion_&_Study\|The Cipher of Whispers - Completion & Study]] | 1 | 1 | 100 |
 
 ---
 **Note to DM (AI):** Remember to update this index after each session, using the data from the generated session log output.
