@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T23:31:08
+last_updated: 2025-05-29T03:27:23
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
