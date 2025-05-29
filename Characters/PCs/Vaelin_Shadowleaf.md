@@ -48,8 +48,8 @@ employer: "[[Factions/The_Society]]"
 * Strength: -1
 * Dexterity: +5 (Proficient)
 * Constitution: +0
-* Intelligence: +4 (Proficient)
-* Wisdom: +1
+* Intelligence: +2
+* Wisdom: +2 (Proficient)
 * Charisma: +1
 
 ### Skill Proficiencies:
