@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-29T03:27:23
+last_updated: 2025-05-29T03:29:20
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -85,8 +85,9 @@ employer: "[[Factions/The_Society]]"
 ### Background Feature (Spy):
 * **Criminal Contact:** You have a reliable contact who can get messages to and from you, or who can get you illegal goods and arrange a meeting with other criminals.
 
-## III. Spellcasting (If Applicable)
-* **Cantrips:** Minor Illusion (Intelligence)
+## III. Spellcasting
+* **Cantrips:**
+	* Minor Illusion (Intelligence)
 
 ## IV. Equipment & Inventory
 * **Armor:** Leather Armor
@@ -96,7 +97,7 @@ employer: "[[Factions/The_Society]]"
 * **Other Background Items:** Crowbar, a set of dark common clothes including a hood.
 
 ## V. Loot
-- Cipher of Whispers - quest item for Elara
+- Cipher of Whispers - [[Quests/Completed/The_Cipher_of_Whispers|quest item]] for [[Characters/NPCs/Elaris|Elaris]]
 	- subject: contacting otherplanar entities
 - The Faceless Art - book looted from [[Characters/NPCs/Silas_Inkfinger|Silas]]
 	- subject: disguise and deception
