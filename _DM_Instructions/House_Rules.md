@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:55:07
+last_updated: 2025-05-29T17:10:51
 rule_type: House Rules
 aliases:
   - The House Rules
@@ -14,9 +14,6 @@ rules_focus_areas:
   - Specific Class/Race Modifications
 gameplay_modifications:
   - Bonus Action Healing Potions
-  - Flanking Advantage
-  - Exhaustion at 0 HP
-  - Free Feat at Level 1
   - Max HP at Level Up
 tags:
   - "#house_rules"
