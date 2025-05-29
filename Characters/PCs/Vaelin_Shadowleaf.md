@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T19:11:52
+last_updated: 2025-05-28T22:59:42
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -131,6 +131,7 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 * **Current Quest(s):**
     * Random [[Dream_Missions/Dream_Quests/_Dream_Quest_Index|Dream Missions]]
 * **Ongoing Effects/Conditions:** none
+* **Misc Notes:** Vaelin has proficiency in Dex and Wis, instead of the usual Dex and Int for a Rogue.
 * **Session Notes:** (Any specific notes relevant to the current session or next steps for the character)
 
 ## VII. Character Aspirations & Future Goals
