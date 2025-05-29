@@ -19,7 +19,7 @@ This document serves as an index for all quests, both active and completed, with
 
 | Quest Name | Status | Type | Patron | Primary Location | Priority |
 |---|---|---|---|---|---|
-| (No active quests yet) | | | | | |
+| [[Quests/Active/The_Cipher_of_Whispers\|The Cipher of Whispers]] | active | side | [[Characters/NPCs/Elaris\|Elaris]] | [[Characters/NPCs/Silas_Inkfinger\|Silas "Inkfinger"]]\'s bookstore in the Noble District | medium |
 
 ## Completed Quests
 

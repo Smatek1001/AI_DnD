@@ -85,11 +85,11 @@ Flickerings possess innate magical and special abilities across all their forms,
     * **[[Bestiary/Flickerling#Moss-tail Squirrel Form|Moss-tail Squirrel]]:** Blindsight 10 ft, Tree Camouflage, Quick Scamper, Keen Smell and Hearing.
 
 ## V. Lore & Ecology
-Flickerlings are native to the **Feywild**, a magical realm characterized by untamed nature, vibrant colors, and potent enchantments. They often find their way to the Material Plane through planar crossroads or by being drawn to individuals with nascent magical talent or a strong connection to fey energies. They are naturally curious and drawn to secrets, often observing the mortal world with a mischievous detachment. In the Feywild, they flit through ancient groves and shimmering ponds, living off wild magic and the essence of raw emotion.
+[[Bestiary/Flickerling|Flickerlings]] are native to the **Feywild**, a magical realm characterized by untamed nature, vibrant colors, and potent enchantments. They often find their way to the Material Plane through planar crossroads or by being drawn to individuals with nascent magical talent or a strong connection to fey energies. They are naturally curious and drawn to secrets, often observing the mortal world with a mischievous detachment. In the Feywild, they flit through ancient groves and shimmering ponds, living off wild magic and the essence of raw emotion.
 
 ## VI. Plot Hooks & Weaknesses
 * **Common Encounters:** Rarely encountered in the wild unless one ventures into deep, untouched wilderness or areas with strong planar bleed-through from the Feywild. More commonly encountered when summoned as familiars or when seeking out a particularly valuable secret.
-* **Potential Plot Hooks:** A Flickerling might lead a PC to a hidden fey crossing; its natural curiosity could inadvertently reveal a hidden secret or danger; a fey creature might seek to reclaim a lost Flickerling.
+* **Potential Plot Hooks:** A [[Bestiary/Flickerling|Flickerling]] might lead a PC to a hidden fey crossing; its natural curiosity could inadvertently reveal a hidden secret or danger; a fey creature might seek to reclaim a lost [[Bestiary/Flickerling|Flickerling]].
 * **Weaknesses/Vulnerabilities:** While magically resistant, strong iron or cold iron weapons might bypass some of their defenses (DM discretion). Their mischievous nature can sometimes be exploited.
 
 ## VII. DM Notes (for AI)
