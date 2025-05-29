@@ -9,7 +9,7 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 1
-xp: 0
+xp: 100
 status: active
 current_hp: 8
 max_hp: 8
@@ -94,6 +94,10 @@ employer: "[[Factions/The_Society]]"
 * **Tools:** Thieves' Tools, Disguise Kit
 * **Packs:** Burglar's Pack (includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin.)
 * **Other Background Items:** Crowbar, a set of dark common clothes including a hood.
+
+## V. Loot
+	Cipher of Whispers - quest item for Elara
+	The Faceless Art - book looted from [[Characters/NPCs/Silas_Inkfinger|Silas]]
 
 ### Gold/Currency:
 * 15 gp
