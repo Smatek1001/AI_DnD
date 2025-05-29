@@ -98,11 +98,12 @@ employer: "[[Factions/The_Society]]"
 ## V. Loot
 	Cipher of Whispers - quest item for Elara
 	The Faceless Art - book looted from [[Characters/NPCs/Silas_Inkfinger|Silas]]
+	Bone and Silver Stylus
 
 ### Gold/Currency:
 * 15 gp
 
-## V. Character Personality & Roleplaying
+## VI. Character Personality & Roleplaying
 
 ### Appearance:
 A 5’11” [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#C. High Elves|High Elf]] Rogue, Vaelin Shadowleaf moves with the graceful precision of a shadow. Fair skin and platinum blonde hair, tied back in a tight braid before missions, mark his elven heritage, but both are darkened with a disguise kit or a smear of dirt to blend seamlessly as a “grey man.” Hypnotic blue eyes, radiant as polished sapphires yet fathomless as an endless sea, mesmerize with an enchanting depth that betrays the “grey man” facade, drawing fleeting glances before a practiced smile redirects attention. A lean frame slips effortlessly into [[Locations/Duskhaven|Duskhaven]]’s crowds, clad in charcoal-grey leather armor beneath a dark, hooded cloak. A silver leaf amulet with a sapphire hangs on a chain around his neck, and a hidden tattoo of ancient elven runes in a mysterious script, its meaning unknown to Vaelin and glowing faintly in the presence of magic, marks his chest over his heart.
@@ -129,7 +130,7 @@ Vaelin Shadowleaf was born in [[Locations/Therandril|Therandril]], a radiant hig
 
 Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secretive organization cloaked in mystery, where neither he nor most members grasp its full scope. [[Factions/The_Society|The Society]] functions as a labyrinth of veiled intentions, with only its enigmatic leaders holding the true knowledge of its goals. To Vaelin, it’s a shadowy benefactor that honed his skills as a thief and spy after a life of scavenging in [[Locations/Duskhaven|Duskhaven]]’s grim streets. Yet, he questions the shadows he serves, driven by a compulsion for arcane knowledge. This pursuit is fueled by practical needs (magic as a thief’s tool), a belief that knowledge is power, enigmatic runes on his silver leaf amulet and chest tattoo, and fleeting memories of [[Locations/Therandril|Therandril]], his lost elven home. These threads—practicality, philosophy, and personal mystery—draw Vaelin deeper into [[Locations/Duskhaven|Duskhaven]]’s dangers, seeking answers that may illuminate or consume him.
 
-## VI. Current Status & Notes
+## VII. Current Status & Notes
 
 * **Current Location:** [[Locations/Abandoned_Bakery_Attic|The Hideout]]
 * **Current Quest(s):**
@@ -138,7 +139,7 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 * **Misc Notes:** Vaelin has proficiency in Dex and Wis, instead of the usual Dex and Int for a Rogue.
 * **Session Notes:** (Any specific notes relevant to the current session or next steps for the character)
 
-## VII. Character Aspirations & Future Goals
+## VIII. Character Aspirations & Future Goals
 
 ### Long-Term Personal Goals:
 * Remain unknown among the criminal underclass of the city. He doen't want to be connected to my espionage or criminal activities. He will strive to remain a shadow, a ghost.
