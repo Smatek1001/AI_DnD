@@ -62,7 +62,7 @@ tags:
 * **Warehouse District:** A maze of large storage buildings, many controlled by the [[Factions/Harbor_Syndicate|Harbor Syndicate]].
     * [[Locations/Syndicate_Warehouse|Syndicate Warehouse]]: A primary operations hub for the [[Factions/Harbor_Syndicate|Harbor Syndicate]].
 * **Tavern Row / Entertainment Area (Rough):** A collection of dive bars and establishments catering to sailors and dockworkers.
-    * [[Locations/Crow_s_Nest|Crow's Nest]]: A cramped tavern used by the [[Factions/Harbor_Syndicate|Harbor Syndicate]] for loan sharking.
+    * [[Locations/Crow's_Nest|Crow's Nest]]: A cramped tavern used by the [[Factions/Harbor_Syndicate|Harbor Syndicate]] for loan sharking.
     * [[Locations/Rusty_Anchor|Rusty Anchor]]: A neutral-ground tavern known for its hard-won peace.
 * **Fish Markets:** Open-air markets selling the daily catch, often reeking strongly.
 * **Shipwrights & Repair Yards:** Areas dedicated to the construction and maintenance of vessels.

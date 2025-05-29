@@ -5,6 +5,7 @@ name: Elara "Lark" Stoneheart
 aliases:
   - Elara
   - Lark
+  - Elara "Lark" Stoneheart
 status: alive
 race: Human
 gender: Female
@@ -12,14 +13,14 @@ alignment: Chaotic Good
 occupation: Tavern Server / Informant
 importance: Minor
 disposition_to_pc: Friendly
-faction: []
+faction: 
 location: "[[Locations/Rusty_Anchor]]"
 connections:
   - '[[Characters/NPCs/Greta_Mama_Stoneheart|Greta "Mama" Stoneheart]]'
   - "[[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]]"
 employer: '[[Characters/NPCs/Greta_Mama_Stoneheart|Greta "Mama" Stoneheart]]'
-is_quest_giver_for: []
-associated_items: []
+is_quest_giver_for: 
+associated_items: 
 tags:
   - "#server"
   - "#informant"

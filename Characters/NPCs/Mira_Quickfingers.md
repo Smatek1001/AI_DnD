@@ -5,6 +5,7 @@ name: Mira "Quickfingers"
 aliases:
   - Mira
   - Quickfingers
+  - Mira "Quickfingers"
 status: alive
 race: Halfling
 gender: Female

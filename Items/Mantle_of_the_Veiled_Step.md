@@ -48,7 +48,7 @@ This cloak of whisper-soft shadow cloth hangs heavy in the hand but moves like s
 
 ## V. Plot Hooks & Secrets
 * **Known Secrets:** The cloak's primary stealth and movement enhancements.
-* **Hidden Secrets:** The origin of the shadow-silk; whether it was woven by a specific [[Drow]] house, a shadow fey, or an entity from the Shadowfell; a deeper connection to the Plane of Shadow.
+* **Hidden Secrets:** The origin of the shadow-silk; whether it was woven by a specific [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow|Drow]] house, a shadow fey, or an entity from the Shadowfell; a deeper connection to the Plane of Shadow.
 * **Potential Plot Hooks:** The cloak might lead [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] to a hidden sect of shadow-weavers; its magic might react strangely to [[Lore/Cosmology/The_Nameless_Void|Void]]-corrupted areas; a powerful creature of shadow might seek to reclaim it.
 
 ## VI. DM Notes (for AI)

@@ -39,7 +39,7 @@ tags:
 * **Key Features:** A neutral establishment where rival factions can conduct business under an unspoken truce, maintained by the formidable proprietor.
 
 ## II. Governance & Power
-* **Ruler/Authority:** While part of [[Locations/Duskhaven|Duskhaven]], the [[Locations/Rusty_Anchor|Rusty_Anchor]] is largely governed by the iron rule of its proprietor, [[Greta "Mama" Stoneheart]], who ensures neutrality and order within her walls.
+* **Ruler/Authority:** While part of [[Locations/Duskhaven|Duskhaven]], the [[Locations/Rusty_Anchor|Rusty_Anchor]] is largely governed by the iron rule of its proprietor, [[Characters/NPCs/Greta_Mama_Stoneheart|Greta "Mama" Stoneheart]], who ensures neutrality and order within her walls.
 * **Key Factions Present:**
     * [[Factions/Harbor_Syndicate|Harbor Syndicate]]: Members of the Syndicate often frequent this establishment for dealings.
     * [[Factions/Nightshade_Guild|Nightshade Guild]]: Similarly, Guild fences and operatives conduct business here.
@@ -54,8 +54,8 @@ The [[Locations/Rusty_Anchor|Rusty Anchor]] is a weathered tavern on the [[Locat
 * **Small Private Nooks:** A few secluded corners for more sensitive conversations, though true privacy is rare.
 
 ## IV. Notable NPCs
-* [[Greta "Mama" Stoneheart]] (proprietor)
-* [[Elara "Lark" Stoneheart]] (server, informant)
+* [[Characters/NPCs/Greta_Mama_Stoneheart|Greta "Mama" Stoneheart]] (proprietor)
+* [[Characters/NPCs/Elara_Lark_Stoneheart|Elara "Lark" Stoneheart]] (server, informant)
 
 ## V. Services & Amenities
 * **Shops:** N/A (not a shop, but a place for illicit transactions)

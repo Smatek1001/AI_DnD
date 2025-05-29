@@ -5,7 +5,7 @@ name: Veil
 aliases:
   - The Veil
 category: District
-parent_location: "[[Duskhaven]]"
+parent_location: "[[Locations/Duskhaven]]"
 status: active
 inhabitants:
   - Humans
@@ -14,9 +14,9 @@ inhabitants:
   - Drow
   - Arcane Practitioners
   - Criminals
-ruler: "[[Nightshade Guild]] (De Facto)"
+ruler: "[[Factions/Nightshade_Guild]] (De Facto)"
 factions_present:
-  - "[[Nightshade Guild]]"
+  - "[[Factions/Nightshade_Guild]]"
 tags:
   - "#district"
   - "#arcane_underworld"
@@ -54,7 +54,7 @@ The [[Locations/Veil|Veil]] district is a labyrinth of quiet, less-trafficked al
 * [[Characters/NPCs/Vrenna|Vrenna]] (Nightshade Guild Elder, Heists, operates from here)
 * [[Characters/NPCs/Elaris|Elaris]] (Arcane Sage, runs [[Locations/Shaded_Lantern|Shaded Lantern]])
 * [[Characters/NPCs/Lyra|Lyra]] (Arcane Shop Assistant at [[Locations/Shaded_Lantern|Shaded Lantern]])
-* [[Characters/NPCs/Rynna|Rynna]] (Nightshade Guild Fence, operates from [[Whispering Door]])
+* [[Characters/NPCs/Rynna|Rynna]] (Nightshade Guild Fence, operates from [[Locations/Whispering_Door|Whispering Door]])
 * [[Characters/NPCs/Kyssra|Kyssra]] (Nightshade Guild Lookout at [[Locations/Whispering_Door|Whispering Door]])
 * [[Characters/NPCs/Jib|Jib]] (Nightshade Guild Lookout at [[Locations/Whispering_Door|Whispering Door]])
 

@@ -1,19 +1,40 @@
 ---
 last_updated: 2025-05-28T17:53:42
-type: "Faction"
-name: "Ebon Web Syndicate"
-aliases: ["Ebon Web Syndicate"]
-status: "active"
-alignment: "Lawful Evil"
-size: "Medium"
+type: Faction
+name: Ebon Web Syndicate
+aliases:
+  - Ebon Web Syndicate
+status: active
+alignment: Lawful Evil
+size: Medium
 headquarters: "[[Locations/Sewer_Network]] (hidden passage to Underdark community)"
-leader: "Drow Matriarchs"
-goals: ["Control Duskhaven’s sewer network", "Broker deals with surface factions", "Channel goods and secrets to/from Underdark", "Tax all who pass through sewers", "Profit from all sides"]
-enemy_factions: []
-allied_factions: ["[[Factions/Nightshade Guild]]", "[[Factions/Harbor_Syndicate]]", "[[Factions/The_Cult]]"]
-key_members: ["Drow Matriarchs", "Duergar enforcers", "Svirfneblin scouts"] # (NEW)
-territories_controlled: ["[[Locations/Sewer_Network]]"] # (NEW)
-tags: ["#underdark_faction", "#criminal", "#smuggling", "#neutral_party", "#drow", "#organized_crime", "#sewer_network", "#underworld"] # (NEW/ENHANCED)
+leader: Drow Matriarchs
+goals:
+  - Control Duskhaven’s sewer network
+  - Broker deals with surface factions
+  - Channel goods and secrets to/from Underdark
+  - Tax all who pass through sewers
+  - Profit from all sides
+enemy_factions: 
+allied_factions:
+  - "[[Factions/Nightshade_Guild]]"
+  - "[[Factions/Harbor_Syndicate]]"
+  - "[[Factions/The_Cult]]"
+key_members:
+  - Drow Matriarchs
+  - Duergar enforcers
+  - Svirfneblin scouts
+territories_controlled:
+  - "[[Locations/Sewer_Network]]"
+tags:
+  - "#underdark_faction"
+  - "#criminal"
+  - "#smuggling"
+  - "#neutral_party"
+  - "#drow"
+  - "#organized_crime"
+  - "#sewer_network"
+  - "#underworld"
 ---
 # Ebon Web Syndicate
 

@@ -18,9 +18,9 @@ enemy_factions:
 allied_factions: 
 key_members:
   - Shadowy Council (Leaders)
-  - "[[Elyndra]]"
-  - '[[Talia "Whisper"]]'
-  - "[[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]"
+  - "[[Characters/NPCs/Elyndra]]"
+  - '[[Characters/NPCs/Talia_Whisper]]'
+  - "[[Characters/PCs/Vaelin_Shadowleaf]]"
   - "[[Characters/NPCs/Lord_Varyn]]"
 territories_controlled: 
 tags:
@@ -51,7 +51,7 @@ tags:
 [[Factions/The_Society|The Society]] is a secretive organization cloaked in mystery, operating as a labyrinth of veiled intentions. It has long manipulated [[Locations/Duskhaven|Duskhaven]]’s elite and influenced events from the shadows. To members like [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], it’s a shadowy benefactor, offering purpose and training, but its deeper agenda remains obscured, fostering mistrust among its ranks.
 
 ## III. Structure & Organization
-* **Hierarchy:** Led by an enigmatic council, with most members, including [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], kept ignorant of the full scope, executing missions with fragmented knowledge. Elders like [[Characters/NPCs/Elyndra|Elyndra]] mentor operatives like [[Talia "Whisper"]].
+* **Hierarchy:** Led by an enigmatic council, with most members, including [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], kept ignorant of the full scope, executing missions with fragmented knowledge. Elders like [[Characters/NPCs/Elyndra|Elyndra]] mentor operatives like [[Characters/NPCs/Talia_Whisper|Talia "Whisper"]].
 * **Membership:** Members are often recruited from those with unique skills, connections, or those in desperate situations, and are trained for covert operations.
 * **Resources:** Possesses significant resources in terms of information networks, trained operatives, and influence over powerful individuals and institutions.
 
@@ -67,7 +67,7 @@ tags:
 
 ## VI. Key Members
 * [[Characters/NPCs/Elyndra|Elyndra]] (Elder)
-* [[Talia "Whisper"]] (Operative)
+* [[Characters/NPCs/Talia_Whisper|Talia "Whisper"]] (Operative)
 * [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] (Operative)
 * [[Characters/NPCs/Lord_Varyn|Lord Varyn]] (Corrupt Noble, aligned but untrustworthy)
 

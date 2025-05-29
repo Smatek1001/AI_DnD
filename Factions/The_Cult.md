@@ -1,19 +1,35 @@
 ---
 last_updated: 2025-05-28T17:53:49
-type: "Faction"
-name: "The Cult"
-aliases: ["The Cult"]
-status: "active"
-alignment: "Chaotic Evil"
-size: "Small" # Currently small, but influence will grow
-headquarters: "Hidden lairs" # e.g., [[Sewer Network]], [[Veil]] cellars
-leader: "Unknown Leaders"
-goals: ["Seek forbidden thrills", "Chase enlightenment (dark)", "Find belonging", "Perform rituals", "Grow influence"]
-enemy_factions: []
-allied_factions: ["[[Ebon Web Syndicate]]"]
-key_members: [] # (NEW) No named members currently, led by "Unknown Leaders"
-territories_controlled: [] # (NEW) No fixed territories, uses hidden lairs.
-tags: ["#cult", "#cosmic_horror", "#secretive", "#chaotic", "#evil_faction", "#void_worshippers", "#hidden_lairs", "#dangerous", "#grimdark"] # (NEW/ENHANCED)
+type: Faction
+name: The Cult
+aliases:
+  - The Cult
+status: active
+alignment: Chaotic Evil
+size: Small
+headquarters: Hidden lairs
+leader: Unknown Leaders
+goals:
+  - Seek forbidden thrills
+  - Chase enlightenment (dark)
+  - Find belonging
+  - Perform rituals
+  - Grow influence
+enemy_factions: 
+allied_factions:
+  - "[[Factions/Ebon_Web_Syndicate]]"
+key_members: 
+territories_controlled: 
+tags:
+  - "#cult"
+  - "#cosmic_horror"
+  - "#secretive"
+  - "#chaotic"
+  - "#evil_faction"
+  - "#void_worshippers"
+  - "#hidden_lairs"
+  - "#dangerous"
+  - "#grimdark"
 ---
 # The Cult
 

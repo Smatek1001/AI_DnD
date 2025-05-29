@@ -66,7 +66,7 @@ Elyndra is one of the most senior and influential elders within [[Factions/The_S
 ### Short-term Goals
 Guide [[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]] through his current assignments, subtly testing his loyalty and capabilities; advance [[Factions/The_Society|The Society]]'s immediate objectives in [[Locations/Duskhaven|Duskhaven]]. She is deeply invested in [[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]]’s success as her protégé, having trained him since his street days, but expects him to deliver results.
 ### Long-term Goals
-To further [[Factions/The_Society|The Society]]'s overarching, enigmatic agenda, which may be tied to ancient arcane secrets or the nature of [[Locations/Therandril|Therandril]] and [[_DM_Instructions/House_Rules_Extended/The_Nameless_Void|The Nameless Void]]. She envisions [[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]] rising with her, as her right hand, now that she’s secured a provisional council seat.
+To further [[Factions/The_Society|The Society]]'s overarching, enigmatic agenda, which may be tied to ancient arcane secrets or the nature of [[Locations/Therandril|Therandril]] and [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]. She envisions [[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]] rising with her, as her right hand, now that she’s secured a provisional council seat.
 ### Primary Motivation
 Duty and allegiance to [[Factions/The_Society|The Society]]'s grand, unseen purpose, coupled with a deep investment in [[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]]'s potential.
 
@@ -76,7 +76,7 @@ Duty and allegiance to [[Factions/The_Society|The Society]]'s grand, unseen purp
 
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Primarily within [[Locations/Starfall_Manor|Starfall Manor]], rarely venturing outside unless for critical [[Factions/The_Society|The Society]] business. She may guide [[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]]’s missions from the [[Locations/High_District|High District]] or [[Locations/Shadow_Quarter|Shadow Quarter]].
-* **Recent Events:** Has recently initiated a series of inquiries into unusual arcane disturbances occurring in the [[Locations/Veil|Veil]] district, which may tie into [[Factions/The_Cult|The Cult]] or the lingering influence of [[_DM_Instructions/House_Rules_Extended/The_Nameless_Void|The Nameless Void]].
+* **Recent Events:** Has recently initiated a series of inquiries into unusual arcane disturbances occurring in the [[Locations/Veil|Veil]] district, which may tie into [[Factions/The_Cult|The Cult]] or the lingering influence of [[Lore/Cosmology/The_Nameless_Void|The_Nameless_Void]].
 * **Relevant Quests:** The primary source of high-stakes missions and direct orders from [[Factions/The_Society|The Society]]; the key to unlocking more information about [[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]]'s past and [[Locations/Therandril|Therandril]].
 * **Potential Plot Hooks:** Elyndra might assign [[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]] a mission that subtly forces him to confront his past; she could provide a cryptic clue about the true nature of his amulet or tattoo; she might be targeted by enemies of [[Factions/The_Society|The Society]], forcing [[Characters/PCs/Vaelin_Shadowleaf|Vaelin_Shadowleaf]] into a difficult choice. Failure to deliver results could strain their bond.
 

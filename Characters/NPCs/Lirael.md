@@ -65,7 +65,7 @@ Loyalty to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], and an insati
 
 ## VI. Faction & Organization Affiliations
 * **Primary Faction:** None (will be bound to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]])
-* **Other Affiliations:** Inherently tied to the [[Lore/Cosmology/Feywild|Feywild]], but will largely operate independently with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]].
+* **Other Affiliations:** Inherently tied to the Feywild, but will largely operate independently with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]].
 
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Unmanifested (exists conceptually, but not physically in-game).

@@ -48,7 +48,7 @@ tags:
 * **Ruler/Authority:** Official city guard presence is minimal and often corrupt. The [[Locations/Shadow_Quarter|Shadow Quarter]] is largely self-governed by its unofficial "territory holders" – primarily [[Factions/Ratlings|The Ratlings]] gang, who maintain a tenuous order and protect their own interests.
 * **Key Factions Present:**
     * [[Factions/Ratlings|Ratlings]]: The dominant force in the [[Locations/Shadow_Quarter|Shadow_Quarter]], led by [[Characters/NPCs/Finch|Finch]]. They provide a degree of protection and order to their territory.
-    * [[Factions/The_Society|The Society]]: Operatives like [[Talia "Whisper"]] often frequent the district for information and safe passage.
+    * [[Factions/The_Society|The Society]]: Operatives like [[Characters/NPCs/Talia_Whisper|Talia "Whisper"]] often frequent the district for information and safe passage.
 * **Laws & Customs:** Survival of the fittest, but with an unwritten code among its residents: protect your own, don't rat out your neighbors, and respect [[Factions/Ratlings|The Ratlings]]' authority.
 
 ## III. Geography & Layout
@@ -63,7 +63,7 @@ The [[Locations/Shadow_Quarter|Shadow Quarter]] is a sprawling, decaying distric
 
 ## IV. Notable NPCs
 * [[Characters/NPCs/Finch|Finch]] ([[Factions/Ratlings|Ratlings]] leader)
-* [[Talia "Whisper"]] (often operates here)
+* [[Characters/NPCs/Talia_Whisper|Talia "Whisper"]] (often operates here)
 * [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] (makes his home here)
 
 ## V. Services & Amenities

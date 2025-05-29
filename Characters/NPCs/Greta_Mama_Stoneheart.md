@@ -4,6 +4,7 @@ type: NPC
 name: Greta "Mama" Stoneheart
 aliases:
   - Greta
+  - Greta "Mama" Stoneheart
 status: alive
 race: Human
 gender: Female
@@ -11,14 +12,14 @@ alignment: Lawful Neutral
 occupation: Tavern Proprietor
 importance: Supporting
 disposition_to_pc: Friendly
-faction: []
+faction: 
 location: "[[Locations/Rusty_Anchor]]"
 connections:
   - "[[Characters/NPCs/Elara_Lark_Stoneheart]]"
   - "[[Characters/PCs/Vaelin_Shadowleaf]]"
 employer: ""
-is_quest_giver_for: []
-associated_items: []
+is_quest_giver_for: 
+associated_items: 
 tags:
   - "#proprietor"
   - "#matriarch"

@@ -29,7 +29,7 @@ This document serves as the central index for all campaign information. It outli
 * **Dream Session Logs:** [[Dream_Missions/Dream_Session_Logs/_Dream_Session_Log_Index]] (Or directly to the `Dream_Missions/Dream_Session_Logs` folder if you prefer an auto-generated Dataview index there)
 
 ## IV. Campaign Lore & Background
-* **Campaign Narrative:** [[Lore/History/Campaign_Narrative]]
+* **Campaign Narrative:** [[_DM_Instructions/Campaign_Narrative|Campaign_Narrative]]
 * **History & Timeline:** [[Lore/History/Timeline]]
 * **Pantheon & Religions:** [[Lore/Pantheon/_Pantheon_Index]] (Or directly to the `Lore/Pantheon` folder)
 * **Cosmology:** [[Lore/Cosmology/The_Nameless_Void]]

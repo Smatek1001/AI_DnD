@@ -56,7 +56,7 @@ Power, control, and the preservation of the [[Factions/Nightshade_Guild|Nightsha
 
 ## VI. Faction & Organization Affiliations
 * **Primary Faction:** [[Factions/Nightshade_Guild|Nightshade Guild]] (Elder, Head of Heists)
-* **Other Affiliations:** Has deep, long-standing connections with other criminal syndicates and shadowy figures outside of [[Locations/Duskhaven|Duskhaven]], potentially even those from the [[Locations/Underdark|Underdark]].
+* **Other Affiliations:** Has deep, long-standing connections with other criminal syndicates and shadowy figures outside of [[Locations/Duskhaven|Duskhaven]], potentially even those from the Underdark.
 
 ## VII. Current Status & Plot Hooks
 * **Current Location:** Often found in a secluded area of the [[Locations/Whispering_Door|Whispering Door]], conducting private meetings.

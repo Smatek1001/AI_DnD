@@ -27,7 +27,7 @@ This document provides a high-level narrative summary of the campaign's story so
 
 ### Key Events & Milestones (Arc 1)
 * **[In-Game Date, e.g., "Day 3"]:** [Brief narrative description of a significant event, e.g., "The [[Vaelin_Shadowleaf|PC]] arrived in [[Duskhaven]], seeking their missing mentor, only to find the town plagued by strange disappearances."]
-* **[In-Game Date, e.g., "Day 10"]:** [Brief narrative description of a significant event, e.g., "First direct confrontation with [[The Cult]] of the Whispering Shadow, revealing their sinister intentions."]
+* **[In-Game Date, e.g., "Day 10"]:** [Brief narrative description of a significant event, e.g., "First direct confrontation with The Cult of the Whispering Shadow, revealing their sinister intentions."]
 * **(Optional: Link to relevant Session Logs for this arc, e.g., [[Session_Logs/2024/01/20240105_Session_1]] - [[Session_Logs/2024/02/20240210_Session_5]])**
 
 ## II. Arc 2: [Title of Next Major Arc, e.g., "Descent into Shadow"]

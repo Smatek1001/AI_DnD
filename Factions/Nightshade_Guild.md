@@ -1,19 +1,46 @@
 ---
 last_updated: 2025-05-28T17:53:46
-type: "Faction"
-name: "Nightshade Guild"
-aliases: ["Nightshade Guild"]
-status: "active"
-alignment: "Neutral Evil"
-size: "Large"
-headquarters: "[[Whispering Door]]"
-leader: "[[The Wraith]]"
-goals: ["Control Duskhaven's shadows", "Thrive on guile and betrayal", "Deal in stolen goods and secrets"]
-enemy_factions: ["[[Harbor Syndicate]]"]
-allied_factions: ["[[Ebon Web Syndicate]]"]
-key_members: ["[[The Wraith]]", "[[Thorne]]", "[[Mara]]", "[[Vrenna]]", "[[Rynna]]", "[[Kyssra]]", "[[Jib]]", "[[Mira \"Quickfingers\"]]"] # (NEW)
-territories_controlled: ["[[Veil]]", "[[Whispering Door]]"] # (NEW)
-tags: ["#criminal_guild", "#thieves", "#spies", "#underworld", "#organized_crime", "#neutral_evil", "#covert_operations", "#heists", "#espionage", "#veil", "#shadow_operations"] # (NEW/ENHANCED)
+type: Faction
+name: Nightshade Guild
+aliases:
+  - Nightshade Guild
+status: active
+alignment: Neutral Evil
+size: Large
+headquarters: "[[Locations/Whispering_Door]]"
+leader: "[[Characters/NPCs/The_Wraith]]"
+goals:
+  - Control Duskhaven's shadows
+  - Thrive on guile and betrayal
+  - Deal in stolen goods and secrets
+enemy_factions:
+  - "[[Factions/Harbor_Syndicate]]"
+allied_factions:
+  - "[[Factions/Ebon_Web_Syndicate]]"
+key_members:
+  - "[[Characters/NPCs/The_Wraith]]"
+  - "[[Characters/NPCs/Thorne]]"
+  - "[[Characters/NPCs/Mara]]"
+  - "[[Characters/NPCs/Vrenna]]"
+  - "[[Characters/NPCs/Rynna]]"
+  - "[[Characters/NPCs/Kyssra]]"
+  - "[[Characters/NPCs/Jib]]"
+  - '[[Characters/NPCs/Mira_Quickfingers]]'
+territories_controlled:
+  - "[[Locations/Veil]]"
+  - "[[Locations/Whispering_Door]]"
+tags:
+  - "#criminal_guild"
+  - "#thieves"
+  - "#spies"
+  - "#underworld"
+  - "#organized_crime"
+  - "#neutral_evil"
+  - "#covert_operations"
+  - "#heists"
+  - "#espionage"
+  - "#veil"
+  - "#shadow_operations"
 ---
 # Nightshade Guild
 
@@ -53,7 +80,7 @@ The [[Factions/Nightshade_Guild|Nightshade_Guild]] is a formidable network of th
 * [[Characters/NPCs/Rynna|Rynna]] (Fence)
 * [[Characters/NPCs/Kyssra|Kyssra]] (Lookout)
 * [[Characters/NPCs/Jib|Jib]] (Lookout)
-* [[Mira "Quickfingers"]] (Fence, with ties to Guild)
+* [[Characters/NPCs/Mira_Quickfingers|Mira "Quickfingers"]] (Fence, with ties to Guild)
 
 ## VII. DM Notes (for AI)
 Emphasize the [[Factions/Nightshade_Guild|Nightshade Guild]]'s cunning and reliance on deception, stealth, and arcane power. Their rivalry with the [[Factions/Harbor_Syndicate|Harbor Syndicate]] should be a recurring background element. Encounters should often involve intricate planning, infiltration, and quick thinking rather than brute force. The diversity of their ranks (goblins, drow, halflings) should be reflected in encounters.

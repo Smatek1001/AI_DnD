@@ -1,19 +1,44 @@
 ---
 last_updated: 2025-05-28T17:53:43
-type: "Faction"
-name: "Harbor Syndicate"
-aliases: ["Harbor Syndicate"]
-status: "active"
-alignment: "Lawful Evil"
-size: "Large"
-headquarters: "[[Syndicate Warehouse]]"
-leader: "[[The Anchor]]"
-goals: ["Dominate Duskhaven’s waterfront", "Control smuggling and extortion", "Fuel Duskhaven’s black market"]
-enemy_factions: ["[[Factions/Nightshade_Guild]]"]
-allied_factions: ["[[Factions/Ebon_Web_Syndicate"]
-key_members: ["[[Characters/NPCs/The_Anchor]]", "[[Characters/NPCs/Korgal_Iron_Fist]]", "[[Characters/NPCs/The_Forger]]", "[[Characters/NPCs/The_Shade]]", "[[Characters/NPCs/Skrix]]", "[[Characters/NPCs/Skarlix]]", "[[Characters/NPCs/Brak]]", "[[Characters/NPCs/Rorik_Wavebreaker]]"] # (NEW)
-territories_controlled: ["[[Locations/Docks]]", "[[Locations/Syndicate_Warehouse]]", "[[Locations/Crow's_Nest]]"] # (NEW)
-tags: ["#criminal_empire", "#smuggling", "#extortion", "#underworld", "#organized_crime", "#docks", "#hostile_faction", "#lawful_evil"] # (NEW/ENHANCED)
+type: Faction
+name: Harbor Syndicate
+aliases:
+  - Harbor Syndicate
+status: active
+alignment: Lawful Evil
+size: Large
+headquarters: "[[Locations/Syndicate_Warehouse]]"
+leader: "[[Characters/NPCs/The_Anchor]]"
+goals:
+  - Dominate Duskhaven’s waterfront
+  - Control smuggling and extortion
+  - Fuel Duskhaven’s black market
+enemy_factions:
+  - "[[Factions/Nightshade_Guild]]"
+allied_factions:
+  - "[[Factions/Ebon_Web_Syndicate"
+key_members:
+  - "[[Characters/NPCs/The_Anchor]]"
+  - "[[Characters/NPCs/Korgal_Iron_Fist]]"
+  - "[[Characters/NPCs/The_Forger]]"
+  - "[[Characters/NPCs/The_Shade]]"
+  - "[[Characters/NPCs/Skrix]]"
+  - "[[Characters/NPCs/Skarlix]]"
+  - "[[Characters/NPCs/Brak]]"
+  - "[[Characters/NPCs/Rorik_Wavebreaker]]"
+territories_controlled:
+  - "[[Locations/Docks]]"
+  - "[[Locations/Syndicate_Warehouse]]"
+  - "[[Locations/Crow's_Nest]]"
+tags:
+  - "#criminal_empire"
+  - "#smuggling"
+  - "#extortion"
+  - "#underworld"
+  - "#organized_crime"
+  - "#docks"
+  - "#hostile_faction"
+  - "#lawful_evil"
 ---
 # Harbor Syndicate
 
@@ -31,9 +56,9 @@ tags: ["#criminal_empire", "#smuggling", "#extortion", "#underworld", "#organize
 The [[Factions/Harbor_Syndicate|Harbor Syndicate]] is a brutal criminal empire dominating [[Locations/Duskhaven|Duskhaven]]’s waterfront. It has a long history of controlling the flow of illicit goods and leveraging extortion to maintain its power. Its operations are characterized by violence and cunning.
 
 ## III. Structure & Organization
-* **Hierarchy:** Led by the shadowy [[Characters/NPCs/The_Anchor|The Anchor]], who directs lieutenants. Enforcers like [[Korgal Iron Fist]] and smugglers handle operations.
+* **Hierarchy:** Led by the shadowy [[Characters/NPCs/The_Anchor|The Anchor]], who directs lieutenants. Enforcers like [[Characters/NPCs/Korgal_Iron_Fist|Korgal Iron Fist]] and smugglers handle operations.
 * **Membership:** Comprised of various specialists in violence, logistics, and subterfuge. Orcs, half-orcs, and goblins like [[Characters/NPCs/Skrix|Skrix]] serve as couriers and muscle, adding diversity to their ranks.
-* **Resources:** Controls extensive resources including hidden warehouses, dive bars (like [[The Crow's Nest]]), a network of smugglers, and a significant force of enforcers. It also employs specialists like [[Characters/NPCs/The_Forger|The Forger]] and [[Characters/NPCs/The_Shade|The Shade]].
+* **Resources:** Controls extensive resources including hidden warehouses, dive bars (like [[Locations/Crow's_Nest|Crow's_Nest]]), a network of smugglers, and a significant force of enforcers. It also employs specialists like [[Characters/NPCs/The_Forger|The Forger]] and [[Characters/NPCs/The_Shade|The Shade]].
 
 ## IV. Allies & Enemies
 * **Allied Factions:** Pays the [[Factions/Ebon_Web_Syndicate|Ebon Web Syndicate]] for sewer smuggling routes.
