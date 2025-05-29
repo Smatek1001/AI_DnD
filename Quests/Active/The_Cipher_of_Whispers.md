@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-29T05:15:57
+last_updated: 2025-05-29T00:21:42
 dream_mission: false
 type: "Quest"
 name: "The Cipher of Whispers"
