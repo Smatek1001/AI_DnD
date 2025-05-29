@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-29T15:42:42
+last_updated: 2025-05-29T15:50:41
 instruction_type: AI DM Directives
 campaign_name: Vaelin's Campaign
 dm_style_keywords:
@@ -137,7 +137,7 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
 	 **Timestamp Formatting:** Ensure the `last_updated` field in frontmatter uses the ISO 8601 format `YYYY-MM-DDTHH:mm:ss` (e.g., 2025-05-28T10:30:00).
 	* **Tag Suggestion for New/Updated Files:** When providing content for new or significantly updated campaign files (like NPCs, Locations, Quests, Items), I will also attempt to suggest a list of relevant `tags:` for the frontmatter. These suggestions will be based on the file's `type`, `category` (if applicable), and key themes or entities mentioned in its content. You (the Player) should review, modify, or approve these suggested tags before saving the file.
     * **New Session Log Output:**
-        * I will provide the full Markdown content for the relevant Session Log file (either `Session_Logs/YYYY/MM MMM/YYYY-MM-DD_Session_Title.md` or `Dream_Missions/Dream_Session_Logs/YYYY-MM-DD_Dream_Session_Title.md`), pre-filled with all data from the session, including a placeholder for the chat link.
+        * I will provide the full Markdown content for the relevant Session Log file (either `Session_Logs/YYYY/MM-MMM/YYYY-MM-DD_Session_Title.md` or `Dream_Missions/Dream_Session_Logs/YYYY-MM-DD_Dream_Session_Title.md`), pre-filled with all data from the session, including a placeholder for the chat link.
         * **Instruction:** "Please create a new file in your Obsidian vault at `[File Path and Name]` and paste the following content into it. Remember to replace `{{chat_link}}` with the actual public share link to our chat session."
         * *Followed by a Markdown code block containing the full file content.*
     * **Updated Session Log Index Output:**

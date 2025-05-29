@@ -18,7 +18,7 @@ This document serves as a chronological index of all canonical play sessions, pr
 
 | Session Date | Session Title | Days Passed | PC Level | XP Gained |
 |---|---|---|---|---|
-| 2025-05-29 | [[Session_Logs/2025/05 May/2025-05-29_The_Cipher_of_Whispers_Completion_&_Study\|The Cipher of Whispers - Completion & Study]] | 1 | 1 | 100 |
+| 2025-05-29 | [[Session_Logs/2025/05-May/2025-05-29_The_Cipher_of_Whispers_Completion_&_Study\|The Cipher of Whispers - Completion & Study]] | 1 | 1 | 100 |
 
 ---
 **Note to DM (AI):** Remember to update this index after each session, using the data from the generated session log output.

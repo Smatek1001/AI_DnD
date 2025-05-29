@@ -12,10 +12,10 @@ This document serves as an index for all dream session logs. These logs detail e
 
 | Session Date | Session Title                                                                                                             | Days Passed | PC Level |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- |
-| 2025-05-26   | [[Dream_Missions/Dream_Session_Logs/2025/05 May/2025-05-26_Dream_Collector's_Trinket\|Collector's_Trinket]]               | 0           | 1        |
-| 2025-05-26   | [[Dream_Missions/Dream_Session_Logs/2025/05 May/2025-05-26_Dream_Gilded_Heist\|Gilded_Heist]]                             | 0           | 1        |
-| 2025-05-26   | [[Dream_Missions/Dream_Session_Logs/2025/05 May/2025-05-26_Dream_Heist_Elias_Curios\|Elias_Curios]]                       | 0           | 1        |
-| 2025-05-28   | [[Dream_Missions/Dream_Session_Logs/2025/05 May/2025-05-28_Dream_Heist_Lord_Malakors_Townhouse\|Lord_Malakors_Townhouse]] | 0           | 1        |
+| 2025-05-26   | [[Dream_Missions/Dream_Session_Logs/2025/05-May/2025-05-26_Dream_Collector's_Trinket\|Collector's_Trinket]]               | 0           | 1        |
+| 2025-05-26   | [[Dream_Missions/Dream_Session_Logs/2025/05-May/2025-05-26_Dream_Gilded_Heist\|Gilded_Heist]]                             | 0           | 1        |
+| 2025-05-26   | [[Dream_Missions/Dream_Session_Logs/2025/05-May/2025-05-26_Dream_Heist_Elias_Curios\|Elias_Curios]]                       | 0           | 1        |
+| 2025-05-28   | [[Dream_Missions/Dream_Session_Logs/2025/05-May/2025-05-28_Dream_Heist_Lord_Malakors_Townhouse\|Lord_Malakors_Townhouse]] | 0           | 1        |
 
 ---
 **Note to DM (AI):** Remember that all dream session logs are strictly non-canonical. No character changes or item acquisitions from these sessions should affect the main campaign.
