@@ -96,9 +96,11 @@ employer: "[[Factions/The_Society]]"
 * **Other Background Items:** Crowbar, a set of dark common clothes including a hood.
 
 ## V. Loot
-	Cipher of Whispers - quest item for Elara
-	The Faceless Art - book looted from [[Characters/NPCs/Silas_Inkfinger|Silas]]
-	Bone and Silver Stylus
+- Cipher of Whispers - quest item for Elara
+	- subject: contacting otherplanar entities
+- The Faceless Art - book looted from [[Characters/NPCs/Silas_Inkfinger|Silas]]
+	- subject: disguise and deception
+- [[Items/Bone_and_Silver_Stylus|Bone and Silver Stylus]]
 
 ### Gold/Currency:
 * 15 gp
