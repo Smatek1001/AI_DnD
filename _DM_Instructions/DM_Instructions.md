@@ -130,7 +130,7 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
 
 ### A. Beginning-of-Session Protocol
 1.  **DM Recap:** I (the AI DM) will provide a brief recap of the previous session's key events and cliffhangers.
-2.  **Session Type Determination:** You (the Player) will state what type of session you'd like to have today by number:
+2.  **Session Type Determination:** You (the Player) will state what type of session you'd like to have today **by number**:
     1.  An adventure advancing the **main plot**.
     2.  A **side quest** (a stand-alone mission).
     3.  A **dream mission** (a non-canonical sandbox).
