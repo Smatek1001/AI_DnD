@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:55:00
+last_updated: 2025-05-30T08:14:24
 rule_set: D&D 5e 2024
 category: Class
 name: Warlock Class (2024)
@@ -253,9 +253,12 @@ Eldritch Invocation options appear in alphabetical order.
 #### Visions of Distant Realms
 - **Prerequisite:** Level 9+ Warlock
 - You can cast _Arcane Eye_ without expending a spell slot.
+
 #### Whispers of the Grave
 - **Prerequisite:** Level 7+ Warlock
 - You can cast _Speak with Dead_ without expending a spell slot.
+
+#### Witch Sight
 - **Prerequisite:** Level 15+ Warlock
 - You have _Truesight_ with a range of 30 feet.
 
