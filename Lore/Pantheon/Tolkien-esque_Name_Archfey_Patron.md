@@ -57,39 +57,39 @@ Fundamentally benevolent and wise, her spirit is deeply scarred by the cataclysm
 ## IV. Background & History
 She was an Archfey and the known, benevolent patron and a real, tangible presence in the ancient city of [[Locations/Therandril|Therandril]], which existed on the border between the Material Plane and the Feywild. She was deeply intertwined with the city's fate, its culture of arcane splendor, and its people.
 
-She witnessed Therandril's cataclysmic fall, resulting from a "desperate pact with dragons...that went awry, opening a rift to The Nameless Void." The specifics of her own actions during the fall, and why she was unable to prevent it, are likely a source of her profound sorrow and a mystery for Vaelin to uncover.
+She witnessed Therandril's cataclysmic fall, resulting from a "desperate pact with dragons...that went awry, opening a rift to [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]." The specifics of her own actions during the fall, and why she was unable to prevent it, are likely a source of her profound sorrow and a mystery for Vaelin to uncover.
 
 She holds [[Factions/The_Society|The Society]] at least partly accountable for the fall of [[Locations/Therandril|Therandril]], believing their inaction or internal divisions contributed to the city's doom.
 
 ## V. Goals & Motivations
 ### Short-term Goals
-* Forge a strong pact with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], seeing him as a conduit for her will and a champion for Therandril.
-* Begin guiding Vaelin to uncover truths about Therandril's fall and the entities involved.
-* Test Vaelin's resolve and capabilities.
+* Forge a strong pact with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], seeing him as a conduit for her will and a champion for [[Locations/Therandril|Therandril]].
+* Begin guiding Vaelin to uncover truths about [[Locations/Therandril|Therandril]]'s fall and the entities involved.
+* Test [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s resolve and capabilities.
 
 ### Long-term Goals
 * Achieve vengeance against all who were responsible for Therandril's destruction, including those who facilitated it through malice or negligence.
 * Uncover the full truth behind the "pact with dragons" and the opening of the rift to [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]].
-* Potentially find a way to restore some aspect of Therandril, heal the damage to the Feywild border, or ensure its memory is properly honored and its knowledge preserved.
-* Serve as a magical mentor to Vaelin, drawing on Therandril's legacy as a center for arcane and esoteric knowledge.
+* Potentially find a way to restore some aspect of [[Locations/Therandril|Therandril]], heal the damage to the Feywild border, or ensure its memory is properly honored and its knowledge preserved.
+* Serve as a magical mentor to Vaelin, drawing on [[Locations/Therandril|Therandril]]'s legacy as a center for arcane and esoteric knowledge.
 
 ### Primary Motivation
-Vengeance for Therandril, profound grief, a desire for justice, and a protective, mentoring concern for Vaelin as a surviving child of her beloved city.
+Vengeance for [[Locations/Therandril|Therandril]], profound grief, a desire for justice, and a protective, mentoring concern for Vaelin as a surviving child of her beloved city.
 
 ## VI. Relationships & Known Connections
-* **[[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]:** Her chosen champion and warlock. She feels a deep connection to him due to his survival and his link to Therandril.
+* **[[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]:** Her chosen champion and warlock. She feels a deep connection to him due to his survival and his link to [[Locations/Therandril|Therandril]].
 * **[[Locations/Therandril|Therandril]]:** The lost city she guarded and mourns.
-* **[[Factions/The_Society|The Society]]:** Views them with suspicion and likely blames them, at least in part, for their failure to prevent Therandril's destruction. This will be a major point of potential conflict for Vaelin.
-* **[[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]:** The ultimate source of Therandril's catastrophic end; an entity of pure cosmic horror she likely despises and fears.
-* **Dragons:** The "desperate pact with dragons" that went awry is a key element of Therandril's fall; her views on dragons, or specific dragon factions, would be significant.
+* **[[Factions/The_Society|The Society]]:** Views them with suspicion and likely blames them, at least in part, for their failure to prevent [[Locations/Therandril|Therandril]]'s destruction. This will be a major point of potential conflict for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]].
+* **[[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]:** The ultimate source of [[Locations/Therandril|Therandril]]'s catastrophic end; an entity of pure cosmic horror she likely despises and fears.
+* **Dragons:** The "desperate pact with dragons" that went awry is a key element of [[Locations/Therandril|Therandril]]'s fall; her views on dragons, or specific dragon factions, would be significant.
 
 ## VII. DM Notes (for AI)
-* She is intended to be Vaelin's Archfey Warlock Patron.
+* She is intended to be [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024#Archfey Patron|Archfey Warlock Patron]].
 * Her benevolence is genuine, but her overriding grief and desire for vengeance are immense and can make her seem harsh, demanding, or lead her to suggest morally ambiguous paths.
-* Her perspective on The Society's role in Therandril's fall is a critical plot point, creating a loyalty conflict for Vaelin.
-* She should be a source of ancient lore, particularly concerning Therandril, the Feywild, and potentially the nature of the forces that destroyed the city.
+* Her perspective on [[Factions/The_Society|The Society]]'s role in [[Locations/Therandril|Therandril]]'s fall is a critical plot point, creating a loyalty conflict for Vaelin.
+* She should be a source of ancient lore, particularly concerning [[Locations/Therandril|Therandril]], the Feywild, and potentially the nature of the forces that destroyed the city.
 * Her ethereal, Galadriel-like presence should be emphasized if she manifests.
-* The interconnectedness of Vaelin's arcane pursuits, his past, his Warlock abilities, and his relationship with The Society should all be channeled through interactions or revelations involving her.
+* The interconnectedness of [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s arcane pursuits, his past, his [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] abilities, and his relationship with [[Factions/The_Society|The Society]] should all be channeled through interactions or revelations involving her.
 
 ### ROT-13 Encoded Secrets
 (Frpergf gb or qrirybcrq. Sbe rknzcyr: Jung vf ure gehr anzr? Jung rkgerzr zrnfherf vf fur jvyyvat gb gnxr sbe iretnapr? Jung qbrf fur xabj nobhg Inryva'f gnngbb/nzhyrg gung fur unfa'g lrg erirnyrq?)
