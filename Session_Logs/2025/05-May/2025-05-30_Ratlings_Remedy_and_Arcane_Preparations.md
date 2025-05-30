@@ -1,15 +1,15 @@
 ---
-last_updated: 2025-05-30T06:51:56
-chat_link: "{{chat_link}}"
+last_updated: 2025-05-30T06:52:44
+chat_link: https://g.co/gemini/share/13160500eb74
 dream_session: false
-session_date: "2025-05-30" # Real-world date of play
-session_title: "The Ratlings' Remedy and Arcane Preparations"
-campaign_day: 3 # Session ended on the morning of Campaign Day 3
-days_passed_since_campaign_start: 2 # Campaign Day 2 was completed in this session
+session_date: 2025-05-30
+session_title: The Ratlings' Remedy and Arcane Preparations
+campaign_day: 3
+days_passed_since_campaign_start: 2
 pc_current_level: 1
-xp_gained: 100 # (75 for Ratlings' Remedy, 25 for Cipher Study breakthrough)
+xp_gained: 100
 gold_gained_total: 0
-magic_items_acquired: [] # Crowbar is mundane
+magic_items_acquired: 
 level_up_occurred: false
 key_npcs_encountered:
   - "[[Characters/NPCs/Finch|Finch]]"
@@ -24,7 +24,7 @@ key_locations_visited:
   - "[[Locations/Docks|Docks]]"
   - "[[Locations/Rusty_Anchor|Rusty Anchor]]"
   - "[[Locations/Old_Fishery|Old Fishery]] (Ground Floor & Cellars)"
-quests_advanced: [] # Progress towards personal goal of contacting Archfey
+quests_advanced: 
 quests_completed:
   - "[[Quests/Completed/The_Ratlings_Remedy|The Ratlings' Remedy]]"
 tags:
@@ -122,4 +122,4 @@ Following the successful quest, [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] dedi
 (Excellent session demonstrating Vaelin's capabilities in a non-combat scenario. The information gleaned from the Cipher study provides a strong narrative drive for his upcoming actions. The timeline clarification has been very helpful for future campaign day tracking.)
 
 ---
-**Full Chat Session Link:** {{chat_link}}
+**Full Chat Session Link:** https://g.co/gemini/share/13160500eb74
