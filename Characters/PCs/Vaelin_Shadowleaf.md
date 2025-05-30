@@ -140,7 +140,8 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
     * Random [[Dream_Missions/Dream_Quests/_Dream_Quest_Index|Dream Missions]]
 * **Ongoing Effects/Conditions:** none
 * **Misc Notes:** Vaelin has proficiency in Dex and Wis, instead of the usual Dex and Int for a Rogue.
-* **Session Notes:** (Any specific notes relevant to the current session or next steps for the character)
+* **Session Notes:**
+	* Remember Miri, Pip, and Grol. Get revenge on them for stealing the Ratlings' medicine box.
 
 ## VIII. Character Aspirations & Future Goals
 
