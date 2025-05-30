@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-29T20:52:54
+last_updated: 2025-05-30T00:13:37
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -141,7 +141,6 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 * **Ongoing Effects/Conditions:** none
 * **Misc Notes:** Vaelin has proficiency in Dex and Wis, instead of the usual Dex and Int for a Rogue.
 * **Session Notes:** (Any specific notes relevant to the current session or next steps for the character)
-* Vaelin is on the lookout for an _Amulet of Proof Against Detection and Location_
 
 ## VIII. Character Aspirations & Future Goals
 
