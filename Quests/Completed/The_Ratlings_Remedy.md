@@ -1,4 +1,4 @@
----
+---´
 last_updated: 2025-05-30T04:39:27
 dream_mission: false
 type: "Quest"
@@ -36,7 +36,7 @@ tags:
 ## III. Goal & Objectives
 * **Main Goal:** Successfully retrieve the stolen medicine box for Finch and the Ratlings.
 * **Key Objectives/Milestones:**
-    * 1. Gather information on the thieves and their likely whereabouts. (Achieved via Finch, then [[Characters/NPCs/Greta_Mama_Stoneheart|Greta Stoneheart]] & [[Characters/NPCs/Elara_Lark_Stoneheart|Elara "Lark" Stoneheart]] at the Rusty Anchor)
+    * 1. Gather information on the thieves and their likely whereabouts. (Achieved via Finch, then [[Characters/NPCs/Greta_Mama_Stoneheart|Greta Stoneheart]] & [[Characters/NPCs/Elara_Lark_Stoneheart|Elara "Lark" Stoneheart]] at the [[Locations/Rusty_Anchor|Rusty Anchor]])
     * 2. Locate the thieves and the medicine box. (Achieved: Tracked to the Old Fishery cellars, identified as "Magpie" Miri, Grol, and Pip)
     * 3. Retrieve the medicine box using stealth and cunning. (Achieved via _Minor Illusion_ distraction and infiltration)
     * 4. Return the medicine box to Finch. (Achieved)
@@ -54,7 +54,7 @@ tags:
 
 ## V. Progress & Current Status
 * **Current Stage:** Completed.
-* **PC's Knowledge:** Vaelin successfully identified the thieves, tracked them to the cellars of the Old Fishery, used _Minor Illusion_ to distract them, infiltrated their chamber, retrieved the medicine box (and a crowbar), and returned it to Finch. He also offered Finch a secure chest in his hideout for the Ratlings' valuables, managed by her.
+* **PC's Knowledge:** Vaelin successfully identified the thieves, tracked them to the cellars of the Old Fishery, used _Minor Illusion_ to distract them, infiltrated their chamber, retrieved the medicine box (and a crowbar), and returned it to Finch. He also offered Finch a secure chest in his hideout for [[Factions/Ratlings|The Ratlings']] valuables, managed by her.
 * **Next Steps:** Quest concluded. Vaelin noted the identities of Miri, Grol, and Pip for future reference.
 
 ## VI. Potential Complications & Twists

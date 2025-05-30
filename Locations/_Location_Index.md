@@ -18,6 +18,7 @@ tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaig
 | [[Locations/Market_Square\|Market Square]] | District | [[Locations/Duskhaven\|Duskhaven]] | [[Characters/NPCs/Mira_Quickfingers\|Mira "Quickfingers"]], [[Characters/NPCs/Garrick_Stonehand\|Garrick Stonehand]] |
 | [[Locations/Noble_District\|Noble District]] | District | [[Locations/Duskhaven\|Duskhaven]] | [[Characters/NPCs/Lord_Varyn\|Lord Varyn]], [[Characters/NPCs/Silas_Inkfinger\|Silas "Inkfinger"]] |
 | [[Locations/Northeast_Tower\|Northeast Tower]] | Ancient Site | [[Locations/Old_Ruins\|Old Ruins]] | None |
+| [[Locations/Old_Fishery\|Old Fishery]] | Ruin / Gang Haunt | [[Locations/Docks\|Docks]] | [[Characters/NPCs/Magpie_Miri\|Magpie Miri]], [[Characters/NPCs/Grol\|Grol]], [[Characters/NPCs/Pip\|Pip]] (recently) |
 | [[Locations/Old_Ruins\|Old Ruins]] | Ruined District | [[Locations/Duskhaven\|Duskhaven]] | None (various creatures/scavengers) |
 | [[Locations/Rusty_Anchor\|Rusty Anchor]] | Tavern | [[Locations/Docks\|Docks]] | [[Characters/NPCs/Greta_Mama_Stoneheart\|Greta "Mama" Stoneheart"]], [[Characters/NPCs/Elara_Lark_Stoneheart\|Elara "Lark" Stoneheart"]] |
 | [[Locations/Sewer_Network\|Sewer Network]] | Tunnels | [[Locations/Duskhaven\|Duskhaven]] | None (various criminals/creatures) |

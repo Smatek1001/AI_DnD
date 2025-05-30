@@ -22,14 +22,17 @@ This document serves as an index for all notable Non-Player Characters encounter
 | [[Characters/NPCs/The_Forger\|The Forger]] | Human | Master Forger / Document Faker | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Docks\|Docks]] |
 | [[Characters/NPCs/Garrick_Stonehand\|Garrick Stonehand]] | Dwarf | Merchant | Independent | [[Locations/Market_Square\|Market Square]] |
 | [[Characters/NPCs/Greta_Mama_Stoneheart\|Greta "Mama" Stoneheart"]] | Human | Tavern Proprietor | None | [[Locations/Rusty_Anchor\|Rusty Anchor]] |
+| [[Characters/NPCs/Grol\|Grol]] | Human | Gang Muscle / Bruiser | [[Characters/NPCs/Magpie_Miri\|Magpie Miri]]'s gang | [[Locations/Old_Fishery\|Old Fishery]] / [[Locations/Docks\|Docks]] |
 | [[Characters/NPCs/Jib\|Jib]] | Halfling | Nightshade Guild Lookout | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Whispering_Door\|Whispering Door]] |
 | [[Characters/NPCs/Korgal_Iron_Fist\|Korgal Iron Fist]] | Half-Orc | Harbor Syndicate Chief Lieutenant / Enforcer | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Syndicate_Warehouse\|Syndicate Warehouse]] |
 | [[Characters/NPCs/Kyssra\|Kyssra]] | Drow | Nightshade Guild Lookout | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Whispering_Door\|Whispering Door]] |
 | [[Characters/NPCs/Lirael\|Lirael]] | Flickerling | Familiar (Future) | None (Bound to [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin]]) | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] (once manifested) |
 | [[Characters/NPCs/Lord_Varyn\|Lord Varyn]] | Human | Corrupt Noble | [[Factions/The_Society\|The Society]] | [[Locations/Noble_District\|Noble District]] |
 | [[Characters/NPCs/Lyra\|Lyra]] | Human | Arcane Shop Assistant | None | [[Locations/Shaded_Lantern\|Shaded Lantern]] |
+| [[Characters/NPCs/Magpie_Miri\|Magpie Miri]] | Human (Presumed) | Gang Leader | [[Characters/NPCs/Magpie_Miri\|Magpie Miri]]'s gang | [[Locations/Old_Fishery\|Old Fishery]] / [[Locations/Docks\|Docks]] |
 | [[Characters/NPCs/Mara\|Mara]] | Tiefling | Nightshade Guild Elder (Magic) | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Veil\|Veil]] |
 | [[Characters/NPCs/Mira_Quickfingers\|Mira "Quickfingers"]] | Halfling | Fence | [[Factions/Nightshade_Guild\|Nightshade Guild]] / Independent | [[Locations/Market_Square\|Market Square]] |
+| [[Characters/NPCs/Pip\|Pip]] | Goblin | Gang Lackey / Skirmisher | [[Characters/NPCs/Magpie_Miri\|Magpie Miri]]'s gang | [[Locations/Old_Fishery\|Old Fishery]] / [[Locations/Docks\|Docks]] |
 | [[Characters/NPCs/Rorik_Wavebreaker\|Rorik "Wavebreaker"]] | Human | Smuggler | Independent / [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Docks\|Docks]] |
 | [[Characters/NPCs/Rynna\|Rynna]] | Goblin | Nightshade Guild Fence | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Whispering_Door\|Whispering Door]] |
 | [[Characters/NPCs/Skarlix\|Skarlix]] | Goblin | Harbor Syndicate Loan Shark | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Crow's_Nest\|Crow's Nest]] |
