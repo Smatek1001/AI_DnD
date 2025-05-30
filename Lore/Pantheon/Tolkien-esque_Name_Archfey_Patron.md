@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-29T20:44:05
+last_updated: 2025-05-29T20:46:11
 type: "Archfey Patron Entity" # Or "Lesser Deity", "Archfey"
 name: "[Placeholder_Tolkien-esque_Female_Name]" # e.g., Lúthien's Echo, Starflower Queen, etc.
 aliases: ["[Nickname/Title 1]", "[Nickname/Title 2]"] # e.g., The Mourning Lady, Therandril's Light
@@ -43,7 +43,7 @@ Fundamentally benevolent and wise, her spirit is deeply scarred by the cataclysm
 ## IV. Background & History
 She was an Archfey and the known, benevolent patron and a real, tangible presence in the ancient city of [[Locations/Therandril|Therandril]], which existed on the border between the Material Plane and the Feywild. She was deeply intertwined with [[Locations/Therandril|the city]]'s fate, its culture of arcane splendor, and its people.
 
-During [[Locations/Therandril|Therandril]]'s cataclysmic fall—resulting from a "desperate pact with dragons...that went awry, opening a rift to [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]"—she actively intervened to ensure the survival of at least one of its children, [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]. In doing so, she also bestowed upon him his mysterious runic tattoo, marking him for reasons yet to be fully revealed (perhaps as a form of protection, a beacon for her to find him later, a key to his dormant power, or a symbol of his destiny connected to Therandril's legacy). The specifics of her own actions during the fall, and why she was unable to prevent [[Locations/Therandril|the city]]'s ultimate destruction, are likely a source of her profound sorrow and a mystery for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] to uncover.
+During [[Locations/Therandril|Therandril]]'s cataclysmic fall—resulting from a "desperate pact with dragons...that went awry, opening a rift to [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]"—she actively intervened to ensure the survival of at least one of its children, [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]. In doing so, she also bestowed upon him his mysterious runic tattoo, marking him for reasons yet to be fully revealed (perhaps as a form of protection, a beacon for her to find him later, a key to his dormant power, or a symbol of his destiny connected to [[Locations/Therandril|Therandril]]'s legacy). The specifics of her own actions during the fall, and why she was unable to prevent [[Locations/Therandril|the city]]'s ultimate destruction, are likely a source of her profound sorrow and a mystery for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] to uncover.
 
 She holds [[Factions/The_Society|The Society]] at least partly accountable for the fall of [[Locations/Therandril|Therandril]], believing their inaction or internal divisions contributed to [[Locations/Therandril|the city]]'s doom.
 
@@ -63,7 +63,7 @@ She holds [[Factions/The_Society|The Society]] at least partly accountable for t
 Vengeance for [[Locations/Therandril|Therandril]], profound grief, a desire for justice, and a protective, mentoring concern for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] as a surviving child of [[Locations/Therandril|her beloved city]] whom she personally saved.
 
 ## VI. Relationships & Known Connections
-* **[[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]:** Her chosen champion and warlock. Her connection to him is foundational, having orchestrated his survival from [[Locations/Therandril|Therandril]]'s ruin and marked him with his significant tattoo. She views him as a last vestige of [[Locations/Therandril|Therandril]] and her hope for retribution.
+* **[[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]:** Her chosen champion and [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|warlock]]. Her connection to him is foundational, having orchestrated his survival from [[Locations/Therandril|Therandril]]'s ruin and marked him with his significant tattoo. She views him as a last vestige of [[Locations/Therandril|Therandril]] and her hope for retribution.
 * **[[Locations/Therandril|Therandril]]:** The lost city she guarded and mourns.
 * **[[Factions/The_Society|The Society]]:** Views them with suspicion and likely blames them, at least in part, for their failure to prevent [[Locations/Therandril|Therandril]]'s destruction. This will be a major point of potential conflict for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]].
 * **[[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]:** The ultimate source of [[Locations/Therandril|Therandril]]'s catastrophic end; an entity of pure cosmic horror she likely despises and fears.
