@@ -36,7 +36,7 @@ This document outlines any modifications, additions, or specific interpretations
 * **Rule 2:** (e.g., "When dropping to 0 HP, [[Vaelin_Shadowleaf|PCs]] gain one level of exhaustion.")
 
 ## III. Spellcasting Rules
-* **Rule 1:** Control Flame is available as a Wizard cantrip, per the 2014 rules.
+* **Rule 1:** [[_DM_Instructions/2014_Rules_Reference#_Control Flames_|Control Flames]] is available as a Wizard cantrip, per the 2014 rules.
 * **Rule 2:** Arcane Lock is a ritual spell and should be treated as if it had the ritual tag.
 
 ## IV. Exploration & Social Rules
