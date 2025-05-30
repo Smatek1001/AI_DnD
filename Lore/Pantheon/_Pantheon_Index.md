@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:54:40
+last_updated: 2025-05-30T18:09:30
 index_type: "Pantheon Overview"
 campaign_name: "Vaelin's CampaignÒ"
 tags: ["#pantheon_index", "#religion_overview", "#index_file", "#campaign_lore", "#deities", "#cults", "#spiritual_beliefs"] # (NEW/ENHANCED)
@@ -16,9 +16,9 @@ This document serves as an index for all known deities, religions, and significa
 
 ## Religions & Cults
 
-| Religion/Cult Name | Primary Deity/Focus | Influence |
-|---|---|---|
-| [[Factions/The_Cult\|The Cult]]) | [[Lore/Cosmology/The_Nameless_Void\|The_Nameless_Void]] | |
+| Religion/Cult Name              | Primary Deity/Focus                                     | Influence |
+| ------------------------------- | ------------------------------------------------------- | --------- |
+| [[Factions/The_Cult\|The Cult]] | [[Lore/Cosmology/The_Nameless_Void\|The_Nameless_Void]] |           |
 
 ---
 **Note to DM (AI):** This index will help track the divine and spiritual aspects of the world. Remember to create individual files for deities or significant religious orders as they become relevant.
