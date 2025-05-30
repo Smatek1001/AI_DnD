@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T00:13:37
+last_updated: 2025-05-30T05:55:33
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -9,7 +9,7 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 1
-xp: 100
+xp: 175
 status: active
 current_hp: 8
 max_hp: 8
