@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-29T17:10:51
+last_updated: 2025-05-29T21:51:43
 rule_type: House Rules
 aliases:
   - The House Rules
@@ -49,7 +49,15 @@ This document outlines any modifications, additions, or specific interpretations
 
 ## VI. Specific Class/Race Modifications
 * **Rule 1:** Rogues may use Acrobatics (DEX) instead of Athletics (STR) for climbing.
-* **Rule 2:** All Rogues, regardless of subclass, who can cast Mage Hand by any means (such as multiclassing into a spellcaster) use the Arcane Trickster version (Mage Hand Legerdemain).
+* **Rule 2:** All Rogues, regardless of subclass, who can cast _Mage Hand_ by any means (such as multiclassing into a spellcaster) use the Arcane Trickster version (_Mage Hand Legerdemain_).
+	* _Mage Hand Legerdemain_: 
+		* Casting time: 1 Bonus Action
+		* Range: 30 feet
+		* Duration: 1 minute
+		* The hand is invisible, can be visible if desired
+		* The hand can be controlled with a Bonus Action
+		* The hand can perform any action requiring a Sleight of Hand check, including picking pockets and depositing an item 
+		* The hand can perform any appropriate action with Thieves' Tools, including  picking locks and disarming traps
 * **Rule 3:** Elves use the [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024|2024 version]] of the race, except they retain the ability score increases from the 2014 rules.
 	* Drow: +2 DEX, +1 CHA
 	* High Elf: +2 DEX, +1 INT
