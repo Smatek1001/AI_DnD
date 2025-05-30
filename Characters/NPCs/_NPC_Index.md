@@ -25,7 +25,7 @@ This document serves as an index for all notable Non-Player Characters encounter
 | [[Characters/NPCs/Jib\|Jib]] | Halfling | Nightshade Guild Lookout | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Whispering_Door\|Whispering Door]] |
 | [[Characters/NPCs/Korgal_Iron_Fist\|Korgal Iron Fist]] | Half-Orc | Harbor Syndicate Chief Lieutenant / Enforcer | [[Factions/Harbor_Syndicate\|Harbor Syndicate]] | [[Locations/Syndicate_Warehouse\|Syndicate Warehouse]] |
 | [[Characters/NPCs/Kyssra\|Kyssra]] | Drow | Nightshade Guild Lookout | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Whispering_Door\|Whispering Door]] |
-| [[Characters/NPCs/Lirael\|Lirael]] | Flickerling | Familiar | None | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Characters/NPCs/Lirael\|Lirael]] | Flickerling | Familiar (Future) | None (Bound to [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin]]) | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] (once manifested) |
 | [[Characters/NPCs/Lord_Varyn\|Lord Varyn]] | Human | Corrupt Noble | [[Factions/The_Society\|The Society]] | [[Locations/Noble_District\|Noble District]] |
 | [[Characters/NPCs/Lyra\|Lyra]] | Human | Arcane Shop Assistant | None | [[Locations/Shaded_Lantern\|Shaded Lantern]] |
 | [[Characters/NPCs/Mara\|Mara]] | Tiefling | Nightshade Guild Elder (Magic) | [[Factions/Nightshade_Guild\|Nightshade Guild]] | [[Locations/Veil\|Veil]] |

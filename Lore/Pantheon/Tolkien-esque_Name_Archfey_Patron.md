@@ -49,6 +49,7 @@ She holds [[Factions/The_Society|The Society]] at least partly accountable for t
 
 ## V. Goals & Motivations
 ### Short-term Goals
+* Dispatch her Flickerling agent, [[Characters/NPCs/Lirael|Lirael]], to observe and subtly guide [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] as he first touches upon his [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] powers, before a formal pact is established.
 * Forge a strong pact with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], seeing him as a conduit for her will and a champion for [[Locations/Therandril|Therandril]], a connection deepened by her past actions.
 * Begin guiding [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] to uncover truths about [[Locations/Therandril|Therandril]]'s fall and the entities involved, including the purpose of his tattoo.
 * Test [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s resolve and capabilities.
@@ -71,6 +72,7 @@ Vengeance for [[Locations/Therandril|Therandril]], profound grief, a desire for 
 
 ## VII. DM Notes (for AI)
 * She is intended to be [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024#Archfey Patron|Archfey Warlock Patron]].
+* [[Characters/NPCs/Lirael|Lirael]], the [[Bestiary/Flickerling|Flickerling]] familiar, should be introduced when Vaelin takes his first [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] level. She will act as an emissary and observer for the Archfey during his initial (levels 1-2) Warlock development, with the formal patron pact occurring at Warlock level 3.
 * Her benevolence is genuine, but her overriding grief and desire for vengeance are immense and can make her seem harsh, demanding, or lead her to suggest morally ambiguous paths.
 * Her perspective on [[Factions/The_Society|The Society]]'s role in [[Locations/Therandril|Therandril]]'s fall is a critical plot point, creating a loyalty conflict for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]].
 * She is the key to understanding [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s survival of [[Locations/Therandril|Therandril]]'s destruction and the origin/purpose of his tattoo. These revelations should be significant moments.
