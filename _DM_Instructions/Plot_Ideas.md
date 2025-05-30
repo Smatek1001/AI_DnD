@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-29T15:57:29
+last_updated: 2025-05-30T17:54:58
 type: "DM Brainstorm"
 campaign_name: "Vaelin's Campaign"
 idea_categories: ["Character-Specific Seeds", "World-Specific Hooks & Concepts", "Item/Artifact Ideas", "NPC Concepts", "Dungeon/Location Concepts", "Random Encounters/Side Quests", "General \"What If\" Questions"] # (NEW)
@@ -27,7 +27,7 @@ This document is a collection of unassigned ideas, potential plot hooks, intrigu
 * (Concepts for new magic [[Items/_Item_Index|Items]], ancient artifacts, or cursed objects. e.g., "A sentient weapon that tries to control its wielder.")
 
 ## IV. NPC Concepts (unassigned)
-* (Brief ideas for NPCs not yet fleshed out. e.g., "A kindly old shopkeeper who is secretly a powerful retired adventurer.")
+* Other survivors of Therandril
 
 ## V. Dungeon/Location Concepts
 * (Ideas for interesting places to explore. e.g., "A floating island dungeon built by ancient giants.")
