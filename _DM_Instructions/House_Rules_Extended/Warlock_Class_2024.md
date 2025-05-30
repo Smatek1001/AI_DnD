@@ -60,28 +60,28 @@ As a Warlock, you gain the following class features when you reach the specified
 
 #### Warlock Features Table
 
-|Level | Proficiency Bonus | Class Features | Eldritch Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | +2 | Eldritch Invocations, Pact Magic | 1 | 2 | 2 | 1 | 1 |
-| 2 | +2 | Magical Cunning | 3 | 2 | 3 | 2 | 1 |
-| 3 | +2 | Warlock Subclass | 3 | 2 | 4 | 2 | 2 |
-| 4 | +2 | Ability Score Improvement | 3 | 3 | 5 | 2 | 2 |
-| 5 | +3 | - | 5 | 3 | 6 | 2 | 3 |
-| 6 | +3 | Subclass feature | 5 | 3 | 7 | 2 | 3 |
-| 7 | +3 | - | 6 | 3 | 8 | 2 | 4 |
-| 8 | +3 | Ability Score Improvement | 6 | 3 | 9 | 2 | 4 |
-| 9 | +4 | Contact Patron | 7 | 3 | 10 | 2 | 5 |
-| 10 | +4 | Subclass feature | 7 | 4 | 10 | 2 | 5 |
-| 11 | +4 | Mystic Arcanum (level 6 spell) | 7 | 4 | 11 | 3 | 5 |
-| 12 | +4 | Ability Score Improvement | 8 | 4 | 11 | 3 | 5 |
-| 13 | +5 | Mystic Arcanum (level 7 spell) | 8 | 4 | 12 | 3 | 5 |
-| 14 | +5 | Subclass feature | 8 | 4 | 12| 3 | 5 |
-| 15 | +5 | Mystic Arcanum (level 8 spell) | 9 | 4 | 13 | 3 | 5 |
-| 16 | +5 | Ability Score Improvement | 9 | 4 | 13 | 3 | 5 |
-| 17 | +6 | Mystic Arcanum (level 9 spell) | 9 | 4 | 14 | 4 | 5 |
-| 18 | +6 | - | 10 | 4 | 14 | 4 | 5 |
-| 19 | +6 | Epic Boon | 10 | 4 | 15| 4 | 5 |
-| 20 | +6 | Eldritch Master | 10 | 4 | 15 | 4 | 5 |
+| Level | Proficiency Bonus |          Class Features          | Eldritch Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
+| :---: | :---------------: | :------------------------------: | :------------------: | :------: | :-------------: | :---------: | :--------: |
+|   1   |        +2         | Eldritch Invocations, Pact Magic |          1           |    2     |        2        |      1      |     1      |
+|   2   |        +2         |         Magical Cunning          |          3           |    2     |        3        |      2      |     1      |
+|   3   |        +2         |         Warlock Subclass         |          3           |    2     |        4        |      2      |     2      |
+|   4   |        +2         |    Ability Score Improvement     |          3           |    3     |        5        |      2      |     2      |
+|   5   |        +3         |                -                 |          5           |    3     |        6        |      2      |     3      |
+|   6   |        +3         |         Subclass feature         |          5           |    3     |        7        |      2      |     3      |
+|   7   |        +3         |                -                 |          6           |    3     |        8        |      2      |     4      |
+|   8   |        +3         |    Ability Score Improvement     |          6           |    3     |        9        |      2      |     4      |
+|   9   |        +4         |          Contact Patron          |          7           |    3     |       10        |      2      |     5      |
+|  10   |        +4         |         Subclass feature         |          7           |    4     |       10        |      2      |     5      |
+|  11   |        +4         |  Mystic Arcanum (level 6 spell)  |          7           |    4     |       11        |      3      |     5      |
+|  12   |        +4         |    Ability Score Improvement     |          8           |    4     |       11        |      3      |     5      |
+|  13   |        +5         |  Mystic Arcanum (level 7 spell)  |          8           |    4     |       12        |      3      |     5      |
+|  14   |        +5         |         Subclass feature         |          8           |    4     |       12        |      3      |     5      |
+|  15   |        +5         |  Mystic Arcanum (level 8 spell)  |          9           |    4     |       13        |      3      |     5      |
+|  16   |        +5         |    Ability Score Improvement     |          9           |    4     |       13        |      3      |     5      |
+|  17   |        +6         |  Mystic Arcanum (level 9 spell)  |          9           |    4     |       14        |      4      |     5      |
+|  18   |        +6         |                -                 |          10          |    4     |       14        |      4      |     5      |
+|  19   |        +6         |            Epic Boon             |          10          |    4     |       15        |      4      |     5      |
+|  20   |        +6         |         Eldritch Master          |          10          |    4     |       15        |      4      |     5      |
 
 #### Level 1: Eldritch Invocations
 You have unearthed [[#E. Eldritch Invocation Options|Eldritch Invocations]], pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class's description.
@@ -269,20 +269,20 @@ This section presents the Warlock spell list. The spells are organized by spell 
 #### Cantrips (Level 0 Warlock Spells)
 
 
-| Spell | School | Special |
-| --- | --- | :---: |
-| _Blade Ward_ | Abjuration | C |
-| _Chill Touch_ | Necromancy | - |
-| _Eldritch Blast_ | Evocation | - |
-| _Friends_ | Enchantment | C |
-| _Mage Hand_ | Conjuration | - |
-| _Mind Sliver_ | Enchantment | - |
-| _Minor Illusion_ | Illusion | - |
-| _Poison Spray_ | Necromancy | - |
-| _Prestidigitation_ | Transmutation | - |
-| _Thunder Clap_ | Evocation | - |
-| _Toll of the Dead_ | Necromancy | - |
-| _True Strike_ | Divination | - |
+| Spell              | School        | Special |
+| ------------------ | ------------- | :-----: |
+| _Blade Ward_       | Abjuration    |    C    |
+| _Chill Touch_      | Necromancy    |    -    |
+| _Eldritch Blast_   | Evocation     |    -    |
+| _Friends_          | Enchantment   |    C    |
+| _Mage Hand_        | Conjuration   |    -    |
+| _Mind Sliver_      | Enchantment   |    -    |
+| _Minor Illusion_   | Illusion      |    -    |
+| _Poison Spray_     | Necromancy    |    -    |
+| _Prestidigitation_ | Transmutation |    -    |
+| _Thunder Clap_     | Evocation     |    -    |
+| _Toll of the Dead_ | Necromancy    |    -    |
+| _True Strike_      | Divination    |    -    |
 
 #### Level 1 Warlock Spells
 
