@@ -1,8 +1,8 @@
 ---
-last_updated: 2025-05-29T20:46:11
+last_updated: 2025-05-30T05:42:04
 type: "Archfey Patron Entity" # Or "Lesser Deity", "Archfey"
 name: "[Placeholder_Tolkien-esque_Female_Name]" # e.g., Lúthien's Echo, Starflower Queen, etc.
-aliases: ["[Nickname/Title 1]", "[Nickname/Title 2]"] # e.g., The Mourning Lady, Therandril's Light
+aliases: ["The Weaver of Whispering Green", "[Nickname/Title 2]"] # e.g., The Mourning Lady, Therandril's Light
 status: active # (Though perhaps grieving/diminished)
 origin_plane: "Feywild"
 gender: "Female"
