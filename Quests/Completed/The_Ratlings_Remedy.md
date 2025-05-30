@@ -1,5 +1,5 @@
 ---´
-last_updated: 2025-05-30T04:39:27
+last_updated: 2025-05-30T04:58:18
 dream_mission: false
 type: "Quest"
 name: "The Ratlings' Remedy"

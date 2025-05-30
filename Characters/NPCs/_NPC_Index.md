@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T18:50:13
+last_updated: 2025-05-30T04:58:47
 index_type: "NPC Overview"
 campaign_name: "Vaelin's Campaign"
 tags: ["#npc_index", "#character_overview", "#index_file", "#campaign_data", "#character_list", "#allies", "#enemies", "#contacts"]

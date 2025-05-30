@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T04:45:00
+last_updated: 2025-05-30T04:58:29
 type: "NPC"
 name: "Grol"
 aliases: []

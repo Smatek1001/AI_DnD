@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:54:03
+last_updated: 2025-05-30T04:58:51
 index_type: "Location Overview"
 campaign_name: "Vaelin's Campaign"
 tags: ["#location_index", "#location_overview", "#map", "#index_file", "#campaign_data", "#duskhaven_districts"] # (NEW/ENHANCED)
