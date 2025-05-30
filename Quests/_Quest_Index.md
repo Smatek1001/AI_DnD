@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T04:58:21
+last_updated: 2025-05-30T06:51:52
 index_type: Quest Overview
 campaign_name: Vaelin's Campaign
 tags:

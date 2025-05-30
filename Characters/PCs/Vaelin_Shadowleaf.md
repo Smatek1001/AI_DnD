@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T05:55:33
+last_updated: 2025-05-30T06:52:05
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -9,7 +9,7 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 1
-xp: 175
+xp: 200
 status: active
 current_hp: 8
 max_hp: 8
@@ -102,6 +102,7 @@ employer: "[[Factions/The_Society]]"
 - The Faceless Art - book looted from [[Characters/NPCs/Silas_Inkfinger|Silas]]
 	- subject: disguise and deception
 - [[Items/Bone_and_Silver_Stylus|Bone and Silver Stylus]]
+- Acquired an additional crowbar from the Old Fishery incident. - gave to Finch
 
 ### Gold/Currency:
 * 15 gp
