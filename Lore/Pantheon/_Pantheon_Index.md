@@ -18,7 +18,7 @@ This document serves as an index for all known deities, religions, and significa
 
 | Religion/Cult Name | Primary Deity/Focus | Influence |
 |---|---|---|
-| (No religions/cults yet, besides [[Factions/The_Cult\|The Cult]]) | | |
+| [[Factions/The_Cult\|The Cult]]) | [[Lore/Cosmology/The_Nameless_Void\|The_Nameless_Void]] | |
 
 ---
 **Note to DM (AI):** This index will help track the divine and spiritual aspects of the world. Remember to create individual files for deities or significant religious orders as they become relevant.
