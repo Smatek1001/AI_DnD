@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:54:04
+last_updated: 2025-05-30T05:40:01
 type: Location
 name: Abandoned Bakery Attic
 aliases:
@@ -37,7 +37,7 @@ tags:
 * **Status:** active
 * **Population:** Sparse (primarily used by [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] and [[Characters/NPCs/Finch|Finch]])
 * **Atmosphere/Vibe:** Secretive, grimy, yet surprisingly functional and secure. A sense of cautious calm pervades, a small sanctuary in a dangerous city.
-* **Key Features:** Hidden entrances, intricate security measures, and a subtly maintained interior despite its derelict exterior.
+* **Key Features:** Hidden entrances, intricate security measures, and a subtly maintained interior despite its derelict exterior. [[Characters/NPCs/Finch|Finch]]'s regular, unseen presence is a unique aspect of the hideout; she comes and goes as she pleases, occasionally leaving behind small trinkets and helping herself to any stashed sweets.
 
 ## II. Governance & Power
 * **Ruler/Authority:** N/A (Personal hideout)
@@ -70,7 +70,7 @@ Nestled above a derelict bakery in [[Locations/Duskhaven|Duskhaven]]’s [[Locat
     * **Bakery Interior:** Concealed behind debris and moldy sacks, with a dead animal stench (Perception DC 20 to detect, disadvantage on Investigation), exits through a boarded-up window.
     * **Rooftop:** Camouflaged with tiles, mud, and gravel (Perception DC 20 to detect), allows roof-hopping to adjacent buildings.
 * **Ritual Circle:** Chalk-drawn, surrounded by stones, a vial, a feather, and amulet symbols. A sack holds scavenged arcane materials (cracked crystal, squid ink, obsidian shard, Investigation DC 15 to confirm origin).
-* **[[Characters/NPCs/Finch|Finch]]’s Access:** [[Characters/NPCs/Finch|Finch]] enters/leaves undetected, bypassing traps. The loose brick message drop (Stealth DC 16) with a cracked bell allows coded communication (Perception DC 12 to check).
+* **[[Characters/NPCs/Finch|Finch]]’s Access:** [[Characters/NPCs/Finch|Finch]] possesses a unique, almost supernatural ability to access the hideout. She is the only individual besides [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] who knows its precise location. She can always enter and leave completely unseen and unheard, automatically bypassing any and all locks, alarms, or traps (both mundane and magical) without requiring any die rolls or checks. She might still use the loose brick message drop for coded communication if Vaelin is present and she doesn't wish to disturb him directly.
 * **Ratlings’ Security:** [[Factions/Ratlings|Ratlings]] patrol the [[Locations/Shadow_Quarter|Shadow Quarter]], [[Locations/Docks|Docks]], and [[Locations/Market_Square|Market_Square]], leaving chalk marks (Perception DC 12) to warn of strangers, granting Investigation advantage.
 * **Comfort and Functionality:** A tattered rug, stolen books, and a small iron pot add warmth. Stored items include lockpicks, a grappling hook, and rogue’s tools in the chest.
 * **Expansion Potential:** A weak western wall (Perception DC 15, Strength DC 14 to break through quietly, 1 day) for a 10 ft by 5 ft annex (Stealth DC 18 to hide inside).

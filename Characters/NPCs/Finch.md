@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T18:24:26
+last_updated: 2025-05-30T05:37:50
 type: NPC
 name: Finch
 aliases: []
@@ -49,7 +49,7 @@ Finch is a short and scrawny 14-year-old human girl. Her tangled brown hair and 
 
 ## III. Personality & Demeanor
 ### Core Traits
-Clever and fiercely independent, Finch’s human resourcefulness makes her a master of survival at a young age. She trusts [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] implicitly, viewing his attic hideout as hers, and her loyalty ensures she’ll never betray him.
+Clever and fiercely independent, Finch’s human resourcefulness makes her a master of survival at a young age. She trusts [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] implicitly, viewing his attic hideout as hers, and her loyalty ensures she’ll never betray him. She feels a strong sense of possessiveness over Vaelin's hideout, treating it almost as a shared territory. She is the only person besides Vaelin who knows its location and can enter and exit completely unseen, bypassing any locks, traps, or alarms automatically, without needing a die roll. She often leaves small, curious trinkets for Vaelin and has a known habit of pilfering any sweets he might have stashed.
 ### Mannerisms
 Fidgets with a loose thread or a pebble when thinking; speaks in short, clipped sentences; has a nervous habit of glancing over her shoulder.
 ### Ideal & Flaw
@@ -57,7 +57,7 @@ Fidgets with a loose thread or a pebble when thinking; speaks in short, clipped 
 **Flaw:** "Her loyalty to her gang can sometimes blind her to larger threats or opportunities. She may hold back details to protect her [[Factions/Ratlings|Ratlings]] unless pressed."
 
 ## IV. Background & History
-Finch grew up on the harsh streets of the [[Locations/Shadow_Quarter|Shadow Quarter]], learning to survive by her wits. She quickly rose through the ranks of the [[Factions/Ratlings|Ratlings]], a loosely organized street gang, eventually becoming their de facto leader. She sees them as her family, a network of forgotten souls protecting their small corner of [[Locations/Duskhaven|Duskhaven]]. She respects [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], viewing him as a more skilled, perhaps more dangerous, older brother who understands the necessity of operating in the shadows. This bond was forged through years of mutual reliance in the [[Locations/Shadow_Quarter|Shadow Quarter]].
+Finch grew up on the harsh streets of the [[Locations/Shadow_Quarter|Shadow Quarter]], learning to survive by her wits. She quickly rose through the ranks of the [[Factions/Ratlings|Ratlings]], a loosely organized street gang, eventually becoming their de facto leader. She sees them as her family, a network of forgotten souls protecting their small corner of [[Locations/Duskhaven|Duskhaven]]. She respects [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], viewing him as a more skilled, perhaps more dangerous, older brother who understands the necessity of operating in the shadows. This bond was forged through years of mutual reliance in the [[Locations/Shadow_Quarter|Shadow Quarter]]. Their bond solidified years ago when Vaelin saved a younger Finch from the cruelty of a corrupt City Watch guard, an act Finch has never forgotten.
 
 ## V. Goals & Motivations
 ### Short-term Goals
