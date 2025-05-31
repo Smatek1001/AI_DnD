@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T06:52:05
+last_updated: 2025-05-30T19:48:41
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -9,10 +9,10 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 1
-xp: 200
+xp: 300
 status: active
-current_hp: 8
-max_hp: 8
+current_hp: 16
+max_hp: 16
 temp_hp: 0
 armor_class: 14
 passive_perception: 11
@@ -24,12 +24,12 @@ class1_subclass: ""
 class1_spellcasting_ability: ""
 class1_spell_save_dc: 0
 class1_spell_attack_bonus: 0
-class2_name: 
-class2_level: 0
+class2_name: Warlock
+class2_level: 1
 class2_subclass: 
 class2_spellcasting_ability: 
-class2_spell_save_dc: 0
-class2_spell_attack_bonus: 0
+class2_spell_save_dc: 11
+class2_spell_attack_bonus: 3
 employer: "[[Factions/The_Society]]"
 ---
 
