@@ -10,7 +10,6 @@ tags:
   - "#navigation"
   - "#core_files"
   - "#campaign_structure"
-github_raw_url: https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/00_Campaign_Index.md
 ---
 # Vaelin's Campaign - Campaign Index
 

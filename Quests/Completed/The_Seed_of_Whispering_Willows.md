@@ -1,5 +1,6 @@
 ---
 last_updated: 2025-05-31T10:11:54
+github_raw_url: 
 dream_mission: false
 type: Quest
 name: The Seed of Whispering Willows
@@ -16,7 +17,6 @@ tags:
   - "#heist"
   - "#fey"
   - "#retrieval"
-github_raw_url:
 ---
 # Quest: The Seed of Whispering Willows
 
