@@ -38,7 +38,7 @@ At the dawn of Campaign Day 4, within the sacred grove of Sylvandell's Mirror, [
 
 As a result of the pact, [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] gained 100 XP, advancing to Character Level 2 (Rogue 1 / Warlock 1). [[Lore/Pantheon/Caladwen|Caladwen]] became his Archfey Patron. As a first gift, she dispatched [[Characters/NPCs/Lirael|Lirael]], a [[Bestiary/Flickerling|Flickerling]], to serve as his Pact of the Chain familiar (Invocation gained at Warlock Level 1 per 2024 Warlock rules being used).
 
-[[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] chose _Mage Hand_ (Legerdemain version) and _Minor Illusion_ as his Warlock cantrips. His High Elf racial cantrip for the day is _Prestidigitation_ (using Intelligence). He deferred choosing his two 1st-level Warlock spells.
+[[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] chose [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications|_Mage Hand_ (Legerdemain version)]] and _Minor Illusion_ as his Warlock cantrips. His High Elf racial cantrip for the day is _Prestidigitation_ (using Intelligence). He deferred choosing his two 1st-level Warlock spells.
 
 The session concluded with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s initial interaction with [[Characters/NPCs/Lirael|Lirael]], stating his overarching goal to find "the secret of how to get back home."
 
@@ -57,9 +57,9 @@ The session concluded with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s initial
     * **New Class Features Gained (Warlock 1):**
         * Otherworldly Patron: [[Lore/Pantheon/Caladwen|Caladwen]] (Archfey)
         * Pact Magic: 1 first-level spell slot (regains on short/long rest). Spellcasting Ability: Charisma. Spell Save DC: 11. Spell Attack Bonus: +3.
-        * Eldritch Invocations: Pact of the Chain (Lirael, [[Bestiary/Flickerling|Flickerling]] familiar).
+        * Eldritch Invocations: Pact of the Chain ([[Characters/NPCs/Lirael|Lirael]], [[Bestiary/Flickerling|Flickerling]] familiar).
     * **New Spells Learned/Prepared:**
-        * Warlock Cantrips Known: _Mage Hand_ (Legerdemain), _Minor Illusion_.
+        * Warlock Cantrips Known: [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications|_Mage Hand_ (Legerdemain version)]], _Minor Illusion_.
         * Warlock 1st-Level Spells Prepared (2 total): Choices deferred.
     * **Updated Racial Cantrip:** _Prestidigitation_ (High Elf, uses Intelligence).
 

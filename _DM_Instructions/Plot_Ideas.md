@@ -24,7 +24,7 @@ This document is a collection of unassigned ideas, potential plot hooks, intrigu
 * (New factions or organizations ideas. e.g., "A secret society of elementalists emerges.")
 
 ## III. Item/Artifact Ideas
-* (Concepts for new magic [[Items/_Item_Index|Items]], ancient artifacts, or cursed objects. e.g., "A sentient weapon that tries to control its wielder.")
+* Vaelin's silver leaf amulet is actually an Amulet of Proof Against Detection and Location. It just needs to be activated as a result of a mission.
 
 ## IV. NPC Concepts (unassigned)
 * Other survivors of [[Locations/Therandril|Therandril]]
