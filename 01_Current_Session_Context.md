@@ -1,25 +1,25 @@
 ---
-last_updated: 2025-05-30T06:52:02
+last_updated: 2025-05-30T23:18:15
 campaign_name: "Vaelin's Campaign"
-current_in_game_date: "Campaign Day 3, Midday"
-days_passed_since_campaign_start: 2 # Day 2 has concluded, Day 3 is beginning
-last_session_summary: "Vaelin completed 'The Ratlings' Remedy' quest (Day 2), retrieving their medicine box by outwitting Miri's crew. He then studied the Cipher of Whispers further, learning how to identify locations with a thin veil and practicing a meditative technique. After a long rest, on the morning of Day 3, he decided on his Archfey offering and now plans to visit Elaris for guidance on finding a ritual site."
-current_pc_status: "Healthy (8/8 HP), rested after long rest. XP: 200. Bone and Silver Stylus advantage available. Preparing to visit Elaris."
-current_party_location: "[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]" # About to depart for the Shaded Lantern
-active_quests: []
+current_in_game_date: "Campaign Day 4, Early Morning (Post-Dawn)"
+days_passed_since_campaign_start: 3
+last_session_summary: "Vaelin forged a pact with the Archfey Caladwen at Sylvandell's Mirror, advancing to Rogue 1/Warlock 1. Caladwen revealed her past connection to Vaelin and Therandril. Lirael, a Flickerling, manifested as his Pact of the Chain familiar. Vaelin chose Warlock cantrips but deferred 1st-level spell choices. He told Lirael his goal is to find the secret of returning 'home' (Therandril)."
+current_pc_status: "Rogue 1/Warlock 1. HP: 16/16. XP: 300. Warlock Spell Slots: 1 (1st lvl), unexpended. Cantrips: Prestidigitation (Int), Mage Hand (Legerdemain - Cha), Minor Illusion (Cha). 1st Lvl Warlock Spells Known: 0/2 (choices pending). Familiar: Lirael. Bone & Silver Stylus advantage expended."
+current_party_location: "[[Locations/Sylvandell's_Mirror|Sylvandell's Mirror]]"
+active_quests: [] # No formal quests currently assigned.
 notable_npcs_nearby:
-  - "[[Characters/NPCs/Finch|Finch]] (has access to hideout, though not currently present)"
+  - "[[Characters/NPCs/Lirael|Lirael]] (with Vaelin)"
+  - "[[Lore/Pantheon/Caladwen|Caladwen]] (presence/connection)"
 key_plot_points_pending:
-  - "Visit [[Characters/NPCs/Elaris|Elaris]] at the [[Locations/Shaded_Lantern|Shaded Lantern]] to ask about suitable ritual locations."
-  - "Find an 'ancient, undisturbed natural location' outside [[Locations/Duskhaven|Duskhaven]] for the 'Call of the Threshold' ritual."
-  - "Prepare and perform the 'Call of the Threshold' ritual at the next dawn (Day 4) to contact 'The Weaver of Whispering Green'."
-  - "Uncovering the true nature of [[Factions/The_Society|The Society]]'s agenda."
-  - "Investigating the connection between [[Locations/Duskhaven|Duskhaven]]'s dark history and the fall of [[Locations/Therandril|Therandril]]."
-  - "Future confrontation with [[Characters/NPCs/Magpie_Miri|Miri]], [[Characters/NPCs/Grol|Grol]], and [[Characters/NPCs/Pip|Pip]]."
+  - "Vaelin needs to choose his two 1st-level Warlock spells."
+  - "Decide on immediate next actions with Lirael regarding the goal to find 'home' (Therandril)."
+  - "Investigate Caladwen's assertion about The Society's role in Therandril's fall."
+  - "Explore the meaning and purpose of his runic tattoo, now linked to Caladwen."
+  - "Plan next steps for seeking knowledge of Therandril, answers to its fall, and vengeance."
 tags:
   - "#context"
   - "#current_status"
-  - "#campaign_day_3"
+  - "#campaign_day_4"
   - "#next_session_start"
 ---
 
@@ -27,37 +27,37 @@ tags:
 
 ## I. Current In-Game Time & Location
 
-* **Current In-Game Date:** Campaign Day 3, Midday
-* **Days Passed Since Campaign Start:** 2 full days have concluded; Day 3 has begun.
-* **Current Party Location:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] is in his [[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]] in the [[Locations/Shadow_Quarter|Shadow Quarter]]. He has just completed a long rest and a period of study.
-* **Brief Description of Location:** The hideout is quiet. Midday light filters dimly. Vaelin is about to depart for the [[Locations/Shaded_Lantern|Shaded Lantern]].
+* **Current In-Game Date:** Campaign Day 4, Early Morning (Post-Dawn)
+* **Days Passed Since Campaign Start:** 3 full days have concluded; Day 4 has begun.
+* **Current Party Location:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] and [[Characters/NPCs/Lirael|Lirael]] are at [[Locations/Sylvandell's_Mirror|Sylvandell's Mirror]], a sacred fey grove in the ancient northwestern woods [[Locations/Beyond_Duskhaven|Beyond Duskhaven]].
+* **Brief Description of Location:** The grove is bathed in the fresh light of dawn. The pact with Caladwen is newly forged, and Lirael has just manifested. The air is charged with fey magic.
 
-## II. Last Session Recap (Events of Campaign Day 2 and morning of Day 3)
+## II. Last Session Recap
 
-* **Last Session Summary:** The session covered [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s successful completion of "[[Quests/Completed/The_Ratlings_Remedy|The Ratlings' Remedy]]" quest on Campaign Day 2, which involved retrieving a stolen medicine box for [[Characters/NPCs/Finch|Finch]] by outwitting [[Characters/NPCs/Magpie_Miri|Magpie Miri]]'s crew in the [[Locations/Old_Fishery|Old Fishery]] using stealth and illusion. He also acquired a crowbar (which was then given to Finch). Afterwards, [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] studied the *Cipher of Whispers* with his [[Items/Bone_and_Silver_Stylus|Bone and Silver Stylus]], gaining key insights into how to find locations where the veil between worlds is thin and practicing a meditative technique to enhance his senses. Campaign Day 3 began with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] completing a long rest. He decided on his illusionary offering for "The Weaver of Whispering Green" and his immediate next step is to visit [[Characters/NPCs/Elaris|Elaris]].
-* **PC Status at End of Session:** Healthy (8/8 HP), all resources refreshed from long rest. XP: 200. The Bone and Silver Stylus's advantage is available again.
+* **Last Session Summary:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] successfully performed the "Call of the Threshold" ritual, forging a pact with the Archfey [[Lore/Pantheon/Caladwen|Caladwen]]. He advanced to Rogue 1/Warlock 1. [[Lore/Pantheon/Caladwen|Caladwen]] revealed her past connection to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] and [[Locations/Therandril|Therandril]], and gifted him [[Characters/NPCs/Lirael|Lirael]] (a [[Bestiary/Flickerling|Flickerling]]) as his Pact of the Chain familiar. [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] chose Warlock cantrips but deferred his 1st-level spell selections. He expressed his goal to [[Characters/NPCs/Lirael|Lirael]] to find the secret of returning to [[Locations/Therandril|Therandril]].
+* **PC Status at Last Session End:** As detailed in the frontmatter `current_pc_status`.
 
 ## III. Active Quests & Plot Threads
 
 * **Active Quests:**
     * (None formally assigned by an NPC at this moment.)
-* **Current Personal Objectives:**
-    * Visit [[Characters/NPCs/Elaris|Elaris]] to ask for guidance on finding a ritual location.
-    * Find a suitable "ancient, undisturbed natural location" outside [[Locations/Duskhaven|Duskhaven]] where the "veil is thin."
-    * Prepare to perform the "Call of the Threshold" ritual at the next dawn (Campaign Day 4).
-* **Key Plot Points Pending:** (As listed in the frontmatter)
+* **Current Personal Objectives / Plot Threads:**
+    * Choose two 1st-level Warlock spells.
+    * Determine next steps in the quest for knowledge, answers, and vengeance related to [[Locations/Therandril|Therandril]].
+    * Investigate [[Lore/Pantheon/Caladwen|Caladwen]]'s claims about [[Factions/The_Society|The Society]]'s role in [[Locations/Therandril|Therandril]]'s fall.
+    * Understand the full meaning and purpose of his runic tattoo, now known to be bestowed by [[Lore/Pantheon/Caladwen|Caladwen]].
 
 ## IV. Notable NPCs & Factions Nearby
 
 * **Notable NPCs:**
-    * [[Characters/NPCs/Finch|Finch]] (ally, has access to the hideout, though not currently present).
-    * [[Characters/NPCs/Elaris|Elaris]] (intended next interaction at the [[Locations/Shaded_Lantern|Shaded Lantern]]).
-* **Factions Present (in Shadow Quarter):**
-    * [[Factions/Ratlings|Ratlings]] (allied).
-    * Distant influence/awareness of [[Factions/The_Society|The Society]].
+    * [[Characters/NPCs/Lirael|Lirael]] (present with Vaelin).
+    * [[Lore/Pantheon/Caladwen|Caladwen]] (Patron, strong connection established here).
+* **Factions Present:**
+    * None directly at [[Locations/Sylvandell's_Mirror|Sylvandell's Mirror]], though [[Lore/Pantheon/Caladwen|Caladwen]] represents a significant fey power.
 
 ## V. DM Notes for Next Session
 
-* The next session will begin with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] departing his hideout and traveling to the [[Locations/Shaded_Lantern|Shaded Lantern]] in the [[Locations/Veil|Veil]] district to speak with [[Characters/NPCs/Elaris|Elaris]].
-* Focus on the interaction with Elaris and the clues she might provide for finding a ritual location.
-* Prepare for Vaelin's subsequent exploration outside [[Locations/Duskhaven|Duskhaven]] to find the ritual site.
+* The immediate focus will be [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s interaction with [[Characters/NPCs/Lirael|Lirael]] and deciding his next course of action.
+* He still needs to select his two 1st-level Warlock spells.
+* Consider how [[Lore/Pantheon/Caladwen|Caladwen]] might offer further guidance or tasks, or if she expects [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] to take initiative now.
+* The journey back to [[Locations/Duskhaven|Duskhaven]] (if he chooses to return) or further into the wilderness needs to be considered.
