@@ -1,6 +1,5 @@
 ---
-last_updated: 2025-05-31T10:31:43
-github_raw_url: https://github.com/Smatek1001/AI_DnD/raw/refs/heads/main/Quests/Completed/The_Seed_of_Whispering_Willows.md
+last_updated: 2025-05-31T10:32:06
 dream_mission: false
 type: Quest
 name: The Seed of Whispering Willows
@@ -17,6 +16,7 @@ tags:
   - "#heist"
   - "#fey"
   - "#retrieval"
+github_raw_url: https://github.com/Smatek1001/AI_DnD/raw/refs/heads/main/Quests/Completed/The_Seed_of_Whispering_Willows.md
 ---
 # Quest: The Seed of Whispering Willows
 
