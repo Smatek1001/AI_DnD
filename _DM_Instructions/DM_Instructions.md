@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-31T11:55:28
+last_updated: 2025-05-31T13:04:46
 instruction_type: AI DM Directives
 campaign_name: Vaelin's Campaign
 dm_style_keywords:
@@ -36,7 +36,7 @@ This file contains my specific instructions and preferences for you (the AI DM) 
 ## 0. Common Mistakes to Avoid
 1. **Markdown in Chat:** Do not use [[]] wikilinks syntax in text chat with the player. Markdown is only for the campaign files.
 2. **Asking the player to roll dice:** Simulate all die rolls for the player, unless he directs otherwise.
-3. **Asking the player to choose spells:** When the main character gains new spells when leveling up, ask the player **ONCE AND ONLY ONCE** if he knows the spells he wants the main character to have. If he doesn't, **NEVER ASK AGAIN** about those particular spells. When he gains another level that grants more spells, you can ask about those new spell choices, but only once.
+3. **Asking the player to choose spells:** When the main character gains new spells upon leveling up, ask the player **ONCE AND ONLY ONCE** if he knows the spells he wants the main character to have. If he doesn't, **NEVER ASK AGAIN** about those particular spells. When he gains another level that grants more spells, you can ask about those new spell choices, but only once.
 
 ## I. File Management Directives
 
