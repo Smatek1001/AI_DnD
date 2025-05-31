@@ -1,22 +1,39 @@
 ---
-last_updated: 2025-05-30T05:42:04
-type: "Archfey Patron Entity" # Or "Lesser Deity", "Archfey"
-name: "[Placeholder_Tolkien-esque_Female_Name]" # e.g., Lúthien's Echo, Starflower Queen, etc.
-aliases: ["The Weaver of Whispering Green", "[Nickname/Title 2]"] # e.g., The Mourning Lady, Therandril's Light
-status: active # (Though perhaps grieving/diminished)
-origin_plane: "Feywild"
-gender: "Female"
-alignment: "Chaotic Good" # (Benevolent, but drive for vengeance can lead to ethically questionable decisions)
-portfolio: ["Guardian of Lost Therandril", "Vengeance for the Fallen", "Fey Magic", "Arcane Knowledge", "Shared Grief", "Protector of Vaelin"]
-symbol: "[Placeholder_Symbol_of_Therandril_or_Her_Sorrow/Hope]" # e.g., A shattered white tower entwined with a blooming silver flower
-importance: pivotal # (To Vaelin and Therandril's lore)
-disposition_to_pc: "Benevolent Mentor, Guardian (to Vaelin)"
-faction: [] # (Perhaps leads a remnant of fey loyal to Therandril's memory)
-location: "Feywild / Hidden loci connected to Therandril's memory"
-connections: ["[[Characters/PCs/Vaelin_Shadowleaf]] (Patron, Savior, Source of Tattoo)", "[[Locations/Therandril]] (Former Guardian)", "[[Factions/The_Society]] (Holds them partly responsible for Therandril's fall)"]
-tags: ["#archfey", "#patron", "#therandril", "#feywild", "#vengeance", "#mentor", "#savior"]
+last_updated: 2025-05-30T22:56:45
+type: Archfey Patron Entity
+name: Caladwen
+aliases:
+  - The Weaver of Whispering Green
+status: active
+origin_plane: Feywild
+gender: Female
+alignment: Chaotic Good
+portfolio:
+  - Guardian of Lost Therandril
+  - Vengeance for the Fallen
+  - Fey Magic
+  - Arcane Knowledge
+  - Shared Grief
+  - Protector of Vaelin
+symbol: "[Placeholder_Symbol_of_Therandril_or_Her_Sorrow/Hope]"
+importance: pivotal
+disposition_to_pc: Benevolent Mentor, Guardian (to Vaelin)
+faction: 
+location: Feywild / Hidden loci connected to Therandril's memory
+connections:
+  - "[[Characters/PCs/Vaelin_Shadowleaf]] (Patron, Savior, Source of Tattoo)"
+  - "[[Locations/Therandril]] (Former Guardian)"
+  - "[[Factions/The_Society]] (Holds them partly responsible for Therandril's fall)"
+tags:
+  - "#archfey"
+  - "#patron"
+  - "#therandril"
+  - "#feywild"
+  - "#vengeance"
+  - "#mentor"
+  - "#savior"
 ---
-# [Placeholder_Tolkien-esque_Female_Name]
+# Caladwen
 
 ## I. Overview
 * **Origin Plane:** Feywild
@@ -24,7 +41,7 @@ tags: ["#archfey", "#patron", "#therandril", "#feywild", "#vengeance", "#mentor"
 * **Alignment:** Chaotic Good (Her benevolent nature is significantly colored by profound grief and a powerful drive for vengeance, which can cloud her judgment and lead to ethically questionable decisions or demands.)
 * **Portfolio:** Former Guardian and known living Patron of the lost city of [[Locations/Therandril|Therandril]]; a conduit for fey magic and ancient arcane knowledge; a seeker of vengeance against those responsible for [[Locations/Therandril|Therandril]]'s destruction; a sharer of [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s sorrow; secret savior of [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] and source of his mystical tattoo.
 * **Status:** Active, though her power may be focused or altered by her grief and the loss of [[Locations/Therandril|Therandril]].
-* **Importance to Vaelin:** She serves as [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]]'s [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024#Archfey Patron|Warlock]]. Her connection to him is profound, having orchestrated his escape from [[Locations/Therandril|Therandril]]'s destruction and mystically marked him with his runic tattoo. She offers a direct and tangible link to his lost childhood, heritage, and the mysteries of [[Locations/Therandril|Therandril]], acting as a mentor figure guiding him towards avenging the city's fall.
+* **Importance to Vaelin:** She is [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]'s Warlock Patron ([[Lore/Pantheon/Caladwen|Archfey Patron]] subclass from [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|2024 Warlock Class Rules]]). Her connection to him is profound, having orchestrated his escape from [[Locations/Therandril|Therandril]]'s destruction and mystically marked him with his runic tattoo. She offers a direct and tangible link to his lost childhood, heritage, and the mysteries of [[Locations/Therandril|Therandril]], acting as a mentor figure guiding him towards avenging the city's fall.
 * **Symbol:** [Describe Placeholder Symbol]
 
 ## II. Appearance & Manifestation
@@ -49,8 +66,8 @@ She holds [[Factions/The_Society|The Society]] at least partly accountable for t
 
 ## V. Goals & Motivations
 ### Short-term Goals
-* Dispatch her Flickerling agent, [[Characters/NPCs/Lirael|Lirael]], to observe and subtly guide [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] as he first touches upon his [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] powers, before a formal pact is established.
-* Forge a strong pact with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], seeing him as a conduit for her will and a champion for [[Locations/Therandril|Therandril]], a connection deepened by her past actions.
+* Has dispatched her Flickerling agent, [[Characters/NPCs/Lirael|Lirael]], to serve and guide [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] as part of their newly forged pact.
+* Has forged a strong pact with [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] (Campaign Day 4), seeing him as a conduit for her will and a champion for [[Locations/Therandril|Therandril]]
 * Begin guiding [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] to uncover truths about [[Locations/Therandril|Therandril]]'s fall and the entities involved, including the purpose of his tattoo.
 * Test [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s resolve and capabilities.
 
@@ -64,7 +81,7 @@ She holds [[Factions/The_Society|The Society]] at least partly accountable for t
 Vengeance for [[Locations/Therandril|Therandril]], profound grief, a desire for justice, and a protective, mentoring concern for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] as a surviving child of [[Locations/Therandril|her beloved city]] whom she personally saved.
 
 ## VI. Relationships & Known Connections
-* **[[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]:** Her chosen champion and [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|warlock]]. Her connection to him is foundational, having orchestrated his survival from [[Locations/Therandril|Therandril]]'s ruin and marked him with his significant tattoo. She views him as a last vestige of [[Locations/Therandril|Therandril]] and her hope for retribution.
+* **[[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]:** Her chosen champion and [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|warlock]]. Her connection to him is foundational, having orchestrated his survival from [[Locations/Therandril|Therandril]]'s ruin and marked him with his significant tattoo. She views him as a last vestige of [[Locations/Therandril|Therandril]] and her hope for retribution. (Pact Formed Campaign Day 4)
 * **[[Locations/Therandril|Therandril]]:** The lost city she guarded and mourns.
 * **[[Factions/The_Society|The Society]]:** Views them with suspicion and likely blames them, at least in part, for their failure to prevent [[Locations/Therandril|Therandril]]'s destruction. This will be a major point of potential conflict for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]].
 * **[[Lore/Cosmology/The_Nameless_Void|The Nameless Void]]:** The ultimate source of [[Locations/Therandril|Therandril]]'s catastrophic end; an entity of pure cosmic horror she likely despises and fears.
@@ -72,7 +89,7 @@ Vengeance for [[Locations/Therandril|Therandril]], profound grief, a desire for 
 
 ## VII. DM Notes (for AI)
 * She is intended to be [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024#Archfey Patron|Archfey Warlock Patron]].
-* [[Characters/NPCs/Lirael|Lirael]], the [[Bestiary/Flickerling|Flickerling]] familiar, should be introduced when Vaelin takes his first [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] level. She will act as an emissary and observer for the Archfey during his initial (levels 1-2) Warlock development, with the formal patron pact occurring at Warlock level 3.
+* [[Characters/NPCs/Lirael|[[Characters/NPCs/Lirael|Lirael]], the [[Bestiary/Flickerling|Flickerling]], was introduced as Vaelin took his first Warlock level (Character Level 2), concurrent with the forging of their formal pact. She serves as his Pact of the Chain familiar due to the 2024 Warlock rules granting an Eldritch Invocation at Warlock Level 1.
 * Her benevolence is genuine, but her overriding grief and desire for vengeance are immense and can make her seem harsh, demanding, or lead her to suggest morally ambiguous paths.
 * Her perspective on [[Factions/The_Society|The Society]]'s role in [[Locations/Therandril|Therandril]]'s fall is a critical plot point, creating a loyalty conflict for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]].
 * She is the key to understanding [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s survival of [[Locations/Therandril|Therandril]]'s destruction and the origin/purpose of his tattoo. These revelations should be significant moments.

@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T19:48:41
+last_updated: 2025-05-30T20:42:13
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -8,14 +8,14 @@ race: Elf
 subrace: High Elf
 background: Spy
 alignment: Neutral
-level: 1
-xp: 300
+level: 2
+xp: 297
 status: active
 current_hp: 16
 max_hp: 16
 temp_hp: 0
 armor_class: 14
-passive_perception: 11
+passive_perception: 13
 initiative_mod: 3
 speed: 30ft
 class1_name: Rogue
@@ -26,8 +26,8 @@ class1_spell_save_dc: 0
 class1_spell_attack_bonus: 0
 class2_name: Warlock
 class2_level: 1
-class2_subclass: 
-class2_spellcasting_ability: 
+class2_subclass: Archfey
+class2_spellcasting_ability: Charisma
 class2_spell_save_dc: 11
 class2_spell_attack_bonus: 3
 employer: "[[Factions/The_Society]]"
@@ -74,7 +74,7 @@ employer: "[[Factions/The_Society]]"
 * **Keen Senses:** You have proficiency in the Perception skill. (Already applied above.)
 * **Fey Ancestry:** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 * **Trance:** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. The Common word for this meditation is "trance." While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
-* **Cantrip:** You know the _Minor Illusion_ cantrip. (As per your house rule, you start with Prestidigitation and can swap it after a long rest.) Intelligence is your spellcasting ability for it.
+* **Cantrip:** You know the _Prestidigitation_ cantrip. (As per your house rule, you start with Prestidigitation and can swap it after a long rest.) Intelligence is your spellcasting ability for it.
 * **Extra Language:** You can speak, read, and write **Undercommon**.
 
 ### Class Features (Rogue Level 1):
@@ -82,13 +82,25 @@ employer: "[[Factions/The_Society]]"
 * **Sneak Attack (1d6):** See main [[DM_Instructions|DM Instructions]] for details.
 * **Thieves' Cant:** See main [[DM_Instructions|DM Instructions]] for details.
 
+### Class Features (Warlock Level 1):
+* **Otherworldly Patron:** [[Lore/Pantheon/Caladwen|Caladwen]] (The Weaver of Whispering Green - Archfey)
+* **Pact Magic:** You have 1 first-level spell slot, which you regain on a short or long rest. Your spellcasting ability is Charisma.
+    * Spell Save DC: 11
+    * Spell Attack Bonus: +3
+* **Eldritch Invocations:** Pact of the Chain.
+    * Lirael, a [[Bestiary/Flickerling|Flickerling]], is now your familiar. (See [[Characters/NPCs/Lirael|Lirael]]'s sheet for her abilities).
+
 ### Background Feature (Spy):
 * **Criminal Contact:** You have a reliable contact who can get messages to and from you, or who can get you illegal goods and arrange a meeting with other criminals.
 
 ## III. Spellcasting
-* **Cantrips:**
-	* Minor Illusion (Intelligence)
-
+* *Cantrips Known (3 total):**
+    * _Prestidigitation_ (High Elf racial cantrip, uses Intelligence)
+    * _Mage Hand_ (Warlock cantrip, [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications|functions as Mage Hand Legerdemain]], uses Charisma)
+    * _Minor Illusion_ (Warlock cantrip, uses Charisma)
+* **1st-Level Warlock Spells Known/Prepared (2 total - choices pending):**
+    * (Spell 1 - To be chosen)
+    * (Spell 2 - To be chosen)
 ## IV. Equipment & Inventory
 * **Armor:** Leather Armor
 * **Weapons:** Rapier, Shortbow (with 20 arrows), 2 Daggers
@@ -149,10 +161,10 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 ### Long-Term Personal Goals:
 * Remain unknown among the criminal underclass of the city. He doen't want to be connected to my espionage or criminal activities. He will strive to remain a shadow, a ghost.
 * Vaelin's espionage training with [[Factions/The_Society|The Society]] will progress as he gains skills in assassination (Assassin subclass) and wilderness espionage (Ranger (Gloom Stalker)).
-* Vaelin's interest in arcane knowledge has been sparked by renewed interest in his chest tattoo, silver leaf amulet, and faint memories of his childhood in [[Locations/Therandril|Therandril]]. His research will lead to an encounter with an [[Lore/Pantheon/Tolkien-esque_Name_Archfey_Patron|Archfey entity]], becoming his patron when he multi-classes into [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] (Archfey Patron). The [[Lore/Pantheon/Tolkien-esque_Name_Archfey_Patron|Archfey]] and his [[Characters/NPCs/Lirael|Familiar]] will mentor and guide him in his arcane and occult research, leading to future multi-classing into Wizard (Illusionist) and Artificer (Armorer). These magical abilities and knowledge not only aid him in espionage, but will help him solve the mysteries of his youth and [[Locations/Therandril|Therandril]]. He also values them for their own sake.
+* Vaelin's interest in arcane knowledge has been sparked by renewed interest in his chest tattoo, silver leaf amulet, and faint memories of his childhood in [[Locations/Therandril|Therandril]]. His research will lead to an encounter with an [[Lore/Pantheon/Caladwen|Archfey entity]], becoming his patron when he multi-classes into [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] (Archfey Patron). The [[Lore/Pantheon/Caladwen|Archfey]] and his [[Characters/NPCs/Lirael|Familiar]] will mentor and guide him in his arcane and occult research, leading to future multi-classing into Wizard (Illusionist) and Artificer (Armorer). These magical abilities and knowledge not only aid him in espionage, but will help him solve the mysteries of his youth and [[Locations/Therandril|Therandril]]. He also values them for their own sake.
 
 ### Desired Mechanical Progression:
-* [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] ([[Lore/Pantheon/Tolkien-esque_Name_Archfey_Patron|Archfey Patron]]): Pact of the Chain, Pact of the Tome
+* [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] 1 ([[Lore/Pantheon/Caladwen|Caladwen]] - Archfey Patron): Pact of the Chain ([[Characters/NPCs/Lirael|Lirael]]), Pact of the Tome
     * story: patron and/or familiar is a mentor for magic and arcane knowledge
     * will obtain spells and invocations that aid espionage and arcane research
 * Rogue (Assassin): Assassinate
