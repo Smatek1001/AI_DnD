@@ -1,25 +1,25 @@
 ---
-last_updated: 2025-05-30T23:18:15
+last_updated: 2025-05-31T10:15:50
 campaign_name: "Vaelin's Campaign"
-current_in_game_date: "Campaign Day 4, Early Morning (Post-Dawn)"
-days_passed_since_campaign_start: 3
-last_session_summary: "Vaelin forged a pact with the Archfey Caladwen at Sylvandell's Mirror, advancing to Rogue 1/Warlock 1. Caladwen revealed her past connection to Vaelin and Therandril. Lirael, a Flickerling, manifested as his Pact of the Chain familiar. Vaelin chose Warlock cantrips but deferred 1st-level spell choices. He told Lirael his goal is to find the secret of returning 'home' (Therandril)."
-current_pc_status: "Rogue 1/Warlock 1. HP: 16/16. XP: 300. Warlock Spell Slots: 1 (1st lvl), unexpended. Cantrips: Prestidigitation (Int), Mage Hand (Legerdemain - Cha), Minor Illusion (Cha). 1st Lvl Warlock Spells Known: 0/2 (choices pending). Familiar: Lirael. Bone & Silver Stylus advantage expended."
-current_party_location: "[[Locations/Sylvandell's_Mirror|Sylvandell's Mirror]]"
+current_in_game_date: "Campaign Day 5, Early Morning (Post-Trance)"
+days_passed_since_campaign_start: 4
+last_session_summary: "Vaelin and Lirael successfully retrieved the Seed of Whispering Willows from Elmsworth's cottage. Vaelin decided to keep the Seed. They returned to the hideout, where Vaelin prepared disguise components, gifted Lirael a shiny button, studied 'The Faceless Art,' and then completed his elven trance, ending Campaign Day 4."
+current_pc_status: "Rogue 1/Warlock 1 (Lvl 2). HP: 16/16. XP: 375. Warlock Spell Slots: 1/1 (1st lvl). Cantrips: Prestidigitation (Int), Mage Hand (Legerdemain - Cha), Minor Illusion (Cha). 1st Lvl Warlock Spells Known: 0/2 (choices pending). Familiar: Lirael. Item: Seed of Whispering Willows (2/2 uses for Whisper's Carry). Disguise components prepared."
+current_party_location: "[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]"
 active_quests: [] # No formal quests currently assigned.
 notable_npcs_nearby:
-  - "[[Characters/NPCs/Lirael|Lirael]] (with Vaelin)"
-  - "[[Lore/Pantheon/Caladwen|Caladwen]] (presence/connection)"
+  - "[[Characters/NPCs/Lirael|Lirael]] (with Vaelin in hideout)"
 key_plot_points_pending:
   - "Vaelin needs to choose his two 1st-level Warlock spells."
-  - "Decide on immediate next actions with Lirael regarding the goal to find 'home' (Therandril)."
+  - "Decide on next actions/goals for Campaign Day 5."
   - "Investigate Caladwen's assertion about The Society's role in Therandril's fall."
-  - "Explore the meaning and purpose of his runic tattoo, now linked to Caladwen."
+  - "Explore the meaning and purpose of his runic tattoo."
   - "Plan next steps for seeking knowledge of Therandril, answers to its fall, and vengeance."
+  - "Utilize newly prepared disguises and insights from 'The Faceless Art'."
 tags:
   - "#context"
   - "#current_status"
-  - "#campaign_day_4"
+  - "#campaign_day_5"
   - "#next_session_start"
 ---
 
@@ -27,14 +27,14 @@ tags:
 
 ## I. Current In-Game Time & Location
 
-* **Current In-Game Date:** Campaign Day 4, Early Morning (Post-Dawn)
-* **Days Passed Since Campaign Start:** 3 full days have concluded; Day 4 has begun.
-* **Current Party Location:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] and [[Characters/NPCs/Lirael|Lirael]] are at [[Locations/Sylvandell's_Mirror|Sylvandell's Mirror]], a sacred fey grove in the ancient northwestern woods [[Locations/Beyond_Duskhaven|Beyond Duskhaven]].
-* **Brief Description of Location:** The grove is bathed in the fresh light of dawn. The pact with Caladwen is newly forged, and Lirael has just manifested. The air is charged with fey magic.
+* **Current In-Game Date:** Campaign Day 5, Early Morning (Post-Trance)
+* **Days Passed Since Campaign Start:** 4 full days have concluded; Day 5 has begun.
+* **Current Party Location:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] and [[Characters/NPCs/Lirael|Lirael]] are in the [[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]] in the [[Locations/Shadow_Quarter|Shadow Quarter]] of [[Locations/Duskhaven|Duskhaven]].
+* **Brief Description of Location:** The familiar, dusty, and secure confines of Vaelin's hideout. Early morning light filters through the grimy skylight.
 
 ## II. Last Session Recap
 
-* **Last Session Summary:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] successfully performed the "Call of the Threshold" ritual, forging a pact with the Archfey [[Lore/Pantheon/Caladwen|Caladwen]]. He advanced to Rogue 1/Warlock 1. [[Lore/Pantheon/Caladwen|Caladwen]] revealed her past connection to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] and [[Locations/Therandril|Therandril]], and gifted him [[Characters/NPCs/Lirael|Lirael]] (a [[Bestiary/Flickerling|Flickerling]]) as his Pact of the Chain familiar. [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] chose Warlock cantrips but deferred his 1st-level spell selections. He expressed his goal to [[Characters/NPCs/Lirael|Lirael]] to find the secret of returning to [[Locations/Therandril|Therandril]].
+* **Last Session Summary:** Vaelin, with Lirael, successfully retrieved the Seed of Whispering Willows from Elmsworth's cottage using stealth and magic. He chose to keep the Seed. They returned to the hideout in Duskhaven. Vaelin then spent the evening preparing components for three "grey man" disguises, gifted Lirael a shined brass button, and studied "The Faceless Art" for deeper insights into deception. He then completed his elven trance, marking the end of Campaign Day 4.
 * **PC Status at Last Session End:** As detailed in the frontmatter `current_pc_status`.
 
 ## III. Active Quests & Plot Threads
@@ -45,19 +45,21 @@ tags:
     * Choose two 1st-level Warlock spells.
     * Determine next steps in the quest for knowledge, answers, and vengeance related to [[Locations/Therandril|Therandril]].
     * Investigate [[Lore/Pantheon/Caladwen|Caladwen]]'s claims about [[Factions/The_Society|The Society]]'s role in [[Locations/Therandril|Therandril]]'s fall.
-    * Understand the full meaning and purpose of his runic tattoo, now known to be bestowed by [[Lore/Pantheon/Caladwen|Caladwen]].
+    * Understand the full meaning and purpose of his runic tattoo.
+    * Plan how to utilize his newly prepared disguise components and the knowledge from "The Faceless Art".
 
 ## IV. Notable NPCs & Factions Nearby
 
 * **Notable NPCs:**
     * [[Characters/NPCs/Lirael|Lirael]] (present with Vaelin).
-    * [[Lore/Pantheon/Caladwen|Caladwen]] (Patron, strong connection established here).
-* **Factions Present:**
-    * None directly at [[Locations/Sylvandell's_Mirror|Sylvandell's Mirror]], though [[Lore/Pantheon/Caladwen|Caladwen]] represents a significant fey power.
+* **Factions Present (in Duskhaven, generally):**
+    * [[Factions/The_Society|The Society]] (Vaelin's employer)
+    * [[Factions/Ratlings|Ratlings]] (allies in the Shadow Quarter)
+    * [[Factions/Nightshade_Guild|Nightshade Guild]], [[Factions/Harbor_Syndicate|Harbor Syndicate]], [[Factions/Ebon_Web_Syndicate|Ebon Web Syndicate]], [[Factions/The_Cult|The Cult]] (active in the city).
 
 ## V. DM Notes for Next Session
 
-* The immediate focus will be [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s interaction with [[Characters/NPCs/Lirael|Lirael]] and deciding his next course of action.
+* The immediate focus will be Vaelin's plans for Campaign Day 5 from his hideout.
 * He still needs to select his two 1st-level Warlock spells.
-* Consider how [[Lore/Pantheon/Caladwen|Caladwen]] might offer further guidance or tasks, or if she expects [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] to take initiative now.
-* The journey back to [[Locations/Duskhaven|Duskhaven]] (if he chooses to return) or further into the wilderness needs to be considered.
+* Consider how he might want to use his new disguises or the Seed of Whispering Willows.
+* The overarching plot threads concerning Therandril, The Society, and his tattoo are still pending his investigation.

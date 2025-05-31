@@ -16,6 +16,7 @@ This document serves as an index for all notable items within the campaign, part
 | [[Items/Face_of_the_Forgotten\|Face of the Forgotten]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
 | [[Items/Mantle_of_the_Veiled_Step\|Mantle_of_the_Veiled_Step]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
 | [[Items/Bone_and_Silver_Stylus\|Bone and Silver Stylus]] | Tool | Uncommon | No | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Seed_of_Whispering_Willows\|Seed of Whispering Willows]] | Wondrous Item | Common | No | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
 
 
 ---

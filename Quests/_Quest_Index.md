@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T06:51:52
+last_updated: 2025-05-31T10:12:51
 index_type: Quest Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -25,6 +25,7 @@ This document serves as an index for all quests, both active and completed, with
 
 | Quest Name | Status | Type | Patron | Primary Location |
 |---|---|---|---|---|
+| [[Quests/Completed/The_Seed_of_Whispering_Willows\|The Seed of Whispering Willows]] | completed | side, heist, retrieval | [[Characters/NPCs/Lirael\|Lirael]] | Elmsworth's Cottage, [[Locations/Beyond_Duskhaven\|Beyond Duskhaven]] |
 | [[Quests/Completed/The_Ratlings_Remedy\|The Ratlings' Remedy]] | completed | Side Quest / Favor | [[Characters/NPCs/Finch\|Finch]] | [[Locations/Old_Fishery\|Old Fishery]] |
 | [[Quests/Completed/The_Cipher_of_Whispers\|The Cipher of Whispers]] | completed | side | [[Characters/NPCs/Elaris\|Elaris]] | [[Characters/NPCs/Silas_Inkfinger\|Silas "Inkfinger"]]\'s bookstore in the Noble District |
 

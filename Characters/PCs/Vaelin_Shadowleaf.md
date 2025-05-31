@@ -9,7 +9,7 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 2
-xp: 297
+xp: 375
 status: active
 current_hp: 16
 max_hp: 16
@@ -115,6 +115,7 @@ employer: "[[Factions/The_Society]]"
 	- subject: disguise and deception
 - [[Items/Bone_and_Silver_Stylus|Bone and Silver Stylus]]
 - Acquired an additional crowbar from the Old Fishery incident. - gave to Finch
+- Seed of Whispering Willows (in a small wooden box) - from Elmsworth's cottage, allows for whispered messages.
 
 ### Gold/Currency:
 * 15 gp
@@ -155,6 +156,8 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 * **Misc Notes:** Vaelin has proficiency in Dex and Wis, instead of the usual Dex and Int for a Rogue.
 * **Session Notes:**
 	* Remember Miri, Pip, and Grol. Get revenge on them for stealing the Ratlings' medicine box.
+	* Campaign Day 4: Successfully retrieved the Seed of Whispering Willows from Elmsworth's cottage with Lirael. Prepared disguise components. Studied 'The Faceless Art'.
+	* Still need to select two 1st-level Warlock spells.
 
 ## VIII. Character Aspirations & Future Goals
 

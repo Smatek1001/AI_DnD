@@ -69,12 +69,13 @@ Loyalty to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], and an insati
 
 ## VII. Current Status & Plot Hooks
 * **Current Location:** With [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] (initially manifested at Sylvandell's Mirror, Campaign Day 4).
-* **Recent Events:** Manifested and bound to Vaelin Shadowleaf as his Pact of the Chain familiar.
+* **Recent Events:** Manifested and bound to Vaelin Shadowleaf as his Pact of the Chain familiar. Successfully assisted [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] in scouting Elmsworth's cottage and retrieving the [[Items/Seed_of_Whispering_Willows|Seed of Whispering Willows]]; received a magically shined brass button as a gift from Vaelin.
 * **Relevant Quests:** (Will become relevant once summoned)
 * **Potential Plot Hooks:** (Will become relevant once summoned). Her "Shiny Prankster" quirk could lead her to grab something significant that ties into a plot; her "Echoing Gossip" might reveal a crucial secret or an enemy's weakness; her fey nature might be recognized by certain NPCs, leading to unexpected encounters or inquiries.
 
 ## VIII. DM Notes (for AI)
 Once summoned, she will be a highly versatile familiar for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], excelling in scouting, stealth, and intelligence gathering, complementing his rogue/spy abilities. Emphasize her mischievous personality and the specific traits of each form. Her subtle fey signs should be for flavor.
+Vaelin prefers Lirael to be in her default fey form when not actively scouting and to turn invisible if other people are around.
 
 ### ROT-13 Encoded Secrets
 Yvenry vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.

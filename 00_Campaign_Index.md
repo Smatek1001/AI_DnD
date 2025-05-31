@@ -1,8 +1,16 @@
 ---
-last_updated: 2025-05-28T17:54:53
-index_type: "Campaign Overview"
-campaign_name: "Vaelin's Campaign"
-tags: ["#campaign_index", "#overview", "#map", "#navigation", "#core_files", "#campaign_structure"] # (NEW/ENHANCED)
+last_updated: 2025-05-31T10:29:29
+github_raw_url: https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/00_Campaign_Index.md
+index_type: Campaign Overview
+campaign_name: Vaelin's Campaign
+tags:
+  - "#campaign_index"
+  - "#overview"
+  - "#map"
+  - "#navigation"
+  - "#core_files"
+  - "#campaign_structure"
+github_raw_url: https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/00_Campaign_Index.md
 ---
 # Vaelin's Campaign - Campaign Index
 
