@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-02T11:38:19
+last_updated: 2025-06-02T11:44:08
 campaign_name: "Vaelin's Campaign"
 current_in_game_date: "Campaign Day 6, Early Morning (Pre-Dawn)"
 days_passed_since_campaign_start: 5 # Campaign Day 5 has concluded.
@@ -69,3 +69,4 @@ tags:
 * The primary focus will likely be the examination of the acquired magical items and the parchment, leading to decisions on how to proceed with the new information.
 * Meeting Finch will be an important interaction for Day 6.
 * The repercussions of the Blackwood heist may begin to manifest.
+* Remind Steve/Vaelin to look into getting a lead-lined box for loot.
