@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T20:42:13
+last_updated: 2025-06-02T01:20:43
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -9,7 +9,7 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 2
-xp: 375
+xp: 450
 status: active
 current_hp: 16
 max_hp: 16
@@ -158,6 +158,7 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 	* Remember Miri, Pip, and Grol. Get revenge on them for stealing the Ratlings' medicine box.
 	* Campaign Day 4: Successfully retrieved the Seed of Whispering Willows from Elmsworth's cottage with Lirael. Prepared disguise components. Studied 'The Faceless Art'.
 	* Still need to select two 1st-level Warlock spells.
+	* Campaign Day 5 (Late Afternoon): Recon of Blackwood's Baubles complete. Studied Cipher of Whispers. Awaiting Finch's update for night-time heist. Three 'grey man' disguises improved (Adv. on 1st Deception check each).
 
 ## VIII. Character Aspirations & Future Goals
 

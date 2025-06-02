@@ -19,6 +19,7 @@ This document serves as an index for all quests, both active and completed, with
 
 | Quest Name | Status | Type | Patron | Primary Location | Priority |
 |---|---|---|---|---|---|
+| [[Quests/Active/Blackwood's_Baubles_Heist\|Blackwood's Baubles Heist]] | active | side | [[Characters/NPCs/Finch\|Finch]] | Blackwood's Baubles shop | medium |
 
 
 ## Completed Quests
