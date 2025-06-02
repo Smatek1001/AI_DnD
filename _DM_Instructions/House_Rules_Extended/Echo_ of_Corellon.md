@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-02T00:05:28
+last_updated: 2025-06-02T01:56:28
 tags:
   - "#rules"
   - "#detailed_rule"
@@ -165,29 +165,21 @@ This ability is **non-magical**. It **cannot be dispelled**, **countered**, or d
 You may use an action to physically transform your body and voice to assume the appearance of any humanoid creature you have seen. This transformation includes:
 
 - **Sex, height, weight, build, facial features, hair color, eye color, skin tone, and voice**
-    
 
 This transformation:
 
 - Is **purely physical**, not magical or illusory
-    
 - **Lasts until you choose to change again**
-    
 - Requires **no components or concentration**
-    
 - **Passes physical inspection** (touch, weight, smell, etc.)
-    
 - **Cannot be detected or suppressed** by divination, abjuration, or illusion-related magic
-    
 
 ---
 
 ## 🔁 **Usage Limits**
 
 - You may use this feature a number of times per long rest equal to your **proficiency bonus**
-    
 - You **regain all uses** after completing a long rest
-    
 
 ---
 
@@ -196,15 +188,10 @@ This transformation:
 Your original body and voice (the form you had before unlocking this trait) becomes your **Core Persona**.
 
 - You may **return to this form as a bonus action**
-    
 - This does **not consume a use** of Echo of Corellon
-    
 - This form is **always available**, even if all Echo uses are expended
-    
 - It cannot be removed, replaced, or overwritten
-    
 - This form may be treated as a distinct “identity” for story or disguise purposes
-    
 
 ---
 
@@ -213,15 +200,10 @@ Your original body and voice (the form you had before unlocking this trait) beco
 At DM discretion (typically around level 7+ or major story milestone), Vaelin may gain the ability to **store alternate personas**.
 
 - You may **store a number of personas** up to your **proficiency bonus**
-    
 - A **stored persona** is a full physical and vocal profile, optionally including name, clothing style, behavioral quirks, or known contacts
-    
 - You may **switch between your Core Persona and stored personas as a bonus action**
-    
 - Switching to a non-stored form still requires an action and expends an Echo use
-    
 - Stored personas do **not** consume Echo uses when activated
-    
 
 ---
 
@@ -230,11 +212,8 @@ At DM discretion (typically around level 7+ or major story milestone), Vaelin ma
 You may use _Disguise Self_, _Alter Self_, or other magical disguise effects in combination with Echo of Corellon.
 
 - **Magical disguises override the visible appearance** of your Echo form
-    
 - Physical contact will reveal your Echo form beneath the illusion (per the illusion’s spell rules)
-    
 - Your Echo form remains **physically real** underneath any magical disguise
-    
 
 ---
 
