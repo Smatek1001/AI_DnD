@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-01T23:51:17
+last_updated: 2025-06-02T00:05:28
 tags:
   - "#rules"
   - "#detailed_rule"
@@ -7,6 +7,7 @@ tags:
   - "#elf"
   - "#homebrew_rule"
 ---
+
 # 🌙 **Echo of Corellon**
 
 _Custom Racial Trait – Vaelin Shadowleaf Exclusive_
@@ -82,3 +83,52 @@ As Vaelin levels and continues to uncover forgotten truths, this trait may evolv
 ## 🗝️ Flavor Summary (for RP & AI DMs)
 
 > Vaelin’s form flows like memory now. His voice is silk, or gravel, or something you heard in a dream. Whether he’s wearing the face of a servant, a noble, or a ghost from the past — you believe it, because somewhere, part of you **remembers it too**.
+
+---
+
+## 🌿 **Awakening Cutscene: The Whispering Rite**
+
+> _To be played after a mission where Vaelin pushes his identity work to its limit, or completes a key study session with_ The Faceless Art. _Best if done alone, or with one trusted ally nearby._
+
+---
+
+**Setting:**  
+Vaelin sits at the edge of an abandoned fountain, deep within Therandril’s ruined upper quarter. His tattoo pulses faintly in the moonlight. The amulet glows. The final lines of _The Faceless Art_ blur as if written in mist.
+
+A breeze passes — but carries no scent, no chill.
+
+A woman stands behind him.
+
+She’s made of leaves.  
+No — masks.  
+No — smoke that _remembers faces_.
+
+> **Caladwen:**  
+> “The book told you what to do. You are not here for guidance. You are here for the key.”
+
+She steps close, placing a finger over the tattoo. Her touch isn’t warm. It’s… **shifting**. Like her body is remembering how to be flesh.
+
+> **Caladwen:**  
+> “Your kind once walked between faces like stepping between shadows. But your people forgot. So your flesh forgot. But you, my little ghost of the Green... you _remembered._ And that means you are ready.”
+
+She reaches into her own face and **pulls away a mask** — and underneath is **Vaelin’s own face**, eyes burning with silver-green fire.
+
+> **Caladwen (as Vaelin):**  
+> “Take it. It was always yours.”
+
+She presses the mask to your skin.
+
+There is no pain. There is no burning.
+
+There is **unmaking**.
+
+You fall through your memories — past every disguise, every voice you’ve copied, every face you’ve worn. You realize none of them were false.
+
+They were all **you**.
+
+You awaken.  
+Different.  
+Not wearing a mask.  
+You are the mask.
+
+You have unlocked **Echo of Corellon**.
