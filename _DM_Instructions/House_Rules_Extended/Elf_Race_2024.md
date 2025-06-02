@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:54:59
+last_updated: 2025-06-02T04:46:25
 rule_set: D&D 5e 2024
 category: Race
 name: Elf Race (2024)
@@ -59,8 +59,8 @@ As an Elf, you have these special traits.
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---|---|---|---|
 | [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow\|Drow]] | The range of your Darkvision increases to 120 feet. You also know the _Dancing Lights_ cantrip | _Faerie Fire_ | _Darkness_ |
-|  [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#C. High Elves\|High Elf]] | You know the _Prestidigitation_ cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | _Detect Magic_ | _Misty Step_ |
-|  [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#D. Wood Elves\|Wood Elf]] | Your Speed increases to 35 feet. You also know the _Druidcraft_ cantrip. | _Longstrider_ | _Pass without Trace_ |
+| [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#C. High Elves\|High Elf]] | You know the _Prestidigitation_ cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | _Detect Magic_ | _Misty Step_ |
+| [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#D. Wood Elves\|Wood Elf]] | Your Speed increases to 35 feet. You also know the _Druidcraft_ cantrip. | _Longstrider_ | _Pass without Trace_ |
 
 ## III. Key Differences from Standard 2014 Rules (If Applicable)
 (If this is an adopted 2024 rule or a significant modification, highlight the main changes from the 2014 baseline here for quick reference.)
