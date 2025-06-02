@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T22:59:26
+last_updated: 2025-06-02T06:21:17
 type: NPC
 name: Lirael
 aliases: 
@@ -76,6 +76,7 @@ Loyalty to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], and an insati
 ## VIII. DM Notes (for AI)
 Once summoned, she will be a highly versatile familiar for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]], excelling in scouting, stealth, and intelligence gathering, complementing his rogue/spy abilities. Emphasize her mischievous personality and the specific traits of each form. Her subtle fey signs should be for flavor.
 Vaelin prefers Lirael to be in her default fey form when not actively scouting and to turn invisible if other people are around.
+[[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] and [[Lore/Pantheon/Caladwen|Caladwen]] are the only people who know about Lirael
 
 ### ROT-13 Encoded Secrets
 Yvenry vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.
