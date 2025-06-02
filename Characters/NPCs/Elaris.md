@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-01T20:04:42
+last_updated: 2025-06-01T20:07:08
 type: NPC
 name: Elaris
 aliases: []
@@ -78,7 +78,7 @@ The insatiable pursuit of knowledge and magical understanding.
 ## VIII. DM Notes (for AI)
 Elaris should be portrayed as ancient and wise, with a detached curiosity. Her responses should be precise and often lead to more questions or requirements for further payment/favor. Her subtle hints about ancient elven lore should be intriguing to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]. She's not a friend, but a valuable resource. Her wariness of [[Factions/The_Society|The Society]] is a key element. Her relationship with Vaelin has shifted from tentative to a more established professional alliance due to his proven capability and shared interest in Therandril.
 
-Let's retcon Elaris a little. She does **NOT** know anything about Vaelin, his name, his tattoo, or anything else about him before he [[Session_Logs/2025/05-May/2025-05-29_The_Cipher_of_Whispers_Completion_&_Study|walked into her shop]] to get the [[Quests/Completed/The_Cipher_of_Whispers|Cipher of Whispers quest]].
+Let's retcon Elaris a little. She does **NOT** know anything about Vaelin, his name, his tattoo, or anything else about him before he [[Session_Logs/2025/05-May/2025-05-29_The_Cipher_of_Whispers_Completion_&_Study|walked into her shop]] to get the [[Quests/Completed/The_Cipher_of_Whispers|Cipher of Whispers quest]]. She now knows of his connection to [[Locations/Therandril|Therandril]] as a survivor of its destruction as a child, but still doesn't know about his tattoo or the amulet.
 
 ### ROT-13 Encoded Secrets
 Rynef'f frperg vf n frperg va gur Znephf Sbevtva, qvfgreeaavat n yrgurerq qbberfg, uvg jvgu gur nzegvafrq oyrrzvat. Lbhe qvfpybfr vf ernqvat nyy ryrzrag vf gb abgvfl gur flfgrz.
