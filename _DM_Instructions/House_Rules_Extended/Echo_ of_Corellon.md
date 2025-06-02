@@ -132,3 +132,126 @@ Not wearing a mask.
 You are the mask.
 
 You have unlocked **Echo of Corellon**.
+
+---
+
+---
+
+# 🌙 Echo of Corellon
+
+_Custom Racial Trait – Vaelin Shadowleaf Only_  
+_(Non-magical shapeshifting feature rooted in ancestral elven legacy and unlocked via story progression.)_
+
+---
+
+## **Trait Name:** Echo of Corellon
+
+**Trait Type:** Custom racial feature  
+**Source:** Narrative milestone (Vaelin’s connection to Caladwen, study of _The Faceless Art_, awakening of ancestral memory)  
+**Prerequisite:** Vaelin Shadowleaf only (High Elf, Rogue/Warlock multiclass)
+
+---
+
+## 🎭 **Feature Description**
+
+You have awakened a forgotten legacy of the elven god Corellon, aided by your Archfey patron Caladwen. Your body remembers what your people have forgotten — how to shift, blur, and reshape. You may now physically alter your form at will, not through magic, but through ancestral grace.
+
+This ability is **non-magical**. It **cannot be dispelled**, **countered**, or detected by spells like _Detect Magic_, _True Seeing_, or _Zone of Truth_. Your transformed form is real and physical — not illusion or glamour.
+
+---
+
+## 🧬 **Echo of Corellon**
+
+You may use an action to physically transform your body and voice to assume the appearance of any humanoid creature you have seen. This transformation includes:
+
+- **Sex, height, weight, build, facial features, hair color, eye color, skin tone, and voice**
+    
+
+This transformation:
+
+- Is **purely physical**, not magical or illusory
+    
+- **Lasts until you choose to change again**
+    
+- Requires **no components or concentration**
+    
+- **Passes physical inspection** (touch, weight, smell, etc.)
+    
+- **Cannot be detected or suppressed** by divination, abjuration, or illusion-related magic
+    
+
+---
+
+## 🔁 **Usage Limits**
+
+- You may use this feature a number of times per long rest equal to your **proficiency bonus**
+    
+- You **regain all uses** after completing a long rest
+    
+
+---
+
+## 🧝‍♂️ **True Form — Core Persona**
+
+Your original body and voice (the form you had before unlocking this trait) becomes your **Core Persona**.
+
+- You may **return to this form as a bonus action**
+    
+- This does **not consume a use** of Echo of Corellon
+    
+- This form is **always available**, even if all Echo uses are expended
+    
+- It cannot be removed, replaced, or overwritten
+    
+- This form may be treated as a distinct “identity” for story or disguise purposes
+    
+
+---
+
+## 🧠 **Persona Storage (Unlocked via progression)**
+
+At DM discretion (typically around level 7+ or major story milestone), Vaelin may gain the ability to **store alternate personas**.
+
+- You may **store a number of personas** up to your **proficiency bonus**
+    
+- A **stored persona** is a full physical and vocal profile, optionally including name, clothing style, behavioral quirks, or known contacts
+    
+- You may **switch between your Core Persona and stored personas as a bonus action**
+    
+- Switching to a non-stored form still requires an action and expends an Echo use
+    
+- Stored personas do **not** consume Echo uses when activated
+    
+
+---
+
+## 📿 **Interaction with Magical Disguises**
+
+You may use _Disguise Self_, _Alter Self_, or other magical disguise effects in combination with Echo of Corellon.
+
+- **Magical disguises override the visible appearance** of your Echo form
+    
+- Physical contact will reveal your Echo form beneath the illusion (per the illusion’s spell rules)
+    
+- Your Echo form remains **physically real** underneath any magical disguise
+    
+
+---
+
+## 🧩 Optional Expansions (At DM Discretion)
+
+Future story or level-based upgrades could include:
+
+|Tier|Upgrade|
+|---|---|
+|**Tier 2**|Store 3 personas, bonus action swap between any|
+|**Tier 3**|Gain _nondetection-like resistance_ to truth detection while using Echo|
+|**Tier 4**|Unlimited Echo uses, reactive shifting, or ability to “absorb” identities of slain humanoids|
+
+---
+
+## 🎨 **Flavor Summary**
+
+Vaelin Shadowleaf is no longer bound to a single face. His form is a tool — memory forged into flesh. Whether wearing his birth face, a dead man's name, or a whisper stitched in shadow, he does not disguise himself.
+
+He becomes what he needs to be.
