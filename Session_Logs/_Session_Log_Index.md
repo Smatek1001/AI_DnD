@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-31T10:12:54
+last_updated: 2025-06-02T11:39:13
 index_type: Session Log Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -18,6 +18,7 @@ This document serves as a chronological index of all canonical play sessions, pr
 
 | Session Date | Session Title                                                                                                                  | Days Passed                     | PC Level | XP Gained |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | -------- | --------- |
+| 2025-06-02   | [[Session_Logs/2025/06-Jun/2025-06-02_The_Blackwood_Heist\|The Blackwood Heist]]     | 5           | 2        | 300       |
 | 2025-06-02   | [[Session_Logs/2025/06-Jun/2025-06-02_Blackwood_Recon_&_Arcane_Studies\|Blackwood Recon & Arcane Studies]]                     | 0 (ended mid-Day 5)             | 2        | 75        |
 | 2025-05-31   | [[Session_Logs/2025/05-May/2025-05-31_Elmsworths_Seed_and_Arcane_Studies\|Elmsworth's Seed and Arcane Studies]]                | 4                               | 2        | 75        |
 | 2025-05-30   | [[Session_Logs/2025/05-May/2025-05-30_The_Archfeys_Pact_and_Liraels_Awakening\|The Archfey's Pact and Lirael's Awakening]]     | 1 day (Dawn Day 4)              | 2        | 100       |

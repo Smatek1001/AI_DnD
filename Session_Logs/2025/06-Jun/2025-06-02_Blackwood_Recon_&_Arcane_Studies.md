@@ -89,7 +89,7 @@ This session covered the remainder of Campaign Day 5's daylight hours. Vaelin be
 
 ## VI. Quests Progress
 * **Quests Advanced:**
-    * [[Quests/Active/Blackwood's_Baubles_Heist|Blackwood's Baubles Heist]]: Quest initiated by Finch, reconnaissance phase completed by Vaelin/Lirael. Surveillance by Ratlings is ongoing. Awaiting nightfall to proceed.
+    * [[Quests/Completed/Blackwood's_Baubles_Heist|Blackwood's Baubles Heist]]: Quest initiated by Finch, reconnaissance phase completed by Vaelin/Lirael. Surveillance by Ratlings is ongoing. Awaiting nightfall to proceed.
 * **Quests Completed:** None this session.
 * **New Plot Hooks / Quests Uncovered:**
     * The "specialty goods" and multiple faint magical auras within Blackwood's strongbox.

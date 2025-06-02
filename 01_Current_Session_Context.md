@@ -1,38 +1,39 @@
 ---
-last_updated: 2025-06-02T01:20:50
+last_updated: 2025-06-02T11:38:19
 campaign_name: "Vaelin's Campaign"
-current_in_game_date: "Campaign Day 5, Late Afternoon/Early Evening"
-days_passed_since_campaign_start: 4 # Day 5 is ongoing
-last_session_summary: "Vaelin improved disguises, accepted a heist mission from Finch against Silas Blackwood, had Lirael scout Blackwood's shop, arranged Ratling surveillance, debriefed Elaris on the Grove/Mirror, and researched Archfey pacts using the Cipher of Whispers. Session ended late afternoon."
-current_pc_status: "Rogue 1/Warlock 1 (Lvl 2). HP: 16/16. XP: 450. Warlock Spell Slots: 1/1 (1st lvl). Cantrips: Prestidigitation (Int), Mage Hand (Legerdemain - Cha), Minor Illusion (Cha). 1st Lvl Warlock Spells Known: 0/2 (choices pending). Familiar: Lirael. Item: Seed of Whispering Willows (2/2 uses). Three improved 'grey man' disguises."
+current_in_game_date: "Campaign Day 6, Early Morning (Pre-Dawn)"
+days_passed_since_campaign_start: 5 # Campaign Day 5 has concluded.
+last_session_summary: "Vaelin successfully executed the heist at Blackwood's Baubles, acquiring numerous magical items, cash, and a mysterious parchment from 'Magister Vayne' concerning an 'Occulus Array' and 'Resonance Core.' He returned to his hideout, paid Finch back, and stashed the loot. Session ended before Trance/Long Rest."
+current_pc_status: "Rogue 1/Warlock 1 (Lvl 2). HP: 16/16. XP: 750. Warlock Spell Slots: 0/1 (1st lvl, used Hex). Cantrips: Prestidigitation (Int), Mage Hand (Legerdemain - Cha), Minor Illusion (Cha). 1st Lvl Warlock Spells Known: Hex, Hellish Rebuke. Familiar: Lirael. Cash: Approx. 48gp. Many new items stashed."
 current_party_location: "[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]"
 active_quests: 
-  - "[[Quests/Active/Blackwood's_Baubles_Heist|Blackwood's Baubles Heist]]"
+  - "[[Quests/Active/Whispers_of_Magister_Vayne|Whispers of Magister Vayne]] (Investigate the parchment and its contents - Implicit)"
+  - "[[Quests/Active/Understanding_the_Occulus_Array|Understanding the Occulus Array]] (Determine nature/purpose of lenses/cylinder - Implicit)"
 notable_npcs_nearby:
   - "[[Characters/NPCs/Lirael|Lirael]] (with Vaelin in hideout)"
-  - "[[Characters/NPCs/Finch|Finch]] (in Shadow Quarter, expecting Vaelin after dusk)"
 key_plot_points_pending:
-  - "Receive update from Finch regarding Blackwood's guards' night-time routine."
-  - "Execute the heist on Blackwood's Baubles."
-  - "Discover the nature of the 'specialty goods' and other contents of Blackwood's strongbox and warded box."
-  - "Vaelin still needs to choose his two 1st-level Warlock spells."
+  - "Vaelin needs to Trance/Long Rest to recover spell slot."
+  - "Examine the newly acquired magical items (Lenses, Cylinder, Herbs, Vials, Cards, Mirror, Locket, Gemstone)."
+  - "Further investigate the meaning of Magister Vayne's parchment and the 'Therandran Protocol'."
+  - "Meet with [[Characters/NPCs/Finch|Finch]] to report on the heist and deliver her payment (which he already left on her chest)."
+  - "Decide what to do with the customer repair items taken from Blackwood's."
   - "Overarching: Investigate Caladwen's assertion about The Society and Therandril; explore meaning of runic tattoo; seek knowledge/vengeance for Therandril."
 tags:
   - "#context"
   - "#current_status"
-  - "#campaign_day_5"
+  - "#campaign_day_6"
   - "#next_session_start"
-  - "#heist_pending"
+  - "#post_heist"
 ---
 
 # Current Campaign Status - Vaelin's Campaign
 
 ## I. Current In-Game Time & Location
 
-* **Current In-Game Date:** Campaign Day 5, Late Afternoon/Early Evening
-* **Days Passed Since Campaign Start:** 4 full days have concluded; Day 5 is ongoing.
+* **Current In-Game Date:** Campaign Day 6, Early Morning (Pre-Dawn, roughly 3:00-4:00 AM).
+* **Days Passed Since Campaign Start:** 5 full days have concluded.
 * **Current Party Location:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]] and [[Characters/NPCs/Lirael|Lirael]] are in the [[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]] in the [[Locations/Shadow_Quarter|Shadow Quarter]] of [[Locations/Duskhaven|Duskhaven]].
-* **Brief Description of Location:** Vaelin's secure hideout. The light outside is beginning to fade.
+* **Brief Description of Location:** Vaelin's secure hideout. It is the dead of night outside.
 
 ## II. Last Session Recap
 
@@ -41,25 +42,30 @@ tags:
 
 ## III. Active Quests & Plot Threads
 
-* **Active Quests:**
-    * [[Quests/Active/Blackwood's_Baubles_Heist|Blackwood's Baubles Heist]]: Vaelin has accepted a heist from Finch to rob Silas Blackwood's shop. Reconnaissance is complete, and Ratling surveillance of the guards is underway. Awaiting nightfall and an update from Finch.
+* **Active Quests (Implicit / Newly Emerged):**
+    * [[Quests/Active/Whispers_of_Magister_Vayne|Whispers of Magister Vayne]]: Investigate the contents and implications of the parchment signed by "Magister Vayne," concerning the "Occulus Array," "Resonance Core," the "Therandran Protocol," and the "Night of Whispers."
+    * [[Quests/Active/Understanding_the_Occulus_Array|Understanding the Occulus Array]]: Determine the nature, function, and purpose of the Clockwork Lenses ("Occulus Array") and the Sealed Lacquer Cylinder ("Resonance Core").
 * **Key Plot Points Pending:**
-    * Receive Finch's update.
-    * Execute the heist tonight.
-    * Still need to choose Warlock spells.
-    * Long-term goals related to Therandril, tattoo, and The Society remain.
+    * Vaelin needs to rest (Trance) to recover his Warlock spell slot and mentally process the night's events.
+    * Detailed examination of all acquired magical items.
+    * Planning how to approach Finch in the morning (she expects to meet him at the "usual spot by the old fountain").
+    * Deciding the fate of the mundane customer repair items.
+    * Continuing his overarching personal quests related to The Society, Therandril, and his arcane development.
 
 ## IV. Notable NPCs & Factions Nearby
 
 * **Notable NPCs:**
     * [[Characters/NPCs/Lirael|Lirael]] (present with Vaelin).
-    * [[Characters/NPCs/Finch|Finch]] (in the Shadow Quarter; Vaelin plans to meet her after dusk).
+    * [[Characters/NPCs/Finch|Finch]] (in the Shadow Quarter; Vaelin plans to meet her later on Day 6).
 * **Factions Present (in Duskhaven, generally):**
     * [[Factions/The_Society|The Society]], [[Factions/Ratlings|Ratlings]], [[Factions/Nightshade_Guild|Nightshade Guild]], [[Factions/Harbor_Syndicate|Harbor Syndicate]], [[Factions/Ebon_Web_Syndicate|Ebon Web Syndicate]], [[Factions/The_Cult|The Cult]].
+    * [[Characters/NPCs/Silas_Blackwood|Silas Blackwood]] will soon be a very unhappy victim of theft.
+    * "Magister Vayne" is a new, unknown entity of interest.
 
 ## V. DM Notes for Next Session
 
-* The next session will begin in the early evening of Campaign Day 5, with Vaelin in his hideout.
-* He will need to decide when to meet Finch for her update on Blackwood's guards.
-* The primary focus will be the execution of the "Blackwood's Baubles Heist" under the cover of night.
-* Remember Vaelin's available resources: improved disguises, Lirael's abilities (Phase Trick available), Seed of Whispering Willows, Warlock cantrips, and one 1st-level spell slot (once spells are chosen).
+* The next session will begin in Vaelin's hideout in the pre-dawn hours of Campaign Day 6.
+* He needs to rest.
+* The primary focus will likely be the examination of the acquired magical items and the parchment, leading to decisions on how to proceed with the new information.
+* Meeting Finch will be an important interaction for Day 6.
+* The repercussions of the Blackwood heist may begin to manifest.

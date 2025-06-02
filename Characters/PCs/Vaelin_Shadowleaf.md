@@ -9,7 +9,7 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 2
-xp: 450
+xp: 750
 status: active
 current_hp: 16
 max_hp: 16
@@ -118,7 +118,22 @@ employer: "[[Factions/The_Society]]"
 - Seed of Whispering Willows (in a small wooden box) - from Elmsworth's cottage, allows for whispered messages.
 
 ### Gold/Currency:
-* 15 gp
+* 48 gp
+
+### Significant Acquired Items (Stashed in Hideout): and list:
+
+- `- 1x Empty Warded Wooden Box (faint Abjuration from Blackwood's workshop)`
+- `- 1x Set of three Clockwork Lenses ("Occulus Array" - strong Divination & Transmutation)`
+- `- 1x Sealed Lacquer Cylinder ("Resonance Core" - moderate Evocation, contained)`
+- `- 1x Bundle of Dried Dark Herbs (faint Necromancy)`
+- `- 1x Obsidian Gemstone (faint Transmutation)`
+- `- 3x Magical Vials (Ruby Evocation, Sapphire Illusion, Emerald Transmutation - from study strongbox)`
+- `- 1x Rolled Parchment (Instructions from "Magister Vayne" - from study strongbox)`
+- `- 1x Illusion Hand-Mirror (faint Illusion - from front shop)`
+- `- 1x Silver Locket (very faint Transmutation - from front shop)`
+- `- 1x Velvet-Wrapped Bundle (Deck of Divination Cards - faint Divination - from middle drawer)`
+- `- 1x Jeweler's Eyeglass/Loupe (mundane - from middle drawer)`
+- `- Customer Repair Items (1x dented silver signet ring, 1x broken gold chain, 1x pair of pearl earrings - mundane, from rightmost drawer)`
 
 ## VI. Character Personality & Roleplaying
 
@@ -152,7 +167,7 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 * **Current Location:** [[Locations/Abandoned_Bakery_Attic|The Hideout]]
 * **Current Quest(s):**
     * Random [[Dream_Missions/Dream_Quests/_Dream_Quest_Index|Dream Missions]]
-* **Ongoing Effects/Conditions:** none
+* **Ongoing Effects/Conditions:** 1 Warlock spell slot used; will recover on next Trance/Long Rest.
 * **Misc Notes:** Vaelin has proficiency in Dex and Wis, instead of the usual Dex and Int for a Rogue.
 * **Session Notes:**
 	* Remember Miri, Pip, and Grol. Get revenge on them for stealing the Ratlings' medicine box.
