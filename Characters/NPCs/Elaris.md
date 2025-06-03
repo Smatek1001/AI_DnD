@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T05:29:54
+last_updated: 2025-06-03T10:17:03
 type: NPC
 name: Elaris
 aliases: 
