@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-02T01:20:43
+last_updated: 2025-06-03T06:07:26
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -117,6 +117,48 @@ employer: "[[Factions/The_Society]]"
 	* _Identify_
 * **High Elf Racial Spell:**
 	* _Detect Magic_ (Learned at Character Level 3, uses Intelligence, can be cast once per long rest without a spell slot, or using available spell slots).
+
+### Vaelin Shadowleaf Spell Tables
+
+#### Cantrips
+|Spell Name|Source|Spellcasting Ability|Casting Time|Range|Duration|Notes|
+|---|---|---|---|---|---|---|
+|Prestidigitation|High Elf Racial|Intelligence|1 Action|10 ft|Up to 1 hour|Can be swapped after a long rest per house rules.|
+|Mage Hand|Warlock|Charisma|1 Action|30 ft|1 minute|Functions as Mage Hand Legerdemain per house rules.|
+|Minor Illusion|Warlock|Charisma|1 Action|30 ft|1 minute||
+|Create Bonfire|Pact of the Tome|Charisma|1 Action|60 ft|Concentration, up to 1 minute|Counts as a Warlock cantrip.|
+|Control Flames|Pact of the Tome|Charisma|1 Action|60 ft|Instantaneous or 1 hour|Counts as a Warlock cantrip.|
+|Message|Pact of the Tome|Charisma|1 Action|120 ft|1 round|Counts as a Warlock cantrip.|
+
+#### First Level Spells
+|Spell Name|Source|Spellcasting Ability|Casting Time|Range|Duration|Notes|
+|---|---|---|---|---|---|---|
+|Hellish Rebuke|Warlock|Charisma|1 Reaction|60 ft|Instantaneous|Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3.|
+|Hex|Warlock|Charisma|1 Bonus Action|90 ft|Concentration, up to 1 hour|Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3.|
+|Alarm|Pact of the Tome (Ritual)|Charisma|1 Minute|30 ft|8 hours|Cast as a ritual (10 minutes).|
+|Identify|Pact of the Tome (Ritual)|Charisma|1 Minute|Touch|Instantaneous|Cast as a ritual (10 minutes).|
+|Detect Magic|High Elf Racial|Intelligence|1 Action|Self|Concentration, up to 10 minutes|Cast once per long rest without a spell slot, or with a spell slot.|
+
+## Notes:
+
+- **Warlock Spell Slots:** Vaelin has 2 first-level spell slots, regained on a short or long rest. These can be used for _Hellish Rebuke_, _Hex_, or _Detect Magic_ (if not using the racial free cast).
+- **Pact Magic Spellcasting:** Warlock spells (_Hellish Rebuke_, _Hex_, _Alarm_, _Identify_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
+- **High Elf Spellcasting:** _Detect Magic_ uses Intelligence.
+- **Ritual Casting:** _Alarm_ and _Identify_ can be cast as rituals via the _Book of Shadows_ (Pact of the Tome), taking 10 minutes and not consuming a spell slot.
+- **Unselected Spell:** Vaelin has one 1st-level Warlock spell still to be chosen (listed as "TBD" in the character sheet).
+
+## Notes:
+
+- **Pact Magic Spellcasting:** Warlock cantrips (_Mage Hand_, _Minor Illusion_, _Create Bonfire_, _Control Flames_, _Message_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
+- **High Elf Spellcasting:** _Prestidigitation_ uses Intelligence.
+## Notes:
+
+- **Warlock Spell Slots:** Vaelin has 2 first-level spell slots, regained on a short or long rest. These can be used for _Hellish Rebuke_, _Hex_, or _Detect Magic_ (if not using the racial free cast).
+- **Pact Magic Spellcasting:** Warlock spells (_Mage Hand_, _Minor Illusion_, _Create Bonfire_, _Control Flames_, _Message_, _Hellish Rebuke_, _Hex_, _Alarm_, _Identify_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
+- **High Elf Spellcasting:** _Prestidigitation_ and _Detect Magic_ use Intelligence.
+- **Ritual Casting:** _Alarm_ and _Identify_ can be cast as rituals via the _Book of Shadows_ (Pact of the Tome), taking 10 minutes and not consuming a spell slot.
+- **Unselected Spell:** Vaelin has one 1st-level Warlock spell still to be chosen (listed as "TBD" in the character sheet).
+
 
 ## IV. Equipment & Inventory
 * **Armor:** Leather Armor
