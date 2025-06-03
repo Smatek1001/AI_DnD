@@ -1,20 +1,29 @@
 ---
-last_updated: 2025-06-03T10:23:59
-chat_link: https://g.co/gemini/share/95ff0c2bc796
+last_updated: 2025-06-03T10:47:41
+chat_link: https://g.co/gemini/share/89e13c2f77f5
 dream_session: false
 session_date: 2025-06-03
-session_title: "Harbor Syndicate Heist"
+session_title: Harbor Syndicate Heist
 campaign_day: 6
 days_passed_since_campaign_start: 5
 pc_current_level: 3
 xp_gained: 500
 gold_gained_total: 750
-magic_items_acquired: []
+magic_items_acquired: 
 level_up_occurred: false
-key_npcs_encountered: ["[[Characters/NPCs/Finch]]", "[[Characters/NPCs/Garrick_Stonehand]]", "[[Characters/NPCs/Brak]]", "[[Characters/NPCs/Skarlix]]", "[[Characters/NPCs/Lirael]]"]
-key_locations_visited: ["[[Locations/Abandoned_Bakery_Attic]]", "[[Locations/Shadow_Quarter]]", "[[Locations/Market_Square]]", "[[Locations/Syndicate_Warehouse]]"]
-quests_advanced: []
-quests_completed: []
+key_npcs_encountered:
+  - "[[Characters/NPCs/Finch]]"
+  - "[[Characters/NPCs/Garrick_Stonehand]]"
+  - "[[Characters/NPCs/Brak]]"
+  - "[[Characters/NPCs/Skarlix]]"
+  - "[[Characters/NPCs/Lirael]]"
+key_locations_visited:
+  - "[[Locations/Abandoned_Bakery_Attic]]"
+  - "[[Locations/Shadow_Quarter]]"
+  - "[[Locations/Market_Square]]"
+  - "[[Locations/Syndicate_Warehouse]]"
+quests_advanced: 
+quests_completed:
 ---
 
 # Session Log - Harbor Syndicate Heist (2025-06-03)
@@ -95,5 +104,4 @@ Upon returning to his [[Locations/Abandoned_Bakery_Attic|hideout]], Vaelin count
 This was a highly successful side quest that showcased Vaelin's rogue and warlock skills effectively. The *Mage Hand* distraction was executed perfectly and led to great narrative chaos. The Syndicate will be very confused and angry, likely blaming each other for the incident for some time before they consider external interference. This provides a great opportunity for future plot hooks involving their internal power struggles or their eventual hunt for an unknown perpetrator.
 
 ---
-**Full Chat Session Link:** https://g.co/gemini/share/95ff0c2bc796
-(Paste the public share link to this session's chat here after the session concludes.)
+**Full Chat Session Link:** https://g.co/gemini/share/89e13c2f77f5
