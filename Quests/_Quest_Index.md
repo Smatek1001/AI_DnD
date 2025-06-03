@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-02T11:39:16
+last_updated: 2025-06-03T05:10:45
 index_type: Quest Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -26,6 +26,7 @@ This document serves as an index for all quests, both active and completed, with
 
 | Quest Name | Status | Type | Patron | Primary Location |
 |---|---|---|---|---|
+| [[Quests/Completed/The_Archivists_Appraisal\|The Archivist's Appraisal]] | completed | delivery, investigation | [[Characters/NPCs/Elaris\|Elaris]] | [[Locations/Shaded_Lantern\|Shaded_Lantern]] to [[Locations/Alistair_Finchleys_Study\|Alistair_Finchley's_Study]] |
 | [[Quests/Completed/Blackwood's_Baubles_Heist\|Blackwood's Baubles Heist]] | completed | Heist / Acquisition | [[Characters/NPCs/Finch\|Finch]] | [[Locations/Blackwood's_Baubles\|Blackwood's Baubles]], [[Locations/Duskhaven\|Duskhaven]] |
 | [[Quests/Completed/The_Seed_of_Whispering_Willows\|The Seed of Whispering Willows]] | completed | side, heist, retrieval | [[Characters/NPCs/Lirael\|Lirael]] | Elmsworth's Cottage, [[Locations/Beyond_Duskhaven\|Beyond Duskhaven]] |
 | [[Quests/Completed/The_Ratlings_Remedy\|The Ratlings' Remedy]] | completed | Side Quest / Favor | [[Characters/NPCs/Finch\|Finch]] | [[Locations/Old_Fishery\|Old Fishery]] |

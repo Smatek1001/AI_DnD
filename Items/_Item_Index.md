@@ -1,5 +1,5 @@
 ---
-last_updated: "2025-05-26 08:37:52"
+last_updated: 2025-06-03T05:24:18
 index_type: "Item Overview"
 campaign_name: "Vaelin's Campaign"
 tags: ["#item_index", "#item_overview", "#magic_items", "#index_file", "#campaign_data", "#unique_items"] # (NEW/ENHANCED)
@@ -17,6 +17,17 @@ This document serves as an index for all notable items within the campaign, part
 | [[Items/Mantle_of_the_Veiled_Step\|Mantle_of_the_Veiled_Step]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
 | [[Items/Bone_and_Silver_Stylus\|Bone and Silver Stylus]] | Tool | Uncommon | No | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
 | [[Items/Seed_of_Whispering_Willows\|Seed of Whispering Willows]] | Wondrous Item | Common | No | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Secure_Transit_Casket\|Secure Transit Casket]]                      | Wondrous Item   | Uncommon | No         | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Occulus_of_Scrutiny\|Occulus of Scrutiny (Vayne's Monocle)]]       | Wondrous Item   | Rare     | Yes        | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Contained_Resonance_Core\|Contained Resonance Core]]                | Wondrous Item   | Rare     | No         | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Gravebloom_Petals\|Gravebloom Petals]]                            | Consumable      | Uncommon | No         | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Shadow_Shapers_Shard\|Shadow-Shaper's Shard]]                     | Wondrous Item   | Common   | No         | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Vial_of_Ember_Sparks\|Vial of Ember Sparks]]                        | Consumable      | Common   | No         | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Phial_of_Shifting_Visage\|Phial of Shifting Visage]]                | Consumable      | Common   | No         | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Draught_of_Stones_Stillness\|Draught of Stone's Stillness]]         | Consumable      | Common   | No         | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Mirror_of_Fleeting_Reflections\|Mirror of Fleeting Reflections]]    | Wondrous Item   | Uncommon | Yes        | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Locket_of_Silent_Passage\|Locket of Silent Passage]]                | Wondrous Item   | Uncommon | Yes        | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
+| [[Items/Whispering_Deck_Minor\|Whispering Deck (Minor)]]                   | Wondrous Item   | Common   | No         | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
 
 
 ---
