@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T09:57:27
+last_updated: 2025-06-03T10:03:47
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -9,7 +9,7 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 3
-xp: 900
+xp: 1400
 status: active
 current_hp: 24
 max_hp: 24
@@ -182,7 +182,7 @@ employer: "[[Factions/The_Society]]"
 - Customer Repair Items (1x dented silver signet ring, 1x broken gold chain, 1x pair of pearl earrings - mundane, from rightmost drawer)
 
 ### Gold/Currency:
-* 688 gp
+* 698 gp
 
 ### Significant Acquired Items (Stashed in Hideout):
 

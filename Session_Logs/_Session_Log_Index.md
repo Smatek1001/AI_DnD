@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-02T11:39:13
+last_updated: 2025-06-03T10:03:39
 index_type: Session Log Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -18,6 +18,7 @@ This document serves as a chronological index of all canonical play sessions, pr
 
 | Session Date | Session Title                                                                                                                  | Days Passed                     | PC Level | XP Gained |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | -------- | --------- |
+| 2025-06-03 | [[Session_Logs/2025/06-Jun/2025-06-03_Harbor_Syndicate_Heist\|Harbor Syndicate Heist]] | 5 | 3 | 500 |
 | 2025-06-03   | [[Session_Logs/2025/06-Jun/2025-06-03_Appraisal_Arcana_and_Advancement\|Appraisal, Arcana, and Advancement]] | Day 6 (events during) | 3 | 150 |
 | 2025-06-02   | [[Session_Logs/2025/06-Jun/2025-06-02_The_Blackwood_Heist\|The Blackwood Heist]] | 5 | 2 | 300 |
 | 2025-06-02   | [[Session_Logs/2025/06-Jun/2025-06-02_Blackwood_Recon_&_Arcane_Studies\|Blackwood Recon & Arcane Studies]] | 0 (ended mid-Day 5) | 2 | 75 |
