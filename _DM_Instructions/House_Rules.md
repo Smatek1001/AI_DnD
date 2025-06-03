@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-29T21:51:43
+last_updated: 2025-06-03T08:06:24
 rule_type: House Rules
 aliases:
   - The House Rules
@@ -76,6 +76,7 @@ This document outlines any modifications, additions, or specific interpretations
 			* **Prerequisite:** Pact of the Chain feature
 			* You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 * **Rule 5:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] may chose a [[Bestiary/Flickerling|Flickerling]] familiar with the [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024#Pact of the Chain|Pact of the Chain]] Eldritch Invocation as a Warlock. 
+* **Rule 6:** Warlocks do not need their Book of Shadows to be present to cast cantrips received from Pact of the Tome. They do need the Book of Shadows present to cast the ritual 1st level spells received from Pact of the Tomb.
 
 ---
 **Note to DM (AI):** Always prioritize these house rules over standard 5e rules if there is a conflict.
