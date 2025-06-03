@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T07:59:58
+last_updated: 2025-06-03T08:03:04
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -146,7 +146,6 @@ employer: "[[Factions/The_Society]]"
 - **Pact Magic Spellcasting:** Warlock spells (_Hellish Rebuke_, _Hex_, _Alarm_, _Identify_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
 - **High Elf Spellcasting:** _Detect Magic_ uses Intelligence.
 - **Ritual Casting:** _Alarm_ and _Identify_ can be cast as rituals via the _Book of Shadows_ (Pact of the Tome), taking 10 minutes and not consuming a spell slot.
-- **Unselected Spell:** Vaelin has one 1st-level Warlock spell still to be chosen (listed as "TBD" in the character sheet).
 
 ## Notes:
 
