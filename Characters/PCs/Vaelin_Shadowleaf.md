@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T08:10:38
+last_updated: 2025-06-03T08:11:40
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -183,7 +183,7 @@ employer: "[[Factions/The_Society]]"
 ### Gold/Currency:
 * 23 gp
 
-### Significant Acquired Items (Stashed in Hideout): and list:
+### Significant Acquired Items (Stashed in Hideout):
 
 - The following items are stored within the [[Items/Secure_Transit_Casket|Secure Transit Casket]] in the hideout:
 	- [[Items/Occulus_of_Scrutiny|Occulus Array]]
