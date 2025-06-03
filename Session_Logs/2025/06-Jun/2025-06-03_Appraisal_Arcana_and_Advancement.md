@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-06-03T04:58:00 # Adjusted to reflect potential save time
-chat_link: "{{chat_link}}"
+last_updated: 2025-06-03T05:46:44
+chat_link: https://g.co/gemini/share/dc6cac21a5ff
 dream_session: false
 session_date: "2025-06-03"
 session_title: "Appraisal, Arcana, and Advancement"
@@ -155,4 +155,4 @@ Back in his hideout, Vaelin spent 100 gp on a pearl and conjured his Pact of the
 * The implications of Magister Vayne's parchment are still a major pending investigation.
 
 ---
-**Full Chat Session Link:** {{chat_link}}
+**Full Chat Session Link:** https://g.co/gemini/share/dc6cac21a5ff

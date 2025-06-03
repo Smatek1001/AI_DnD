@@ -124,15 +124,20 @@ employer: "[[Factions/The_Society]]"
 * **Tools:** Thieves' Tools, Disguise Kit
 * **Packs:** Burglar's Pack (includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin.)
 * **Other Background Items:** Crowbar, a set of dark common clothes including a hood.
+* [[Items/Locket_of_Silent_Passage|Locket_of_Silent_Passage]] - advantage to Stealth checks that rely on silent movement
+* [[Items/Shadow_Shapers_Shard|Shadow_Shapers_Shard]]
 
 ## V. Loot
 - Cipher of Whispers - [[Quests/Completed/The_Cipher_of_Whispers|quest item]] for [[Characters/NPCs/Elaris|Elaris]]
-	- subject: contacting otherplanar entities
+	- subject: contacting other-planar entities
 - The Faceless Art - book looted from [[Characters/NPCs/Silas_Inkfinger|Silas]]
 	- subject: disguise and deception
 - [[Items/Bone_and_Silver_Stylus|Bone and Silver Stylus]]
 - Acquired an additional crowbar from the Old Fishery incident. - gave to Finch
 - Seed of Whispering Willows (in a small wooden box) - from Elmsworth's cottage, allows for whispered messages.
+- 1x Rolled Parchment (Instructions from "Magister Vayne" - from study strongbox)
+- 1x Jeweler's Eyeglass/Loupe (mundane - from middle drawer)
+- Customer Repair Items (1x dented silver signet ring, 1x broken gold chain, 1x pair of pearl earrings - mundane, from rightmost drawer)
 
 ### Gold/Currency:
 * 23 gp
@@ -140,19 +145,14 @@ employer: "[[Factions/The_Society]]"
 ### Significant Acquired Items (Stashed in Hideout): and list:
 
 - The following items are stored within the [[Items/Secure_Transit_Casket|Secure Transit Casket]] in the hideout:
-	- 
-- 1x Empty Warded Wooden Box (faint Abjuration from Blackwood's workshop)`
-- `- 1x Set of three Clockwork Lenses ("Occulus Array" - strong Divination & Transmutation)`
-- `- 1x Sealed Lacquer Cylinder ("Resonance Core" - moderate Evocation, contained)`
-- `- 1x Bundle of Dried Dark Herbs (faint Necromancy)`
-- `- 1x Obsidian Gemstone (faint Transmutation)`
-- `- 3x Magical Vials (Ruby Evocation, Sapphire Illusion, Emerald Transmutation - from study strongbox)`
-- `- 1x Rolled Parchment (Instructions from "Magister Vayne" - from study strongbox)`
-- `- 1x Illusion Hand-Mirror (faint Illusion - from front shop)`
-- `- 1x Silver Locket (very faint Transmutation - from front shop)`
-- `- 1x Velvet-Wrapped Bundle (Deck of Divination Cards - faint Divination - from middle drawer)`
-- `- 1x Jeweler's Eyeglass/Loupe (mundane - from middle drawer)`
-- `- Customer Repair Items (1x dented silver signet ring, 1x broken gold chain, 1x pair of pearl earrings - mundane, from rightmost drawer)`
+	- [[Items/Occulus_of_Scrutiny|Occulus Array]]
+	- [[Items/Contained_Resonance_Core|Resonance Core]]
+	- [[Items/Gravebloom_Petals|Gravebloom_Petals]] - 3 pinches
+	- [[Items/Vial_of_Ember_Sparks|Vial_of_Ember_Sparks]]
+	- [[Items/Phial_of_Shifting_Visage|Phial_of_Shifting_Visage]]
+	- [[Items/Draught_of_Stones_Stillness|Draught_of_Stones_Stillness]]
+	- [[Items/Mirror_of_Fleeting_Reflections|Mirror_of_Fleeting_Reflections]]
+	- [[Items/Whispering_Deck_Minor|Deck of Divination Cards]]
 
 ## VI. Character Personality & Roleplaying
 
