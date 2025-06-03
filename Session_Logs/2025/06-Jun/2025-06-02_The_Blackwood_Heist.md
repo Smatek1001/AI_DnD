@@ -10,7 +10,7 @@ pc_current_level: 2
 xp_gained: 300
 gold_gained_total: 38 # Approx. total cash acquired from the heist before paying Finch
 magic_items_acquired:
-  - "[[Items/Clockwork_Lenses|Clockwork Lenses]] (Occulus Array)"
+  - "[[Items/Clockwork_Lenses|Clockwork Lenses]] (Oculus Array)"
   - "[[Items/Sealed_Lacquer_Cylinder|Sealed Lacquer Cylinder]] (Resonance Core)"
   - "[[Items/Dried_Dark_Herbs|Dried Dark Herbs]] (Necromantic)"
   - "[[Items/Obsidian_Gemstone|Obsidian Gemstone]] (Transmutation)"
@@ -54,11 +54,11 @@ Key events included:
 * Vaelin choosing *Hex* and *Hellish Rebuke* as his initial Warlock spells.
 * Observing Blackwood closing up shop and retiring for the night. [[Characters/NPCs/Lirael|Lirael]] confirmed Blackwood was asleep.
 * Vaelin used Prestidigitation to create a foul odor in the workshop, luring the inside guard to open the back window and retreat from the smell.
-* Vaelin then used Mage Hand to retrieve a warded wooden box (containing the "Occulus Array" - Clockwork Lenses, "Resonance Core" - Sealed Lacquer Cylinder, and Dried Dark Herbs) from the workshop. He also retrieved an Obsidian Gemstone from the workshop windowsill.
+* Vaelin then used Mage Hand to retrieve a warded wooden box (containing the "Oculus Array" - Clockwork Lenses, "Resonance Core" - Sealed Lacquer Cylinder, and Dried Dark Herbs) from the workshop. He also retrieved an Obsidian Gemstone from the workshop windowsill.
 * Lirael later scouted the upstairs study (finding loose coins and a locked iron strongbox) and Blackwood's bedroom (finding a magically warded chest under the bed, which Vaelin decided to leave).
 * Vaelin personally infiltrated the shop: collected workshop coins, cast *Hex* on the sleeping inside guard, picked the lock on the till and took ~9-10gp, investigated other drawers (opening one with a hidden catch to find a Deck of Divination Cards and a jeweler's loupe, and another containing customer repair items after picking its lock). He also collected an Illusion Hand-Mirror and a Transmutation Locket Lirael had previously scouted in the front shop.
 * Vaelin successfully exfiltrated the shop with Lirael and returned to his [[Locations/Abandoned_Bakery_Attic|hideout]].
-* Back at the hideout, Vaelin examined a parchment found in the study's strongbox, revealing it to be instructions from "Magister Vayne" to Blackwood concerning the "Occulus Array" and "Resonance Core."
+* Back at the hideout, Vaelin examined a parchment found in the study's strongbox, revealing it to be instructions from "Magister Vayne" to Blackwood concerning the "Oculus Array" and "Resonance Core."
 * Vaelin set aside 20gp on Finch's designated chest in his hideout (to repay the 15gp fronted for Ratling services plus a 5gp bonus) and stashed the remainder of his considerable haul.
 
 ## II. Player Character Progression & Status
@@ -75,7 +75,7 @@ Key events included:
 ### Item Acquisition, Loss & Disposition
 * **Acquired (Kept by Vaelin):**
     * 1x Empty Warded Wooden Box (faint Abjuration)
-    * 1x Set of three Clockwork Lenses ("Occulus Array" - strong Divination & Transmutation)
+    * 1x Set of three Clockwork Lenses ("Oculus Array" - strong Divination & Transmutation)
     * 1x Sealed Lacquer Cylinder ("Resonance Core" - moderate Evocation, contained)
     * 1x Bundle of Dried Dark Herbs (faint Necromancy)
     * 1x Obsidian Gemstone (faint Transmutation)
@@ -110,7 +110,7 @@ Key events included:
 * **Decision:** To undertake the "[[Quests/Completed/Blackwood's_Baubles_Heist|Blackwood's Baubles Heist]]" solo after initial planning with Finch.
 * **Tactical Choices:** Successfully used Prestidigitation (odor), Mage Hand, Hex, and personal stealth/lockpicking skills to navigate the shop and acquire loot.
 * **Risk Assessment:** Decided to leave the magically warded chest under Blackwood's bed due to risk. Made multiple attempts on other locks despite guard proximity.
-* **Discovery:** Uncovered a letter from "Magister Vayne" detailing plans for the "Occulus Array" and "Resonance Core."
+* **Discovery:** Uncovered a letter from "Magister Vayne" detailing plans for the "Oculus Array" and "Resonance Core."
 * **NPC Interaction (Indirect):** Successfully avoided waking Silas Blackwood or his guards.
 
 ## IV. NPCs Encountered & Interactions
@@ -130,7 +130,7 @@ Key events included:
 * **Quests Completed:**
     * "[[Quests/Completed/Blackwood's_Baubles_Heist|Blackwood's Baubles Heist]]" (Primary objectives met: warded box contents and funds for Ratlings secured).
 * **New Plot Hooks / Quests Uncovered:**
-    * The nature and purpose of the "Occulus Array" (Clockwork Lenses) and "Resonance Core" (Sealed Lacquer Cylinder).
+    * The nature and purpose of the "Oculus Array" (Clockwork Lenses) and "Resonance Core" (Sealed Lacquer Cylinder).
     * The identity and agenda of "Magister Vayne."
     * The meaning of the "Therandran Protocol Addendum C."
     * The significance of the "Night of Whispers."

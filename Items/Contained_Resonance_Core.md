@@ -27,14 +27,14 @@ A smooth, dark lacquer cylinder, about hand-length and wrist-thick, capped at bo
 ## III. Properties & Abilities
 * **Contained Evocation:** The moderate Evocation aura detected originates from an energy core suspended stably within the cylinder, currently under immense pressure.
 * **Activation Mechanism:** Nearly invisible seams at both silver caps can be opened by twisting them simultaneously in opposite directions (a specific sequence known to Vaelin via *Identify*). This allows the core within to be carefully removed or for the cylinder to be slotted into a larger compatible device.
-* **Resonance Output:** If the core is interfaced with a compatible device (e.g., the [[Items/Occulus_of_Scrutiny|Occulus of Scrutiny]]), it is intended to serve as a potent, short-burst power source, likely amplifying the connected device's magical properties or enabling a powerful one-time effect.
+* **Resonance Output:** If the core is interfaced with a compatible device (e.g., the [[Items/Oculus_of_Scrutiny|Occulus of Scrutiny]]), it is intended to serve as a potent, short-burst power source, likely amplifying the connected device's magical properties or enabling a powerful one-time effect.
 * **Volatile Warning:** If the cylinder is breached forcefully (e.g., shattered), the contained energy will discharge uncontrollably, causing a 10-foot radius explosion dealing 4d6 force damage to all creatures and objects in the area (Dexterity save DC 14 for half damage). The core itself would be consumed.
 
 ## IV. Lore & History
 This "Resonance Core" is mentioned in conjunction with the "Occulus Array" in Magister Vayne's notes, suggesting they are meant to function together for the "Therandran Protocol" or during the "Night of Whispers."
 
 ## V. Plot Hooks & Secrets
-* What specific effect does it enable when combined with the [[Items/Occulus_of_Scrutiny|Occulus of Scrutiny]]?
+* What specific effect does it enable when combined with the [[Items/Oculus_of_Scrutiny|Occulus of Scrutiny]]?
 * What is its role in the "Therandran Protocol"?
 
 ## VI. DM Notes (for AI)

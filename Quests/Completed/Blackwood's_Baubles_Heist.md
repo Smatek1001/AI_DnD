@@ -26,7 +26,7 @@ tags:
 * **Category:** Heist / Acquisition
 * **Patron/Quest Giver:** [[Characters/NPCs/Finch|Finch]] (arranged the job, Vaelin owed her 15gp for Ratling services)
 * **Primary Location:** [[Locations/Blackwood's_Baubles|Blackwood's Baubles]], a jeweler and specialty goods shop in [[Locations/Duskhaven|Duskhaven]].
-* **Reward:** 300 XP; approx. 18-19gp net cash for Vaelin after repaying Finch with a bonus; numerous acquired items including the "Occulus Array" (Clockwork Lenses), "Resonance Core" (Sealed Lacquer Cylinder), Dried Dark Herbs, Obsidian Gemstone, three magical Vials, a mysterious Parchment, an Illusion Hand-Mirror, a Transmutation Locket, a Deck of Divination Cards, a Jeweler's Loupe, and some minor customer repair items. Increased trust with Finch.
+* **Reward:** 300 XP; approx. 18-19gp net cash for Vaelin after repaying Finch with a bonus; numerous acquired items including the "Oculus Array" (Clockwork Lenses), "Resonance Core" (Sealed Lacquer Cylinder), Dried Dark Herbs, Obsidian Gemstone, three magical Vials, a mysterious Parchment, an Illusion Hand-Mirror, a Transmutation Locket, a Deck of Divination Cards, a Jeweler's Loupe, and some minor customer repair items. Increased trust with Finch.
 * **Priority:** High (initially, due to Finch's request and need for funds).
 
 ## II. Quest Briefing
@@ -37,7 +37,7 @@ tags:
 * **Key Objectives/Milestones:**
     * 1. Plan the infiltration with [[Characters/NPCs/Finch|Finch]]. (Achieved)
     * 2. Infiltrate [[Locations/Blackwood's_Baubles|Blackwood's Baubles]] workshop via the back window. (Achieved)
-    * 3. Retrieve the contents of the warded wooden box (the "specialty goods": Occulus Array, Resonance Core, Dark Herbs). (Achieved)
+    * 3. Retrieve the contents of the warded wooden box (the "specialty goods": Oculus Array, Resonance Core, Dark Herbs). (Achieved)
     * 4. Acquire additional valuables/cash. (Achieved: Approx. 38-39gp cash, various magical/mundane items from study strongbox and front showroom drawers/till).
     * 5. Exfiltrate the shop without raising a general alarm. (Achieved)
     * 6. Decipher any acquired intelligence. (Achieved: Read parchment from Magister Vayne).
@@ -58,12 +58,12 @@ tags:
 ## V. Progress & Current Status
 * **Current Stage:** Completed. Vaelin successfully executed the heist, acquired significant loot and intelligence, and returned to his hideout. He has set aside funds for Finch.
 * **PC's Knowledge:** Vaelin knows the contents of the warded box, the iron strongbox, and other drawers. He has read the parchment from Magister Vayne.
-* **Next Steps:** Deliver payment to Finch; investigate the nature and purpose of the acquired magical items (especially the Occulus Array, Resonance Core, Vials, Deck of Cards) and the implications of Magister Vayne's letter.
+* **Next Steps:** Deliver payment to Finch; investigate the nature and purpose of the acquired magical items (especially the Oculus Array, Resonance Core, Vials, Deck of Cards) and the implications of Magister Vayne's letter.
 
 ## VI. Potential Complications & Twists
 * The inside guard was nearly woken multiple times but Vaelin's stealth and the Hex spell prevented full alert.
 * The discovery that the warded wooden box had (likely new) external Abjuration wards, and the iron strongbox was well-locked.
-* The contents of the warded box and the parchment hint at a larger, more complex situation involving "Magister Vayne," the "Occulus Array," "Resonance Core," "Therandran Protocol," and the "Night of Whispers."
+* The contents of the warded box and the parchment hint at a larger, more complex situation involving "Magister Vayne," the "Oculus Array," "Resonance Core," "Therandran Protocol," and the "Night of Whispers."
 
 ## VII. Resolution & Consequences
 * **Success Scenario:** Vaelin successfully acquired valuable items and crucial intelligence. He secured enough funds to repay Finch with a bonus. Blackwood remains unaware of the full extent of the theft for now.

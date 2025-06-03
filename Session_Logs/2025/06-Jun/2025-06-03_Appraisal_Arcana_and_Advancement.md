@@ -11,7 +11,7 @@ xp_gained: 150
 gold_gained_total: -25 # (75 gained, 100 spent)
 magic_items_acquired: # Items from Blackwood heist were acquired *last* session, identified *this* session.
   - Secure Transit Casket (Identified)
-  - Occulus of Scrutiny (Magister Vayne's Monocle) (Identified)
+  - Oculus of Scrutiny (Magister Vayne's Monocle) (Identified)
   - Contained Resonance Core (Identified)
   - Gravebloom Petals (Identified)
   - Shadow-Shaper's Shard (Identified)
@@ -47,7 +47,7 @@ tags:
 # Session Log - Appraisal, Arcana, and Advancement (2025-06-03)
 
 ## I. Summary of Events
-Vaelin Shadowleaf began Campaign Day 6 by finishing a long rest (Trance) in his hideout, restoring his Warlock spell slot. He then met with [[Characters/NPCs/Finch|Finch]] in the [[Locations/Shadow_Quarter|Shadow Quarter]], confirming the payment for the Ratlings from the Blackwood heist was in the hideout and discussing the discovery of a mysterious parchment signed by "Magister Vayne" which mentioned an "Occulus Array," "Resonance Core," "Therandran Protocol," and the "Night of Whispers." Finch agreed to have her Ratlings listen for any related street rumors.
+Vaelin Shadowleaf began Campaign Day 6 by finishing a long rest (Trance) in his hideout, restoring his Warlock spell slot. He then met with [[Characters/NPCs/Finch|Finch]] in the [[Locations/Shadow_Quarter|Shadow Quarter]], confirming the payment for the Ratlings from the Blackwood heist was in the hideout and discussing the discovery of a mysterious parchment signed by "Magister Vayne" which mentioned an "Oculus Array," "Resonance Core," "Therandran Protocol," and the "Night of Whispers." Finch agreed to have her Ratlings listen for any related street rumors.
 
 Vaelin then proceeded to the [[Locations/Shaded_Lantern|Shaded Lantern]] in the [[Locations/Veil|Veil]] to speak with [[Characters/NPCs/Elaris|Elaris]]. He requested a lead-lined chest and inquired about any available tasks. Elaris offered a quest: deliver a sealed box containing an ancient elven artifact to Alistair Finchley, a specialist in linguistic esoterica, for assessment and return the findings.
 
@@ -96,7 +96,7 @@ Back in his hideout, Vaelin spent 100 gp on a pearl and conjured his Pact of the
 * **Lost/Consumed:**
     * 100 gp (converted to a pearl for *Identify* rituals)
 * **Stowed in Secure Transit Casket (in hideout):**
-    * Occulus of Scrutiny (Magister Vayne's Monocle)
+    * Oculus of Scrutiny (Magister Vayne's Monocle)
     * Contained Resonance Core
     * Gravebloom Petals
     * Vial of Ember Sparks
@@ -147,11 +147,11 @@ Back in his hideout, Vaelin spent 100 gp on a pearl and conjured his Pact of the
 * **New Plot Hooks / Quests Uncovered:**
     * The "House of Silent Stars" and its connection to the ancient elven artifact.
     * Potential future work from Elaris related to this new lore.
-    * The nature and purpose of the "Occulus Array" and "Resonance Core" remain key mysteries tied to "Magister Vayne."
+    * The nature and purpose of the "Oculus Array" and "Resonance Core" remain key mysteries tied to "Magister Vayne."
 
 ## VII. DM Notes
 * Player needs to finalize choices for his three 1st-level Warlock spells known.
-* Several identified items require attunement (Locket of Silent Passage, Occulus of Scrutiny, Mirror of Fleeting Reflections).
+* Several identified items require attunement (Locket of Silent Passage, Oculus of Scrutiny, Mirror of Fleeting Reflections).
 * The implications of Magister Vayne's parchment are still a major pending investigation.
 
 ---

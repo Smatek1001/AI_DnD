@@ -45,7 +45,7 @@ tags:
 
 * **Active Quests (Implicit / Newly Emerged):**
     * [[Quests/Active/Whispers_of_Magister_Vayne|Whispers of Magister Vayne]]: Investigate the contents and implications of the parchment signed by "Magister Vayne."
-    * [[Quests/Active/Understanding_the_Occulus_Array|Understanding the Occulus Array]]: Determine the function of the [[Items/Occulus_of_Scrutiny|Occulus of Scrutiny]] and [[Items/Contained_Resonance_Core|Contained Resonance Core]].
+    * [[Quests/Active/Understanding_the_Occulus_Array|Understanding the Occulus Array]]: Determine the function of the [[Items/Oculus_of_Scrutiny|Occulus of Scrutiny]] and [[Items/Contained_Resonance_Core|Contained Resonance Core]].
     * [[Quests/Active/The_House_of_Silent_Stars|The House of Silent Stars]]: Potential follow-up with [[Characters/NPCs/Elaris|Elaris]] regarding the ancient elven artifact's lineage.
 * **Key Plot Points Pending:**
     * Vaelin needs to finalize his three 1st-level Warlock spells known.

@@ -186,7 +186,7 @@ employer: "[[Factions/The_Society]]"
 ### Significant Acquired Items (Stashed in Hideout):
 
 - The following items are stored within the [[Items/Secure_Transit_Casket|Secure Transit Casket]] in the hideout:
-	- [[Items/Occulus_of_Scrutiny|Occulus Array]]
+	- [[Items/Oculus_of_Scrutiny|Oculus Array]]
 	- [[Items/Contained_Resonance_Core|Resonance Core]]
 	- [[Items/Gravebloom_Petals|Gravebloom_Petals]] - 3 pinches
 	- [[Items/Vial_of_Ember_Sparks|Vial_of_Ember_Sparks]]
