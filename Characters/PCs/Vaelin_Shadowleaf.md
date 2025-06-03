@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T06:07:26
+last_updated: 2025-06-03T07:59:58
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -133,6 +133,7 @@ employer: "[[Factions/The_Society]]"
 #### First Level Spells
 |Spell Name|Source|Spellcasting Ability|Casting Time|Range|Duration|Notes|
 |---|---|---|---|---|---|---|
+|Charm Person|Warlock|Charisma|1 Action|30 ft|1 hour|Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3.|
 |Hellish Rebuke|Warlock|Charisma|1 Reaction|60 ft|Instantaneous|Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3.|
 |Hex|Warlock|Charisma|1 Bonus Action|90 ft|Concentration, up to 1 hour|Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3.|
 |Alarm|Pact of the Tome (Ritual)|Charisma|1 Minute|30 ft|8 hours|Cast as a ritual (10 minutes).|
