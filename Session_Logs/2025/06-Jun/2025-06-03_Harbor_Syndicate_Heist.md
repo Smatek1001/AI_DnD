@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-06-03T10:00:10
-chat_link: "" # Public share link to the corresponding chat session
+last_updated: 2025-06-03T10:23:59
+chat_link: https://g.co/gemini/share/95ff0c2bc796
 dream_session: false
 session_date: 2025-06-03
 session_title: "Harbor Syndicate Heist"
@@ -95,5 +95,5 @@ Upon returning to his [[Locations/Abandoned_Bakery_Attic|hideout]], Vaelin count
 This was a highly successful side quest that showcased Vaelin's rogue and warlock skills effectively. The *Mage Hand* distraction was executed perfectly and led to great narrative chaos. The Syndicate will be very confused and angry, likely blaming each other for the incident for some time before they consider external interference. This provides a great opportunity for future plot hooks involving their internal power struggles or their eventual hunt for an unknown perpetrator.
 
 ---
-**Full Chat Session Link:** {{chat_link}}
+**Full Chat Session Link:** https://g.co/gemini/share/95ff0c2bc796
 (Paste the public share link to this session's chat here after the session concludes.)
