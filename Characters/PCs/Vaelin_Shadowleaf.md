@@ -8,11 +8,11 @@ race: Elf
 subrace: High Elf
 background: Spy
 alignment: Neutral
-level: 2
-xp: 750
+level: 3
+xp: 900
 status: active
-current_hp: 16
-max_hp: 16
+current_hp: 24
+max_hp: 24
 temp_hp: 0
 armor_class: 14
 passive_perception: 13
@@ -25,7 +25,7 @@ class1_spellcasting_ability: ""
 class1_spell_save_dc: 0
 class1_spell_attack_bonus: 0
 class2_name: Warlock
-class2_level: 1
+class2_level: 2
 class2_subclass: Archfey
 class2_spellcasting_ability: Charisma
 class2_spell_save_dc: 11
@@ -87,20 +87,28 @@ employer: "[[Factions/The_Society]]"
 * **Pact Magic:** You have 1 first-level spell slot, which you regain on a short or long rest. Your spellcasting ability is Charisma.
     * Spell Save DC: 11
     * Spell Attack Bonus: +3
-* **Eldritch Invocations:** Pact of the Chain.
-    * Lirael, a [[Bestiary/Flickerling|Flickerling]], is now your familiar. (See [[Characters/NPCs/Lirael|Lirael]]'s sheet for her abilities).
+* **Eldritch Invocations:**
+	* **Pact of the Chain:**
+	    * Lirael, a [[Bestiary/Flickerling|Flickerling]], is now your familiar. (See [[Characters/NPCs/Lirael|Lirael]]'s sheet for her abilities).
+    * **Mask of Many Faces:** You can cast _Disguise Self_ at will, without expending a spell slot.
+    * **Pact of the Tome:** When you conjure your _Book of Shadows_ (after a short or long rest), you choose:
+	    * **Three cantrips** from any class's spell list. You've selected: _Create Bonfire_, _Control Flames_, and _Message_. These are considered Warlock cantrips for you and are prepared while the book is on your person.
+	    * **Two 1st-level spells with the ritual tag** from any class's spell list. You've selected _Identify_ as one. These are added to your Book of Shadows and can be cast as rituals. You still need to decide on the second 1st-level ritual spell.
 
 ### Background Feature (Spy):
 * **Criminal Contact:** You have a reliable contact who can get messages to and from you, or who can get you illegal goods and arrange a meeting with other criminals.
 
 ## III. Spellcasting
-* *Cantrips Known (3 total):**
+* *Cantrips Known (6 total):**
     * _Prestidigitation_ (High Elf racial cantrip, uses Intelligence)
     * _Mage Hand_ (Warlock cantrip, [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications|functions as Mage Hand Legerdemain]], uses Charisma)
     * _Minor Illusion_ (Warlock cantrip, uses Charisma)
+    * _Create Bonfire_ (Pact of the Tome, Cha)
+    * _Control Flames_ (Pact of the Tome, Cha)
+    * _Message_ (Pact of the Tome, Cha)
 * **1st-Level Warlock Spells Known/Prepared (2 total - choices pending):**
-    * (Spell 1 - To be chosen)
-    * (Spell 2 - To be chosen)
+    * _Hex_
+    * _Hellish Rebuke_
 ## IV. Equipment & Inventory
 * **Armor:** Leather Armor
 * **Weapons:** Rapier, Shortbow (with 20 arrows), 2 Daggers
