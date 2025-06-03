@@ -131,14 +131,15 @@ employer: "[[Factions/The_Society]]"
 |Message|Pact of the Tome|Charisma|1 Action|120 ft|1 round|Counts as a Warlock cantrip.|
 
 #### First Level Spells
-|Spell Name|Source|Spellcasting Ability|Casting Time|Range|Duration|Notes|
-|---|---|---|---|---|---|---|
-|Charm Person|Warlock|Charisma|1 Action|30 ft|1 hour|Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3.|
-|Hellish Rebuke|Warlock|Charisma|1 Reaction|60 ft|Instantaneous|Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3.|
-|Hex|Warlock|Charisma|1 Bonus Action|90 ft|Concentration, up to 1 hour|Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3.|
-|Alarm|Pact of the Tome (Ritual)|Charisma|1 Minute|30 ft|8 hours|Cast as a ritual (10 minutes).|
-|Identify|Pact of the Tome (Ritual)|Charisma|1 Minute|Touch|Instantaneous|Cast as a ritual (10 minutes).|
-|Detect Magic|High Elf Racial|Intelligence|1 Action|Self|Concentration, up to 10 minutes|Cast once per long rest without a spell slot, or with a spell slot.|
+| Spell Name     | Source                    | Spellcasting Ability | Casting Time   | Range | Duration                        | Notes                                                               |
+| -------------- | ------------------------- | -------------------- | -------------- | ----- | ------------------------------- | ------------------------------------------------------------------- |
+| Charm Person   | Warlock                   | Charisma             | 1 Action       | 30 ft | 1 hour                          | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
+| Hellish Rebuke | Warlock                   | Charisma             | 1 Reaction     | 60 ft | Instantaneous                   | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
+| Hex            | Warlock                   | Charisma             | 1 Bonus Action | 90 ft | Concentration, up to 1 hour     | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
+| Alarm          | Pact of the Tome (Ritual) | Charisma             | 1 Minute       | 30 ft | 8 hours                         | Cast as a ritual (10 minutes).                                      |
+| Identify       | Pact of the Tome (Ritual) | Charisma             | 1 Minute       | Touch | Instantaneous                   | Cast as a ritual (10 minutes).                                      |
+| Disguise Self  | Mask of Many Faces        | Charisma             | 1 Action       | Self  | 1 hour                          | No spell slot required.                                             |
+| Detect Magic   | High Elf Racial           | Intelligence         | 1 Action       | Self  | Concentration, up to 10 minutes | Cast once per long rest without a spell slot, or with a spell slot. |
 
 ## Notes:
 
