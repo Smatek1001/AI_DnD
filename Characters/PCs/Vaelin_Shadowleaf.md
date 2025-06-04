@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T21:43:46
+last_updated: 2025-06-03T21:44:50
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -139,8 +139,8 @@ employer: "[[Factions/The_Society]]"
 | Charm Person   | Warlock                   | Charisma             | 1 Action       | 30 ft | 1 hour                          | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
 | Hellish Rebuke | Warlock                   | Charisma             | 1 Reaction     | 60 ft | Instantaneous                   | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
 | Hex            | Warlock                   | Charisma             | 1 Bonus Action | 90 ft | Concentration, up to 1 hour     | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
-| Alarm          | Pact of the Tome (Ritual) | Charisma             | 1 Minute       | 30 ft | 8 hours                         | Cast as a ritual (10 minutes).                                      |
-| Identify       | Pact of the Tome (Ritual) | Charisma             | 1 Minute       | Touch | Instantaneous                   | Cast as a ritual (10 minutes).                                      |
+| Alarm          | Pact of the Tome (Ritual) | Charisma             | 11 Minutes     | 30 ft | 8 hours                         | Cast as a ritual (10 minutes).                                      |
+| Identify       | Pact of the Tome (Ritual) | Charisma             | 11 Minutes     | Touch | Instantaneous                   | Cast as a ritual (10 minutes).                                      |
 | Disguise Self  | Mask of Many Faces        | Charisma             | 1 Action       | Self  | 1 hour                          | No spell slot required.                                             |
 
 
