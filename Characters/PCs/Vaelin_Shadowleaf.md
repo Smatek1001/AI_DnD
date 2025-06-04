@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-04T08:36:39
+last_updated: 2025-06-04T08:58:31
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -122,14 +122,14 @@ employer: "[[Factions/The_Society]]"
 ### Vaelin Shadowleaf Spell Tables
 
 #### Cantrips
-| Spell Name       | Source           | Spellcasting Ability | Casting Time | Range | Duration                      | Notes                                                                                                                                                                  |
-| ---------------- | ---------------- | -------------------- | ------------ | ----- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Prestidigitation | High Elf Racial  | Intelligence         | 1 Action     | 10 ft | Up to 1 hour                  |Can be swapped after a long rest [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#III. Key Differences from Standard 2014 Rules (If Applicable)\|per house rules]].|
-| Mage Hand        | Warlock          | Charisma             | 1 Action     | 30 ft | 1 minute                      |Functions as Mage Hand Legerdemain [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications\|per house rules]].                                             |
-| Minor Illusion   | Warlock          | Charisma             | 1 Action     | 30 ft | 1 minute                      |                                                                                                                                                                        |
-| Control Flames   | Pact of the Tome | Charisma             | 1 Action     | 60 ft | Instantaneous or 1 hour       |Counts as a Warlock cantrip.                                                                                                                                            |
-| Create Bonfire   | Pact of the Tome | Charisma             | 1 Action     | 60 ft | Concentration, up to 1 minute |Counts as a Warlock cantrip.                                                                                                                                            |
-| Guidance         | Pact of the Tome | Charisma             | 1 Action     | Touch | Concentration, up to 1 hour   |Counts as a Warlock cantrip.                                                                                                                                            |
+| Spell Name       | Source           | Spellcasting Ability | Casting Time | Range | Duration                      | Notes                                                                                                                                                                    |
+| ---------------- | ---------------- | -------------------- | ------------ | ----- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Prestidigitation | High Elf Racial  | Intelligence         | 1 Action     | 10 ft | Up to 1 hour                  | Can be swapped after a long rest [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#III. Key Differences from Standard 2014 Rules (If Applicable)\|per house rules]]. |
+| Mage Hand        | Warlock          | Charisma             | 1 Action     | 30 ft | 1 minute                      | Functions as Mage Hand Legerdemain [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications\|per house rules]].                                              |
+| Minor Illusion   | Warlock          | Charisma             | 1 Action     | 30 ft | 1 minute                      |                                                                                                                                                                          |
+| Control Flames   | Pact of the Tome | Charisma             | 1 Action     | 60 ft | Instantaneous or 1 hour       | Counts as a Warlock cantrip.                                                                                                                                             |
+| Create Bonfire   | Pact of the Tome | Charisma             | 1 Action     | 60 ft | Concentration, up to 1 minute | Counts as a Warlock cantrip.                                                                                                                                             |
+| Guidance         | Pact of the Tome | Charisma             | 1 Action     | Touch | Concentration, up to 1 hour   | Counts as a Warlock cantrip.                                                                                                                                             |
 
 
 #### First Level Spells
