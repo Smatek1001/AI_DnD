@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T10:46:57
+last_updated: 2025-06-03T20:46:01
 index_type: Quest Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -19,13 +19,14 @@ This document serves as an index for all quests, both active and completed, with
 
 | Quest Name | Status | Type | Patron | Primary Location | Priority |
 |---|---|---|---|---|---|
-| [[Quests/Active/The_Crimson_Coin_Heist\|The Crimson Coin Heist]] | active | Heist | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] | [[Locations/The_Crimson_Coin\|The Crimson Coin]] | high |
 
 ## Pending Quests
 
 | Quest Name | Status | Type | Patron | Primary Location | Priority |
 |---|---|---|---|---|---|
 | [[Quests/Pending/The_Cog_and_Candle_Heist\|The Cog and Candle Heist]] | pending | Heist | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] | [[Locations/Duskhaven\|Duskhaven]], near [[Locations/Market_Square\|Market Square]] and [[Locations/Veil\|Veil]] | medium |
+| [[Quests/Pending/The_Crimson_Coin_Heist\|The Crimson Coin Heist]] | active | Heist | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] | [[Locations/The_Crimson_Coin\|The Crimson Coin]] | high |
+
 
 ## Completed Quests
 
