@@ -1,19 +1,19 @@
 ---
-last_updated: 2025-06-03T19:03:45
+last_updated: 2025-06-03T20:46:49
 dream_mission: false
-type: "Quest"
-name: "The Crimson Coin Heist"
-status: active
-quest_type: "Heist"
-patron: "Vaelin Shadowleaf (Self-Motivated)"
+type: Quest
+name: The Crimson Coin Heist
+status: pending
+quest_type: Heist
+patron: Vaelin Shadowleaf (Self-Motivated)
 location: "[[Locations/The_Crimson_Coin|The Crimson Coin]]"
-reward: "Substantial gold (anticipated 1000-3000 gp), rare illicit contacts."
+reward: Substantial gold (anticipated 1000-3000 gp), rare illicit contacts.
 priority: high
 ---
 # Quest: The Crimson Coin Heist
 
 ## I. Overview
-* **Status:** active
+* **Status:** pending
 * **Category:** Heist
 * **Patron/Quest Giver:** [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] (Self-Motivated)
 * **Primary Location:** [[Locations/The_Crimson_Coin|The Crimson Coin]] gambling den in the [[Locations/Veil|Veil]] district of [[Locations/Duskhaven|Duskhaven]].
