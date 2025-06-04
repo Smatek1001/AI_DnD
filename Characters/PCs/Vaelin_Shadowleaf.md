@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T19:10:21
+last_updated: 2025-06-03T19:12:50
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -96,6 +96,7 @@ employer: "[[Factions/The_Society]]"
 - **Eldritch Invocations (2 new, 3 total):**"
     - **Mask of Many Faces:** You can cast _Disguise Self_ at will, without expending a spell slot."
     - **Pact of the Tome:** You can conjure a _Book of Shadows_ after a short or long rest. When you do, you choose three cantrips from any class's spell list (you've selected: _Create Bonfire_, _Control Flames_, _Message_ - these count as Warlock cantrips for you and use Charisma) and two 1st-level spells with the ritual tag from any class's spell list (you've selected: _Identify_, _Alarm_ - these are added to your Book of Shadows and can be cast as rituals). Your _Book of Shadows_ can be used as a spellcasting focus."
+	    - **Homebrew Rule:** On your adventures, you can add other ritual spells to your _Book of Shadows_. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
 ### Background Feature (Spy):
 * **Criminal Contact:** You have a reliable contact who can get messages to and from you, or who can get you illegal goods and arrange a meeting with other criminals.
