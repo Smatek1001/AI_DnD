@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T20:21:40
+last_updated: 2025-06-03T21:03:38
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -108,7 +108,7 @@ employer: "[[Factions/The_Society]]"
     * _Minor Illusion_ (Warlock cantrip, uses Charisma)
     * _Create Bonfire_ (Pact of the Tome, Cha)
     * _Control Flames_ (Pact of the Tome, Cha)
-    * _Message_ (Pact of the Tome, Cha)
+    * _Guidance_ (Pact of the Tome, Cha)
 * **1st-Level Warlock Spells Known/Prepared:**
     * _Charm Person_
     * _Hellish Rebuke_
@@ -124,12 +124,12 @@ employer: "[[Factions/The_Society]]"
 #### Cantrips
 |Spell Name|Source|Spellcasting Ability|Casting Time|Range|Duration|Notes|
 |---|---|---|---|---|---|---|
-|Prestidigitation|High Elf Racial|Intelligence|1 Action|10 ft|Up to 1 hour|Can be swapped after a long rest [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#III. Key Differences from Standard 2014 Rules (If Applicable)\|per house rules]].|
-|Mage Hand|Warlock|Charisma|1 Action|30 ft|1 minute|Functions as Mage Hand Legerdemain [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications\|per house rules]].|
-|Minor Illusion|Warlock|Charisma|1 Action|30 ft|1 minute||
-|Create Bonfire|Pact of the Tome|Charisma|1 Action|60 ft|Concentration, up to 1 minute|Counts as a Warlock cantrip.|
-|Control Flames|Pact of the Tome|Charisma|1 Action|60 ft|Instantaneous or 1 hour|Counts as a Warlock cantrip.|
-|Message|Pact of the Tome|Charisma|1 Action|120 ft|1 round|Counts as a Warlock cantrip.|
+|Prestidigitation|High Elf Racial |Intelligence|1 Action|10 ft   |Up to 1 hour                 |Can be swapped after a long rest [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#III. Key Differences from Standard 2014 Rules (If Applicable)\|per house rules]].|
+|Mage Hand       |Warlock         |Charisma    |1 Action|30 ft   |1 minute                     |Functions as Mage Hand Legerdemain [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications\|per house rules]].|
+|Minor Illusion. |Warlock         |Charisma    |1 Action|30 ft   |1 minute||
+|Create Bonfire. |Pact of the Tome|Charisma    |1 Action|60 ft   |Concentration, up to 1 minute|Counts as a Warlock cantrip.|
+|Control Flames. |Pact of the Tome|Charisma    |1 Action|60 ft   |Instantaneous or 1 hour      |Counts as a Warlock cantrip.|
+|Guidance        |Pact of the Tome|Charisma    |1 Action|Touch   |Concentration, up to 1 hour  |Counts as a Warlock cantrip.|
 
 #### First Level Spells
 | Spell Name     | Source                    | Spellcasting Ability | Casting Time   | Range | Duration                        | Notes                                                               |
@@ -146,7 +146,7 @@ employer: "[[Factions/The_Society]]"
 ## Notes:
 
 - **Warlock Spell Slots:** Vaelin has 3 first-level spell slots, regained on a short or long rest. These can be used for _Charm Person_, _Hellish Rebuke_, _Hex_, or _Detect Magic_ (if not using the racial free cast).
-- **Pact Magic Spellcasting:** Warlock spells (_Mage Hand_, _Minor Illusion_, _Create Bonfire_, _Control Flames_, _Message_, _Charm Person_, _Hellish Rebuke_, _Hex_, _Alarm_, _Identify_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
+- **Pact Magic Spellcasting:** Warlock spells (_Mage Hand_, _Minor Illusion_, _Create Bonfire_, _Control Flames_, Guidance, _Charm Person_, _Hellish Rebuke_, _Hex_, _Alarm_, _Identify_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
 - **High Elf Spellcasting:** _Prestidigitation_ and _Detect Magic_ use Intelligence.
 - **Ritual Casting:** _Alarm_ and _Identify_ can be cast as rituals via the _Book of Shadows_ (Pact of the Tome), taking 10 minutes and not consuming a spell slot.
 
