@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T21:35:12
+last_updated: 2025-06-03T21:43:46
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -122,25 +122,27 @@ employer: "[[Factions/The_Society]]"
 ### Vaelin Shadowleaf Spell Tables
 
 #### Cantrips
-|Spell Name|Source|Spellcasting Ability|Casting Time|Range|Duration|Notes|
-|---|---|---|---|---|---|---|
-| Prestidigitation | High Elf Racial  | Intelligence | 1 Action | 10 ft | Up to 1 hour                  |Can be swapped after a long rest [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#III. Key Differences from Standard 2014 Rules (If Applicable)\|per house rules]].|
-| Mage Hand        | Warlock          | Charisma     | 1 Action | 30 ft | 1 minute                      |Functions as Mage Hand Legerdemain [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications\|per house rules]].|
-| Minor Illusion   | Warlock          | Charisma     | 1 Action | 30 ft | 1 minute ||
-| Create Bonfire   | Pact of the Tome | Charisma     | 1 Action | 60 ft | Concentration, up to 1 minute |Counts as a Warlock cantrip.|
-| Control Flames   | Pact of the Tome | Charisma     | 1 Action | 60 ft | Instantaneous or 1 hour       |Counts as a Warlock cantrip.|
-| Guidance         | Pact of the Tome | Charisma     | 1 Action | Touch | Concentration, up to 1 hour   |Counts as a Warlock cantrip.|
+| Spell Name       | Source           | Spellcasting Ability | Casting Time | Range | Duration                      | Notes                                                                                                                                                                  |
+| ---------------- | ---------------- | -------------------- | ------------ | ----- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Prestidigitation | High Elf Racial  | Intelligence         | 1 Action     | 10 ft | Up to 1 hour                  |Can be swapped after a long rest [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#III. Key Differences from Standard 2014 Rules (If Applicable)\|per house rules]].|
+| Mage Hand        | Warlock          | Charisma             | 1 Action     | 30 ft | 1 minute                      |Functions as Mage Hand Legerdemain [[_DM_Instructions/House_Rules#VI. Specific Class/Race Modifications\|per house rules]].                                             |
+| Minor Illusion   | Warlock          | Charisma             | 1 Action     | 30 ft | 1 minute                      |                                                                                                                                                                        |
+| Guidance         | Pact of the Tome | Charisma             | 1 Action     | Touch | Concentration, up to 1 hour   |Counts as a Warlock cantrip.                                                                                                                                            |
+| Control Flames   | Pact of the Tome | Charisma             | 1 Action     | 60 ft | Instantaneous or 1 hour       |Counts as a Warlock cantrip.                                                                                                                                            |
+| Create Bonfire   | Pact of the Tome | Charisma             | 1 Action     | 60 ft | Concentration, up to 1 minute |Counts as a Warlock cantrip.                                                                                                                                            |
+
 
 #### First Level Spells
 | Spell Name     | Source                    | Spellcasting Ability | Casting Time   | Range | Duration                        | Notes                                                               |
 | -------------- | ------------------------- | -------------------- | -------------- | ----- | ------------------------------- | ------------------------------------------------------------------- |
+| Detect Magic   | High Elf Racial           | Intelligence         | 1 Action       | Self  | Concentration, up to 10 minutes | Cast once per long rest without a spell slot, or with a spell slot. |
 | Charm Person   | Warlock                   | Charisma             | 1 Action       | 30 ft | 1 hour                          | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
 | Hellish Rebuke | Warlock                   | Charisma             | 1 Reaction     | 60 ft | Instantaneous                   | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
 | Hex            | Warlock                   | Charisma             | 1 Bonus Action | 90 ft | Concentration, up to 1 hour     | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
 | Alarm          | Pact of the Tome (Ritual) | Charisma             | 1 Minute       | 30 ft | 8 hours                         | Cast as a ritual (10 minutes).                                      |
 | Identify       | Pact of the Tome (Ritual) | Charisma             | 1 Minute       | Touch | Instantaneous                   | Cast as a ritual (10 minutes).                                      |
 | Disguise Self  | Mask of Many Faces        | Charisma             | 1 Action       | Self  | 1 hour                          | No spell slot required.                                             |
-| Detect Magic   | High Elf Racial           | Intelligence         | 1 Action       | Self  | Concentration, up to 10 minutes | Cast once per long rest without a spell slot, or with a spell slot. |
+
 
 
 ## Notes:
