@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T22:47:53
+last_updated: 2025-06-03T22:48:28
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -153,7 +153,7 @@ employer: "[[Factions/The_Society]]"
 - **Ritual Casting:** _Alarm_ and _Identify_ must be cast as rituals via the _Book of Shadows_ (Pact of the Tome), taking 10 minutes and not consuming a spell slot.
 - **Passive Guidance:**
 	- Vaelin has made the reflexive use of _Guidance_ a habit. Whenever time allows and subtlety permits, he traces a brief sigil of across his chest - an unconscious invocation to the Archfey for a moment's favor. Assume he casts _Guidance_ on himself before any ability check unless he's concentrating on something else or the situation makes it unwise.
-	- If there’s ever doubt whether he’d have _Guidance_ active for a check, assume he does - unless casting it would have been risky, suspicious, or prevented by another spell. In that case, ask the player if he wants to cast _Guidance_ despite the risk or drawback.
+	- If there’s ever doubt whether he’d have _Guidance_ active for a check, assume he does - unless casting it would have been risky, suspicious, or prevented by another spell. In that case, ask the player if he wants to cast _Guidance_ despite the risk, drawback, or tradeoff.
 
 ## IV. Equipment & Inventory
 * **Armor:** Leather Armor
