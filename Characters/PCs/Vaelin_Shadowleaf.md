@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-04T10:12:40
+last_updated: 2025-06-04T10:18:59
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -9,7 +9,7 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 3
-xp: 1400
+xp: 1650
 status: active
 current_hp: 24
 max_hp: 24
@@ -170,6 +170,7 @@ employer: "[[Factions/The_Society]]"
     - **Components:** You prepare a set of rough, patched trousers and a loose-fitting, grimy tunic (artfully distressed from your common clothes). You create a convincing "sweat and grime" cosmetic palette. A knitted, brimless cap that can be pulled low, and some wax to simulate callouses or roughen the appearance of your hands.
     - **Utility:** Blends perfectly in the Docks, Shadow Quarter, and other working-class areas. Would be unremarkable enough carrying goods or moving through service entrances even in nicer districts.
     - The three "grey man" disguises you prepared are now significantly enhanced. When you next don one of these _specific three_ improved disguises, you will have **advantage on the first Charisma (Deception) check** you make to establish or maintain that particular disguise in a social encounter or to avoid scrutiny, provided the persona is appropriate for the situation. This benefit applies once per each of the three improved disguise kits.
+    - The specific advantage from this enhanced disguise has been used once.
 - **Persona 2: "The Inconspicuous Scribe"**
     - **Appearance:** A low-level clerk, an overworked apprentice, or a minor functionary.
     - **Components:** You tailor another set of your common clothes to be neater, if somewhat threadbare. You fashion a pair of simple, wire-rimmed spectacles (non-prescription, purely for appearance). You prepare a less grimy makeup set for a paler, more indoor complexion, and have materials to temporarily style your hair to look shorter, less distinctively elven, and perhaps slightly unkempt from long hours over books. A cheap, ink-stained satchel (improvised) can complete the look.

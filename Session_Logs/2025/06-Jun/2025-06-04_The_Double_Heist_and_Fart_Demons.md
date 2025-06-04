@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-06-04T10:16:18
-chat_link: "{{chat_link}}" # Public share link to the corresponding chat session
+last_updated: 2025-06-04T10:22:33
+chat_link: https://g.co/gemini/share/47d39d48d253
 dream_session: false
 session_date: 2025-06-04
 session_title: "The Double Heist and Fart Demons"
@@ -120,5 +120,4 @@ N/A
 This was an incredibly successful session for the PC, highlighting his rogue/warlock synergy for non-combat infiltration and theft. The use of Lirael was excellent. The two distinct heists provided a strong sense of progression and reward. Miri and Grol are now in a very desperate state, potentially leading them to take reckless actions in the future out of desperation. Mira "Quickfingers" is disgraced by the Guild and may now be an independent contact, perhaps seeking revenge on Vaelin or the Guild. The amount of gold gained is substantial and will need to be factored into future economic considerations for Vaelin.
 
 ---
-**Full Chat Session Link:** {{chat_link}}
-(Paste the public share link to this session's chat here after the session concludes.)
+**Full Chat Session Link:** https://g.co/gemini/share/47d39d48d253
