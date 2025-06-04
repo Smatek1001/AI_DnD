@@ -1,19 +1,27 @@
 ---
-last_updated: 2025-06-03T19:03:23
-type: "NPC"
-name: "Sterling Vane"
-aliases: []
+last_updated: 2025-06-03T19:26:35
+type: NPC
+name: Sterling Vane
+aliases:
+  - Sterling
+  - Vane
 status: alive
-race: "Human"
-gender: "Male"
-alignment: "Neutral Evil"
-occupation: "Gambling Den Proprietor"
-importance: "Supporting"
-disposition_to_pc: "Neutral"
-faction: []
+race: Human
+gender: Male
+alignment: Neutral Evil
+occupation: Gambling Den Proprietor
+importance: Supporting
+disposition_to_pc: Neutral
+faction: 
 location: "[[Locations/The_Crimson_Coin|The Crimson Coin]]"
-connections: []
-tags: ["#proprietor", "#criminal", "#gambling", "#human", "#neutral_party", "#flamboyant"]
+connections: 
+tags:
+  - "#proprietor"
+  - "#criminal"
+  - "#gambling"
+  - "#human"
+  - "#neutral_party"
+  - "#flamboyant"
 ---
 # Sterling Vane
 
@@ -22,7 +30,7 @@ tags: ["#proprietor", "#criminal", "#gambling", "#human", "#neutral_party", "#fl
 * **Gender:** Male
 * **Age:** (approximate) 40s
 * **Alignment:** Neutral Evil
-* **Occupation:** Proprietor of "The Crimson Coin" high-stakes gambling den
+* **Occupation:** Proprietor of "[[Locations/The_Crimson_Coin|The Crimson Coin]]" high-stakes gambling den
 * **Status:** alive
 * **Importance:** Supporting
 * **Disposition towards PC:** Neutral (purely transactional, watchful)
@@ -41,7 +49,7 @@ Smooth and articulate speech; often leans casually against a card table or bar, 
 **Flaw:** "His overconfidence in his neutrality and control of his establishment can lead him to underestimate external threats or truly desperate individuals."
 
 ## IV. Background & History
-Sterling Vane arrived in Duskhaven years ago, a man of unknown origins but undeniable charm and a keen eye for opportunity. He quickly established "The Crimson Coin," building it into the city's premier high-stakes gambling den. He has carefully navigated the treacherous waters of Duskhaven's underworld, maintaining a strict neutrality that allows both the city's elite and its most dangerous criminals to frequent his establishment without overt conflict. His success lies in his ability to cater to all, ensuring his coffers are always full.
+Sterling Vane arrived in [[Locations/Duskhaven|Duskhaven]] years ago, a man of unknown origins but undeniable charm and a keen eye for opportunity. He quickly established "[[Locations/The_Crimson_Coin|The Crimson Coin]]," building it into the city's premier high-stakes gambling den. He has carefully navigated the treacherous waters of Duskhaven's underworld, maintaining a strict neutrality that allows both the city's elite and its most dangerous criminals to frequent his establishment without overt conflict. His success lies in his ability to cater to all, ensuring his coffers are always full.
 
 ## V. Goals & Motivations
 ### Short-term Goals
@@ -56,7 +64,7 @@ Wealth, influence, and the pursuit of control through strategic neutrality.
 * **Other Affiliations:** Has transactional relationships and informal ties with various wealthy nobles, corrupt city officials, and high-ranking members of all major criminal factions who frequent his establishment.
 
 ## VII. Current Status & Plot Hooks
-* **Current Location:** Always within "The Crimson Coin" in the [[Locations/Veil|Veil]] district.
+* **Current Location:** Always within "[[Locations/The_Crimson_Coin|The Crimson Coin]]" in the [[Locations/Veil|Veil]] district.
 * **Recent Events:** A new high-roller has begun frequenting "The Crimson Coin," winning (or losing) suspiciously large sums, drawing Vane's discreet attention.
 * **Relevant Quests:** A direct source of vast sums of gold; can be approached for discreet information about his high-profile patrons or the city's hidden elite; might offer a mission to recover a significant debt or protect his establishment from a rival.
 * **Potential Plot Hooks:** Sterling Vane could inadvertently possess an item or knowledge crucial to Vaelin's personal quests, which Vaelin would need to acquire without alerting Vane; Vaelin could attempt to infiltrate "The Crimson Coin" for a gold heist, facing Vane's subtle yet potent security; Vane might be subtly blackmailed by a faction, creating an opportunity for Vaelin to intervene or exploit.
