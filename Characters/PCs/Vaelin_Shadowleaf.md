@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T19:19:06
+last_updated: 2025-06-03T20:21:40
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -110,10 +110,10 @@ employer: "[[Factions/The_Society]]"
     * _Control Flames_ (Pact of the Tome, Cha)
     * _Message_ (Pact of the Tome, Cha)
 * **1st-Level Warlock Spells Known/Prepared:**
+    * _Charm Person_
     * _Hellish Rebuke_
     * _Hex_
-    * _TBD_
-* **Pact of the Tome Rituals (2 total, 1st-level):**
+* **Pact of the Tome Rituals (2 total, 1st-level):** Must have the Book of Shadows to cast. Can only cast as a ritual.
 	* _Alarm_
 	* _Identify_
 * **High Elf Racial Spell:**
