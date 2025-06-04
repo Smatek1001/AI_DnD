@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T19:12:50
+last_updated: 2025-06-03T19:19:06
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -159,6 +159,23 @@ employer: "[[Factions/The_Society]]"
 * **Other Background Items:** Crowbar, a set of dark common clothes including a hood.
 * [[Items/Locket_of_Silent_Passage|Locket_of_Silent_Passage]] - advantage to Stealth checks that rely on silent movement
 * [[Items/Shadow_Shapers_Shard|Shadow_Shapers_Shard]]
+
+### Prepared Disguises
+- **Persona 1: "The Wharf Rat"**
+    - **Appearance:** A dockworker or general laborer.
+    - **Components:** You prepare a set of rough, patched trousers and a loose-fitting, grimy tunic (artfully distressed from your common clothes). You create a convincing "sweat and grime" cosmetic palette. A knitted, brimless cap that can be pulled low, and some wax to simulate callouses or roughen the appearance of your hands.
+    - **Utility:** Blends perfectly in the Docks, Shadow Quarter, and other working-class areas. Would be unremarkable enough carrying goods or moving through service entrances even in nicer districts.
+    - The three "grey man" disguises you prepared are now significantly enhanced. When you next don one of these _specific three_ improved disguises, you will have **advantage on the first Charisma (Deception) check** you make to establish or maintain that particular disguise in a social encounter or to avoid scrutiny, provided the persona is appropriate for the situation. This benefit applies once per each of the three improved disguise kits.
+- **Persona 2: "The Inconspicuous Scribe"**
+    - **Appearance:** A low-level clerk, an overworked apprentice, or a minor functionary.
+    - **Components:** You tailor another set of your common clothes to be neater, if somewhat threadbare. You fashion a pair of simple, wire-rimmed spectacles (non-prescription, purely for appearance). You prepare a less grimy makeup set for a paler, more indoor complexion, and have materials to temporarily style your hair to look shorter, less distinctively elven, and perhaps slightly unkempt from long hours over books. A cheap, ink-stained satchel (improvised) can complete the look.
+    - **Utility:** Suitable for blending into market districts, administrative areas, the Veil (if posing as a scholar's errand-runner), or even passing through the High or Noble districts if appearing to be on an errand.
+    - The three "grey man" disguises you prepared are now significantly enhanced. When you next don one of these _specific three_ improved disguises, you will have **advantage on the first Charisma (Deception) check** you make to establish or maintain that particular disguise in a social encounter or to avoid scrutiny, provided the persona is appropriate for the situation. This benefit applies once per each of the three improved disguise kits.
+- **Persona 3: "The Quiet Lodger"**
+    - **Appearance:** A non-descript tenant, a reclusive individual of modest means.
+    - **Components:** You focus on obscuring features. A dark, high-collared cloak (your own, perhaps, with minor alterations to how it drapes), a soft cap or hood that casts deep shadows, and makeup to dull your features or add subtle signs of age or weariness. You also prepare a few different simple, common accessories (a worn scarf, a cheap wooden holy symbol on a string for a generic deity, a pair of mended gloves) that can be swapped out to subtly alter the impression.
+    - **Utility:** Excellent for general anonymity in most public spaces, especially in residential areas or when trying to be an unmemorable face in a crowd in any district.
+    - The three "grey man" disguises you prepared are now significantly enhanced. When you next don one of these _specific three_ improved disguises, you will have **advantage on the first Charisma (Deception) check** you make to establish or maintain that particular disguise in a social encounter or to avoid scrutiny, provided the persona is appropriate for the situation. This benefit applies once per each of the three improved disguise kits.
 
 ## V. Loot
 - Cipher of Whispers - [[Quests/Completed/The_Cipher_of_Whispers|quest item]] for [[Characters/NPCs/Elaris|Elaris]]

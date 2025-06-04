@@ -1,20 +1,26 @@
 ---
 last_updated: 2025-05-31T10:07:32
-chat_link: "{{chat_link}}" # Public share link to the corresponding chat session
+chat_link: https://g.co/gemini/share/c935c785b2d5
 dream_session: false
-session_date: "2025-05-31" # Use today's date
-session_title: "Elmsworth's Seed and Arcane Studies"
-campaign_day: 5 # Session ended at the start of Day 5
-days_passed_since_campaign_start: 4 # Total cumulative in-game days passed
-pc_current_level: 2 # Level of the PC at the end of this session
+session_date: 2025-05-31
+session_title: Elmsworth's Seed and Arcane Studies
+campaign_day: 5
+days_passed_since_campaign_start: 4
+pc_current_level: 2
 xp_gained: 75
 gold_gained_total: 0
-magic_items_acquired: ["Seed of Whispering Willows"]
+magic_items_acquired:
+  - Seed of Whispering Willows
 level_up_occurred: false
-key_npcs_encountered: ["[[Characters/NPCs/Lirael]]", "Elmsworth (indirectly)"]
-key_locations_visited: ["Woods near Elmsworth's Cottage", "[[Locations/Abandoned_Bakery_Attic]]"]
-quests_advanced: []
-quests_completed: ["[[Quests/Completed/The_Seed_of_Whispering_Willows]]"]
+key_npcs_encountered:
+  - "[[Characters/NPCs/Lirael]]"
+  - Elmsworth (indirectly)
+key_locations_visited:
+  - Woods near Elmsworth's Cottage
+  - "[[Locations/Abandoned_Bakery_Attic]]"
+quests_advanced: 
+quests_completed:
+  - "[[Quests/Completed/The_Seed_of_Whispering_Willows]]"
 tags:
   - "#session_log"
   - "#campaign_day_5"
@@ -87,4 +93,4 @@ Vaelin, accompanied by his new familiar Lirael, undertook a minor heist suggeste
 * Vaelin expressed a preference for Lirael's default fey form when not scouting and for her to be invisible around others.
 
 ---
-**Full Chat Session Link:** {{chat_link}}
+**Full Chat Session Link:** https://g.co/gemini/share/c935c785b2d5
