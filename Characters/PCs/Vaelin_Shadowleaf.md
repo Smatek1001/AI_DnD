@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-04T10:18:59
+last_updated: 2025-06-04T12:14:47
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -195,7 +195,7 @@ employer: "[[Factions/The_Society]]"
 - Customer Repair Items (1x dented silver signet ring, 1x broken gold chain, 1x pair of pearl earrings - mundane, from rightmost drawer)
 
 ### Gold/Currency:
-* 6378 gp
+* 6278 gp
 
 ### Significant Acquired Items (Stashed in Hideout):
 
