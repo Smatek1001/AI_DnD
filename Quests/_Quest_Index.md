@@ -32,6 +32,7 @@ This document serves as an index for all quests, both active and completed, with
 
 | Quest Name | Status | Type | Patron | Primary Location |
 |---|---|---|---|---|
+| [[Quests/Completed/The_Nightshade_Courier_Heist\|The Nightshade Courier Heist]] | completed | Heist / Espionage | [[Characters/NPCs/Finch\|Finch]] | [[Locations/Whispering_Door\|Whispering Door]] |
 | [[Quests/Completed/Harbor_Syndicate_Heist\|Harbor Syndicate Heist]] | completed | heist, espionage | Personal Gain | [[Locations/Market_Square\|Market Square]] |
 | [[Quests/Completed/The_Archivists_Appraisal\|The Archivist's Appraisal]] | completed | delivery, investigation | [[Characters/NPCs/Elaris\|Elaris]] | [[Locations/Shaded_Lantern\|Shaded_Lantern]] to [[Locations/Alistair_Finchleys_Study\|Alistair_Finchley's_Study]] |
 | [[Quests/Completed/Blackwood's_Baubles_Heist\|Blackwood's Baubles Heist]] | completed | Heist / Acquisition | [[Characters/NPCs/Finch\|Finch]] | [[Locations/Blackwood's_Baubles\|Blackwood's Baubles]], [[Locations/Duskhaven\|Duskhaven]] |
