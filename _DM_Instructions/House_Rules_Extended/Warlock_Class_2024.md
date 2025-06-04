@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T23:08:24
+last_updated: 2025-06-03T23:08:41
 rule_set: D&D 5e 2024
 category: Class
 name: Warlock Class (2024)
