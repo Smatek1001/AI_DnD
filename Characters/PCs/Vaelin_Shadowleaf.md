@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T10:03:47
+last_updated: 2025-06-03T19:10:21
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -141,20 +141,10 @@ employer: "[[Factions/The_Society]]"
 | Disguise Self  | Mask of Many Faces        | Charisma             | 1 Action       | Self  | 1 hour                          | No spell slot required.                                             |
 | Detect Magic   | High Elf Racial           | Intelligence         | 1 Action       | Self  | Concentration, up to 10 minutes | Cast once per long rest without a spell slot, or with a spell slot. |
 
-## Notes:
-
-- **Warlock Spell Slots:** Vaelin has 3 first-level spell slots, regained on a short or long rest. These can be used for _Hellish Rebuke_, _Hex_, or _Detect Magic_ (if not using the racial free cast).
-- **Pact Magic Spellcasting:** Warlock spells (_Hellish Rebuke_, _Hex_, _Alarm_, _Identify_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
-- **High Elf Spellcasting:** _Detect Magic_ uses Intelligence.
-- **Ritual Casting:** _Alarm_ and _Identify_ can be cast as rituals via the _Book of Shadows_ (Pact of the Tome), taking 10 minutes and not consuming a spell slot.
 
 ## Notes:
 
-- **Pact Magic Spellcasting:** Warlock cantrips (_Mage Hand_, _Minor Illusion_, _Create Bonfire_, _Control Flames_, _Message_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
-- **High Elf Spellcasting:** _Prestidigitation_ uses Intelligence.
-## Notes:
-
-- **Warlock Spell Slots:** Vaelin has 2 first-level spell slots, regained on a short or long rest. These can be used for _Charm Person_, _Hellish Rebuke_, _Hex_, or _Detect Magic_ (if not using the racial free cast).
+- **Warlock Spell Slots:** Vaelin has 3 first-level spell slots, regained on a short or long rest. These can be used for _Charm Person_, _Hellish Rebuke_, _Hex_, or _Detect Magic_ (if not using the racial free cast).
 - **Pact Magic Spellcasting:** Warlock spells (_Mage Hand_, _Minor Illusion_, _Create Bonfire_, _Control Flames_, _Message_, _Charm Person_, _Hellish Rebuke_, _Hex_, _Alarm_, _Identify_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
 - **High Elf Spellcasting:** _Prestidigitation_ and _Detect Magic_ use Intelligence.
 - **Ritual Casting:** _Alarm_ and _Identify_ can be cast as rituals via the _Book of Shadows_ (Pact of the Tome), taking 10 minutes and not consuming a spell slot.
