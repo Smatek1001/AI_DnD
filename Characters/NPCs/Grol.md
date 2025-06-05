@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T04:58:29
+last_updated: 2025-06-05T00:34:14
 type: "NPC"
 name: "Grol"
 aliases: []
@@ -11,7 +11,7 @@ current_hp: "" # Unknown
 max_hp: "" # Unknown
 armor_class: "" # Unknown
 passive_perception: "" # Unknown, likely low
-location: "[[Locations/Old_Fishery|Old Fishery]] (Cellars, last seen), [[Locations/Duskhaven|Duskhaven]] (Docks, general operational area), frequents [[Locations/Wharf_Rat's_Rest|Wharf Rat's Rest]]"
+location: "[[Locations/Abandoned_Warehouse_New_Hideout|Abandoned Warehouse (New Hideout)]] (Cellar)"
 faction: "Member of [[Characters/NPCs/Magpie_Miri|Magpie Miri]]'s gang"
 role: "Muscle, Bruiser, Thug"
 description: "A large, powerfully built human male with a bald head, dressed in rough, stained leather. Appears strong but not particularly intelligent or observant. Described by Finch as 'lumbering'."
@@ -36,4 +36,4 @@ dm_notes: "The muscle of [[Characters/NPCs/Magpie_Miri|Miri]]'s crew. Was tasked
 ROT-13: ""
 ---
 # NPC: Grol
-...(Content from above to be pasted by user)...
+Currently holed up and asleep in the cellar of the Abandoned Warehouse at the edge of the Docks/Shadow Quarter after a terrifying night at The Sinking Stoat and a failed heist at Pier 7. Morale is extremely low; Miri suspects a personal, clever tormentor. Vaelin is observing them.

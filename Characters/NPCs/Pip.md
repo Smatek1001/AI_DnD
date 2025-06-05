@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T04:58:43
+last_updated: 2025-06-05T00:34:19
 type: "NPC"
 name: "Pip"
 aliases: []
@@ -11,7 +11,7 @@ current_hp: "" # Unknown
 max_hp: "" # Unknown
 armor_class: "" # Unknown
 passive_perception: "" # Standard Goblin is 9, likely this or slightly higher due to nervousness
-location: "[[Locations/Old_Fishery|Old Fishery]] (Cellars, last seen), [[Locations/Duskhaven|Duskhaven]] (Docks, general operational area), frequents [[Locations/Wharf_Rat's_Rest|Wharf Rat's Rest]]"
+location: "[[Locations/Abandoned_Warehouse_New_Hideout|Abandoned Warehouse (New Hideout)]] (Cellar)"
 faction: "Member of [[Characters/NPCs/Magpie_Miri|Magpie Miri]]'s gang"
 role: "Lackey, Skirmisher, Scout"
 description: "A wiry, small, and twitchy goblin with beady eyes that dart around nervously. Carries a cruel-looking shiv. Seems opportunistic and quick to comment or complain."
@@ -35,4 +35,5 @@ dm_notes: "The goblin member of [[Characters/NPCs/Magpie_Miri|Miri]]'s crew. Was
 ROT-13: ""
 ---
 # NPC: Pip
-...(Content from above to be pasted by user)...
+
+Currently holed up and asleep in the cellar of the Abandoned Warehouse at the edge of the Docks/Shadow Quarter after a terrifying night at The Sinking Stoat and a failed heist at Pier 7. Morale is extremely low; Miri suspects a personal, clever tormentor. Vaelin is observing them.

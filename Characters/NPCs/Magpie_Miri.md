@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T04:58:33
+last_updated: 2025-06-05T00:34:10
 type: "NPC"
 name: "Magpie Miri"
 aliases: ["Miri", "Boss" (by Grol & Pip)]
@@ -11,7 +11,7 @@ current_hp: "" # Unknown
 max_hp: "" # Unknown
 armor_class: "" # Unknown
 passive_perception: "" # Unknown, likely moderately alert
-location: "[[Locations/Old_Fishery|Old Fishery]] (Cellars, last seen), [[Locations/Duskhaven|Duskhaven]] (Docks, general operational area), frequents [[Locations/Wharf_Rat's_Rest|Wharf Rat's Rest]]"
+location: "[[Locations/Abandoned_Warehouse_New_Hideout|Abandoned Warehouse (New Hideout)]] (Cellar)"
 faction: "Leader of a small, independent Docks gang (associates: [[Characters/NPCs/Grol|Grol]], [[Characters/NPCs/Pip|Pip]])"
 role: "Minor Antagonist, Gang Leader, Thief"
 description: "A human woman with lank, greasy dark hair, into which a large, black crow feather is messily tied. She has a predatory focus and a sharp, impatient voice. Appears to be the leader and decision-maker of her small crew."
@@ -35,4 +35,4 @@ dm_notes: "Leader of the trio that stole the Ratlings' medicine box. Encountered
 ROT-13: ""
 ---
 # NPC: "Magpie" Miri
-...(Content from above to be pasted by user)...
+Currently holed up and asleep in the cellar of the Abandoned Warehouse at the edge of the Docks/Shadow Quarter after a terrifying night at The Sinking Stoat and a failed heist at Pier 7. Morale is extremely low; Miri suspects a personal, clever tormentor. Vaelin is observing them.

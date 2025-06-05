@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-04T10:17:14
+last_updated: 2025-06-05T00:30:54
 index_type: Session Log Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -18,7 +18,8 @@ This document serves as a chronological index of all canonical play sessions, pr
 
 | Session Date | Session Title                                                                                                                  | Days Passed                     | PC Level | XP Gained |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | -------- | --------- |
-| 2025-06-04   | [[Session_Logs/2025/06-Jun/2025-06-04_The_Double_Heist_and_Fart_Demons\|2025-06-04_The_Double_Heist_and_Fart_Demons]] | 5 | 3 | 250 |
+| 2025-06-05 | [[Session_Logs/2025/06-Jun/2025-06-05_Warehouse_Vigil_and_Torment\|Warehouse Vigil and Torment]] | 6 | 3 | 300 |
+| 2025-06-04   | [[Session_Logs/2025/06-Jun/2025-06-04_The_Double_Heist_and_Fart_Demons\|The_Double_Heist_and_Fart_Demons]] | 5 | 3 | 250 |
 | 2025-06-03   | [[Session_Logs/2025/06-Jun/2025-06-03_Harbor_Syndicate_Heist\|Harbor Syndicate Heist]] | 5 | 3 | 500 |
 | 2025-06-03   | [[Session_Logs/2025/06-Jun/2025-06-03_Appraisal_Arcana_and_Advancement\|Appraisal, Arcana, and Advancement]] | Day 6 (events during) | 3 | 150 |
 | 2025-06-02   | [[Session_Logs/2025/06-Jun/2025-06-02_The_Blackwood_Heist\|The Blackwood Heist]] | 5 | 2 | 300 |
