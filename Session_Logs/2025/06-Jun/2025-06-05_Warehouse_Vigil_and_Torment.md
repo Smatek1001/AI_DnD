@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-06-05T00:31:00
-chat_link: "{{chat_link}}"
+last_updated: 2025-06-05T00:36:47
+chat_link: https://g.co/gemini/share/b25058b4f801
 dream_session: false
 session_date: "2025-06-05"
 session_title: "Warehouse Vigil and Torment"
@@ -123,4 +123,4 @@ The session concluded with Vaelin, now refreshed, deciding to have Lirael invisi
 (This session involved extensive timeline corrections and clarifications. The focus was on Vaelin's meticulous planning, stealth, use of illusions for psychological effect, and familiar deployment. Good roleplaying of Vaelin's methodical approach to dismantling Miri's gang's sanity.)
 
 ---
-**Full Chat Session Link:** {{chat_link}}
+**Full Chat Session Link:** https://g.co/gemini/share/b25058b4f801
