@@ -12,6 +12,7 @@ This document serves as an index for all notable items within the campaign, part
 
 | Item Name | Category | Rarity | Attunement | Current Owner |
 |---|---|---|---|---|
+| [[Items/Magic_Dice\|Magic_Dice]] | Wondrous Item | Legendary | Yes | (Not yet acquired) |
 | [[Items/Shadowpiercer\|Shadowpiercer]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
 | [[Items/Face_of_the_Forgotten\|Face of the Forgotten]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
 | [[Items/Mantle_of_the_Veiled_Step\|Mantle_of_the_Veiled_Step]] | Wondrous Item | Rare | Yes | (Not yet acquired) |
