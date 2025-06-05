@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T08:06:24
+last_updated: 2025-06-05T13:50:53
 rule_type: House Rules
 aliases:
   - The House Rules
@@ -50,7 +50,7 @@ This document outlines any modifications, additions, or specific interpretations
 
 ## VI. Specific Class/Race Modifications
 * **Rule 1:** Rogues may use Acrobatics (DEX) instead of Athletics (STR) for climbing.
-* **Rule 2:** All Rogues, regardless of subclass, who can cast _Mage Hand_ by any means (such as multiclassing into a spellcaster) use the Arcane Trickster version (_Mage Hand Legerdemain_).
+* **Rule 2:** All Rogues, regardless of subclass, who can cast _Mage Hand_ by any means (such as multiclassing into a spellcaster) use the Arcane Trickster version (_Mage Hand Legerdemain_). Furthermore, the _Mage Hand_ manifests as a pair of hands, allowing an object to be held while another is manipulated. For example, holding a pouch while opening a door.
 	* _Mage Hand Legerdemain_: 
 		* Casting time: 1 Bonus Action
 		* Range: 30 feet
