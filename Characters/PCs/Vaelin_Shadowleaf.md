@@ -148,8 +148,8 @@ employer: "[[Factions/The_Society]]"
 #### Second Level Spells
 | Spell Name     | Source             | Spellcasting Ability | Casting Time        | Range | Duration                        | Notes                                                               |
 | -------------- | ------------------ | -------------------- | ------------------- | ----- | ------------------------------- | ------------------------------------------------------------------- |
-| Invisibility   | Warlock.           | Charisma.            | 1 Action            | Self  | Concentration, up to 10 minutes | Cast once per long rest without a spell slot, or with a spell slot. |
-| Spider Climb   | Warlock            | Charisma             | 1 Action            | 30 ft | 1 hour                          | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
+| Invisibility   | Warlock            | Charisma             | 1 Action            | Self  | Concentration, up to 10 minutes |  |
+| Spider Climb   | Warlock            | Charisma             | 1 Action            | 30 ft | 1 hour                          |  |
 
 
 ## Notes:
