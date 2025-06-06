@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-05T23:28:30
+last_updated: 2025-06-05T23:30:27
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -261,7 +261,7 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 * [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] 1 ([[Lore/Pantheon/Caladwen|Caladwen]] - Archfey Patron): Pact of the Chain ([[Characters/NPCs/Lirael|Lirael]]), Pact of the Tome
     * story: patron and/or familiar is a mentor for magic and arcane knowledge
     * will obtain spells and invocations that aid espionage and arcane research
-    * **Caladwen** will gift the [[Items/Dice_of_Fortune_and_Ruin|Dice_of_Fortune_and_Ruin|Dice of Fortune and Ruin]] to Vaelin when he achieves Warlock level 3 and officially accepts her as his Archfey Patron.L
+    * **Caladwen** will gift the [[Items/Dice_of_Fortune_and_Ruin|Dice_of_Fortune_and_Ruin|Dice of Fortune and Ruin]] to Vaelin when he achieves Warlock level 3 and officially accepts her as his Archfey Patron.
 * Rogue (Assassin): Assassinate
     * story: training in spy-craft for espionage and assassination
 * Ranger (Gloom Stalker) 5: Dread Ambusher, Umbral Sight, extra attack
