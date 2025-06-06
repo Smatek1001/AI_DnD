@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-03T20:46:23
+last_updated: 2025-06-06T01:07:53
 index_type: Quest Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -32,6 +32,7 @@ This document serves as an index for all quests, both active and completed, with
 
 | Quest Name | Status | Type | Patron | Primary Location |
 |---|---|---|---|---|
+| [[Quests/Completed/The_Pulsing_Chest|The Pulsing Chest]] | completed | side | [[Characters/NPCs/Elaris\|Elaris]] | [[Locations/Shaded_Lantern|Shaded Lantern]] |
 | [[Quests/Completed/Magpie_Miri_Harassment_Campaign\|Magpie Miri Harassment Campaign]] | completed | espionage, psychological_warfare, indirect_combat | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] | [[Locations/Duskhaven\|Duskhaven]] (various districts) |
 | [[Quests/Completed/The_Salt_Warehouse_Heist\|The Salt Warehouse Heist]] | completed | Heist / Retribution | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] | [[Locations/Salt_Warehouse\|Salt Warehouse]] |
 | [[Quests/Completed/The_Nightshade_Courier_Heist\|The Nightshade Courier Heist]] | completed | Heist / Espionage | [[Characters/NPCs/Finch\|Finch]] | [[Locations/Whispering_Door\|Whispering Door]] |

@@ -1,73 +1,70 @@
 ---
-last_updated: 2025-06-05T19:05:22
+last_updated: 2025-06-07T01:04:07
 campaign_name: "Vaelin's Campaign"
-current_in_game_date: "Campaign Day 9, Night (Approx. 9:00 PM)" 
-days_passed_since_campaign_start: 8
-last_session_summary: "Vaelin completed his harassment campaign against Miri's gang, leading to their utter decimation. He tormented them psychologically and indirectly, causing their defeat at Garrick's hands and the recovery of a mysterious Obsidian Orb. Pip fled, while Miri and Grol were left severely beaten but alive."
-current_pc_status: "Rogue 1/Warlock 2 (Lvl 3). HP: 24/24. XP: 1300. Warlock Spell Slots: 2/2 (1st lvl, restored). Magical Cunning available. Gold: 6278gp."
-current_party_location: "[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]"
+current_in_game_date: "Campaign Day 10, Early Morning (Approx. 3:00 AM)"
+days_passed_since_campaign_start: 9
+last_session_summary: "Vaelin assisted Elaris by opening a cursed, lead-lined chest containing the 'Heart of the Mountain.' As a reward, he gained gold and access to her library, where he advanced to level 4 (Rogue 1/Warlock 3)."
+current_pc_status: "Level 4 (Rogue 1/Warlock 3). HP: 32/32. XP: 2700. Warlock Spell Slots: 2/2 (2nd Lvl). Gold: 6428gp."
+current_party_location: "[[Locations/Shaded_Lantern|Shaded Lantern]]"
 active_quests:
-  - "[[Quests/Active/Whispers_of_Magister_Vayne\|Whispers of Magister Vayne]] (Investigate the parchment and its contents - Implicit)"
-  - "[[Quests/Active/Understanding_the_Oculus_Array\|Understanding the Oculus Array]] (Determine nature/purpose of lenses/cylinder, especially with Resonance Core - Implicit)"
-  - "[[Quests/Active/The_House_of_Silent_Stars\|The House of Silent Stars]] (Follow up on Elaris's research or artifact clues - Implicit/Potential)"
+  - "[[Quests/Active/Whispers_of_Magister_Vayne|Whispers of Magister Vayne]]"
+  - "[[Quests/Active/Understanding_the_Oculus_Array|Understanding the Oculus Array]]"
 new_plot_hooks:
-  - "[[Items/Obsidian_Orb\|The Obsidian Orb]] and its alien magic"
-  - "The fate of [[Characters/NPCs/Pip\|Pip]]"
-  - "The aftermath and potential retribution from the [[Factions/Harbor_Syndicate\|Harbor Syndicate]]"
+  - "The secret of the [[Items/Heart_of_the_Mountain|Heart of the Mountain]], now held by Elaris."
+  - "The nature of the [[Items/Obsidian_Orb|Obsidian Orb]] in his stash."
+  - "The unknown fate of Pip."
+  - "Potential retribution from the Harbor Syndicate."
 notable_npcs_nearby:
-  - "[[Characters/NPCs/Finch\|Finch]] (aware of Miri's gang's downfall)"
-  - "[[Characters/NPCs/Lirael\|Lirael]] (with Vaelin)"
+  - "[[Characters/NPCs/Elaris|Elaris]]"
+  - "[[Characters/NPCs/Lyra|Lyra]]"
+  - "[[Characters/NPCs/Lirael|Lirael]]"
 key_plot_points_pending:
-  - "Further investigation of the Obsidian Orb's nature and purpose."
-  - "Deciding on next steps regarding Magister Vayne's parchment and the Oculus Array."
-  - "Following up on the lead-lined chest from [[Characters/NPCs/Elaris\|Elaris]]."
-  - "Exploring Vaelin's personal backstory and connection to Therandril and The Nameless Void."
+  - "Investigating Magister Vayne's parchment."
+  - "Deciding what to do with the Oculus Array components."
+  - "Exploring Vaelin's personal backstory and connection to Therandril."
 tags:
   - "#context"
   - "#current_status"
-  - "#campaign_day_9"
-  - "#night"
-  - "#harassment_campaign_concluded"
+  - "#campaign_day_10"
+  - "#early_morning"
 ---
 # Current Campaign Status - Vaelin's Campaign
 
 ## I. Current In-Game Time & Location
 
-* **Current In-Game Date:** Campaign Day 9, Night (Approx. 9:00 PM)
-* **Days Passed Since Campaign Start:** 8 days
-* **Current Party Location:** [[Locations/Abandoned_Bakery_Attic\|The Hideout]] (Vaelin has returned and taken a long rest).
-* **Brief Description of Location:** Vaelin is safe and concealed in his attic hideout, having just completed a long rest. The city outside is quiet for the night.
+* **Current In-Game Date:** Campaign Day 10, Early Morning (Approx. 3:00 AM)
+* **Days Passed Since Campaign Start:** 9 days
+* **Current Party Location:** [[Locations/Shaded_Lantern|Shaded Lantern]]
+* **Brief Description of Location:** Vaelin is within the warded, private library of Elaris's arcane shop, having just completed his studies.
 
 ## II. Last Session Recap
 
-* **Last Session Summary:** Vaelin completed his harassment campaign against Magpie Miri's gang, leading to their utter decimation. He tormented them psychologically and indirectly, causing their defeat at Garrick's hands and the recovery of a mysterious Obsidian Orb. Pip fled, while Miri and Grol were left severely beaten but alive.
-* **PC Status at Last Session End:** Rogue 1/Warlock 2 (Lvl 3). HP: 24/24. XP: 1300. Warlock Spell Slots: 2/2 (1st lvl, restored). Magical Cunning available. Gold: 6278gp.
+* **Last Session Summary:** Vaelin assisted Elaris by opening a cursed, lead-lined chest containing the 'Heart of the Mountain.' As a reward, he gained gold and access to her library, where he advanced to level 4 (Rogue 1/Warlock 3).
+* **PC Status at Last Session End:** Level 4 (Rogue 1/Warlock 3). HP: 32/32. XP: 2700. Warlock Spell Slots: 2/2 (2nd Lvl). Gold: 6428gp.
 
 ## III. Active Quests & Plot Threads
 
 * **Active Quests:**
-    * [[Quests/Active/Whispers_of_Magister_Vayne\|Whispers of Magister Vayne]]: Investigate the parchment and its contents.
-    * [[Quests/Active/Understanding_the_Oculus_Array\|Understanding the Oculus Array]]: Determine nature/purpose of lenses/cylinder, especially with Resonance Core.
-    * [[Quests/Active/The_House_of_Silent_Stars\|The House of Silent Stars]]: Potential follow-up with [[Characters/NPCs/Elaris\|Elaris]] regarding ancient elven lore.
+    * [[Quests/Active/Whispers_of_Magister_Vayne|Whispers of Magister Vayne]]: Investigate the strange parchment.
+    * [[Quests/Active/Understanding_the_Oculus_Array|Understanding the Oculus Array]]: Determine the purpose of the strange lenses and mechanical cylinder.
 * **Key Plot Points Pending:**
-    * Further investigation of the [[Items/Obsidian_Orb\|Obsidian Orb]]'s nature and purpose.
-    * The unknown fate of **Pip**.
-    * The aftermath and potential retribution from the [[Factions/Harbor_Syndicate\|Harbor Syndicate]] due to the humiliation of Skarlix and Brak.
-    * Following up on the lead-lined chest from [[Characters/NPCs/Elaris\|Elaris]].
-    * Exploring Vaelin's personal backstory and connection to [[Locations/Therandril\|Therandril]] and [[Lore/Cosmology/The_Nameless_Void\|The Nameless Void]].
+    * The secret of the [[Items/Heart_of_the_Mountain|Heart of the Mountain]], now held by Elaris.
+    * The nature of the [[Items/Obsidian_Orb|Obsidian Orb]] in his stash.
+    * The unknown fate of Pip.
+    * Potential retribution from the Harbor Syndicate.
+    * Exploring Vaelin's personal backstory and connection to [[Locations/Therandril|Therandril]] and [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]].
 
 ## IV. Notable NPCs & Factions Nearby
 
-* **Notable NPCs (in immediate vicinity):**
-    * [[Characters/NPCs/Finch\|Finch]] (aware of Miri's gang's downfall, but not currently with Vaelin)
-    * [[Characters/NPCs/Lirael\|Lirael]] (allied familiar, with Vaelin)
-* **Factions Present (in current location or relevant to immediate plot):**
-    * [[Factions/Harbor_Syndicate\|Harbor Syndicate]] (now bearing a grudge against Miri's gang, indirectly due to Vaelin)
-    * [[Factions/Ratlings\|Ratlings]] (allies via Finch)
+* **Notable NPCs:**
+    * [[Characters/NPCs/Elaris|Elaris]]
+    * [[Characters/NPCs/Lyra|Lyra]]
+    * [[Characters/NPCs/Lirael|Lirael]]
+* **Factions Present:**
+    * The Shaded Lantern is a neutral ground, but sits within the [[Factions/Nightshade_Guild|Nightshade Guild]]'s sphere of influence in the Veil.
 
 ## V. DM Notes for Next Session
 
-* The successful harassment campaign against Miri's gang has effectively neutralized them as active antagonists for the foreseeable future.
-* The [[Items/Obsidian_Orb\|Obsidian Orb]] provides a new, tangible lead for Vaelin's arcane research and personal quest.
-* Consider how the [[Factions/Harbor_Syndicate\|Harbor Syndicate]] might react to the defeat of Miri's gang and the perceived insult from Skarlix.
-* Review Vaelin's desired mechanical progression to guide future opportunities.
+* With his level-up complete, Vaelin has new tools at his disposal.
+* He is currently in a safe location, providing a good opportunity for planning his next move or interacting further with Elaris.
+* The discovery of the *Heart of the Mountain* creates a new secret and a potential future plot hook with Elaris.

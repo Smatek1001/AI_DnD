@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-06T00:56:46
+last_updated: 2025-06-06T01:19:31
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -8,7 +8,7 @@ race: Elf
 subrace: High Elf
 background: Spy
 alignment: Neutral
-level: 3
+level: 4
 xp: 2700
 status: active
 current_hp: 32
@@ -25,11 +25,11 @@ class1_spellcasting_ability: ""
 class1_spell_save_dc: 0
 class1_spell_attack_bonus: 0
 class2_name: Warlock
-class2_level: 2
+class2_level: 3
 class2_subclass: Archfey
 class2_spellcasting_ability: Charisma
-class2_spell_save_dc: 11
-class2_spell_attack_bonus: 3
+class2_spell_save_dc: 12
+class2_spell_attack_bonus: 4
 employer: "[[Factions/The_Society]]"
 ---
 
@@ -138,18 +138,18 @@ employer: "[[Factions/The_Society]]"
 | Spell Name     | Source             | Spellcasting Ability | Casting Time        | Range | Duration                        | Notes                                                               |
 | -------------- | ------------------ | -------------------- | ------------------- | ----- | ------------------------------- | ------------------------------------------------------------------- |
 | Detect Magic   | High Elf Racial    | Intelligence         | 1 Action            | Self  | Concentration, up to 10 minutes | Cast once per long rest without a spell slot, or with a spell slot. |
-| Charm Person   | Warlock            | Charisma             | 1 Action            | 30 ft | 1 hour                          | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
-| Hellish Rebuke | Warlock            | Charisma             | 1 Reaction          | 60 ft | Instantaneous                   | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
-| Hex            | Warlock            | Charisma             | 1 Bonus Action      | 90 ft | Concentration, up to 1 hour     | Requires a Warlock spell slot. Spell Save DC: 11, Spell Attack: +3. |
+| Charm Person   | Warlock            | Charisma             | 1 Action            | 30 ft | 1 hour                          |                                                                     |
+| Hellish Rebuke | Warlock            | Charisma             | 1 Reaction          | 60 ft | Instantaneous                   |                                                                     |
+| Hex            | Warlock            | Charisma             | 1 Bonus Action      | 90 ft | Concentration, up to 1 hour     |                                                                     |
 | Alarm          | Pact of the Tome   | Charisma             | 11 Minutes (Ritual) | 30 ft | 8 hours                         | Cast as a ritual (10 minutes).                                      |
 | Identify       | Pact of the Tome   | Charisma             | 11 Minutes (Ritual) | Touch | Instantaneous                   | Cast as a ritual (10 minutes).                                      |
 | Disguise Self  | Mask of Many Faces | Charisma             | 1 Action            | Self  | 1 hour                          | No spell slot required.                                             |
 
 #### Second Level Spells
-| Spell Name     | Source             | Spellcasting Ability | Casting Time        | Range | Duration                        | Notes                                                               |
-| -------------- | ------------------ | -------------------- | ------------------- | ----- | ------------------------------- | ------------------------------------------------------------------- |
-| Invisibility   | Warlock            | Charisma             | 1 Action            | Self  | Concentration, up to 10 minutes |  |
-| Spider Climb   | Warlock            | Charisma             | 1 Action            | 30 ft | 1 hour                          |  |
+| Spell Name     | Source             | Spellcasting Ability | Casting Time        | Range | Duration                    | Notes                                                               |
+| -------------- | ------------------ | -------------------- | ------------------- | ----- | --------------------------- | ------------------------------------------------------------------- |
+| Invisibility   | Warlock            | Charisma             | 1 Action            | Touch | Concentration, up to l hour |                                                                     |
+| Spider Climb   | Warlock            | Charisma             | 1 Action            | Touch | Concentration, up to l hour |                                                                     |
 
 
 ## Notes:
