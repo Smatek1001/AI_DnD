@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-06-06T01:09:20
-chat_link: "{{chat_link}}"
+last_updated: 2025-06-06T01:52:04
+chat_link: https://g.co/gemini/share/15b5e13d2ee9
 dream_session: false
 session_date: "2025-06-07"
 session_title: "The Pulsing Chest"
@@ -63,3 +63,6 @@ Vaelin responded to a summons from the arcane sage Elaris to investigate a myste
 ## VI. Quests Progress
 * **Quests Completed:**
     * [[Quests/Completed/The_Pulsing_Chest|The Pulsing Chest]]: Vaelin successfully opened the chest and identified its contents, fulfilling his contract with Elaris.
+
+---
+**Full Chat Session Link:** https://g.co/gemini/share/15b5e13d2ee9
