@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-06T01:21:13
+last_updated: 2025-06-06T01:48:57
 type: "Item"
 name: "Dice of Fortune and Ruin"
 aliases: 
@@ -94,17 +94,6 @@ Choose one effect to invoke at any time — no action required:
 1. **Foresight Flash** – Gain the effects of _Foresight_ (1 minute duration).
 2. **Perfect Timing** – Replace any d20 roll made within 60 ft with a **natural 20** or **natural 1** (your choice).
 3. **Against All Odds** – After failing a roll or taking lethal damage, **succeed** the roll instead or **reduce damage to 0**.
-
----
-
-## 📈 Tiered Growth (Optional Milestone Scaling)
-
-|Tier|Unlock Trigger|New Feature(s)|
-|---|---|---|
-|I|At attunement|Base abilities|
-|II|Level 7 or near-death experience|Auto-Perception on rest, Black Die can affect Reactions|
-|III|Level 13 or tricking a Fey/devil/demigod|Choose 2 ability types for Fey Insight, Curse ignores saves once/day|
-|IV|Level 17 or fulfilling a Fey bargain|Auto-Heal at 0 HP, Curse can Banish for 1 minute (1/day)|
 
 ---
 
