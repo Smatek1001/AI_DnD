@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-05T23:23:19
+last_updated: 2025-06-06T01:04:53
 type: "Item"
 name: "Dice of Fortune and Ruin"
 aliases: 
@@ -108,7 +108,7 @@ Choose one effect to invoke at any time — no action required:
 
 ---
 
-## 🧿 Sentience & Personality (Optional Flavor)
+## 🧿 Sentience & Personality
 
 - The dice are semi-sentient spirits who bicker constantly.
 - The white die ("Glimmer") is clever, supportive, and sarcastic.
