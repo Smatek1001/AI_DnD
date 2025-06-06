@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-06T01:20:42
+last_updated: 2025-06-06T01:21:13
 type: "Item"
 name: "Dice of Fortune and Ruin"
 aliases: 
@@ -9,7 +9,7 @@ attunement: true
 source: "Custom"
 current_owner: "[[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]]"
 status: active
-origin_location: "" # [[Location Name]] (NEW)
+origin_location: "Caladwen (gift)" # [[Location Name]] (NEW)
 quest_item_for: [] # [[Quest Name]] (NEW)
 tags: ["#wondrous_item", "#attunement", "#custom"] # (NEW/ENHANCED)
 ---
