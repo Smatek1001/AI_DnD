@@ -1,7 +1,7 @@
 ---
-last_updated: 2025-06-05T23:13:07
+last_updated: 2025-06-05T23:23:19
 type: "Item"
-name: "Dice of the Fated Duel"
+name: "Dice of Fortune and Ruin"
 aliases: 
 category: "Wondrous Item"
 rarity: "Legendary"
@@ -13,7 +13,7 @@ origin_location: "" # [[Location Name]] (NEW)
 quest_item_for: [] # [[Quest Name]] (NEW)
 tags: ["#wondrous_item", "#attunement", "#custom"] # (NEW/ENHANCED)
 ---
-# 🎲 Dice of the Fated Duel
+# 🎲 Dice of Fortune and Ruin
 
 _Wondrous item, legendary (requires attunement)_
 
@@ -27,7 +27,7 @@ A paired set of enchanted Fey dice — one **white**, one **black** — created 
 
 ## 🎲 Dice Overview
 
-### ⚪ White Die — _Die of Fortune_
+### ⚪ White Die — _Die of Fortune_ aka "Glimmer"
 
 Applies **only to the attuned bearer**. Always active. No concentration required.
 
@@ -39,7 +39,7 @@ Applies **only to the attuned bearer**. Always active. No concentration required
 
 ---
 
-### ⚫ Black Die — _Die of Ruin_
+### ⚫ Black Die — _Die of Ruin_ aka "Murk"
 
 Used to debuff enemies. Requires actions to use.
 
@@ -111,8 +111,8 @@ Choose one effect to invoke at any time — no action required:
 ## 🧿 Sentience & Personality (Optional Flavor)
 
 - The dice are semi-sentient spirits who bicker constantly.
-- The white die is clever, supportive, and sarcastic.
-- The black die is manipulative, bold, and loves chaos.
+- The white die ("Glimmer") is clever, supportive, and sarcastic.
+- The black die ("Murk") is manipulative, bold, and loves chaos.
 - Their whispers can grow louder as the stakes rise, and they often demand the bearer take bold or risky actions in exchange for power.
 
 ---

@@ -12,7 +12,7 @@ This document serves as an index for all notable items within the campaign, part
 
 | Item Name                                                                | Category        | Rarity    | Attunement | Current Owner      |
 | ------------------------------------------------------------------------ | --------------- | --------- | ---------- | ------------------ |
-| [[Items/Dice_of_the_Fated_Duel\|Dice of the Fated Duel]]                 | Wondrous Item   | Legendary | Yes        | (Not yet acquired) |
+| [[Items/Dice_of_Fortune_and_Ruin\|Dice of the Fated Duel]]                 | Wondrous Item   | Legendary | Yes        | (Not yet acquired) |
 | [[Items/Shadowpiercer\|Shadowpiercer]]                                   | Wondrous Item   | Rare      | Yes        | (Not yet acquired) |
 | [[Items/Face_of_the_Forgotten\|Face of the Forgotten]]                   | Wondrous Item   | Rare      | Yes        | (Not yet acquired) |
 | [[Items/Mantle_of_the_Veiled_Step\|Mantle_of_the_Veiled_Step]]           | Wondrous Item   | Rare      | Yes        | (Not yet acquired) |
