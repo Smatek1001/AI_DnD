@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-05T19:20:37
+last_updated: 2025-06-06T01:20:31
 index_type: "Item Overview"
 campaign_name: "Vaelin's Campaign"
 tags: ["#item_index", "#item_overview", "#magic_items", "#index_file", "#campaign_data", "#unique_items"] # (NEW/ENHANCED)
@@ -12,7 +12,7 @@ This document serves as an index for all notable items within the campaign, part
 
 | Item Name                                                                | Category        | Rarity    | Attunement | Current Owner      |
 | ------------------------------------------------------------------------ | --------------- | --------- | ---------- | ------------------ |
-| [[Items/Dice_of_Fortune_and_Ruin\|Dice of the Fated Duel]]                 | Wondrous Item   | Legendary | Yes        | (Not yet acquired) |
+| [[Items/Dice_of_Fortune_and_Ruin\|Dice of the Fated Duel]]               | Wondrous Item   | Legendary | Yes        | [[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]] |
 | [[Items/Shadowpiercer\|Shadowpiercer]]                                   | Wondrous Item   | Rare      | Yes        | (Not yet acquired) |
 | [[Items/Face_of_the_Forgotten\|Face of the Forgotten]]                   | Wondrous Item   | Rare      | Yes        | (Not yet acquired) |
 | [[Items/Mantle_of_the_Veiled_Step\|Mantle_of_the_Veiled_Step]]           | Wondrous Item   | Rare      | Yes        | (Not yet acquired) |
