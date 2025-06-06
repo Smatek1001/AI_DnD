@@ -167,6 +167,7 @@ employer: "[[Factions/The_Society]]"
 * **Other Background Items:** Crowbar, a set of dark common clothes including a hood.
 * [[Items/Locket_of_Silent_Passage|Locket_of_Silent_Passage]] - advantage to Stealth checks that rely on silent movement
 * [[Items/Shadow_Shapers_Shard|Shadow_Shapers_Shard]]
+* [[Items/Dice_of_Fortune_and_Ruin|Dice_of_Fortune_and_Ruin|Dice of Fortune and Ruin]] - a gift from Vaelin's Archfey Patron [[Lore/Pantheon/Caladwen|Caladwen]] to help him as a solo adventurer.
 
 ### Prepared Disguises
 - **Persona 1: "The Wharf Rat"**
@@ -265,7 +266,7 @@ Vaelin Shadowleaf operates within [[Factions/The_Society|The Society]], a secret
 * [[_DM_Instructions/House_Rules_Extended/Warlock_Class_2024|Warlock]] 1 ([[Lore/Pantheon/Caladwen|Caladwen]] - Archfey Patron): Pact of the Chain ([[Characters/NPCs/Lirael|Lirael]]), Pact of the Tome
     * story: patron and/or familiar is a mentor for magic and arcane knowledge
     * will obtain spells and invocations that aid espionage and arcane research
-    * **Caladwen** will gift the [[Items/Dice_of_Fortune_and_Ruin|Dice_of_Fortune_and_Ruin|Dice of Fortune and Ruin]] to Vaelin when he achieves Warlock level 3 and officially accepts her as his Archfey Patron.
+    * **Caladwen** will gift the [[Items/Dice_of_Fortune_and_Ruin|Dice_of_Fortune_and_Ruin|Dice of Fortune and Ruin]] to Vaelin when he achieves Warlock level 3 and officially accepts her as his Archfey Patron. This can be communicated in a dream. When he wakes he will find a velvet bag containing the dice in his ritual magic circle.
 * Rogue (Assassin): Assassinate
     * story: training in spy-craft for espionage and assassination
 * Ranger (Gloom Stalker) 5: Dread Ambusher, Umbral Sight, extra attack
