@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-06T01:04:53
+last_updated: 2025-06-06T01:20:42
 type: "Item"
 name: "Dice of Fortune and Ruin"
 aliases: 
@@ -7,7 +7,7 @@ category: "Wondrous Item"
 rarity: "Legendary"
 attunement: true
 source: "Custom"
-current_owner: ""
+current_owner: "[[Characters/PCs/Vaelin_Shadowleaf\|Vaelin Shadowleaf]]"
 status: active
 origin_location: "" # [[Location Name]] (NEW)
 quest_item_for: [] # [[Quest Name]] (NEW)
