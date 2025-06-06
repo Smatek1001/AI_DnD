@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-06T01:48:57
+last_updated: 2025-06-06T01:57:53
 type: "Item"
 name: "Dice of Fortune and Ruin"
 aliases: 
@@ -21,79 +21,112 @@ _Wondrous item, legendary (requires attunement)_
 
 ## Summary
 
-A paired set of enchanted Fey dice — one **white**, one **black** — created by rival Archfey gamblers. Meant to aid a lone adventurer, these dice simulate the constant support of bardic and clerical magic. The white die grants powerful, passive boons; the black die punishes foes with curses and manipulation of fate. No concentration required.
+A matched set of enchanted Fey dice — one **white** (Glimmer), one **black** (Murk). These dice grant powerful magical support to a solo adventurer, simulating buffs, debuffs, healing, and fate manipulation usually provided by a full party. They scale over time and are designed to function without requiring concentration.
 
 ---
 
-## 🎲 Dice Overview
+## 🎲 White Die — _Glimmer: Die of Fortune_
 
-### ⚪ White Die — _Die of Fortune_ aka "Glimmer"
+**Applies only to the attuned bearer. Always active. No concentration required.**
 
-Applies **only to the attuned bearer**. Always active. No concentration required.
+### 🔹 Passive Buffs
 
 - **Guided Step:** Add **+1d4** to one ability check per round (as _Guidance_).
 - **Blessed Strike:** Add **+1d4** to all attack rolls and saving throws (as _Bless_).
 - **Fey Insight:** Gain **advantage on Wisdom (Perception)** checks at all times.
-    - As a **bonus action**, you may shift this advantage to another ability score until the end of your next turn.
-    - While taking a **short or long rest**, the default remains Wisdom (Perception).
+    - Use a **bonus action** to change the affected ability score until the end of your next turn.
+    - While taking a **short or long rest**, this defaults to Wisdom (Perception).
+
+### 💠 Healing Properties
+
+> _Glimmer pulses with soft light when wounds open — a subtle cheat of fate, like a stitch pulled backward in time._
+
+#### 🩸 Radiant Surge _(Bonus Action, 2/short rest)_
+
+Restore **2d8 + your Charisma modifier** hit points to yourself.
+
+- At level 10: **3d8 + Cha**
+- At level 15: **4d8 + Cha**
+
+#### 🌿 Soothing Glow _(Short Rest Enhancement)_
+
+When completing a short rest:
+
+- Regain **maximum value** from Hit Dice (don’t roll).
+- Regain **1 additional spent Hit Die**.
+
+#### 💫 Feyspark Resilience _(1/long rest, automatic)_
+
+When reduced to 0 HP, drop to 1 HP instead and immediately regain **3d8 + Cha** hit points.
+
+> Triggers automatically. Recharges on a long rest.
 
 ---
 
-### ⚫ Black Die — _Die of Ruin_ aka "Murk"
+## 🎲 Black Die — _Murk: Die of Ruin_
 
-Used to debuff enemies. Requires actions to use.
+**Used to debuff enemies. Requires actions to use.**
 
-#### **Curse** (Action):
+### 🔹 Curse (Action)
 
-Target a creature within 60 feet. It must make a Charisma saving throw (DC = 8 + proficiency bonus + Charisma modifier). On a failure, the following effects apply:
+Target a creature within 60 ft. It must make a Charisma saving throw (DC = 8 + PB + CHA mod). On a failure:
 
 - **Hex (no damage):** Disadvantage on one ability check type of your choice.
-- **Bane:** Subtract **1d4** from all attack rolls and saving throws.
-- **Curse of Cowardice:** The creature has **disadvantage on attack rolls against you**.
+- **Bane:** Subtract **1d4** from attack rolls and saving throws.
+- **Curse of Cowardice:** Disadvantage on attack rolls against you.
 
-#### **Shift Curse** (Bonus Action):
+### 🔄 Shift Curse (Bonus Action)
 
-Move the curse to a new creature within range. The new target must make the saving throw as above.
+Move the curse to a new creature within range. The new target must make the same saving throw.
 
-#### ✦ _Fate’s Rebuke_ (Reaction):
+### ⚡ Fate’s Rebuke (Reaction)
 
-When a creature within 60 ft **succeeds** on a d20 roll (attack, save, or ability check), you may:
+When a creature within 60 ft succeeds on a d20 roll (attack, save, or check):
 
-- **Force them to reroll** and take the **lower** result (_Silvery Barbs_ effect).
-- **You** (only) gain **advantage** on your **next d20 roll** made before the end of your next turn.
+- Force a reroll; they take the lower result.
+- **You** gain **advantage** on your next d20 roll before the end of your next turn.
 
 ---
 
-## 🎯 Gambler’s Edge (Scaling Support Dice)
+## 🎯 Gambler’s Edge _(Scaling Buff/Debuff Dice)_
 
-You have a number of uses equal to your **Charisma modifier** (minimum 1). All uses refresh on a **long rest**.
+Uses = your **Charisma modifier** (min 1). Recharges on a **long rest**.
 
-These powers scale like _Bardic Inspiration_ and _Cutting Words_:
+### ✦ Fortune’s Favor _(White Die — Bonus Action)_
 
-|Character Level|Die Size|
+Add the die to one of **your** d20 rolls within 10 minutes. Roll after seeing the d20 but before knowing the result.
+
+### ✦ Twist the Knife _(Black Die — Reaction)_
+
+Subtract the die from a d20 roll made by a creature within 60 ft. Use after the roll but before the outcome is revealed.
+
+**Die size by level:**
+
+|Level|Die Size|
 |---|---|
 |1–4|d6|
 |5–9|d8|
 |10–14|d10|
 |15+|d12|
 
-### ✦ _Fortune’s Favor_ (White Die — Bonus Action)
+---
 
-Add the die to one of **your** d20 rolls within the next 10 minutes. You can roll the die **after seeing the d20 result but before knowing success/failure**.
+## ✨ Fatebend _(1/long rest — choose one)_
 
-### ✦ _Twist the Knife_ (Black Die — Reaction)
-
-When a creature within 60 feet rolls a d20, subtract the die roll from their result. You must use this **after the roll but before the outcome is known**.
+- **Foresight Flash**: Gain _Foresight_ for 1 minute.
+- **Perfect Timing**: Replace any d20 roll within 60 ft with a natural 20 or 1 (your choice).
+- **Against All Odds**: After failing a d20 roll or taking lethal damage, treat it as a success or reduce damage to 0.
 
 ---
 
-## ✨ Fatebend (1/long rest)
+## 📈 Tiered Growth _(Optional Milestone Scaling)_
 
-Choose one effect to invoke at any time — no action required:
-
-1. **Foresight Flash** – Gain the effects of _Foresight_ (1 minute duration).
-2. **Perfect Timing** – Replace any d20 roll made within 60 ft with a **natural 20** or **natural 1** (your choice).
-3. **Against All Odds** – After failing a roll or taking lethal damage, **succeed** the roll instead or **reduce damage to 0**.
+|Tier|Unlock Trigger|New Feature(s)|
+|---|---|---|
+|I|At attunement|Base abilities|
+|II|Level 8 or near-death experience|Buffed healing; +condition removal; passive +2 Perception|
+|III|Level 13 or Feywild arc completed|Combat mobility, stronger heals, illusions weakened near cursed|
+|IV|Level 17 or after fulfilling a Fey bargain|At-will healing, auto-survival refresh, passive Lucky-style effect|
 
 ---
 
@@ -106,9 +139,9 @@ Choose one effect to invoke at any time — no action required:
 
 ---
 
-## 💡 DM Notes (for AI or human DMs)
+## 🧠 DM Notes
 
-- Treat the white/black dice as **always “on”** unless the bearer is incapacitated or in an antimagic zone.
-- No effects require concentration unless otherwise stated.
-- These items are designed to **simulate support from a full party** in a solo campaign.
-- Feel free to let the dice evolve or grow more demanding based on the campaign’s Fey themes.
+- Effects are **always active** unless bearer is incapacitated or in an antimagic zone.
+- Designed to **replace Bard/Cleric support** in a solo game.
+- Both dice scale through **level or narrative unlocks**.
+- Customize flavor/voice/personality if dice are sentient (optional).
