@@ -9,7 +9,7 @@ subrace: High Elf
 background: Spy
 alignment: Neutral
 level: 3
-xp: 1950
+xp: 2350
 status: active
 current_hp: 24
 max_hp: 24
