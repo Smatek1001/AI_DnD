@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-06T01:57:53
+last_updated: 2025-06-06T01:58:17
 type: "Item"
 name: "Dice of Fortune and Ruin"
 aliases: 
