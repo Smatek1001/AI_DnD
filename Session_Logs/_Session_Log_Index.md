@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-05T00:30:54
+last_updated: 2025-06-07T02:06:42
 index_type: Session Log Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -18,6 +18,7 @@ This document serves as a chronological index of all canonical play sessions, pr
 
 | Session Date | Session Title                                                                                                                  | Days Passed                     | PC Level | XP Gained |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | -------- | --------- |
+| 2025-06-07   | [[Session_Logs/2025/06-Jun/2025-06-07_A_Lesson_in_Fear\|2025-06-07_A_Lesson_in_Fear]]                                          | 1                               | 4        | 450       |
 | 2025-06-07   | [[Session_Logs/2025/06-Jun/2025-06-07_The_Pulsing_Chest\|The Pulsing Chest]]                                                   | 9                               | 4        | 350       |
 | 2025-06-05   | [[Session_Logs/2025/06-Jun/2025-06-05_Magpie_Miri_Harassment_Campaign_Concludes\|Magpie Miri Harassment Campaign_Concludes]]   | 2                               | 3        | 400       |
 | 2025-06-05   | [[Session_Logs/2025/06-Jun/2025-06-05_Warehouse_Vigil_and_Torment\|Warehouse Vigil and Torment]]                               | 6                               | 3        | 300       |

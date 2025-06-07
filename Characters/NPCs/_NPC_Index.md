@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T04:58:47
+last_updated: 2025-06-07T02:22:02
 index_type: "NPC Overview"
 campaign_name: "Vaelin's Campaign"
 tags: ["#npc_index", "#character_overview", "#index_file", "#campaign_data", "#character_list", "#allies", "#enemies", "#contacts"]
@@ -46,6 +46,9 @@ This document serves as an index for all notable Non-Player Characters encounter
 | [[Characters/NPCs/Thorne\|Thorne]]                                  | Human            | Nightshade Guild Elder (Espionage)            | [[Factions/Nightshade_Guild\|Nightshade Guild]]               | [[Locations/Veil\|Veil]]                                            |
 | [[Characters/NPCs/Vrenna\|Vrenna]]                                  | Drow             | Nightshade Guild Elder (Heists)               | [[Factions/Nightshade_Guild\|Nightshade Guild]]               | [[Locations/Whispering_Door\|Whispering Door]]                      |
 | [[Characters/NPCs/The_Wraith\|The Wraith]]                          | Drow             | Guildmaster of the Nightshade Guild           | [[Factions/Nightshade_Guild\|Nightshade Guild]]               | [[Locations/Veil\|Veil]]                                            |
+| [[Characters/NPCs/Gage\|Gage]]                                      | Human            | Former Gang Leader | Rust Dogs (former)       |  Rust Dogs Gang                                               | [[Locations/Old_Ruins\|Old Ruins]]                                  |
+| [[Characters/NPCs/Maddox\|Maddox]]                                  | Human            | Thug / Enforcer | Rust Dogs (former)          |  Rust Dogs Gang                                               | [[Locations/Docks\|The Docks]]                                      |
+| [[Characters/NPCs/Sparky\|Sparky]]                                  | Human            | Tinker | Rust Dogs (former)                   |  Rust Dogs Gang                                               | [[Locations/Shadow_Quarter\|Shadow Quarter]]                        |
 
 ---
 **Note to DM (AI):** This index provides a quick reference for all NPCs. When searching for character details, refer to their individual files.

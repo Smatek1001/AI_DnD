@@ -1,69 +1,60 @@
 ---
-last_updated: 2025-06-06T21:57:12
+last_updated: 2025-06-07T02:31:03
 campaign_name: "Vaelin's Campaign"
-current_in_game_date: "Campaign Day 10, Early Morning (Approx. 3:00 AM)"
-days_passed_since_campaign_start: 9
-last_session_summary: "Vaelin assisted Elaris by opening a cursed, lead-lined chest containing the 'Heart of the Mountain.' As a reward, he gained gold and access to her library, where he advanced to level 4 (Rogue 1/Warlock 3)."
-current_pc_status: "Level 4 (Rogue 1/Warlock 3). HP: 32/32. XP: 2700. Warlock Spell Slots: 2/2 (2nd Lvl). Gold: 6428gp."
-current_party_location: "[[Locations/Shaded_Lantern|Shaded Lantern]]"
+current_in_game_date: "Campaign Day 11, Dawn"
+days_passed_since_campaign_start: 10
+last_session_summary: "Vaelin gathered intel on the Rust Dogs gang and neutralized them by exploiting their leader's phobias with magical illusions. He then 'haunted' their empty base as a warning."
+current_pc_status: "Level 4, HP: 32/32, XP: 3150/6500. All resources restored after a long rest."
+current_party_location: "[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]"
 active_quests:
   - "[[Quests/Active/Whispers_of_Magister_Vayne|Whispers of Magister Vayne]]"
   - "[[Quests/Active/Understanding_the_Oculus_Array|Understanding the Oculus Array]]"
 new_plot_hooks:
-  - "The secret of the [[Items/Heart_of_the_Mountain|Heart of the Mountain]], now held by Elaris."
-  - "The nature of the [[Items/Obsidian_Orb|Obsidian Orb]] in his stash."
+  - "The secret of the [[Items/Heart_of_the_Mountain|Heart of the Mountain]]."
+  - "The nature of the [[Items/Obsidian_Orb|Obsidian Orb]]."
   - "The unknown fate of Pip."
   - "Potential retribution from the Harbor Syndicate."
+  - "The ultimate fate of Gage, who fled into the Old Ruins."
 notable_npcs_nearby:
-  - "[[Characters/NPCs/Elaris|Elaris]]"
-  - "[[Characters/NPCs/Lyra|Lyra]]"
-  - "[[Characters/NPCs/Lirael|Lirael]]"
+  - "[[Characters/NPCs/Finch|Finch]]"
 key_plot_points_pending:
   - "Investigating Magister Vayne's parchment."
   - "Deciding what to do with the Oculus Array components."
-  - "Exploring Vaelin's personal backstory and connection to Therandril."
+  - "Exploring Vaelin's personal backstory."
 tags:
   - "#context"
   - "#current_status"
-  - "#campaign_day_10"
-  - "#early_morning"
+  - "#campaign_day_11"
+  - "#dawn"
 ---
+
 # Current Campaign Status - Vaelin's Campaign
 
 ## I. Current In-Game Time & Location
 
-* **Current In-Game Date:** Campaign Day 10, Early Morning (Approx. 3:00 AM)
-* **Days Passed Since Campaign Start:** 9 days
-* **Current Party Location:** [[Locations/Abandoned_Bakery_Attic|Abandoned_Bakery_Attic|Vaelin's Hideout]]
-* **Brief Description of Location:** Vaelin is back at his hideout, starting a long rest.
+* **Current In-Game Date:** Campaign Day 11, Dawn
+* **Days Passed Since Campaign Start:** 10 days
+* **Current Party Location:** [[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]
+* **Brief Description of Location:** Vaelin is in his hideout, having just completed a long rest.
 
 ## II. Last Session Recap
 
-* **Last Session Summary:** Vaelin assisted Elaris by opening a cursed, lead-lined chest containing the 'Heart of the Mountain.' As a reward, he gained gold and access to her library, where he advanced to level 4 (Rogue 1/Warlock 3).
-* **PC Status at Last Session End:** Level 4 (Rogue 1/Warlock 3). HP: 32/32. XP: 2700. Warlock Spell Slots: 2/2 (2nd Lvl). Gold: 6428gp.
+* **Last Session Summary:** Vaelin gathered intel on the Rust Dogs gang and neutralized them by exploiting their leader's phobias with magical illusions. He then 'haunted' their empty base as a warning to other gangs.
+* **PC Status at Last Session End:** Level 4, HP: 32/32, XP: 3150/6500. All resources restored.
 
 ## III. Active Quests & Plot Threads
 
 * **Active Quests:**
-    * [[Quests/Active/Whispers_of_Magister_Vayne|Whispers of Magister Vayne]]: Investigate the strange parchment.
+    * [[Quests/Active/Whispers_of_Magister_Vayne|Whispers of Magister Vayne]]: Investigate the strange parchment concerning the "Oculus Array" and "Therandran Protocol."
     * [[Quests/Active/Understanding_the_Oculus_Array|Understanding the Oculus Array]]: Determine the purpose of the strange lenses and mechanical cylinder.
 * **Key Plot Points Pending:**
     * The secret of the [[Items/Heart_of_the_Mountain|Heart of the Mountain]], now held by Elaris.
     * The nature of the [[Items/Obsidian_Orb|Obsidian Orb]] in his stash.
     * The unknown fate of Pip.
-    * Exploring Vaelin's personal backstory and connection to [[Locations/Therandril|Therandril]] and [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]].
-
-## IV. Notable NPCs & Factions Nearby
-
-* **Notable NPCs:**
-    * [[Characters/NPCs/Elaris|Elaris]]
-    * [[Characters/NPCs/Lyra|Lyra]]
-    * [[Characters/NPCs/Lirael|Lirael]]
-* **Factions Present:**
-    * The Shaded Lantern is a neutral ground, but sits within the [[Factions/Nightshade_Guild|Nightshade Guild]]'s sphere of influence in the Veil.
+    * Exploring Vaelin's personal backstory and connection to [[Locations/Therandril|Therandril]].
+    * The eventual fallout from the Harbor Syndicate heist.
+    * The fate of the broken Rust Dog leader, Gage, in the [[Locations/Old_Ruins|Old Ruins]].
 
 ## V. DM Notes for Next Session
 
-* With his level-up complete, Vaelin has new tools at his disposal.
-* As part of his attaining level 3 Warlock, [[Lore/Pantheon/Caladwen|Caladwen]] will gift Vaelin with the [[Items/Dice_of_Fortune_and_Ruin|Dice of Fortune and Ruin]] as well as activating the powers of his silver leaf amulet as an Amulet of Proof Against Detection and Location.
-* The discovery of the *Heart of the Mountain* creates a new secret and a potential future plot hook with Elaris.
+* The immediate threat to the Ratlings is resolved. The main plot threads involving Magister Vayne and the Oculus Array are the most pressing active quests.
