@@ -10,12 +10,12 @@ This document serves as an index for all dream quests. Events in these quests ar
 
 ## Dream Quest Index
 
-| Quest Name | Status | Type | Patron | Primary Location |
-|---|---|---|---|---|
-| [[Dream_Missions/Dream_Quests/Completed/Dream_Heist_Lord_Malakors_Townhouse\|Dream Heist: Lord Malakor's Townhouse]] | completed | heist | Subconscious | [[Locations/Noble_District\|Noble District]] |
-| [[Dream_Missions/Dream_Quests/Completed/Dream_Heist_Elias_Curios\|Dream_Heist_Elias_Curios]] | completed | espionage | Subconscious Urge / Unseen Influence | [[Dream_Missions/Dream_Locations/Elias_Curios_and_Sundries_Dream]] |
-| [[Dream_Missions/Dream_Quests/Completed/The_Gilded_Heist\|The_Gilded_Heist]] | Completed | Dream | Self | Lord Varyn's Manor (High District) |
-| [[Dream_Missions/Dream_Quests/Completed/The_Collector's_Trinket\|The_Collector's_Trinket]] | Completed | Dream | Self | Dream Sewer Network |
+| Quest Name                                                                                                           | Status    | Type      | Patron                               | Primary Location                                                   |
+| -------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------------------------------ | ------------------------------------------------------------------ |
+| [[Dream_Missions/Dream_Quests/Completed/Dream_Heist_Lord_Malakors_Townhouse\|Dream Heist: Lord Malakor's Townhouse]] | completed | heist     | Subconscious                         | [[Locations/Noble_District\|Noble District]]                       |
+| [[Dream_Missions/Dream_Quests/Completed/Dream_Heist_Elias_Curios\|Dream_Heist_Elias_Curios]]                         | completed | espionage | Subconscious Urge / Unseen Influence | [[Dream_Missions/Dream_Locations/Elias_Curios_and_Sundries_Dream]] |
+| [[Dream_Missions/Dream_Quests/Completed/The_Gilded_Heist\|The_Gilded_Heist]]                                         | Completed | Dream     | Self                                 | Lord Varyn's Manor (High District)                                 |
+| [[Dream_Missions/Dream_Quests/Completed/The_Collector's_Trinket\|The_Collector's_Trinket]]                           | Completed | Dream     | Self                                 | Dream Sewer Network                                                |
 
 ---
 **Note to DM (AI):** Remember that all dream quests are strictly non-canonical. No character changes or item acquisitions from these sessions should affect the main campaign.
