@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-07T00:08:19
+last_updated: 2025-06-07T03:10:43
 type: NPC
 name: Finch
 aliases: 
