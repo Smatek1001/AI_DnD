@@ -1,28 +1,28 @@
 ---
-last_updated: 2025-06-05T00:36:47
+last_updated: 2025-06-06T22:42:43
 chat_link: https://g.co/gemini/share/b25058b4f801
 dream_session: false
 session_date: "2025-06-05"
 session_title: "Warehouse Vigil and Torment"
 campaign_day: 7
 days_passed_since_campaign_start: 6 
-pc_current_level: 3 [cite: 16]
+pc_current_level: 3
 xp_gained: 300
 gold_gained_total: 0
 magic_items_acquired: []
 level_up_occurred: false
 key_npcs_encountered:
-  - "[[Characters/NPCs/Finch|Finch]]" [cite: 1714]
-  - "[[Characters/NPCs/Magpie_Miri|Magpie Miri]]" [cite: 1727]
-  - "[[Characters/NPCs/Grol|Grol]]" [cite: 1727]
-  - "[[Characters/NPCs/Pip|Pip]]" [cite: 1727]
-  - "[[Characters/NPCs/Lirael|Lirael]]" [cite: 1673] # Technically always with Vaelin now
+  - "[[Characters/NPCs/Finch|Finch]]"
+  - "[[Characters/NPCs/Magpie_Miri|Magpie Miri]]"
+  - "[[Characters/NPCs/Grol|Grol]]"
+  - "[[Characters/NPCs/Pip|Pip]]"
+  - "[[Characters/NPCs/Lirael|Lirael]]"
 key_locations_visited:
-  - "[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]" [cite: 1670]
-  - "[[Locations/Shadow_Quarter|Shadow Quarter]]" (Finch's Roost, general transit) [cite: 1708]
-  - "[[Locations/Docks|Docks]]" (general transit, near Wharf Rat's Rest) [cite: 1808, 1810]
-  - "[[Locations/The_Sinking_Stoat|The Sinking Stoat]]" (Exterior, Cellar, First Floor) [cite: 1776, 2079, 2149]
-  - "[[Locations/Abandoned_Warehouse_New_Hideout|Abandoned Warehouse (New Hideout)]]" (Exterior, Ground Floor Office, Crawlspace, Fissure view into Target Cellar) [cite: 1260, 1327, 1374, 1401]
+  - "[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]"
+  - "[[Locations/Shadow_Quarter|Shadow Quarter]]" (Finch's Roost, general transit)
+  - "[[Locations/Docks|Docks]]" (general transit, near Wharf Rat's Rest)
+  - "[[Locations/The_Sinking_Stoat|The Sinking Stoat]]" (Exterior, Cellar, First Floor)
+  - "[[Locations/Abandoned_Warehouse_New_Hideout|Abandoned Warehouse (New Hideout)]]" (Exterior, Ground Floor Office, Crawlspace, Fissure view into Target Cellar)
 quests_advanced:
   - "Vaelin's personal objective to harass/sabotage Magpie Miri's gang."
 quests_completed: []
@@ -58,7 +58,7 @@ Vaelin then concealed his office floor access point under a desk and box, used _
 
 Vaelin then had Lirael investigate the vent shaft (it was viable for her and led into the wall cavity/upwards). While she did this, Vaelin undertook a 4-hour elven trance in the crawlspace, completing a long rest (~8:00 AM - 12:00 PM, Midday, Day 7). Lirael reported that Miri's gang had fallen asleep in their new cellar during his trance.
 
-The session concluded with Vaelin, now refreshed, deciding to have Lirael invisibly snoop through the sleeping gang's belongings in their new cellar hideout. [cite: 1625, 1639]
+The session concluded with Vaelin, now refreshed, deciding to have Lirael invisibly snoop through the sleeping gang's belongings in their new cellar hideout.
 
 ## II. Player Character Progression & Status
 
@@ -66,9 +66,9 @@ The session concluded with Vaelin, now refreshed, deciding to have Lirael invisi
 * **Current HP:** 24 / 24
 * **XP Gained (this session):** 300
 * **Character XP (current):** 1950
-* **Warlock Spell Slots (1st Level):** 2/2 (restored) [cite: 16, 1620]
-* **Magical Cunning:** Restored (1 use) [cite: 1620]
-* **Gold:** 6378gp (unchanged) [cite: 16]
+* **Warlock Spell Slots (1st Level):** 2/2 (restored)
+* **Magical Cunning:** Restored (1 use)
+* **Gold:** 6378gp (unchanged)
 
 ### Level Up Details (if applicable)
 (N/A)
@@ -82,14 +82,14 @@ The session concluded with Vaelin, now refreshed, deciding to have Lirael invisi
 * **Gold Gained:** 0
 * **Gold Spent:** 0
 * **Net Gold Change:** 0
-* **Current Gold (at end of session):** 6378gp [cite: 16]
+* **Current Gold (at end of session):** 6378gp
 
 ### Lingering Conditions & Status Effects
 * None
 
 ### Key Resource Usage & Regeneration
 * Elven Trance (Long Rest completed).
-* Warlock Spell Slots & Magical Cunning restored. [cite: 1620]
+* Warlock Spell Slots & Magical Cunning restored.
 * _Minor Illusion_, _Prestidigitation_ used multiple times.
 * _Mage Hand_ was used for the door prank (this was retroactively corrected to be part of the Sinking Stoat events, not the new warehouse).
 * Familiar abilities (Lirael scouting, warging).
@@ -104,15 +104,15 @@ The session concluded with Vaelin, now refreshed, deciding to have Lirael invisi
 * Session ended as Vaelin prepared to have Lirael search the sleeping gang's belongings.
 
 ## IV. NPCs Encountered & Interactions
-* **[[Characters/NPCs/Finch|Finch]]**: Received 100gp; her Ratlings provided intel on Miri's gang's move to The Sinking Stoat. Relationship remains strong. [cite: 1719, 1756]
-* **[[Characters/NPCs/Magpie_Miri|Magpie Miri]], [[Characters/NPCs/Grol|Grol]], [[Characters/NPCs/Pip|Pip]]**: Subjected to extensive psychological torment and observation. They are now holed up, asleep, and terrified in the cellar of the abandoned warehouse. Their morale is extremely low. [cite: 1617, 1621]
+* **[[Characters/NPCs/Finch|Finch]]**: Received 100gp; her Ratlings provided intel on Miri's gang's move to The Sinking Stoat. Relationship remains strong.
+* **[[Characters/NPCs/Magpie_Miri|Magpie Miri]], [[Characters/NPCs/Grol|Grol]], [[Characters/NPCs/Pip|Pip]]**: Subjected to extensive psychological torment and observation. They are now holed up, asleep, and terrified in the cellar of the abandoned warehouse. Their morale is extremely low.
 * **[[Characters/NPCs/Lirael|Lirael]]**: Acted as Vaelin's primary scout and observer, investigated vent shaft.
 
 ## V. Locations Visited & Explored
-* **[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]**: Brief start. [cite: 1670]
+* **[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]**: Brief start.
 * **[[Locations/Shadow_Quarter|Shadow Quarter]]**: Met Finch at her Roost.
 * **[[Locations/Docks|Docks]]**: Traversed while scouting The Sinking Stoat and later tailing Miri's gang to the new warehouse.
-* **[[Locations/The_Sinking_Stoat|The Sinking Stoat]]**: Extensively scouted (exterior & first floor); Vaelin conducted his "haunting" of Miri's gang in its cellar. Now abandoned by the gang. [cite: 1776, 2079, 2149]
+* **[[Locations/The_Sinking_Stoat|The Sinking Stoat]]**: Extensively scouted (exterior & first floor); Vaelin conducted his "haunting" of Miri's gang in its cellar. Now abandoned by the gang.
 * **[[Locations/Abandoned_Warehouse_New_Hideout|Abandoned Warehouse (New Hideout)]]**: Exterior scouted by Vaelin & Lirael; Vaelin created an entry into the ground floor, explored, created access to a crawlspace, and found a fissure observing the cellar Miri's gang subsequently broke into. Vaelin took a long rest in the crawlspace.
 
 ## VI. Quests Progress
