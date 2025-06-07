@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-06T01:19:31
+last_updated: 2025-06-06T22:25:13
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -85,8 +85,8 @@ employer: "[[Factions/The_Society]]"
 ### Class Features (Warlock Level 1):
 * **Otherworldly Patron:** [[Lore/Pantheon/Caladwen|Caladwen]] (The Weaver of Whispering Green - Archfey)
 * **Pact Magic:** You have 2 first-level spell slots, which you regain on a short or long rest. Your spellcasting ability is Charisma.
-    * Spell Save DC: 11
-    * Spell Attack Bonus: +3
+    * Spell Save DC: 12
+    * Spell Attack Bonus: +4
 * **Eldritch Invocations:**
 	* **Pact of the Chain:**
 	    * Lirael, a [[Bestiary/Flickerling|Flickerling]], is now your familiar. (See [[Characters/NPCs/Lirael|Lirael]]'s sheet for her abilities).
