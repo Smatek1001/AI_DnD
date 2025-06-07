@@ -2,7 +2,7 @@
 last_updated: 2025-06-07T00:08:19
 type: NPC
 name: Finch
-aliases: []
+aliases: 
 status: alive
 race: Human
 gender: Female
@@ -12,13 +12,13 @@ importance: Supporting
 disposition_to_pc: Friendly
 faction:
   - "[[Factions/Ratlings]]"
-location: "[[Locations/Shadow_Quarter]]"
+location: "[[Locations/Cogsworth_Tenement|The Nest]]"
 connections:
   - "[[Characters/PCs/Vaelin_Shadowleaf]]"
   - "[[Factions/Ratlings]]"
 employer: "[[Factions/Ratlings]]"
-is_quest_giver_for: []
-associated_items: []
+is_quest_giver_for: 
+associated_items: 
 tags:
   - "#gang_leader"
   - "#ally"
