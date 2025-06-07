@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-07T02:06:42
+last_updated: 2025-06-07T03:25:55
 index_type: Session Log Overview
 campaign_name: Vaelin's Campaign
 tags:
@@ -18,11 +18,11 @@ This document serves as a chronological index of all canonical play sessions, pr
 
 | Session Date | Session Title                                                                                                                  | Days Passed                     | PC Level | XP Gained |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | -------- | --------- |
-| 2025-06-07   | [[Session_Logs/2025/06-Jun/2025-06-07_A_Lesson_in_Fear\|2025-06-07_A_Lesson_in_Fear]]                                          | 1                               | 4        | 450       |
+| 2025-06-07   | [[Session_Logs/2025/06-Jun/2025-06-07_A_Lesson_in_Fear\|A Lesson in Fear]]                                                     | 1                               | 4        | 450       |
 | 2025-06-07   | [[Session_Logs/2025/06-Jun/2025-06-07_The_Pulsing_Chest\|The Pulsing Chest]]                                                   | 9                               | 4        | 350       |
-| 2025-06-05   | [[Session_Logs/2025/06-Jun/2025-06-05_Magpie_Miri_Harassment_Campaign_Concludes\|Magpie Miri Harassment Campaign_Concludes]]   | 2                               | 3        | 400       |
+| 2025-06-05   | [[Session_Logs/2025/06-Jun/2025-06-05_Magpie_Miri_Harassment_Campaign_Concludes\|Magpie Miri Harassment Campaign Concludes]]   | 2                               | 3        | 400       |
 | 2025-06-05   | [[Session_Logs/2025/06-Jun/2025-06-05_Warehouse_Vigil_and_Torment\|Warehouse Vigil and Torment]]                               | 6                               | 3        | 300       |
-| 2025-06-04   | [[Session_Logs/2025/06-Jun/2025-06-04_The_Double_Heist_and_Fart_Demons\|The_Double_Heist_and_Fart_Demons]]                     | 5                               | 3        | 250       |
+| 2025-06-04   | [[Session_Logs/2025/06-Jun/2025-06-04_The_Double_Heist_and_Fart_Demons\|The Double Heist and Fart Demons]]                     | 5                               | 3        | 250       |
 | 2025-06-03   | [[Session_Logs/2025/06-Jun/2025-06-03_Harbor_Syndicate_Heist\|Harbor Syndicate Heist]]                                         | 5                               | 3        | 500       |
 | 2025-06-03   | [[Session_Logs/2025/06-Jun/2025-06-03_Appraisal_Arcana_and_Advancement\|Appraisal, Arcana, and Advancement]]                   | Day 6 (events during)           | 3        | 150       |
 | 2025-06-02   | [[Session_Logs/2025/06-Jun/2025-06-02_The_Blackwood_Heist\|The Blackwood Heist]]                                               | 5                               | 2        | 300       |
