@@ -48,7 +48,7 @@ This document serves as an index for all notable Non-Player Characters encounter
 | [[Characters/NPCs/The_Wraith\|The Wraith]]                          | Drow             | Guildmaster of the Nightshade Guild           | [[Factions/Nightshade_Guild\|Nightshade Guild]]               | [[Locations/Veil\|Veil]]                                                                                         |
 | [[Characters/NPCs/Gage\|Gage]]                                      | Human            | Former Gang Leader | Rust Dogs (former)       |  Rust Dogs Gang                                               | [[Locations/Old_Ruins\|Old Ruins]]                                                                               |
 | [[Characters/NPCs/Maddox\|Maddox]]                                  | Human            | Thug / Enforcer | Rust Dogs (former)          |  Rust Dogs Gang                                               | [[Locations/Docks\|The Docks]]                                                                                   |
-| [[Characters/NPCs/Sparky\|Sparky]]                                  | Human            | Tinker | Rust Dogs (former)                   |  Rust Dogs Gang                                               | [[Locations/Shadow_Quarter\|Shadow Quarter]]                                                                     |
+| [[Characters/NPCs/Sparky\|Sparky]]                                  | Human            | Tinker | Rust Dogs (former)                   |  Rust Dogs Gang                                               | [[Locations/Shadow_Quarter\|Shadow Quarter]]      |
 
 ---
 **Note to DM (AI):** This index provides a quick reference for all NPCs. When searching for character details, refer to their individual files.
