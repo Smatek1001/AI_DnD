@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-07T01:04:07
+last_updated: 2025-06-06T21:57:12
 campaign_name: "Vaelin's Campaign"
 current_in_game_date: "Campaign Day 10, Early Morning (Approx. 3:00 AM)"
 days_passed_since_campaign_start: 9
@@ -34,8 +34,8 @@ tags:
 
 * **Current In-Game Date:** Campaign Day 10, Early Morning (Approx. 3:00 AM)
 * **Days Passed Since Campaign Start:** 9 days
-* **Current Party Location:** [[Locations/Shaded_Lantern|Shaded Lantern]]
-* **Brief Description of Location:** Vaelin is within the warded, private library of Elaris's arcane shop, having just completed his studies.
+* **Current Party Location:** [[Locations/Abandoned_Bakery_Attic|Abandoned_Bakery_Attic|Vaelin's Hideout]]
+* **Brief Description of Location:** Vaelin is back at his hideout, starting a long rest.
 
 ## II. Last Session Recap
 
@@ -51,7 +51,6 @@ tags:
     * The secret of the [[Items/Heart_of_the_Mountain|Heart of the Mountain]], now held by Elaris.
     * The nature of the [[Items/Obsidian_Orb|Obsidian Orb]] in his stash.
     * The unknown fate of Pip.
-    * Potential retribution from the Harbor Syndicate.
     * Exploring Vaelin's personal backstory and connection to [[Locations/Therandril|Therandril]] and [[Lore/Cosmology/The_Nameless_Void|The Nameless Void]].
 
 ## IV. Notable NPCs & Factions Nearby
@@ -66,5 +65,5 @@ tags:
 ## V. DM Notes for Next Session
 
 * With his level-up complete, Vaelin has new tools at his disposal.
-* He is currently in a safe location, providing a good opportunity for planning his next move or interacting further with Elaris.
+* As part of his attaining level 3 Warlock, [[Lore/Pantheon/Caladwen|Caladwen]] will gift Vaelin with the [[Items/Dice_of_Fortune_and_Ruin|Dice of Fortune and Ruin]] as well as activating the powers of his silver leaf amulet as an Amulet of Proof Against Detection and Location.
 * The discovery of the *Heart of the Mountain* creates a new secret and a potential future plot hook with Elaris.
