@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T18:19:23
+last_updated: 2025-06-06T21:59:31
 type: "DM Brainstorm"
 campaign_name: "Vaelin's Campaign"
 idea_categories: ["Character-Specific Seeds", "World-Specific Hooks & Concepts", "Item/Artifact Ideas", "NPC Concepts", "Dungeon/Location Concepts", "Random Encounters/Side Quests", "General \"What If\" Questions"] # (NEW)
@@ -15,8 +15,7 @@ tags: ["#plot_ideas", "#brainstorm", "#future_seeds", "#dm_notes", "#campaign_pl
 This document is a collection of unassigned ideas, potential plot hooks, intriguing concepts, and "what if" scenarios that you (the player/DM) think might be interesting for the campaign's future. These are not necessarily formalized quests or NPCs yet, but rather raw creative input for the AI DM to draw upon when planning.
 
 ## I. Character-Specific Seeds (for [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]])
-* (Idea related to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s background, future goals, or relationships. e.g., "What if [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]'s long-lost sibling is actually a villain?")
-* (Another [[Characters/PCs/Vaelin_Shadowleaf|Vaelin]]-centric idea.)
+* Vaelin is very interested in protecting [[Characters/NPCs/Finch|Finch]] and [[Factions/Ratlings|The Ratlings]] from being victimized by rival gangs in [[Locations/Duskhaven|Duskhaven]].
 
 ## II. World-Specific Hooks & Concepts
 * (General world event ideas. e.g., "A long-dormant volcano begins to stir.")
@@ -24,7 +23,6 @@ This document is a collection of unassigned ideas, potential plot hooks, intrigu
 * (New factions or organizations ideas. e.g., "A secret society of elementalists emerges.")
 
 ## III. Item/Artifact Ideas
-* Vaelin's silver leaf amulet is actually an Amulet of Proof Against Detection and Location. It just needs to be activated as a result of a mission.
 
 ## IV. NPC Concepts (unassigned)
 * Other survivors of [[Locations/Therandril|Therandril]]
