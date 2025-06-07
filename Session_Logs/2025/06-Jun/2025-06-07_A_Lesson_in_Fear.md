@@ -1,6 +1,6 @@
 ---
-last_updated: 2025-06-07T02:04:05
-chat_link: "{{chat_link}}"
+last_updated: 2025-06-07T02:33:32
+chat_link: https://g.co/gemini/share/a892c135077d
 dream_session: false
 session_date: "2025-06-07"
 session_title: "A Lesson in Fear"
@@ -81,4 +81,4 @@ After the terrified gang members scattered, abandoning their unconscious leader,
 * **[[Quests/Completed/The_Rust_Dog_Problem|The Rust Dog Problem]]:** (New Quest) Accepted and completed.
 
 ---
-**Full Chat Session Link:** {{chat_link}}
+**Full Chat Session Link:** https://g.co/gemini/share/a892c135077d
