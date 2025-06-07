@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-06T22:25:13
+last_updated: 2025-06-06T23:35:18
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -201,6 +201,7 @@ employer: "[[Factions/The_Society]]"
 
 ### Gold/Currency:
 * 6428 gp
+* Pearl worth 100 gp as spell component for Identify
 
 ### Significant Acquired Items (Stashed in Hideout):
 
