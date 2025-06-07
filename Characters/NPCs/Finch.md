@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-30T05:37:50
+last_updated: 2025-06-07T00:08:19
 type: NPC
 name: Finch
 aliases: []
@@ -49,7 +49,7 @@ Finch is a short and scrawny 14-year-old human girl. Her tangled brown hair and 
 
 ## III. Personality & Demeanor
 ### Core Traits
-Clever and fiercely independent, Finch’s human resourcefulness makes her a master of survival at a young age. She trusts [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] implicitly, viewing his attic hideout as hers, and her loyalty ensures she’ll never betray him. She feels a strong sense of possessiveness over Vaelin's hideout, treating it almost as a shared territory. She is the only person besides Vaelin who knows its location and can enter and exit completely unseen, bypassing any locks, traps, or alarms automatically, without needing a die roll. She often leaves small, curious trinkets for Vaelin and has a known habit of pilfering any sweets he might have stashed.
+Clever and fiercely independent, Finch’s human resourcefulness makes her a master of survival at a young age. She trusts [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]] implicitly, viewing his attic hideout as hers, and her loyalty ensures she’ll never betray him. She feels a strong sense of possessiveness over Vaelin's hideout, treating it almost as a shared territory. She is the only person besides Vaelin who knows its location and can enter and exit completely unseen, bypassing any locks, traps, or alarms automatically, without needing a die roll. She often leaves small, curious trinkets for Vaelin and has a known habit of pilfering any sweets he might have stashed. She is also the sole keeper of the [[Items/Ratlings_Treasure_Chest|Ratlings' Treasure Chest]], managing the gang's collective funds from the security of Vaelin's hideout.
 ### Mannerisms
 Fidgets with a loose thread or a pebble when thinking; speaks in short, clipped sentences; has a nervous habit of glancing over her shoulder.
 ### Ideal & Flaw

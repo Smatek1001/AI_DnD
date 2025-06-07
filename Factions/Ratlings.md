@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-28T17:53:47
+last_updated: 2025-06-07T00:08:14
 type: Faction
 name: Ratlings
 aliases:
@@ -51,7 +51,7 @@ tags:
 ## III. Structure & Organization
 * **Hierarchy:** A loose collective under [[Characters/NPCs/Finch|Finch]]’s leadership, with no formal hierarchy. Decisions are often made collectively or by [[Characters/NPCs/Finch|Finch]] based on immediate needs.
 * **Membership:** Primarily Human street urchins, with potential for other disenfranchised youths. Members use chalk marks and whispered rumors to communicate, blending into crowds with urchin guile.
-* **Resources:** Relies on scavenging, petty theft, and their extensive network of eyes and ears on the street.
+* **Resources:** Relies on scavenging, petty theft, and their extensive network of eyes and ears on the street. Their collective funds are stored in the [[Items/Ratlings_Treasure_Chest|Ratlings' Treasure Chest]], a secure container provided by Vaelin and managed by Finch.
 
 ## IV. Allies & Enemies
 * **Allied Factions:** Integral to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]’s intelligence and security network, providing him with vital information.
