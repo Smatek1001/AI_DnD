@@ -214,6 +214,7 @@ employer: "[[Factions/The_Society]]"
 	- [[Items/Draught_of_Stones_Stillness|Draught_of_Stones_Stillness]]
 	- [[Items/Mirror_of_Fleeting_Reflections|Mirror_of_Fleeting_Reflections]]
 	- [[Items/Whispering_Deck_Minor|Deck of Divination Cards]]
+	- [[Items/Obsidian_Orb|Obsidian_Orb|Obsidian Orb]]
 
 ## VI. Character Personality & Roleplaying
 
