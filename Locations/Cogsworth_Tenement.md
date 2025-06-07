@@ -1,8 +1,8 @@
 ---
-last_updated: 2025-06-07T02:18:05
+last_updated: 2025-06-07T03:07:11
 type: "Location"
 name: "Cogsworth Tenement"
-aliases: ["The Nest"]
+aliases: ["The Nest", "Cogsworth Tenement"]
 category: "Building"
 parent_location: "[[Locations/Shadow_Quarter|Shadow Quarter]]"
 status: active

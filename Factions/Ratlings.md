@@ -39,7 +39,7 @@ tags:
 * **Status:** active
 * **Alignment:** Chaotic Neutral
 * **Size:** Small (about a dozen street urchins)
-* **Headquarters:** No formal headquarters; they operate primarily in the [[Locations/Shadow_Quarter|Shadow Quarter]], [[Locations/Docks|The Docks]], and [[Locations/Market_Square|Market_Square]].
+* **Headquarters:** [[Locations/Cogsworth_Tenement|Cogsworth_Tenement]]; they operate primarily in the [[Locations/Shadow_Quarter|Shadow Quarter]], [[Locations/Docks|The Docks]], and [[Locations/Market_Square|Market_Square]].
 * **Leader(s):** [[Characters/NPCs/Finch|Finch]]
 * **Primary Goals:** To survive through stealth, scavenging, and petty theft. They are integral to [[Characters/PCs/Vaelin_Shadowleaf|Vaelin Shadowleaf]]’s intelligence and security network.
 * **Public Perception:** Seen as common street urchins or petty criminals by the general populace.
