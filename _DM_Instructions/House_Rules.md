@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-05T13:50:53
+last_updated: 2025-06-06T22:09:52
 rule_type: House Rules
 aliases:
   - The House Rules
@@ -28,8 +28,7 @@ tags:
 This document outlines any modifications, additions, or specific interpretations of the Dungeons & Dragons 5th Edition ruleset that we will be using for this campaign. Please adhere to these rules. Some House Rules are taken from the newer 2024 ruleset. Some House Rules are homebrew rules.
 
 ## I. General Rules
-* **Rule 1:** (e.g., "No critical fails on skill checks unless the roll is a 1 and the DC is impossible.")
-* **Rule 2:** (e.g., "Healing Potions can be used as a bonus action, not an action.")
+* **Rule 1:** The main PC is not limited in the number of magic items he can attune to at any point.
 
 ## II. Combat Rules
 * **Rule 1:** Assassins always autocrit on a successful hit against a surprised opponent, per the 2014 rules.
