@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-07T20:31:40
+last_updated: 2025-06-07T20:33:45
 type: "Item"
 name: "Dice of Fortune and Ruin"
 aliases: 
@@ -36,23 +36,6 @@ A matched set of enchanted Fey dice — one **white** (Glimmer), one **black** (
 - **Fey Insight:** Gain **advantage on Wisdom (Perception)** checks at all times.
     - Use a **bonus action** to change the affected ability score until the end of your next turn.
     - While taking a **short or long rest**, this defaults to Wisdom (Perception).
-- **Feats:** The bearer has the effects of the following feats.
-	- Alert
-		- You gain a +5 bonus to initiative.
-		- You can't be surprised while you are conscious.
-		- Other creatures don't gain advantage on attack rolls against you as a result of being unseen by you.
-	- Observant - You gain the following benefits.
-		- **Ability Score Increase.** Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
-		- **Lip Reader.** If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
-		- You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
-		- **Keen Observer.** Choose one of the following skills: Insight, Investigation, or Perception. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
-		- **Quick Search.** You can take the Search action as a Bonus Action.
-	- Fey-Touched - Your exposure to the Feywild's magic grants you the following benefits.
-		- **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
-		- **Fey Magic.** Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the _Misty Step_ spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
-	- Shadow-Touched - Your exposure to the Shadowfell's magic grants you the following benefits.
-		- **_Ability Score Increase._** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
-		- **_Shadow Magic._** Choose one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the _Invisibility_ spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ### 💠 Healing Properties
 
