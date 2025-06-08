@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-07T20:50:12
+last_updated: 2025-06-08T10:57:46
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -153,7 +153,7 @@ employer: "[[Factions/The_Society]]"
 
 ## Notes:
 
-- **Warlock Spell Slots:** Vaelin has 3 first-level spell slots, regained on a short or long rest. These can be used for _Charm Person_, _Hellish Rebuke_, _Hex_, or _Detect Magic_ (if not using the racial free cast).
+- **Warlock Spell Slots:** Vaelin has 3 first-level spell slots, regained on a short or long rest. These can be used for _Charm Person_, _Hellish Rebuke_, _Disguise Self_, or _Detect Magic_ (if not using the racial free cast).
 - **Pact Magic Spellcasting:** Warlock spells (_Mage Hand_, _Minor Illusion_, _Create Bonfire_, _Control Flames_, _Message_, _Charm Person_, _Hellish Rebuke_, _Invisibility_, _Spider Climb_, _Alarm_, _Identify_) use Charisma (Spell Save DC: 11, Spell Attack Bonus: +3).
 - **High Elf Spellcasting:** _Prestidigitation_ and _Detect Magic_ use Intelligence.
 - **Ritual Casting:** _Alarm_ and _Identify_ must be cast as rituals via the _Book of Shadows_ (Pact of the Tome), taking 10 minutes and not consuming a spell slot.
