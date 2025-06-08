@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-08T14:45:33
+last_updated: 2025-06-08T15:55:25
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -132,7 +132,6 @@ employer: "[[Factions/The_Society]]"
 | Control Flames   | Pact of the Tome | Charisma             | 1 Action       | 60 ft  | Instantaneous or 1 hour       | Counts as a Warlock cantrip.                                                                                                                                             |
 | Create Bonfire   | Pact of the Tome | Charisma             | 1 Action       | 60 ft  | Concentration, up to 1 minute | Counts as a Warlock cantrip.                                                                                                                                             |
 | Message          | Pact of the Tome | Charisma             | 1 Action       | 120 ft | 1 round                       | Counts as a Warlock cantrip.                                                                                                                                             |
-
 
 #### First Level Spells
 | Spell Name     | Source             | Spellcasting Ability | Casting Time        | Range | Duration                        | Notes                                                               |
