@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-07T00:54:17
+last_updated: 2025-06-07T20:50:12
 name: Vaelin Shadowleaf
 aliases:
   - Vaelin
@@ -140,8 +140,8 @@ employer: "[[Factions/The_Society]]"
 | Detect Magic   | High Elf Racial    | Intelligence         | 1 Action            | Self  | Concentration, up to 10 minutes | Cast once per long rest without a spell slot, or with a spell slot. |
 | Charm Person   | Warlock            | Charisma             | 1 Action            | 30 ft | 1 hour                          |                                                                     |
 | Hellish Rebuke | Warlock            | Charisma             | 1 Reaction          | 60 ft | Instantaneous                   |                                                                     |
-| Alarm          | Pact of the Tome   | Charisma             | 11 Minutes (Ritual) | 30 ft | 8 hours                         | Cast as a ritual (10 minutes).                                      |
-| Identify       | Pact of the Tome   | Charisma             | 11 Minutes (Ritual) | Touch | Instantaneous                   | Cast as a ritual (10 minutes).                                      |
+| Alarm          | Pact of the Tome   | Charisma             | 10 Minutes (Ritual) | 30 ft | 8 hours                         | Cast as a ritual (10 minutes).                                      |
+| Identify       | Pact of the Tome   | Charisma             | 10 Minutes (Ritual) | Touch | Instantaneous                   | Cast as a ritual (10 minutes).                                      |
 | Disguise Self  | Mask of Many Faces | Charisma             | 1 Action            | Self  | 1 hour                          | No spell slot required.                                             |
 
 #### Second Level Spells
