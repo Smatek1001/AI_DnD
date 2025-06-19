@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-06-18T21:34:27
+last_updated: 2025-06-18T21:54:59
 instruction_type: AI DM Directives
 campaign_name: Vaelin's Campaign
 dm_style_keywords:
@@ -113,10 +113,6 @@ Please feel free to ask for my feedback at the end of any session or whenever yo
 ## X. Campaign Arc Guidance
 * Always steer towards the main campaign goals outlined in [[_DM_Instructions/Campaign_Goals|Campaign_Goals]], but allow for side quests.
 * If the [[Vaelin_Shadowleaf|PC]] seems stuck, offer subtle prompts or introduce new elements to re-engage.
-
-Of course, Steve. I will provide the updated text for that section. It's a clever method for keeping the DM's secrets hidden in plain sight.
-
-Here is the revised Section XI for your `DM_Instructions.md` file. You can replace the old section with this new text.
 
 ## XI. Handling of Secret & DM-Only Information
 
