@@ -144,10 +144,10 @@ employer: "[[Factions/The_Society]]"
 | Disguise Self  | Mask of Many Faces | Charisma             | 1 Action            | Self  | 1 hour                          | No spell slot required.                                             |
 
 #### Second Level Spells
-| Spell Name     | Source             | Spellcasting Ability | Casting Time        | Range | Duration                    | Notes                                                               |
-| -------------- | ------------------ | -------------------- | ------------------- | ----- | --------------------------- | ------------------------------------------------------------------- |
-| Invisibility   | Warlock            | Charisma             | 1 Action            | Touch | Concentration, up to l hour |                                                                     |
-| Spider Climb   | Warlock            | Charisma             | 1 Action            | Touch | Concentration, up to l hour |                                                                     |
+| Spell Name   | Source  | Spellcasting Ability | Casting Time | Range | Duration                    | Notes |
+| ------------ | ------- | -------------------- | ------------ | ----- | --------------------------- | ----- |
+| Invisibility | Warlock | Charisma             | 1 Action     | Touch | Concentration, up to l hour |       |
+| Spider Climb | Warlock | Charisma             | 1 Action     | Touch | Concentration, up to l hour |       |
 
 
 ## Notes:
