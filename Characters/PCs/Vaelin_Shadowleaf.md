@@ -46,7 +46,7 @@ employer: "[[Factions/The_Society]]"
 
 ### Saving Throws:
 * Strength: -1
-* Dexterity: +5 (Proficient)
+* Dexterity: +6 (Proficient)
 * Constitution: +0
 * Intelligence: +2
 * Wisdom: +2 (Proficient)
