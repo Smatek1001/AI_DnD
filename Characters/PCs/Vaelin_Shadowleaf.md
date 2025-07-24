@@ -32,7 +32,6 @@ class2_spell_save_dc: 12
 class2_spell_attack_bonus: 4
 employer: "[[Factions/The_Society]]"
 ---
-
 # Player Character: Vaelin Shadowleaf
 
 ## I. Core Stats & Combat
