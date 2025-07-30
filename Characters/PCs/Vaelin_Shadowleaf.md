@@ -164,7 +164,7 @@ employer: "[[Factions/The_Society]]"
 * **Other Background Items:** Crowbar, a set of dark common clothes including a hood.
 * [[Items/Locket_of_Silent_Passage|Locket_of_Silent_Passage]] - advantage to Stealth checks that rely on silent movement
 * [[Items/Shadow_Shapers_Shard|Shadow_Shapers_Shard]]
-* [[Items/Dice_of_Fortune_and_Ruin|Dice_of_Fortune_and_Ruin|Dice of Fortune and Ruin]] - a gift from Vaelin's Archfey Patron [[Lore/Pantheon/Caladwen|Caladwen]] to help him as a solo adventurer.
+* [[Items/Dice_of_Fortune_and_Ruin|Dice of Fortune and Ruin]] - a gift from Vaelin's Archfey Patron [[Lore/Pantheon/Caladwen|Caladwen]] to help him as a solo adventurer.
 
 ### Prepared Disguises
 - **Persona 1: "The Wharf Rat"**
