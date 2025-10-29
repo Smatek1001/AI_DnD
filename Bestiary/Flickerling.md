@@ -40,7 +40,7 @@ tags: ["#fey", "#familiar_species", "#scouting", "#espionage", "#tiny_creature",
 * **Challenge Rating (CR)**: 1/4 (estimated)
 
 ### Physical Description
-In their default form, [[Bestiary/Flickerling|Flickerling]]s are delicate, winged creatures resembling a miniature young woman with shimmering dragonfly wings and luminous skin. Their voice sounds like a chorus of faint tinkling bells. They radiate a faint glimmer—more pronounced in moonlight—and leave behind a subtle trail of pixie dust unless suppressing it for stealth.
+In their default form, [[Bestiary/Flickerling|Flickerlings]] are delicate, winged creatures resembling a miniature young woman with shimmering dragonfly wings and luminous skin. Their voice sounds like a chorus of faint tinkling bells. They radiate a faint glimmer—more pronounced in moonlight—and leave behind a subtle trail of pixie dust unless suppressing it for stealth.
 
 ## III. Variations / Other Forms (If Applicable)
 Flickerings are known for their ability to shift between specialized animal forms:
