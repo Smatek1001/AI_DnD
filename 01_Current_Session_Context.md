@@ -57,4 +57,4 @@ tags:
 
 ## V. DM Notes for Next Session
 
-* The immediate threat to the Ratlings is resolved. The main plot threads involving Magister Vayne and the Oculus Array are the most pressing active quests. 
+* The immediate threat to the Ratlings is resolved. The main plot threads involving Magister Vayne and the Oculus Array are the most pressing active quests.
