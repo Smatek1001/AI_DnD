@@ -10,3 +10,4 @@ broken_links_output.md
 files_without_tags.md
 empty_files.md
 .indexcache.json
+*.json
