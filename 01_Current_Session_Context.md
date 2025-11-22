@@ -1,5 +1,5 @@
 ---
-last_updated: 2025-05-31T10:32:32
+last_updated: 2025-06-07T02:31:04
 campaign_name: Vaelin's Campaign
 current_in_game_date: Campaign Day 11, Dawn
 days_passed_since_campaign_start: 10
