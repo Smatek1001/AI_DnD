@@ -23,18 +23,33 @@ def extract_description(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
             
+            # Skip template files entirely
+            if '{{date:' in content or '<%*' in content or file_path.parts[-2] == '_templates':
+                return ""
+            
             # Try YAML frontmatter first
             yaml_match = re.match(r'^---\s*\n(.*?)\n---', content, re.DOTALL)
             if yaml_match:
                 yaml_content = yaml_match.group(1)
+                # Look for description field, but skip metadata fields
                 desc_match = re.search(r'description:\s*["\']?([^"\'\n]+)["\']?', yaml_content)
                 if desc_match:
-                    return desc_match.group(1).strip()
+                    desc = desc_match.group(1).strip()
+                    # Skip if it's just metadata
+                    if not desc.startswith('last_updated') and not desc.startswith('{{'):
+                        return desc
             
-            # Fall back to first heading (skip the title if it's just the filename)
+            # Remove YAML frontmatter from content for further parsing
+            content = re.sub(r'^---\s*\n.*?\n---\s*\n', '', content, flags=re.DOTALL)
+            
+            # Fall back to first heading or paragraph
             lines = content.split('\n')
             for i, line in enumerate(lines):
                 line = line.strip()
+                # Skip empty lines, comments, and metadata
+                if not line or line.startswith('<!--') or line.startswith('last_updated'):
+                    continue
+                    
                 if line.startswith('#'):
                     heading = line.lstrip('#').strip()
                     # If it's just the filename, try to get next meaningful line
@@ -43,7 +58,7 @@ def extract_description(file_path):
                     # Look for a subtitle or first paragraph
                     for next_line in lines[i+1:i+5]:
                         next_line = next_line.strip()
-                        if next_line and not next_line.startswith('#'):
+                        if next_line and not next_line.startswith('#') and not next_line.startswith('<!--'):
                             return next_line[:80] + ('...' if len(next_line) > 80 else '')
                 elif line and not line.startswith('---'):
                     # First non-empty, non-heading line
