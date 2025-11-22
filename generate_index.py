@@ -1,166 +1,211 @@
+#!/usr/bin/env python3
+
 import os
-from pathlib import Path
-from collections import defaultdict
 import re
+import json
+import hashlib
+from pathlib import Path
+from datetime import datetime
+from textwrap import indent
 
-vault_path = "/Users/stevelefler/Documents/Google_Drive/AI D&D/GemDM2"
-github_base = "https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/"
-output_file = "AI_Index.md"
+CONFIG_FILE = "index_config.json"
+CACHE_FILE = ".indexcache.json"
 
-# Files to mark as important (exclude templates)
-key_files = {
-    "00_Campaign_Index",
-    "01_Current_Session_Context",
-    "DM_Instructions",
-    "House_Rules",
-    "Campaign_Goals",
-    "Campaign_Narrative"
-}
 
-# Files that are index files (should be listed first in each directory)
-index_files_patterns = ["_Index", "_index"]
+# ----------------------------------------------------
+# Utility: Hash file content so we can detect changes
+# ----------------------------------------------------
+def hash_file(path: Path) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        h.update(f.read())
+    return h.hexdigest()
 
-def extract_description(file_path):
-    """Extract description from first heading or YAML frontmatter."""
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            
-            # Skip template files entirely
-            if '{{date:' in content or '<%*' in content or file_path.parts[-2] == '_templates':
-                return ""
-            
-            # Try YAML frontmatter first
-            yaml_match = re.match(r'^---\s*\n(.*?)\n---', content, re.DOTALL)
-            if yaml_match:
-                yaml_content = yaml_match.group(1)
-                # Look for description field, but skip metadata fields
-                desc_match = re.search(r'description:\s*["\']?([^"\'\n]+)["\']?', yaml_content)
-                if desc_match:
-                    desc = desc_match.group(1).strip()
-                    # Skip if it's just metadata
-                    if not desc.startswith('last_updated') and not desc.startswith('{{'):
-                        return desc
-            
-            # Remove YAML frontmatter from content for further parsing
-            content = re.sub(r'^---\s*\n.*?\n---\s*\n', '', content, flags=re.DOTALL)
-            
-            # Remove Obsidian wiki links [[link]] or [[link|display]]
-            content = re.sub(r'\[\[([^\]|]+)(\|[^\]]+)?\]\]', r'\1', content)
-            
-            # Fall back to first heading or paragraph
-            lines = content.split('\n')
-            for i, line in enumerate(lines):
-                line = line.strip()
-                # Skip empty lines, comments, and metadata
-                if not line or line.startswith('<!--') or line.startswith('last_updated'):
-                    continue
-                    
-                if line.startswith('#'):
-                    heading = line.lstrip('#').strip()
-                    # If it's just the filename, try to get next meaningful line
-                    if heading.replace('_', ' ').lower() != file_path.stem.replace('_', ' ').lower():
-                        return heading
-                    # Look for a subtitle or first paragraph
-                    for next_line in lines[i+1:i+5]:
-                        next_line = next_line.strip()
-                        if next_line and not next_line.startswith('#') and not next_line.startswith('<!--'):
-                            return next_line[:80] + ('...' if len(next_line) > 80 else '')
-                elif line and not line.startswith('---'):
-                    # First non-empty, non-heading line
-                    return line[:80] + ('...' if len(line) > 80 else '')
-    except Exception as e:
-        pass
-    return ""
 
-# Organize files by directory
-file_tree = defaultdict(list)
-dir_file_counts = defaultdict(int)
+# ----------------------------------------------------
+# Load config
+# ----------------------------------------------------
+def load_config():
+    default = {
+        "vault_path": ".",
+        "repo_raw_base": "",
+        "exclude_dirs": [".git", ".obsidian", "__pycache__"],
+        "file_extensions": [".md"],
+        "directory_priority": [],
+        "emoji_presets": {
+            "_Index": "📑",
+            "important": "⭐"
+        },
+        "important_files": []
+    }
 
-for md_file in sorted(Path(vault_path).rglob("*.md")):
-    if md_file.name == output_file:
-        continue
+    if not Path(CONFIG_FILE).exists():
+        print(f"[WARN] {CONFIG_FILE} not found. Creating default.")
+        with open(CONFIG_FILE, "w") as f:
+            json.dump(default, f, indent=2)
+        return default
     
-    rel_path = md_file.relative_to(vault_path)
-    parent = str(rel_path.parent) if str(rel_path.parent) != '.' else 'Root'
-    
-    description = extract_description(md_file)
-    # Don't mark templates as key files
-    is_key = md_file.stem in key_files and '_templates' not in md_file.parts
-    is_index = any(pattern in md_file.stem for pattern in index_files_patterns)
-    
-    file_tree[parent].append((md_file.stem, str(rel_path), description, is_key, is_index))
-    dir_file_counts[parent] += 1
+    with open(CONFIG_FILE) as f:
+        cfg = json.load(f)
 
-# Build category map for quick navigation
-category_map = {}
-for directory in file_tree.keys():
-    if directory == 'Root':
-        continue
-    top_level = directory.split(os.sep)[0]
-    if top_level not in category_map:
-        category_map[top_level] = []
-    if directory == top_level:
-        category_map[top_level].insert(0, directory)
-    else:
-        category_map[top_level].append(directory)
+    return {**default, **cfg}
 
-# Write organized index
-with open(os.path.join(vault_path, output_file), 'w') as f:
-    f.write("# Campaign Files Index\n\n")
-    
-    f.write("This index catalogs all files in the Duskhaven D&D campaign repository. ")
-    f.write("Files are organized by type with descriptions and direct links to GitHub sources.\n\n")
-    
-    f.write(f"**Base URL:** {github_base}\n\n")
-    
-    # Quick navigation
-    f.write("**Quick Navigation:**\n")
-    nav_categories = []
-    for cat in sorted(category_map.keys()):
-        # Create anchor from category name
-        anchor = cat.lower().replace('_', '')
-        nav_categories.append(f"- [{cat}](#{anchor})")
-    f.write('\n'.join(nav_categories))
-    f.write("\n\n---\n\n")
-    
-    # Sort directories, but put 'Root' first
-    sorted_dirs = sorted(file_tree.keys(), key=lambda x: ('', x) if x == 'Root' else ('~', x))
-    
-    for directory in sorted_dirs:
-        file_count = dir_file_counts[directory]
-        
-        if directory == 'Root':
-            f.write(f"## Root Files ({file_count} files)\n\n")
-        else:
-            # Use directory depth for header level
-            depth = directory.count(os.sep) + 2
-            header = '#' * min(depth, 4)  # Cap at ####
-            f.write(f"{header} {directory}/ ({file_count} files)\n\n")
-        
-        for filename, rel_path, description, is_key, is_index in sorted(file_tree[directory], key=lambda x: (not x[4], x[0])):
-            github_url = github_base + str(rel_path).replace("\\", "/")
-            
-            # Build the line
-            key_marker = " ⭐" if is_key else ""
-            index_marker = " 📑" if is_index else ""
-            if description:
-                f.write(f"- **{filename}**{key_marker}{index_marker} - {description} - [GitHub]({github_url})\n")
+
+# ----------------------------------------------------
+# Extract description from file
+# Order:
+# 1. YAML frontmatter title
+# 2. First H1 heading
+# 3. First meaningful line/sentence
+# ----------------------------------------------------
+def extract_description(text: str):
+    # YAML title: title: Something
+    yaml_title = re.search(r"^title:\s*(.+)$", text, re.MULTILINE)
+    if yaml_title:
+        return yaml_title.group(1).strip()
+
+    # First H1
+    h1 = re.search(r"^#\s+(.+)$", text, re.MULTILINE)
+    if h1:
+        return h1.group(1).strip()
+
+    # First sentence
+    para = re.search(r"\n\n([^#\n].+?)[.?!]\s", text, re.DOTALL)
+    if para:
+        line = para.group(1).strip()
+        if len(line) < 120:  # to avoid grabbing full paragraphs
+            return line
+
+    return None
+
+
+# ----------------------------------------------------
+# Load or initialize cache
+# ----------------------------------------------------
+def load_cache():
+    if not Path(CACHE_FILE).exists():
+        return {}
+    with open(CACHE_FILE) as f:
+        return json.load(f)
+
+
+def save_cache(cache):
+    with open(CACHE_FILE, "w") as f:
+        json.dump(cache, f, indent=2)
+
+
+# ----------------------------------------------------
+# Walk vault and collect index entries
+# ----------------------------------------------------
+def walk_vault(config, cache):
+    vault = Path(config["vault_path"]).resolve()
+    base_url = config["repo_raw_base"].rstrip("/") + "/"
+
+    entries = {}
+    updated_cache = {}
+
+    for root, dirs, files in os.walk(vault, topdown=True):
+        # Filter directories
+        dirs[:] = [d for d in dirs if d not in config["exclude_dirs"]]
+
+        rel_dir = Path(root).relative_to(vault)
+        section = str(rel_dir) if str(rel_dir) != "." else "Root"
+
+        for name in files:
+            p = Path(root) / name
+            if p.suffix not in config["file_extensions"]:
+                continue
+
+            rel_path = p.relative_to(vault)
+            url = base_url + str(rel_path).replace(" ", "%20")
+
+            # Check if content changed
+            file_hash = hash_file(p)
+            cached_hash = cache.get(str(rel_path))
+
+            if cached_hash == file_hash:
+                # Use cached description if available
+                desc = cache.get(str(rel_path) + ":desc")
             else:
-                f.write(f"- **{filename}**{key_marker}{index_marker} - [GitHub]({github_url})\n")
-        
-        f.write("\n")
-    
-    # Add footer with generation timestamp
-    from datetime import datetime
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    total_files = sum(dir_file_counts.values())
-    total_dirs = len(file_tree)
-    
-    f.write(f"\n---\n\n")
-    f.write(f"*Index generated: {timestamp}*  \n")
-    f.write(f"*Total files: {total_files} across {total_dirs} directories*\n")
+                with open(p, "r", encoding="utf-8") as f:
+                    text = f.read()
+                desc = extract_description(text)
+            
+            updated_cache[str(rel_path)] = file_hash
+            updated_cache[str(rel_path) + ":desc"] = desc
 
-print(f"✓ Index generated successfully at {output_file}")
-print(f"✓ Total files indexed: {sum(dir_file_counts.values())}")
-print(f"✓ Total directories: {len(file_tree)}")
+            if section not in entries:
+                entries[section] = []
+
+            entries[section].append({
+                "name": p.stem,
+                "path": str(rel_path),
+                "url": url,
+                "desc": desc,
+            })
+
+    save_cache(updated_cache)
+    return entries
+
+
+# ----------------------------------------------------
+# Sort directories using priority list
+# ----------------------------------------------------
+def sort_sections(sections, priority_list):
+    # Put priority dirs first, in given order
+    sorted_sections = []
+
+    for p in priority_list:
+        if p in sections:
+            sorted_sections.append(p)
+
+    # Then alphabetical remaining
+    remaining = sorted(s for s in sections if s not in sorted_sections)
+    return sorted_sections + remaining
+
+
+# ----------------------------------------------------
+# Generate Markdown output
+# ----------------------------------------------------
+def generate_markdown(entries, config):
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    md = []
+
+    md.append("# Campaign Files Index\n")
+    md.append("This index is automatically generated.\n\n")
+
+    for section in sort_sections(entries.keys(), config["directory_priority"]):
+        md.append(f"## {section}\n")
+
+        for e in sorted(entries[section], key=lambda x: x["name"].lower()):
+            star = config["emoji_presets"].get("important", "")
+            is_imp = e["name"] in config["important_files"]
+            icon = config["emoji_presets"].get("_Index", "")
+
+            md.append(f"- **{e['name']}** {'⭐' if is_imp else ''}"
+                      f" - {e['desc'] if e['desc'] else ''}"
+                      f" - [GitHub]({e['url']})")
+
+        md.append("")  # blank line
+
+    md.append(f"\n---\nGenerated: {now}\n")
+    return "\n".join(md)
+
+
+# ----------------------------------------------------
+# Main
+# ----------------------------------------------------
+def main():
+    config = load_config()
+    cache = load_cache()
+    entries = walk_vault(config, cache)
+    markdown = generate_markdown(entries, config)
+
+    with open("AI_Index.md", "w", encoding="utf-8") as f:
+        f.write(markdown)
+
+    print("Index generated successfully.")
+
+
+if __name__ == "__main__":
+    main()
