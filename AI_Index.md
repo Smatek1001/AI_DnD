@@ -47,8 +47,8 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 - **Grol** - type: "NPC" - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Grol.md)
 - **Jib** - * **Race:** Halfling - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Jib.md)
 - **Korgal_Iron_Fist** - * **Race:** Half-Orc - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Korgal_Iron_Fist.md)
-- **Kyssra** - * **Race:** [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow|Drow]] - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Kyssra.md)
-- **Lirael** - * **Race:** [[Bestiary/Flickerling|Flickerling]] - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Lirael.md)
+- **Kyssra** - * **Race:** _DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Kyssra.md)
+- **Lirael** - * **Race:** Bestiary/Flickerling - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Lirael.md)
 - **Lord_Varyn** - * **Race:** Human - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Lord_Varyn.md)
 - **Lyra** - * **Race:** Human - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Lyra.md)
 - **Maddox** - Gage's former second-in-command. A cruel and vain brute, identifiable by a cog-a... - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Maddox.md)
@@ -69,9 +69,9 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 - **The_Anchor** - * **Race:** Human - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/The_Anchor.md)
 - **The_Forger** - * **Race:** Human - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/The_Forger.md)
 - **The_Shade** - * **Race:** Halfling - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/The_Shade.md)
-- **The_Wraith** - * **Race:** [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow|Drow]] - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/The_Wraith.md)
+- **The_Wraith** - * **Race:** _DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/The_Wraith.md)
 - **Thorne** - * **Race:** Human - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Thorne.md)
-- **Vrenna** - * **Race:** [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow|Drow]] - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Vrenna.md)
+- **Vrenna** - * **Race:** _DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Vrenna.md)
 
 ### Characters/PCs/ (1 files)
 
@@ -145,7 +145,7 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 - **Beyond_Duskhaven** - * **Category:** Outside City - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Beyond_Duskhaven.md)
 - **Blackwood's_Baubles** - * **Category:** Shop (Jeweler, dealer in specialty and possibly illicit goods) - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Blackwood's_Baubles.md)
 - **Cinder-Shed** - A large, abandoned metalworks on the border of the Docks and the Shadow Quarter.... - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Cinder-Shed.md)
-- **Cogsworth_Tenement** - A tall, narrow, and partially collapsed tenement building in the [[Locations/Sha... - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Cogsworth_Tenement.md)
+- **Cogsworth_Tenement** - A tall, narrow, and partially collapsed tenement building in the Locations/Shado... - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Cogsworth_Tenement.md)
 - **Crow's_Nest** - * **Category:** Tavern - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Crow's_Nest.md)
 - **Docks** - *(This content is synthesized from existing campaign notes.)* - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Docks.md)
 - **Drunken_Raven** - * **Category:** Tavern - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Drunken_Raven.md)
@@ -270,4 +270,5 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ---
 
-*Index generated: 2025-11-21 22:00:04*
+*Index generated: 2025-11-21 22:04:54*  
+*Total files: 173 across 25 directories*

@@ -45,6 +45,9 @@ def extract_description(file_path):
             # Remove YAML frontmatter from content for further parsing
             content = re.sub(r'^---\s*\n.*?\n---\s*\n', '', content, flags=re.DOTALL)
             
+            # Remove Obsidian wiki links [[link]] or [[link|display]]
+            content = re.sub(r'\[\[([^\]|]+)(\|[^\]]+)?\]\]', r'\1', content)
+            
             # Fall back to first heading or paragraph
             lines = content.split('\n')
             for i, line in enumerate(lines):
@@ -151,8 +154,13 @@ with open(os.path.join(vault_path, output_file), 'w') as f:
     # Add footer with generation timestamp
     from datetime import datetime
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    f.write(f"\n---\n\n*Index generated: {timestamp}*\n")
+    total_files = sum(dir_file_counts.values())
+    total_dirs = len(file_tree)
+    
+    f.write(f"\n---\n\n")
+    f.write(f"*Index generated: {timestamp}*  \n")
+    f.write(f"*Total files: {total_files} across {total_dirs} directories*\n")
 
-print(f"Index generated successfully at {output_file}")
-print(f"Total files indexed: {sum(dir_file_counts.values())}")
-print(f"Total directories: {len(file_tree)}")
+print(f"✓ Index generated successfully at {output_file}")
+print(f"✓ Total files indexed: {sum(dir_file_counts.values())}")
+print(f"✓ Total directories: {len(file_tree)}")
