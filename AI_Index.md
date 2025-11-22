@@ -21,17 +21,18 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ## Root Files (3 files)
 
-- **00_Campaign_Index** ⭐ - Vaelin's Campaign - Campaign Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/00_Campaign_Index.md)
+- **00_Campaign_Index** ⭐ 📑 - Vaelin's Campaign - Campaign Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/00_Campaign_Index.md)
 - **01_Current_Session_Context** ⭐ - Current Campaign Status - Vaelin's Campaign - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/01_Current_Session_Context.md)
 - **GemDM2_book** - GemDM2 - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/GemDM2_book.md)
 
 ## Bestiary/ (2 files)
 
+- **_Bestiary_Index** 📑 - Bestiary - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Bestiary/_Bestiary_Index.md)
 - **Flickerling** - Creature: Flickerling - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Bestiary/Flickerling.md)
-- **_Bestiary_Index** - Bestiary - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Bestiary/_Bestiary_Index.md)
 
 ### Characters/NPCs/ (40 files)
 
+- **_NPC_Index** 📑 - Non-Player Characters (NPCs) - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/_NPC_Index.md)
 - **Alistair_Finchley** - * **Race:** Human - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Alistair_Finchley.md)
 - **Brak** - * **Race:** Half-Orc - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Brak.md)
 - **Elara_Lark_Stoneheart** - Elara "Lark" Stoneheart - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Elara_Lark_Stoneheart.md)
@@ -71,7 +72,6 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 - **The_Wraith** - * **Race:** [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow|Drow]] - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/The_Wraith.md)
 - **Thorne** - * **Race:** Human - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Thorne.md)
 - **Vrenna** - * **Race:** [[_DM_Instructions/House_Rules_Extended/Elf_Race_2024#B. Drow|Drow]] - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/Vrenna.md)
-- **_NPC_Index** - Non-Player Characters (NPCs) - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Characters/NPCs/_NPC_Index.md)
 
 ### Characters/PCs/ (1 files)
 
@@ -83,7 +83,7 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ### Dream_Missions/Dream_Quests/ (1 files)
 
-- **_Dream_Quest_Index** - Dream Quests - Index (Non-Canonical) - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Dream_Missions/Dream_Quests/_Dream_Quest_Index.md)
+- **_Dream_Quest_Index** 📑 - Dream Quests - Index (Non-Canonical) - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Dream_Missions/Dream_Quests/_Dream_Quest_Index.md)
 
 #### Dream_Missions/Dream_Quests/Completed/ (4 files)
 
@@ -94,7 +94,7 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ### Dream_Missions/Dream_Session_Logs/ (1 files)
 
-- **_Dream_Session_Log_Index** - Dream Session Logs - Index (Non-Canonical) - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Dream_Missions/Dream_Session_Logs/_Dream_Session_Log_Index.md)
+- **_Dream_Session_Log_Index** 📑 - Dream Session Logs - Index (Non-Canonical) - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Dream_Missions/Dream_Session_Logs/_Dream_Session_Log_Index.md)
 
 #### Dream_Missions/Dream_Session_Logs/2025/05-May/ (4 files)
 
@@ -105,16 +105,17 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ## Factions/ (7 files)
 
+- **_Faction_Index** 📑 - Factions & Organizations - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Factions/_Faction_Index.md)
 - **Ebon_Web_Syndicate** - * **Status:** active - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Factions/Ebon_Web_Syndicate.md)
 - **Harbor_Syndicate** - * **Status:** active - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Factions/Harbor_Syndicate.md)
 - **Nightshade_Guild** - * **Status:** active - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Factions/Nightshade_Guild.md)
 - **Ratlings** - * **Status:** active - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Factions/Ratlings.md)
 - **The_Cult** - * **Status:** active - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Factions/The_Cult.md)
 - **The_Society** - * **Status:** active - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Factions/The_Society.md)
-- **_Faction_Index** - Factions & Organizations - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Factions/_Faction_Index.md)
 
 ## Items/ (20 files)
 
+- **_Item_Index** 📑 - Items - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Items/_Item_Index.md)
 - **Bone_and_Silver_Stylus** - Item: Bone and Silver Stylus - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Items/Bone_and_Silver_Stylus.md)
 - **Contained_Resonance_Core** - Item: Contained Resonance Core - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Items/Contained_Resonance_Core.md)
 - **Dice_of_Fortune_and_Ruin** - 🎲 Dice of Fortune and Ruin - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Items/Dice_of_Fortune_and_Ruin.md)
@@ -134,10 +135,10 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 - **Shadowpiercer** - Item: Shadowpiercer - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Items/Shadowpiercer.md)
 - **Vial_of_Ember_Sparks** - Item: Vial of Ember Sparks - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Items/Vial_of_Ember_Sparks.md)
 - **Whispering_Deck_Minor** - Item: Whispering Deck (Minor) - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Items/Whispering_Deck_Minor.md)
-- **_Item_Index** - Items - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Items/_Item_Index.md)
 
 ## Locations/ (30 files)
 
+- **_Location_Index** 📑 - Locations in Duskhaven Campaign - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/_Location_Index.md)
 - **Abandoned_Bakery_Attic** - * **Category:** Hideout - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Abandoned_Bakery_Attic.md)
 - **Abandoned_Warehouse_New_Hideout** - Abandoned Warehouse (Miri's New Hideout) - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Abandoned_Warehouse_New_Hideout.md)
 - **Alistair_Finchleys_Study** - Alistair Finchley's Study - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Alistair_Finchleys_Study.md)
@@ -167,7 +168,6 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 - **Therandril** - * **Category:** Lost City - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Therandril.md)
 - **Veil** - * **Category:** District - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Veil.md)
 - **Whispering_Door** - * **Category:** Tavern - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/Whispering_Door.md)
-- **_Location_Index** - Locations in Duskhaven Campaign - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Locations/_Location_Index.md)
 
 ### Lore/Cosmology/ (1 files)
 
@@ -175,7 +175,7 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ### Lore/Cultures_Races/ (1 files)
 
-- **_Cultures_Races_Index** - Cultures & Races - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Lore/Cultures_Races/_Cultures_Races_Index.md)
+- **_Cultures_Races_Index** 📑 - Cultures & Races - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Lore/Cultures_Races/_Cultures_Races_Index.md)
 
 ### Lore/History/ (1 files)
 
@@ -183,12 +183,12 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ### Lore/Pantheon/ (2 files)
 
+- **_Pantheon_Index** 📑 - Pantheon & Religions - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Lore/Pantheon/_Pantheon_Index.md)
 - **Caladwen** - * **Origin Plane:** Feywild - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Lore/Pantheon/Caladwen.md)
-- **_Pantheon_Index** - Pantheon & Religions - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Lore/Pantheon/_Pantheon_Index.md)
 
 ## Quests/ (1 files)
 
-- **_Quest_Index** - Quests - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Quests/_Quest_Index.md)
+- **_Quest_Index** 📑 - Quests - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Quests/_Quest_Index.md)
 
 ### Quests/Completed/ (11 files)
 
@@ -211,7 +211,7 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ## Session_Logs/ (1 files)
 
-- **_Session_Log_Index** - Session Logs - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Session_Logs/_Session_Log_Index.md)
+- **_Session_Log_Index** 📑 - Session Logs - Index - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/Session_Logs/_Session_Log_Index.md)
 
 #### Session_Logs/2025/05-May/ (4 files)
 
@@ -249,15 +249,15 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ## _templates/ (17 files)
 
-- **00_Campaign_Index** ⭐ - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/00_Campaign_Index.md)
-- **01_Current_Session_Context** ⭐ - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/01_Current_Session_Context.md)
+- **00_Campaign_Index** 📑 - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/00_Campaign_Index.md)
+- **01_Current_Session_Context** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/01_Current_Session_Context.md)
 - **Bestiary** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/Bestiary.md)
-- **Campaign_Goals** ⭐ - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/Campaign_Goals.md)
-- **Campaign_Narrative** ⭐ - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/Campaign_Narrative.md)
-- **DM_Instructions** ⭐ - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/DM_Instructions.md)
+- **Campaign_Goals** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/Campaign_Goals.md)
+- **Campaign_Narrative** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/Campaign_Narrative.md)
+- **DM_Instructions** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/DM_Instructions.md)
 - **Detailed_Rule_Entry** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/Detailed_Rule_Entry.md)
 - **Faction** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/Faction.md)
-- **House_Rules** ⭐ - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/House_Rules.md)
+- **House_Rules** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/House_Rules.md)
 - **Item** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/Item.md)
 - **Location** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/Location.md)
 - **NPC** - [GitHub](https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/_templates/NPC.md)
@@ -270,4 +270,4 @@ This index catalogs all files in the Duskhaven D&D campaign repository. Files ar
 
 ---
 
-*Index generated: 2025-11-21 21:54:37*
+*Index generated: 2025-11-21 22:00:04*

@@ -7,7 +7,7 @@ vault_path = "/Users/stevelefler/Documents/Google_Drive/AI D&D/GemDM2"
 github_base = "https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/"
 output_file = "AI_Index.md"
 
-# Files to mark as important
+# Files to mark as important (exclude templates)
 key_files = {
     "00_Campaign_Index",
     "01_Current_Session_Context",
@@ -16,6 +16,9 @@ key_files = {
     "Campaign_Goals",
     "Campaign_Narrative"
 }
+
+# Files that are index files (should be listed first in each directory)
+index_files_patterns = ["_Index", "_index"]
 
 def extract_description(file_path):
     """Extract description from first heading or YAML frontmatter."""
@@ -79,9 +82,11 @@ for md_file in sorted(Path(vault_path).rglob("*.md")):
     parent = str(rel_path.parent) if str(rel_path.parent) != '.' else 'Root'
     
     description = extract_description(md_file)
-    is_key = md_file.stem in key_files
+    # Don't mark templates as key files
+    is_key = md_file.stem in key_files and '_templates' not in md_file.parts
+    is_index = any(pattern in md_file.stem for pattern in index_files_patterns)
     
-    file_tree[parent].append((md_file.stem, str(rel_path), description, is_key))
+    file_tree[parent].append((md_file.stem, str(rel_path), description, is_key, is_index))
     dir_file_counts[parent] += 1
 
 # Build category map for quick navigation
@@ -130,15 +135,16 @@ with open(os.path.join(vault_path, output_file), 'w') as f:
             header = '#' * min(depth, 4)  # Cap at ####
             f.write(f"{header} {directory}/ ({file_count} files)\n\n")
         
-        for filename, rel_path, description, is_key in sorted(file_tree[directory]):
+        for filename, rel_path, description, is_key, is_index in sorted(file_tree[directory], key=lambda x: (not x[4], x[0])):
             github_url = github_base + str(rel_path).replace("\\", "/")
             
             # Build the line
             key_marker = " ⭐" if is_key else ""
+            index_marker = " 📑" if is_index else ""
             if description:
-                f.write(f"- **{filename}**{key_marker} - {description} - [GitHub]({github_url})\n")
+                f.write(f"- **{filename}**{key_marker}{index_marker} - {description} - [GitHub]({github_url})\n")
             else:
-                f.write(f"- **{filename}**{key_marker} - [GitHub]({github_url})\n")
+                f.write(f"- **{filename}**{key_marker}{index_marker} - [GitHub]({github_url})\n")
         
         f.write("\n")
     
