@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 vault_path = "/Users/stevelefler/Documents/Google_Drive/AI D&D/GemDM2"
-github_base = "https://github.com/Smatek1001/AI_DnD/tree/main"
+github_base = "https://raw.githubusercontent.com/Smatek1001/AI_DnD/refs/heads/main/"
 output_file = "AI_Index.md"
 
 with open(os.path.join(vault_path, output_file), 'w') as f:
