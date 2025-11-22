@@ -1,26 +1,26 @@
 ---
-last_updated: 2025-11-21T20:50:28
-campaign_name: "Vaelin's Campaign"
-current_in_game_date: "Campaign Day 11, Dawn"
+last_updated: 2025-05-31T10:32:32
+campaign_name: Vaelin's Campaign
+current_in_game_date: Campaign Day 11, Dawn
 days_passed_since_campaign_start: 10
-last_session_summary: "Vaelin gathered intel on the Rust Dogs gang and neutralized them by exploiting their leader's phobias with magical illusions. He then 'haunted' their empty base as a warning."
+last_session_summary: Vaelin gathered intel on the Rust Dogs gang and neutralized them by exploiting their leader's phobias with magical illusions. He then 'haunted' their empty base as a warning.
 current_pc_status: "Level 4, HP: 32/32, XP: 3150/6500. All resources restored after a long rest."
 current_party_location: "[[Locations/Abandoned_Bakery_Attic|Abandoned Bakery Attic]]"
 active_quests:
   - "[[Quests/Active/Whispers_of_Magister_Vayne|Whispers of Magister Vayne]]"
   - "[[Quests/Active/Understanding_the_Oculus_Array|Understanding the Oculus Array]]"
 new_plot_hooks:
-  - "The secret of the [[Items/Heart_of_the_Mountain|Heart of the Mountain]]."
-  - "The nature of the [[Items/Obsidian_Orb|Obsidian Orb]]."
-  - "The unknown fate of Pip."
-  - "Potential retribution from the Harbor Syndicate."
-  - "The ultimate fate of Gage, who fled into the Old Ruins."
+  - The secret of the [[Items/Heart_of_the_Mountain|Heart of the Mountain]].
+  - The nature of the [[Items/Obsidian_Orb|Obsidian Orb]].
+  - The unknown fate of Pip.
+  - Potential retribution from the Harbor Syndicate.
+  - The ultimate fate of Gage, who fled into the Old Ruins.
 notable_npcs_nearby:
   - "[[Characters/NPCs/Finch|Finch]]"
 key_plot_points_pending:
-  - "Investigating Magister Vayne's parchment."
-  - "Deciding what to do with the Oculus Array components."
-  - "Exploring Vaelin's personal backstory."
+  - Investigating Magister Vayne's parchment.
+  - Deciding what to do with the Oculus Array components.
+  - Exploring Vaelin's personal backstory.
 tags:
   - "#context"
   - "#current_status"
