@@ -1,0 +1,40 @@
+# 1. macOS and OS Metadata
+/.DS_Store          # Excludes macOS metadata files
+Thumbs.db           # Excludes Windows thumbnail cache (good practice)
+*~                  # Excludes common editor backup files
+
+# 2. OBSIDIAN APPLICATION CONFIGURATION
+/.obsidian/         # Excludes the entire Obsidian config directory
+
+# 3. NON-CANONICAL/BINARY FILES (To maximize RAG efficiency)
+**/Ω*               # Excludes every file or directory beginning with Ω
+/Ω/                 # Excludes the Ω directory in root
+/Ω_attachments/     # Excludes your specific attachments directory
+/Ω_bases/           # Excludes the directory containing Bases metadata files
+/Ω_HUD/
+/Ω_scripts/         # Excludes your Javascript automation files
+/Ω_templater_scripts/
+/Ω_templates/       # Excludes your empty template files
+/Ω_workbench/       # Excludes unfinished files
+*.base              # Excludes new Bases plugin files
+*.db                # Excludes other potential database files
+_query_cache/       # Excludes Dataview/Query caches
+
+
+# 4. IGNORE MEMPALACE
+.mempalaceignore
+mempalace_mine.sh
+
+
+/.obsidian
+/Ω/
+/Ω_scripts/
+/Ω_templates/
+/Ω_workbench/
+/.DS_Store
+
+/02_Regions/01_Duskhaven/.DS_Store
+/02_Regions/.DS_Store
+/00_System/.DS_Store
+/01_Global_Entities/.DS_Store
+/02_Regions/01_Duskhaven/Factions/.DS_Store
