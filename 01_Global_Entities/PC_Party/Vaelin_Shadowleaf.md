@@ -6,13 +6,13 @@ tags: [gestalt, operative, pc, primal_elf, stealth]
 location: "[[Duskhaven]]"
 faction: "[[The Society]]"
 status: active
-last_session: 0
+last_session: 1
 sheet_ref: "[[vaelin_sheet.yaml]]"
 reputation_ref: "[[vaelin_reputation.yaml]]"
 class_ref: "[[class_gestalt_rogue_sorlock.json]]"
 race_ref: "[[primal_elf.yaml.md]]"
 background_ref: "[[background_espionage_operative.yaml]]"
-last_updated: "2026-04-25T13:00:33-05:00"
+last_updated: "2026-04-26T01:45:14-05:00"
 ---
 
 # Vaelin Shadowleaf

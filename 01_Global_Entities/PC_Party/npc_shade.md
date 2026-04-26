@@ -1,8 +1,9 @@
 ---
 type: npc
 tags: [dice-of-fortune-and-ruin, npc, sentient-item, shade]
+status: inactive
 last_session: 0
-last_updated: "2026-04-25T13:05:04-05:00"
+last_updated: "2026-04-26T02:23:16-05:00"
 affiliation: Vaelin
 bound_item: "[[item_dice_of_fortune_and_ruin]]"
 role: Combat Companion (Die of Vengeance)

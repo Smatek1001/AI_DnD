@@ -337,6 +337,7 @@ summary: "Vaelin's custom 'Gestalt' progression rules, combining Rogue, Sorcerer
     }
   ],
   "feature_definitions": {
+    "Cunning Action": "Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.",
     "Fast Hands (Thief Rogue)": "As a Bonus Action, you can do one of the following. Sleight of Hand. Make a Dexterity (Sleight of Hand) check to pick a lock or disarm a trap with Thieves' Tools or to pick a pocket. Use an Object. Take the Utilize action, or take the Magic action to use a magic item that requires that action.",
     "Second-Story Work (Thief Rogue)": "You've trained to get into especially hard-to-reach places. Climber. You gain a Climb Speed equal to your Speed. You can use Dexterity (Athletics) instead of Strength (Athletics) for Climbing checks. Jumper. You can determine your jump distance using your Dexterity rather than your Strength.",
     "Mage Hand Legerdemain (Arcane Trickster Rogue)": "When you cast Mage Hand, you can cast it as a Bonus Action, and you can make the spectral hand Invisible. You can control the hand as a Bonus Action, and through it, you can make Dexterity (Sleight of Hand) checks.",

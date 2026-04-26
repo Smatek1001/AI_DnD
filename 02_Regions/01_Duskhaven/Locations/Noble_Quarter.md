@@ -1,12 +1,13 @@
 ---
 name: Noble Quarter
 type: location
-aliases: []
+aliases: [Noble Quarter]
 tags: [district, elite, location]
 location: "[[Duskhaven]] - Northwest"
 status: active
 last_session: 0
-last_updated: "2026-04-25T13:06:11-05:00"
+last_updated: "2026-04-26T16:13:54-05:00"
+"":
 summary: "The wealthy, heavily policed district of Duskhaven. Home to the city's aristocrats, corrupt politicians, and the elite, upper-class members of The Cult."
 ---
 

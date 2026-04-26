@@ -1,9 +1,9 @@
 ---
 name: MCP SuperAssistant Operational Instructions
 type: system
-tags: [backend, jsonl, MCP SuperAssistant, MemPalace, mpc, system, tools]
+tags: [backend, jsonl, mcp, mcp_superassistant, mempalace, syntax, system, tools]
 last_session: 0
-last_updated: "2026-04-25T12:46:44-05:00"
+last_updated: "2026-04-25T19:16:23-05:00"
 summary: "The technical schema and strict formatting rules for executing MemPalace MCP tools. Contains the required jsonl syntax for updating the dynamic world state."
 ---
 

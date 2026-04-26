@@ -14,6 +14,7 @@
 * **Old_Ruins.md:** Ancient, forgotten structural remnants beneath or outside Duskhaven. A dangerous zone holding dark historical secrets, lost magic, and subterranean threats.
 * **Shadow_Quarter.md:** A marginalized, poverty-stricken slum district. Home to desperate citizens, The Ratlings, and Vaelin's highly secure 'Black Oven' safehouse.
 * **The_Black_Oven.md:** 'The Black Oven.' Vaelin's highly secure, off-the-books attic safehouse located in the Shadow Quarter.
+* **The_Crows_Nest.md:** A heavy, salt-stained timber tavern serving as the primary front for the Harbor Syndicate. It houses The Shade's highly warded and trapped second-floor office.
 * **The_Docks.md:** The bustling, dangerous maritime district of Duskhaven, heavily influenced by the Harbor Syndicate and independent smugglers.
 * **The_Drunken_Raven.md:** A dive tavern located in the Shadow Quarter. Guarded by a laconic bouncer named Tarren, it serves as Vaelin's primary meeting spot with his Society handler, Talia.
 * **The_High_District.md:** The absolute peak of Duskhaven's elite society. A heavily guarded, affluent echelon that houses Starfall Manor, the headquarters of The Society.
@@ -39,10 +40,19 @@
 * **npc_lumen.md:** One of Vaelin's companion entities, collectively known as 'The Dice.' A magical construct or manifestation that utilizes standard spellcaster slots and tracks its own concentration.
 * **npc_shade.md:** One of Vaelin's companion entities, collectively known as 'The Dice.' A magical construct or manifestation that utilizes standard spellcaster slots and tracks its own concentration.
 * **Rorick_Wavebreaker.md:** An independent smuggler and friendly ally to Vaelin in The Docks, capable of covertly moving goods and people in and out of Duskhaven.
+* **The_Shade.md:** The cunning and exceptionally paranoid male halfling spymaster for the Harbor Syndicate.
+
+## 📜 Session Summaries
+> [!INFO]- 📁 Season 01 Duskhaven
+> * **Session_01_The_Crows_Nest_Heist.md:** Vaelin successfully graduates from The Society and executes a flawless, zero-alarm heist against the Harbor Syndicate.
+> * **Session_02_Blackwood_Retrieval.md:** Retrieve a compromised silver signet ring containing a microscopic list of Noble Quarter safehouses before it could be sold to the Nightshade Guild.
+> 
 
 ## 📂 Other Lore & Artifacts
 * **background_espionage_operative.yaml.md:** A custom espionage operative background granting infiltration skills, disguise proficiencies, and access to a covert network of safehouses and dead drops.
 * **class_gestalt_rogue_sorlock.json.md:** Vaelin's custom 'Gestalt' progression rules, combining Rogue, Sorcerer, and Warlock features into a unified leveling system with a shared spell slot mechanic and a 4x XP tax.
+* **feat_skulker.md:** Vaelin's custom Skulker feat, combining 2014 and 2024 rules for enhanced stealth, blindsight, and sniping.
+* **GemDM_Protocols.md:** A collection of protocols for the GemAI and Player/User to follow to enhance D&D gameplay
 * **item_dice_of_fortune_and_ruin.md:** Mechanics for Lumen, Shade, and Gossamer: three sentient, invulnerable magical dice that function as independent spellcasters sharing Vaelin's known spells.
 * **item_spellbook_of_corellon.md:** A legendary, semi-sentient Fey grimoire acting as an arcane supercomputer. It absorbs spells and provides flawlessly accurate, artistically rendered tactical advice.
 * **Lirael.md:** Vaelin's Pact of the Chain familiar. Secretly acts as the eyes and ears of Caladwen, feeding Vaelin instructions under the guise of familiar instincts.

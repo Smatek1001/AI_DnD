@@ -1,8 +1,9 @@
 ---
 type: npc
 tags: [dice-of-fortune-and-ruin, lumen, npc, sentient-item]
+status: inactive
 last_session: 0
-last_updated: "2026-04-25T13:04:45-05:00"
+last_updated: "2026-04-26T02:22:57-05:00"
 affiliation: Vaelin
 bound_item: "[[item_dice_of_fortune_and_ruin]]"
 role: Combat Companion (Die of Knowledge)

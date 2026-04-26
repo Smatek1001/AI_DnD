@@ -3,8 +3,8 @@ name: Vaelin Shadowleaf
 type: character_sheet
 character_ref: "[[Vaelin_Shadowleaf]]"
 tags: [mechanics, pc, sheet]
-last_session: 0
-last_updated: "2026-04-21T22:09:28-05:00"
+last_session: 1
+last_updated: "2026-04-26T01:44:45-05:00"
 ---
 
 ```yaml
@@ -17,17 +17,17 @@ character_details:
   alignment: Neutral
   size: Medium (Height: 70 inches, Weight: 150 lbs)
   xp: 
-    gross_earned_xp: 0
-    net_taxed_xp: 0
+    gross_earned_xp: 500
+    net_taxed_xp: 125
     gestalt_tax_rate: 4
 
 core_stats:
   armor_class: 15 # Studded Leather Armor (12) + Dex Mod (+3)
   initiative: +3
-  speed: 30 ft
+  speed: 40 ft # +10 unarmored movement
   proficiency_bonus: +2
   senses:
-    darkvision: 300 ft # Class ability
+    darkvision: 300 ft # Class ability (lvl 1 Eyes of Night)
     blindsight: 10 ft # Skulker feat
   passives:
     perception: 13
@@ -47,15 +47,15 @@ proficiencies:
   armor: [Light Armor]
   weapons: [Simple Weapons, Melee (Finesse and Light only)]
   tools: 
-    - Disguise Kit
+    - Disguise Kit (+5)
     - Forgery Kit
     - "Thieves' Tools [Expertise]"
   skills:
     - Acrobatics (+3)
     - Athletics (-1)
     - Deception (+3)
-    - Insight (+1)
-    - Perception (+1)
+    - Insight (+1) [Expertise]
+    - Perception (+1) [Expertise]
     - Persuasion (+3)
     - Sleight of Hand (+3)
     - Stealth (+7) [Expertise]
@@ -65,15 +65,15 @@ features_and_traits:
   racial:
     - Fey Ancestry: Advantage on saving throws against being Charmed.
     - Trance: Immune to magical sleep. Can finish a Long Rest in 4 hours while remaining conscious.
-    - Fey Step: Cast Misty Step as a bonus action. Uses equal proficiency bonus.
-    - Shape-changer: Can alter physical appearance (same as E:FA Changeling).
+    - Fey Step: Cast Misty Step as a bonus action. Uses equal proficiency bonus per long rest.
+    - Shape-changer: Can alter physical appearance (same as E:FA Changeling). Not available until level 3.
   background:
-    - Feat (Skulker): When lightly obscured, can take the Hide action. Missing a ranged attack while hidden does not reveal position. No disadvantage on Perception checks in dim light. Blindsight 10 ft.
+    - "Feat: [[feat_skulker]]"
   rogue:
     - Sneak Attack: 1d6 extra damage once per turn on an attack with advantage or an adjacent ally (requires Finesse or Ranged weapon).
     - Weapon Mastery: Can use the mastery properties of specific weapons.
   warlock:
-    - Eldritch Invocations: Pact of the Chain.
+    - Eldritch Invocations: Pact of the Chain, Mask of Many Faces, Misty Visions
 
 actions_and_attacks:
   weapons:
@@ -107,23 +107,28 @@ magic:
   spell_save_dc: 13
   spell_attack_bonus: +5
   resources:
-    sorcery_points: { current: 0, max: 0 }
+    sorcery_points: { current: 2, max: 2 }
     spell_slots:
-      pact_magic_lvl_1: { current: 1, max: 1 }
-      sorcerer_lvl_1: { current: 2, max: 2 }
+      pact_magic_lvl_1: { current: 2, max: 2 }
+      sorcerer_lvl_1: { current: 4, max: 4 }
   spells_known:
     cantrips:
-      - Eldritch Blast
-      - Prestidigitation
-      - Minor Illusion
-      - Mage Hand
-      - Create Bonfire
       - Control Flame
+      - Create Bonfire
+      - Mage Hand
+      - Message
+      - Minor Illusion
+      - Prestidigitation
     level_1:
-      - Disguise Self
-      - Shield
-      - Silent Image
-      - Silvery Barbs
+      - Comprehend Languages
+      - Detect Magic
+      - Disguise Self (Mask of Many Faces)
+      - Feather Fall
+      - Find Familiar (Pact of the Chain)
+      - Identify
+      - Silent Image (Misty Visions)
+      - Illusory Script
+      - Unseen Servant
 
 current_status:
   hp: { current: 8, max: 8, temp: 0 }
@@ -132,7 +137,7 @@ current_status:
   exhaustion: 0
 
 inventory:
-  wealth: { cp: 0, sp: 0, ep: 0, gp: 138, pp: 0 }
+  wealth: { cp: 0, sp: 0, ep: 0, gp: 150, pp: 0 }
   equipped_gear:
     - Studded Leather Armor
     - Rapier

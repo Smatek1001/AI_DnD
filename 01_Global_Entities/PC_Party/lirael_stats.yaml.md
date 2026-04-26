@@ -3,8 +3,8 @@ name: Lirael
 type: monster_stat_block
 character_ref: "[[Lirael]]"
 tags: [familiar, mechanics]
-last_session: 0
-last_updated: "2026-04-16T14:38:18-05:00"
+last_session: 1
+last_updated: "2026-04-26T01:45:00-05:00"
 ---
 
 ```yaml

@@ -5,8 +5,8 @@ aliases: [The Market]
 tags: [commerce, district, location]
 location: "[[Duskhaven]] - Center"
 status: active
-last_session: 0
-last_updated: "2026-04-25T13:05:55-05:00"
+last_session: 2
+last_updated: "2026-04-26T16:14:25-05:00"
 summary: "The bustling commercial heart of Duskhaven. A chaotic mix of legitimate merchants, indebted tradesmen, and hidden black-market fences like Mira Quickfingers."
 ---
 

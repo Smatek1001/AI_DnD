@@ -1,11 +1,16 @@
 ---
 name: Duskhaven
 type: location
-aliases: [The City]
-tags: [capital, city, location, noir]
+aliases:
+  - The City
+tags:
+  - capital
+  - city
+  - location
+  - noir
 status: active
-last_session: 0
-last_updated: "2026-04-25T12:58:45-05:00"
+last_session: 1
+last_updated: 2026-04-25T12:58:45-05:00
 demographics_ref: "[[duskhaven_demographics.yaml]]"
 region: The Coast
 ruler: The City Council (Ostensibly) / The Syndicates (Practically)

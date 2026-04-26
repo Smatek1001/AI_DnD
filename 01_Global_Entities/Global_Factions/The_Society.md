@@ -1,14 +1,21 @@
 ---
 name: The Society
 type: faction
-aliases: [The Wardens, The Watchers]
-tags: [elites, espionage, faction, secret_society]
+aliases:
+  - The Wardens
+  - The Watchers
+  - The Society
+tags:
+  - elites
+  - espionage
+  - faction
+  - secret_society
 location: "[[Duskhaven]]"
 status: active
-last_session: 0
-last_updated: "2026-04-25T12:56:23-05:00"
+last_session: 1
+last_updated: 2026-04-25T12:56:23-05:00
 hq: "[[Starfall Manor]]"
-summary: "The shadowy espionage organization that raised and trained Vaelin. They manipulate history from the shadows and operate out of Starfall Manor."
+summary: The shadowy espionage organization that raised and trained Vaelin. They manipulate history from the shadows and operate out of Starfall Manor.
 ---
 
 # The Society
@@ -17,7 +24,7 @@ summary: "The shadowy espionage organization that raised and trained Vaelin. The
 
 ## Operations & Headquarters
 
-* **Starfall Manor:** The official headquarters of The Society, located in the affluent [[The High District]]. It is heavily secured and restricted.
+* **Starfall Manor:** The official headquarters of The Society, located in the affluent [[The_High_District|The High District]]. It is heavily secured and restricted.
 * **The Shadowy Council:** The highest level of leadership, steering the overarching goals of the organization.
 
 ## Ideological Subfactions
@@ -31,7 +38,7 @@ The Society is not a monolith. Its members form informal alliances based on thei
 ## Key Members
 
 * **[[Elyndra]]:** A female High Elf who sits on the leadership council. She was Vaelin's primary mentor and the one who originally recruited him off the streets.
-* **[[Talia]] (aka "Whisper"):** A female Half-Elf and Vaelin's primary mission handler. She is highly ambitious with a Type-A personality, holding her associates to exacting standards. She meets with Vaelin at *[[The Drunken Raven]]* tavern in the [[Shadow Quarter]].
+* **[[Talia]] (aka "Whisper"):** A female Half-Elf and Vaelin's primary mission handler. She is highly ambitious with a Type-A personality, holding her associates to exacting standards. She meets with Vaelin at *[[The_Drunken_Raven|The Drunken Raven]]* tavern in [[Shadow_Quarter|The Shadow Quarter]].
 
 ## ⚠️ DM Directives (Vaelin's Dynamic)
 

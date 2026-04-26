@@ -1,8 +1,13 @@
 ---
 type: location
-tags: [duskhaven, location, operative, safehouse, shadow-quarter]
-last_session: 0
-last_updated: "2026-04-25T12:59:43-05:00"
+tags:
+  - duskhaven
+  - location
+  - operative
+  - safehouse
+  - shadow-quarter
+last_session: 1
+last_updated: 2026-04-25T12:59:43-05:00
 district: The Shadow Quarter
 location_type: safehouse
 owner: Vaelin

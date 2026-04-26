@@ -1,8 +1,9 @@
 ---
 type: npc
 tags: [dice-of-fortune-and-ruin, gossamer, npc, sentient-item]
+status: inactive
 last_session: 0
-last_updated: "2026-04-25T13:04:59-05:00"
+last_updated: "2026-04-26T02:23:08-05:00"
 affiliation: Vaelin
 bound_item: "[[item_dice_of_fortune_and_ruin]]"
 role: Combat Companion (Die of Influence)

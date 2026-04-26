@@ -1,15 +1,20 @@
 ---
 name: Harbor Syndicate
 type: faction
-aliases: [The Harbor Syndicate]
-tags: [faction, muscle, smuggling, syndicate]
+aliases:
+  - The Harbor Syndicate
+tags:
+  - faction
+  - muscle
+  - smuggling
+  - syndicate
 location: "[[The_Docks]]"
 status: active
-last_session: 0
-last_updated: "2026-04-25T12:58:31-05:00"
-hq: "Harbor Syndicate's warehouse"
+last_session: 1
+last_updated: 2026-04-25T12:58:31-05:00
+hq: Harbor Syndicate's warehouse
 region: "[[Duskhaven]]"
-summary: "The dominant criminal organization controlling shipping, tariffs, and contraband in The Docks."
+summary: The dominant criminal organization controlling shipping, tariffs, and contraband in The Docks.
 ---
 
 # Harbor Syndicate

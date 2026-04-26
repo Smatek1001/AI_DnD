@@ -5,8 +5,8 @@ aliases: [The Shadow Quarter]
 tags: [district, location, slums]
 location: "[[Duskhaven]] - East of The Docks"
 status: active
-last_session: 0
-last_updated: "2026-04-25T13:06:38-05:00"
+last_session: 1
+last_updated: "2026-04-26T16:13:58-05:00"
 summary: "A marginalized, poverty-stricken slum district. Home to desperate citizens, The Ratlings, and Vaelin's highly secure 'Black Oven' safehouse."
 ---
 

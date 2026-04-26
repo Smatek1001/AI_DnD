@@ -3,8 +3,8 @@ name: "Vaelin's Reputation & Network"
 type: character_network
 character_ref: "[[Vaelin_Shadowleaf]]"
 tags: [factions, mechanics, reputation]
-last_session: 0
-last_updated: "2026-04-21T22:09:13-05:00"
+last_session: 1
+last_updated: "2026-04-26T01:45:11-05:00"
 ---
 
 ```yaml

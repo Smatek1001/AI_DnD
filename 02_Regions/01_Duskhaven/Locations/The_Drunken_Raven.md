@@ -1,12 +1,12 @@
 ---
 name: The Drunken Raven
 type: location
-aliases: [The Raven]
+aliases: [The Drunken Raven, The Raven]
 tags: [location, tavern]
 location: "[[Shadow_Quarter]]"
 status: active
-last_session: 0
-last_updated: "2026-04-25T13:07:21-05:00"
+last_session: 2
+last_updated: "2026-04-26T16:14:05-05:00"
 region: "[[Duskhaven]]"
 summary: "A dive tavern located in the Shadow Quarter. Guarded by a laconic bouncer named Tarren, it serves as Vaelin's primary meeting spot with his Society handler, Talia."
 ---
