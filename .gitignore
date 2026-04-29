@@ -38,7 +38,8 @@ mempalace_mine.sh
 /00_System/.DS_Store
 /01_Global_Entities/.DS_Store
 /02_Regions/01_Duskhaven/Factions/.DS_Store
-/.tmp.driveupload
+.tmp.driveupload/
+.tmp.drivedownload/
 
 # MemPalace per-project files (issue #185)
 mempalace.yaml
@@ -46,3 +47,7 @@ entities.json
 
 /entities.json
 /mempalace.yaml
+/custom_GemDM_instructions.md
+03_Session_Summaries/.DS_Store
+**/.DS_Store
+**/.tmp*
