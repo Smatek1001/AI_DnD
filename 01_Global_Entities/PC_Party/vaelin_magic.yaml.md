@@ -1,7 +1,7 @@
 ---
 type: character_loadout
 last_session: 3
-last_updated: "2026-04-28T23:07:36-05:00"
+last_updated: "2026-04-29T16:58:07-05:00"
 character: Vaelin Shadowleaf
 domain: magic
 recovery_rules:
@@ -14,7 +14,7 @@ recovery_rules:
     - magical_cunning
     - sorcerous_restoration
 resources:
-  sorcery_points_current: 2
+  sorcery_points_current: 1
   sorcery_points_max: 2
   pact_slots_current: 2
   pact_slots_max: 2

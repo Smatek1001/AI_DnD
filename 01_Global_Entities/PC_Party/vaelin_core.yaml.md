@@ -1,7 +1,7 @@
 ---
 type: character_loadout
 last_session: 3
-last_updated: "2026-04-28T23:05:28-05:00"
+last_updated: "2026-04-29T16:56:52-05:00"
 ability_scores:
   str: 8
   dex: 16
@@ -36,8 +36,8 @@ core_info:
   jack_of_all_trades: true
   second_story_work: false
   experience:
-    gross_earned: 1700
-    net_earned: 425
+    gross_earned: 2100
+    net_earned: 525
     tax_rate: 4
 domain: core
 proficiencies:
@@ -57,7 +57,6 @@ proficiencies:
     - Undercommon
   skills:
     acrobatics: Prof
-    athletics: None
     deception: Prof
     insight: Expert
     perception: Expert

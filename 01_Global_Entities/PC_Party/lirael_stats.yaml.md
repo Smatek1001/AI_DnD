@@ -4,7 +4,7 @@ type: monster_stat_block
 character_ref: "[[Lirael]]"
 tags: [familiar, mechanics]
 last_session: 2
-last_updated: "2026-04-28T23:04:17-05:00"
+last_updated: "2026-04-29T16:56:49-05:00"
 actions_allowed:
   - Dash
   - Disengage
@@ -80,9 +80,9 @@ skills_and_senses:
   senses: Passive Perception 13
   languages: Common, Sylvan, Elvish, Goblin. Telepathy.
 state:
-  form: Sprite
+  form: Winged Nymph
   status: Active
-  is_invisible: true
+  is_invisible: false
 summary: "This file contains the mechanical combat block and state tracking for Lirael"
 vitals:
   hp_current: 10

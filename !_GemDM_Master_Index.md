@@ -6,28 +6,28 @@
 ## 🗺️ Geography & Locations [MemPalace Room: locations]
 * **Blackwoods_Baubles.md:** A jewelry store with connections to the Nightshade Guild
 * **Duskhaven.md:** The primary setting: a massive, corrupt, high-magic coastal trade port with a gritty noir atmosphere.
+* **Market_Square.md:** The bustling commercial heart of Duskhaven. A chaotic mix of legitimate merchants, indebted tradesmen, and hidden black-market fences like Mira Quickfingers.
+* **Noble_Quarter.md:** The wealthy, heavily policed district of Duskhaven. Home to the city's aristocrats, corrupt politicians, and the elite, upper-class members of The Cult.
+* **Old_Ruins.md:** Ancient, forgotten structural remnants beneath or outside Duskhaven. A dangerous zone holding dark historical secrets, lost magic, and subterranean threats.
+* **Shadow_Quarter.md:** A marginalized, poverty-stricken slum district. Home to desperate citizens, The Ratlings, and Vaelin's highly secure 'Black Oven' safehouse.
 * **The_Black_Oven.md:** 'The Black Oven.' Vaelin's highly secure, off-the-books attic safehouse located in the Shadow Quarter.
 * **The_Crows_Nest.md:** A heavy, salt-stained timber tavern serving as the primary front for the Harbor Syndicate. It houses The Shade's highly warded and trapped second-floor office.
 * **The_Docks.md:** The bustling, dangerous maritime district of Duskhaven, heavily influenced by the Harbor Syndicate and independent smugglers.
 * **The_Drunken_Raven.md:** A dive tavern located in the Shadow Quarter. Guarded by a laconic bouncer named Tarren, it serves as Vaelin's primary meeting spot with his Society handler, Talia.
 * **The_High_District.md:** The absolute peak of Duskhaven's elite society. A heavily guarded, affluent echelon that houses Starfall Manor, the headquarters of The Society.
-* **The_Market_Square.md:** The bustling commercial heart of Duskhaven. A chaotic mix of legitimate merchants, indebted tradesmen, and hidden black-market fences like Mira Quickfingers.
-* **The_Noble_Quarter.md:** The wealthy, heavily policed district of Duskhaven. Home to the city's aristocrats, corrupt politicians, and the elite, upper-class members of The Cult.
-* **The_Old_Ruins.md:** Ancient, forgotten structural remnants beneath or outside Duskhaven. A dangerous zone holding dark historical secrets, lost magic, and subterranean threats.
 * **The_Rusty_Anchor.md:** A neutral-ground tavern in The Docks owned by Greta Stoneheart. Acts as Vaelin's primary surrogate home.
 * **The_Sewers.md:** The labyrinthine, toxic subterranean network beneath Duskhaven. A haven for outcasts, illicit smuggling routes, and the marginalized, lower-class followers of The Cult.
-* **The_Shadow_Quarter.md:** A marginalized, poverty-stricken slum district. Home to desperate citizens, The Ratlings, and Vaelin's highly secure 'Black Oven' safehouse.
 * **The_Veil.md:** A labyrinthine, high-magic noir district within Duskhaven known for its elite gambling dens and arcana shops.
 * **Therandril.md:** The destroyed ancient city of Vaelin's origin. Once protected by the Archfey Caladwen before being entirely annihilated by the cosmic horror of The Nameless One.
 
 ## 🗡️ Factions & Syndicates [MemPalace Room: factions]
-* **Ebon_Web_Syndicate.md:** The Drow cartel controlling the Undercity and illicit smuggling routes deep within Duskhaven.
+* **Ebon_Web.md:** The Drow cartel controlling the Undercity and illicit smuggling routes deep within Duskhaven.
 * **Harbor_Syndicate.md:** The dominant criminal organization controlling shipping, tariffs, and contraband in The Docks.
 * **Magpie_Miris_Gang.md:** An opportunistic street gang known for coordinated theft, smuggling, and fencing. They operate in the shadows of the larger syndicates, relying on speed and street-smarts.
 * **Nightshade_Guild.md:** An illicit syndicate operating in Duskhaven, known for assassination, extortion, and high-end crime. They use 'The Whispering Door' tavern in The Veil as their primary front.
+* **Rust_Dogs.md:** A violent, low-level gang of thugs and enforcers operating in the grittier districts of Duskhaven. Often employed as cheap muscle by the larger cartels.
 * **The_Cult.md:** A secretive organization worshipping The Nameless One. The primary cosmic horror antagonists and the ultimate target of Caladwen's vengeance.
 * **The_Ratlings.md:** Vaelin's street urchin intelligence network, led by an orphaned girl named Finch. Operating primarily out of the Shadow Quarter.
-* **The_Rust_Dogs.md:** A violent, low-level gang of thugs and enforcers operating in the grittier districts of Duskhaven. Often employed as cheap muscle by the larger cartels.
 * **The_Society.md:** The shadowy espionage organization that raised and trained Vaelin. They manipulate history from the shadows and operate out of Starfall Manor.
 
 ## 👥 Major NPCs [MemPalace Room: npcs]
@@ -42,6 +42,7 @@
 > [!INFO]- 📁 Season 01 Duskhaven
 > * **Session_01_The_Crows_Nest_Heist.md:** Vaelin successfully graduates from The Society and executes a flawless, zero-alarm heist against the Harbor Syndicate.
 > * **Session_02_Blackwood_Retrieval.md:** Vaelin successfully retrieved a compromised silver signet ring containing a microscopic list of Noble Quarter safehouses before it could be sold to the Nightshade Guild.
+> * **Session_03_The_Blackwater_Blockade.md:** Vaelin dismantled a Rust Dog extortion checkpoint targeting The Ratlings, recovering stolen coin and causing the gang to fracture from within using purely psychological warfare.
 > 
 
 ## 👤 PC Mechanics [MemPalace Room: pc_party]
