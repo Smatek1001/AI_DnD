@@ -25,7 +25,7 @@ summary: The shadowy espionage organization that raised and trained Vaelin. They
 ## Operations & Headquarters
 
 * **Starfall Manor:** The official headquarters of The Society, located in the affluent [[The_High_District|The High District]]. It is heavily secured and restricted.
-* **The Shadowy Council:** The highest level of leadership, steering the overarching goals of the organization.
+* **The Shadow Council:** The highest level of leadership, steering the overarching goals of the organization.
 
 ## Ideological Subfactions
 
@@ -47,4 +47,4 @@ The Society is not a monolith. Its members form informal alliances based on thei
 
 ## Secrets & DM Notes
 
-* **The Amoral Agenda:** The unnamed "Amoral" subfaction is currently gaining traction within the Shadowy Council, pushing The Society to take darker, more direct actions in Duskhaven's underworld.
+* **The Amoral Agenda:** The unnamed "Amoral" subfaction is currently gaining traction within the Shadow Council, pushing The Society to take darker, more direct actions in Duskhaven's underworld.
