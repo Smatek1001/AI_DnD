@@ -15,7 +15,7 @@ summary: "Vaelin's handler with The Society"
 
 ## Overview
 
-Talia is a high-ranking operative and handler for **[[The_Society|The Society]]**, operating primarily out of [[The_Shadow_Quarter|The Shadow Quarter]] in [[Duskhaven]]. She acts as the direct intermediary between field agents like Vaelin and the organization's ruling body, the Shadowy Council. She frequents a specific booth at *[[The_Drunken_Raven|The Drunken Raven]]*, using the tavern's ambient noise and unsavory clientele as cover for dispatching contracts and receiving stolen assets.
+Talia is a high-ranking operative and handler for **[[The_Society|The Society]]**, operating primarily out of [[Shadow_Quarter|The Shadow Quarter]] in [[Duskhaven]]. She acts as the direct intermediary between field agents like Vaelin and the organization's ruling body, the Shadowy Council. She frequents a specific booth at *[[The_Drunken_Raven|The Drunken Raven]]*, using the tavern's ambient noise and unsavory clientele as cover for dispatching contracts and receiving stolen assets.
 
 ## Appearance & Personality
 

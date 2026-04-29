@@ -19,13 +19,13 @@ summary: "The primary setting: a massive, corrupt, high-magic coastal trade port
 ## City Districts
 
 * **[[The_Docks|The Docks]]:** Located on the south coast, this is the industrial heart of the city. It is a maze of towering warehouses, creaking cranes, and heavily guarded caravans.
-* **[[The_Shadow_Quarter|The Shadow Quarter]]:** East of the Docks. A sprawling, neglected slum where the city's poorest residents and underclass races are pushed. The architecture is crumbling and the city watch rarely patrols here.
+* **[[Shadow_Quarter|The Shadow Quarter]]:** East of the Docks. A sprawling, neglected slum where the city's poorest residents and underclass races are pushed. The architecture is crumbling and the city watch rarely patrols here.
 * **[[The_Veil|The Veil]]:** Northwest of the Docks. A labyrinthine district of narrow, twisting streets, sudden dead ends, and perpetual shadows. It is deeply atmospheric, highly dangerous for outsiders, and perfect for clandestine meetings.
-* **[[The_Market_Square|The Market Square]]:** The commercial and trade hub in the exact center of Duskhaven. A chaotic clash of legitimate merchants, pickpockets, and syndicate fronts.
-* **[[The_Noble_Quarter|The Noble Quarter]]:** The northwest heights. Home to old money, high-born families, and sprawling, heavily guarded estates.
+* **[[Market_Square|The Market Square]]:** The commercial and trade hub in the exact center of Duskhaven. A chaotic clash of legitimate merchants, pickpockets, and syndicate fronts.
+* **[[Noble_Quarter|The Noble Quarter]]:** The northwest heights. Home to old money, high-born families, and sprawling, heavily guarded estates.
 * **[[The_High_District|The High District]]:** The northeast sector. Home to the newly wealthy, successful merchants, and guild leaders trying to buy their way into nobility.
 * **[[The_Sewers|The Sewers]]:** An extensive, ancient, and deeply hazardous underground network that connects directly to the ocean and the deeper Underdark. It functions as a secondary city for the underclass.
-* **[[The_Old_Ruins|The Old Ruins]]:** Located just outside the city. The remains of a long-abandoned ancient Elf city (distinct from Therandril). It is considered deeply cursed and haunted by the locals, heavily avoided by all but the most desperate scavengers.
+* **[[Old_Ruins|The Old Ruins]]:** Located just outside the city. The remains of a long-abandoned ancient Elf city (distinct from Therandril). It is considered deeply cursed and haunted by the locals, heavily avoided by all but the most desperate scavengers.
 
 ## Atmosphere & Society (DM Directives)
 

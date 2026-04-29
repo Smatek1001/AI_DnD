@@ -1,16 +1,23 @@
 ---
 name: The Ratlings
 type: faction
-aliases: ["Finch's Gang", The Ratlings]
-tags: [allies, faction, gang, informants, urchins]
-location: "[[The_Shadow_Quarter]]"
+aliases:
+  - Finch's Gang
+  - The Ratlings
+tags:
+  - allies
+  - faction
+  - gang
+  - informants
+  - urchins
+location: "[[Shadow_Quarter]]"
 status: active
 last_session: 0
-last_updated: "2026-04-29T06:40:01-05:00"
+last_updated: 2026-04-29T06:40:01-05:00
 hq: "[[The Nest]]"
 leader: Finch
 region: "[[Duskhaven]]"
-summary: "Vaelin's street urchin intelligence network, led by an orphaned girl named Finch. Operating primarily out of the Shadow Quarter."
+summary: Vaelin's street urchin intelligence network, led by an orphaned girl named Finch. Operating primarily out of the Shadow Quarter.
 ---
 
 # The Ratlings
@@ -19,7 +26,7 @@ summary: "Vaelin's street urchin intelligence network, led by an orphaned girl n
 
 ## Operations & Headquarters
 
-* **The Nest:** Their headquarters is located in the [[The_Shadow_Quarter]]. It is situated on the upper floor of the Cogsworth Tenement, which is an abandoned apartment building.
+* **The Nest:** Their headquarters is located in the [[Shadow_Quarter]]. It is situated on the upper floor of the Cogsworth Tenement, which is an abandoned apartment building.
 * **Street Intelligence:** The urchins function as lookouts across the city. They are a primary source for passing on rumors, making them an excellent vector for quest hooks.
 * **Rivals:** The Ratlings are sometimes bullied by [[The Rust Dogs]], a petty criminal gang that operates out of the Docks.
 

@@ -38,7 +38,7 @@ The Society is not a monolith. Its members form informal alliances based on thei
 ## Key Members
 
 * **[[Elyndra]]:** A female High Elf who sits on the leadership council. She was Vaelin's primary mentor and the one who originally recruited him off the streets.
-* **[[Talia]] (aka "Whisper"):** A female Half-Elf and Vaelin's primary mission handler. She is highly ambitious with a Type-A personality, holding her associates to exacting standards. She meets with Vaelin at *[[The_Drunken_Raven|The Drunken Raven]]* tavern in [[The_Shadow_Quarter|The Shadow Quarter]].
+* **[[Talia]] (aka "Whisper"):** A female Half-Elf and Vaelin's primary mission handler. She is highly ambitious with a Type-A personality, holding her associates to exacting standards. She meets with Vaelin at *[[The_Drunken_Raven|The Drunken Raven]]* tavern in [[Shadow_Quarter|The Shadow Quarter]].
 
 ## ⚠️ DM Directives (Vaelin's Dynamic)
 

@@ -15,7 +15,7 @@ characters:
   - "[[Talia]]"
   - "[[Vaelin_Shadowleaf]]"
 locations:
-  - "[[The_Market_Square]]"
+  - "[[Market_Square]]"
   - "[[The_Black_Oven]]"
   - "[[The_Drunken_Raven]]"
 rewards_earned:
@@ -32,7 +32,7 @@ summary: Vaelin successfully retrieved a compromised silver signet ring containi
 * **Operative:** Vaelin Shadowleaf (Level 1 Gestalt Rogue-Sorlock)
 * **Handler:** [[Talia]] (The Society)
 * **Target:** [[Silas_Blackwood]], owner of *[[Blackwoods_Baubles|Blackwood's Baubles]]* in Market Square
-* **Objective:** Retrieve a compromised silver signet ring containing a microscopic list of [[The_Noble_Quarter|Noble Quarter]] safehouses before it could be sold to the [[Nightshade_Guild|Nightshade Guild]].
+* **Objective:** Retrieve a compromised silver signet ring containing a microscopic list of [[Noble_Quarter|Noble Quarter]] safehouses before it could be sold to the [[Nightshade_Guild|Nightshade Guild]].
 
 ## Narrative Beats
 

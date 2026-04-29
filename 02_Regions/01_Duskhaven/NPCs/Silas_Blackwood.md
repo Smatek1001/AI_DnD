@@ -1,14 +1,21 @@
 ---
 name: Silas Blackwood
 type: npc
-aliases: [Blackwood, Silas Blackwood]
-tags: [compromised, duskhaven, fence, merchant, npc]
-location: "[[The_Market_Square]]"
+aliases:
+  - Blackwood
+  - Silas Blackwood
+tags:
+  - compromised
+  - duskhaven
+  - fence
+  - merchant
+  - npc
+location: "[[Market_Square]]"
 last_session: 2
-last_updated: "2026-04-29T03:16:23-05:00"
+last_updated: 2026-04-29T03:16:23-05:00
 faction_ties: "[[Nightshade_Guild]]"
 occupation: Jeweler, Fence
-summary: "A jewelry shop owner and fence with connections to the Nighshade Guild"
+summary: A jewelry shop owner and fence with connections to the Nighshade Guild
 ---
 
 # Silas Blackwood
