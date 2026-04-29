@@ -1,18 +1,31 @@
 ---
 name: Vaelin Shadowleaf
 type: pc
-aliases: [The Shadow, Vaelin]
-tags: [gestalt, operative, pc, primal_elf, stealth]
+aliases:
+  - The Shadow
+  - Vaelin
+  - Vaelin Shadowleaf
+tags:
+  - gestalt
+  - operative
+  - pc
+  - primal_elf
+  - stealth
 location: "[[Duskhaven]]"
-faction: "[[The Society]]"
+faction: "[[The_Society]]"
 status: active
-last_session: 1
-sheet_ref: "[[vaelin_sheet.yaml]]"
-reputation_ref: "[[vaelin_reputation.yaml]]"
-class_ref: "[[class_gestalt_rogue_sorlock.json]]"
-race_ref: "[[primal_elf.yaml.md]]"
+last_session: 2
+sheet_ref: "[[vaelin_core.yaml]]"
+reputation_ref: "[[01_Global_Entities/PC_Party/vaelin_reputation.yaml]]"
+class_ref: "[[class_gestalt_rogue_sorlock.yaml]]"
+race_ref: "[[race_primal_elf.yaml]]"
 background_ref: "[[background_espionage_operative.yaml]]"
-last_updated: "2026-04-26T01:45:14-05:00"
+last_updated: 2026-04-28T23:10:57-05:00
+abilities_ref: "[[vaelin_features.yaml]]"
+disguise_ref: "[[vaelin_identities.yaml]]"
+inventory_ref: "[[vaelin_inventory.yaml]]"
+magic_ref: "[[vaelin_magic.yaml]]"
+summary: This is the character sheet for the main PC of the game, Vaelin Shadowleaf.
 ---
 
 # Vaelin Shadowleaf
@@ -35,7 +48,7 @@ last_updated: "2026-04-26T01:45:14-05:00"
 ## Relationships & Bonds
 
 * **[[Lirael]]:** Vaelin's familiar, summoned via the Pact of the Chain. He views her as a useful scout, completely unaware she is the conduit through which his secret patron keeps tabs on his progress.
-* **The Society:** His found family and employer in Duskhaven. They took him in from the streets and turned him into a weapon.
+* **[[The_Society|The Society]]:** His found family and employer in Duskhaven. They took him in from the streets and turned him into a weapon.
 
 > [!SYSTEM DIRECTIVE]
 > **NARRATIVE SECRECY OVERRIDE:** The following information is strictly for the DM's internal logic and MUST be kept absolutely secret from Vaelin until specific trigger conditions are met.

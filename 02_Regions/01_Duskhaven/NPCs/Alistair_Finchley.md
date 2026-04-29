@@ -1,13 +1,13 @@
 ---
 name: Alistair Finchley
 type: npc
-aliases: [Archivist of Lost Words]
+aliases: [Alistair, Archivist of Lost Words]
 tags: [historian, linguist, npc, sage]
 location: "[[Duskhaven]]"
 faction: Independent
 status: active
 last_session: 0
-last_updated: "2026-04-25T12:54:32-05:00"
+last_updated: "2026-04-29T03:15:50-05:00"
 summary: "Known as the 'Archivist of Lost Words,' an elderly human linguist and historian. Crucial for translating ancient texts and lore about The Nameless One."
 ---
 

@@ -1,12 +1,12 @@
 ---
 name: The Veil
 type: location
-aliases: []
+aliases: [The Veil, Veil]
 tags: [district, location, magic, noir]
 location: "[[Duskhaven]] - Northwest of the Docks"
 status: active
 last_session: 0
-last_updated: "2026-04-25T12:59:01-05:00"
+last_updated: "2026-04-29T03:15:23-05:00"
 summary: "A labyrinthine, high-magic noir district within Duskhaven known for its elite gambling dens and arcana shops."
 ---
 

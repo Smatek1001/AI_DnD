@@ -5,16 +5,17 @@ aliases: [The Whisper, Whisper]
 tags: [duskhaven, handler, npc, shadow_quarter, the_society]
 location: "[[The_Drunken_Raven]]"
 last_session: 2
-last_updated: "2026-04-26T16:14:35-05:00"
+last_updated: "2026-04-29T03:16:34-05:00"
 faction_ties: "[[The_Society]]"
 occupation: Handler, Society Operative
+summary: "Vaelin's handler with The Society"
 ---
 
 # Talia
 
 ## Overview
 
-Talia is a high-ranking operative and handler for **[[The_Society|The Society]]**, operating primarily out of [[Shadow_Quarter|The Shadow Quarter]] in [[Duskhaven]]. She acts as the direct intermediary between field agents like Vaelin and the organization's ruling body, the Shadowy Council. She frequents a specific booth at *[[The_Drunken_Raven|The Drunken Raven]]*, using the tavern's ambient noise and unsavory clientele as cover for dispatching contracts and receiving stolen assets.
+Talia is a high-ranking operative and handler for **[[The_Society|The Society]]**, operating primarily out of [[The_Shadow_Quarter|The Shadow Quarter]] in [[Duskhaven]]. She acts as the direct intermediary between field agents like Vaelin and the organization's ruling body, the Shadowy Council. She frequents a specific booth at *[[The_Drunken_Raven|The Drunken Raven]]*, using the tavern's ambient noise and unsavory clientele as cover for dispatching contracts and receiving stolen assets.
 
 ## Appearance & Personality
 

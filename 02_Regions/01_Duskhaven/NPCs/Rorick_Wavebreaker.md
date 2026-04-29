@@ -7,7 +7,7 @@ location: "[[The_Docks]]"
 faction: Independent
 status: active
 last_session: 0
-last_updated: "2026-04-25T12:54:44-05:00"
+last_updated: "2026-04-29T03:15:53-05:00"
 region: "[[Duskhaven]]"
 summary: "An independent smuggler and friendly ally to Vaelin in The Docks, capable of covertly moving goods and people in and out of Duskhaven."
 ---

@@ -1,12 +1,12 @@
 ---
 name: The Sewers
 type: location
-aliases: []
+aliases: [Sewers, The Sewers, The Underground, Underground]
 tags: [crime, district, location, underdark]
 location: "[[Duskhaven]] - Underground"
 status: active
 last_session: 0
-last_updated: "2026-04-25T13:06:52-05:00"
+last_updated: "2026-04-29T03:15:03-05:00"
 summary: "The labyrinthine, toxic subterranean network beneath Duskhaven. A haven for outcasts, illicit smuggling routes, and the marginalized, lower-class followers of The Cult."
 ---
 

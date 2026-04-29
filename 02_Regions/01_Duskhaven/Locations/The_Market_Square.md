@@ -1,12 +1,12 @@
 ---
 name: Market Square
 type: location
-aliases: [The Market]
+aliases: [The Market, The Market Square]
 tags: [commerce, district, location]
 location: "[[Duskhaven]] - Center"
 status: active
 last_session: 2
-last_updated: "2026-04-26T16:14:25-05:00"
+last_updated: "2026-04-29T03:14:18-05:00"
 summary: "The bustling commercial heart of Duskhaven. A chaotic mix of legitimate merchants, indebted tradesmen, and hidden black-market fences like Mira Quickfingers."
 ---
 

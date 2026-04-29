@@ -43,3 +43,6 @@ mempalace_mine.sh
 # MemPalace per-project files (issue #185)
 mempalace.yaml
 entities.json
+
+/entities.json
+/mempalace.yaml

@@ -13,7 +13,7 @@ locations:
   - "[[The_Veil]]"
   - "[[The_Crows_Nest]]"
 rewards_earned:
-  xp: 2000
+  xp: 500
 summary: Vaelin successfully graduates from The Society and executes a flawless, zero-alarm heist against the Harbor Syndicate.
 ---
 

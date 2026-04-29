@@ -1,35 +1,65 @@
 ---
-name: "Vaelin's Reputation & Network"
-type: character_network
-character_ref: "[[Vaelin_Shadowleaf]]"
-tags: [factions, mechanics, reputation]
-last_session: 1
-last_updated: "2026-04-26T01:45:11-05:00"
+type: character_loadout
+last_session: 3
+last_updated: "2026-04-28T23:08:00-05:00"
+character: Vaelin Shadowleaf
+domain: reputation
+factions:
+  - name: The Society
+    standings:
+      Vaelin (True Form): Allied
+      The Adventurer: Allied
+    notes: "Vaelin's employer and found family. They are the only faction fully aware that these two identities are the same person."
+  - name: Ebon Web Syndicate
+    standings:
+      Vaelin (True Form): Unknown
+      The Adventurer: Neutral
+    notes: General criminal enterprise. No major positive or negative heat yet.
+  - name: Harbor Syndicate
+    standings:
+      Vaelin (True Form): Unknown
+      The Adventurer: Neutral
+    notes: Controls the Docks and shipping lanes.
+  - name: Nightshade Guild
+    standings:
+      Vaelin (True Form): Unknown
+      The Adventurer: Neutral
+    notes: Elite assassins and poisoners.
+  - name: "Magpie Miri's Gang"
+    standings:
+      Vaelin (True Form): Unknown
+      The Adventurer: Neutral
+    notes: Smugglers and thieves.
+  - name: The Ratlings
+    standings:
+      Vaelin (True Form): Unknown
+      The Adventurer: Neutral
+    notes: Street urchin network and information brokers.
+  - name: The Rust Dogs
+    standings:
+      Vaelin (True Form): Unknown
+      The Adventurer: Neutral
+    notes: Mercenaries and muscle-for-hire.
+  - name: The Cult
+    standings:
+      Vaelin (True Form): Unknown
+      The Adventurer: Hostile
+    notes: Shadowy organization connected to the overarching narrative.
+  - name: The City Guard
+    standings:
+      Vaelin (True Form): Unknown
+      The Adventurer: Neutral
+    notes: Official law enforcement of Duskhaven.
+summary: "This file tracks how the major factions of Duskhaven view Vaelin's specific aliases."
 ---
 
-```yaml
-factions:
-  # Scale: Hostile, Unfriendly, Neutral, Friendly, Allied (or a numeric system if you prefer)
-  The Society:
-    standing: "Allied (Graduated Member)"
-    notes: "Vaelin is a recognized operative. Granted access to lower-tier safehouses."
-  The Cult:
-    standing: "Hostile"
-    notes: "Servants of The Nameless One"
-  The Ratlings:
-    standing: "Allied"
+# Vaelin's Reputation & Faction Standings
 
-safehouse_network_handlers:
-  - name: "[[Silas the Rat]]"
-    location: "[[The Leaky Cauldron]]"
-    status: "Active"
-    notes: "Primary dead-drop contact. Will provide a secure room, but will not provide weapons or backup."
-
-key_npc_relationships:
-  - name: "[[Lirael]]"
-    disposition: "Loyal (Secretly reporting to Caladwen)"
-    notes: "Currently annoying Vaelin by leaving shiny buttons in his boots."
-  - name: Finch
-    disposition: "Ally"
-    notes: "Leader of The Ratlings"
-```
+> [!SYSTEM DIRECTIVE]
+> **For the AI Dungeon Master:** This file represents the "Reputation" domain. It tracks how the major factions of Duskhaven view Vaelin's specific aliases.
+>
+> **The Persona Rule (CRITICAL):** Faction standing is tied strictly to the persona, NOT the overarching character.
+> * If a faction is "Hostile" to "The Adventurer," they will attack the Moon Elf on sight.
+> * If that same faction lists "Vaelin (True Form)" as "Unknown," they will completely ignore him when he is in his natural Primal Elf form, as they do not know the two identities are the same person.
+> 
+> **MemPalace Logging Rule:** When using the `mempalace_kg_add` tool to log an NPC relationship, debt, or grudge, you MUST use the name of the currently active disguise/persona as the "object" (e.g., "The Adventurer"), rather than the global character name.

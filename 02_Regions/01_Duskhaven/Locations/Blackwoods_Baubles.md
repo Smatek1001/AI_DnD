@@ -4,11 +4,12 @@ type: location
 aliases: ["Blackwood's Baubles"]
 tags: [duskhaven, location, market_square, shop]
 last_session: 2
-last_updated: "2026-04-26T16:13:49-05:00"
-neighborhood: "[[Market_Square]]"
+last_updated: "2026-04-29T03:13:37-05:00"
+neighborhood: "[[The_Market_Square]]"
 owner: "[[Silas_Blackwood]]"
 region: "[[Duskhaven]]"
 subtype: shop
+summary: "A jewelry store with connections to the Nightshade Guild"
 ---
 
 # Blackwood's Baubles

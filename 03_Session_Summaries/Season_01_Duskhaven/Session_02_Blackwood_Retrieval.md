@@ -8,21 +8,21 @@ tags:
   - session_log
   - the_society
 last_session: 2
-last_updated: 2026-04-26T14:47:55-05:00
+last_updated: 2026-04-29T02:18:32-05:00
 characters:
   - "[[Lirael]]"
   - "[[Silas_Blackwood]]"
   - "[[Talia]]"
   - "[[Vaelin_Shadowleaf]]"
 locations:
-  - "[[Market_Square]]"
+  - "[[The_Market_Square]]"
   - "[[The_Black_Oven]]"
   - "[[The_Drunken_Raven]]"
 rewards_earned:
   gold: 95
   xp: 1200
   level_up: true
-summary: Retrieve a compromised silver signet ring containing a microscopic list of Noble Quarter safehouses before it could be sold to the Nightshade Guild.
+summary: Vaelin successfully retrieved a compromised silver signet ring containing a microscopic list of Noble Quarter safehouses before it could be sold to the Nightshade Guild.
 ---
 
 # Session Summary: The Blackwood Retrieval
@@ -32,7 +32,7 @@ summary: Retrieve a compromised silver signet ring containing a microscopic list
 * **Operative:** Vaelin Shadowleaf (Level 1 Gestalt Rogue-Sorlock)
 * **Handler:** [[Talia]] (The Society)
 * **Target:** [[Silas_Blackwood]], owner of *[[Blackwoods_Baubles|Blackwood's Baubles]]* in Market Square
-* **Objective:** Retrieve a compromised silver signet ring containing a microscopic list of [[Noble_Quarter|Noble Quarter]] safehouses before it could be sold to the [[Nightshade_Guild|Nightshade Guild]].
+* **Objective:** Retrieve a compromised silver signet ring containing a microscopic list of [[The_Noble_Quarter|Noble Quarter]] safehouses before it could be sold to the [[Nightshade_Guild|Nightshade Guild]].
 
 ## Narrative Beats
 

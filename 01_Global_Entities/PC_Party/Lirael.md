@@ -3,11 +3,11 @@ name: Lirael
 type: companion
 tags: [ally, familiar, fey, pact_of_the_chain, spy]
 location: "[[Duskhaven]]"
-master: "[[Vaelin Shadowleaf]]"
+master: "[[01_Global_Entities/PC_Party/Vaelin_Shadowleaf]]"
 status: active
-last_session: 1
+last_session: 2
 stats_ref: "[[lirael_stats.yaml]]"
-last_updated: "2026-04-26T02:23:32-05:00"
+last_updated: "2026-04-28T20:51:51-05:00"
 entity_type: Unique Fey
 summary: "Vaelin's Pact of the Chain familiar. Secretly acts as the eyes and ears of Caladwen, feeding Vaelin instructions under the guise of familiar instincts."
 true_master: "[[Caladwen]]"
@@ -15,7 +15,7 @@ true_master: "[[Caladwen]]"
 
 # Lirael
 
-**Summary:** Lirael is a Pact of the Chain familiar bound to [[Vaelin Shadowleaf]]. She takes the form of a tiny, winged, nymph-like Fey with an otherworldly beauty.
+**Summary:** Lirael is a Pact of the Chain familiar bound to [[01_Global_Entities/PC_Party/Vaelin_Shadowleaf|Vaelin Shadowleaf]]. She takes the form of a tiny, winged, nymph-like Fey with an otherworldly beauty.
 
 ## Demeanor & Quirks
 
