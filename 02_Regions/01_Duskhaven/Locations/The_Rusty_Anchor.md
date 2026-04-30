@@ -3,13 +3,12 @@ name: The Rusty Anchor
 type: location
 aliases: [The Anchor, The Rusty Anchor]
 tags: [allies, location, safehouse, tavern]
-location: "[[The_Docks]]"
-status: active
-last_session: 0
-last_updated: "2026-04-29T03:14:42-05:00"
-owner: "[[Greta Stoneheart]]"
-region: "[[Duskhaven]]"
 summary: "A neutral-ground tavern in The Docks owned by Greta Stoneheart. Acts as Vaelin's primary surrogate home."
+status: active
+last_updated: 2026-04-30T14:59:34-05:00
+location: "[[The_Docks]]"
+region: "[[Duskhaven]]"
+owner: "[[Greta Stoneheart]]"
 ---
 
 # The Rusty Anchor

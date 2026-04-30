@@ -1,9 +1,10 @@
 ---
-type: character_loadout
-last_session: 3
-last_updated: "2026-04-28T23:08:00-05:00"
+name: Vaelin Reputation Loadout
 character: Vaelin Shadowleaf
+type: character_loadout
 domain: reputation
+summary: "This file tracks how the major factions of Duskhaven view Vaelin's specific aliases."
+last_updated: 2026-04-30T14:23:27-05:00
 factions:
   - name: The Society
     standings:
@@ -50,7 +51,6 @@ factions:
       Vaelin (True Form): Unknown
       The Adventurer: Neutral
     notes: Official law enforcement of Duskhaven.
-summary: "This file tracks how the major factions of Duskhaven view Vaelin's specific aliases."
 ---
 
 # Vaelin's Reputation & Faction Standings

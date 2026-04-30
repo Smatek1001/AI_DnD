@@ -3,13 +3,12 @@ name: "Magpie Miri's Gang"
 type: faction
 aliases: ["Magpie Miri's Gang", The Magpies]
 tags: [faction, gang, petty_crime, street_level]
-location: "[[The_Docks]]"
-status: active
-last_session: 0
-last_updated: "2026-04-25T13:05:26-05:00"
-hq: Streets
-region: "[[Duskhaven]]"
 summary: "An opportunistic street gang known for coordinated theft, smuggling, and fencing. They operate in the shadows of the larger syndicates, relying on speed and street-smarts."
+status: active
+last_updated: 2026-04-30T14:30:29-05:00
+location: "[[The_Docks]]"
+region: "[[Duskhaven]]"
+hq: Streets
 ---
 
 # Magpie Miri's Gang

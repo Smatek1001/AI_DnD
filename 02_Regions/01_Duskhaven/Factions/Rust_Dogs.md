@@ -3,13 +3,12 @@ name: Rust Dogs
 type: faction
 aliases: [Rust Dogs, The Dogs, The Rust Dogs]
 tags: [faction, gang, petty_crime, street_level]
-location: "[[The_Docks]]"
-status: active
-last_session: 0
-last_updated: "2026-04-29T10:49:45-05:00"
-hq: The Docks
-region: "[[Duskhaven]]"
 summary: "A violent, low-level gang of thugs and enforcers operating in the grittier districts of Duskhaven. Often employed as cheap muscle by the larger cartels."
+status: active
+last_updated: 2026-04-30T14:30:32-05:00
+location: "[[The_Docks]]"
+region: "[[Duskhaven]]"
+hq: "[[The_Docks]]"
 ---
 
 # The Rust Dogs

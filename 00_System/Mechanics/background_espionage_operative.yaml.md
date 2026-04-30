@@ -1,11 +1,10 @@
 ---
 name: Espionage Operative
 type: custom_background
-tags: [background, mechanics, spy]
-last_session: 0
 homebrew: true
-last_updated: "2026-04-25T14:34:00-05:00"
+tags: [background, homebrew, mechanics, spy]
 summary: "A custom espionage operative background granting infiltration skills, disguise proficiencies, and access to a covert network of safehouses and dead drops."
+last_updated: 2026-04-30T14:24:59-05:00
 ---
 
 ```yaml

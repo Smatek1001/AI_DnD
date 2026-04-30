@@ -1,21 +1,13 @@
 ---
 name: The Society
 type: faction
-aliases:
-  - The Wardens
-  - The Watchers
-  - The Society
-tags:
-  - elites
-  - espionage
-  - faction
-  - secret_society
-location: "[[Duskhaven]]"
+aliases: [The Society, The Wardens, The Watchers]
+tags: [elites, espionage, faction, secret_society]
+summary: "The shadowy espionage organization that raised and trained Vaelin. They manipulate history from the shadows and operate out of Starfall Manor."
 status: active
-last_session: 1
-last_updated: 2026-04-25T12:56:23-05:00
+last_updated: 2026-04-30T14:24:45-05:00
+location: "[[Duskhaven]]"
 hq: "[[Starfall Manor]]"
-summary: The shadowy espionage organization that raised and trained Vaelin. They manipulate history from the shadows and operate out of Starfall Manor.
 ---
 
 # The Society

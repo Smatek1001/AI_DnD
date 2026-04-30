@@ -1,9 +1,10 @@
 ---
+name: Tool & Skill Synergy
 type: mechanic
+homebrew: true
 tags: [homebrew, rules, skills, tools]
-last_session: 0
-last_updated: "2026-04-26T18:32:21-05:00"
 summary: "Homebrew Rule: Tool Synergy and Triple Advantage (3d20)"
+last_updated: 2026-04-30T14:25:25-05:00
 ---
 
 # Homebrew Mechanic: Tool & Skill Synergy

@@ -3,13 +3,12 @@ name: Ebon Web
 type: faction
 aliases: [Ebon Web, The Ebon Web]
 tags: [drow, faction, smuggling, syndicate, trafficking]
-location: "[[The_Sewers]]"
-status: active
-last_session: 0
-last_updated: "2026-04-29T10:49:01-05:00"
-hq: "[[The_Sewers]]"
-region: "[[Duskhaven]]"
 summary: "The Drow cartel controlling the Undercity and illicit smuggling routes deep within Duskhaven."
+status: active
+last_updated: 2026-04-30T14:30:25-05:00
+location: "[[The_Sewers]]"
+region: "[[Duskhaven]]"
+hq: "[[The_Sewers]]"
 ---
 
 # Ebon Web Syndicate

@@ -1,31 +1,23 @@
 ---
 name: Vaelin Shadowleaf
+character: Vaelin Shadowleaf
 type: pc
-aliases:
-  - The Shadow
-  - Vaelin
-  - Vaelin Shadowleaf
-tags:
-  - gestalt
-  - operative
-  - pc
-  - primal_elf
-  - stealth
+aliases: [The Shadow, Vaelin, Vaelin Shadowleaf]
+tags: [gestalt, operative, pc, primal_elf, stealth]
+summary: "This is the character sheet for the main PC of the game, Vaelin Shadowleaf."
+status: active
+last_updated: 2026-04-30T14:24:25-05:00
 location: "[[Duskhaven]]"
 faction: "[[The_Society]]"
-status: active
-last_session: 2
 sheet_ref: "[[vaelin_core.yaml]]"
-reputation_ref: "[[01_Global_Entities/PC_Party/vaelin_reputation.yaml]]"
-class_ref: "[[class_gestalt_rogue_sorlock.yaml]]"
-race_ref: "[[race_primal_elf.yaml]]"
-background_ref: "[[background_espionage_operative.yaml]]"
-last_updated: 2026-04-28T23:10:57-05:00
+magic_ref: "[[vaelin_magic.yaml]]"
+inventory_ref: "[[vaelin_inventory.yaml]]"
 abilities_ref: "[[vaelin_features.yaml]]"
 disguise_ref: "[[vaelin_identities.yaml]]"
-inventory_ref: "[[vaelin_inventory.yaml]]"
-magic_ref: "[[vaelin_magic.yaml]]"
-summary: This is the character sheet for the main PC of the game, Vaelin Shadowleaf.
+reputation_ref: "[[01_Global_Entities/PC_Party/vaelin_reputation.yaml]]"
+background_ref: "[[background_espionage_operative.yaml]]"
+class_ref: "[[class_gestalt_rogue_sorlock.yaml]]"
+race_ref: "[[race_primal_elf.yaml]]"
 ---
 
 # Vaelin Shadowleaf

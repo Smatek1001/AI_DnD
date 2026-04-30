@@ -3,11 +3,11 @@ name: The Docks
 type: location
 aliases: [The Docks]
 tags: [district, industrial, location, shipping]
-location: "[[Duskhaven]] - South Coast"
-status: active
-last_session: 1
-last_updated: "2026-04-29T03:13:48-05:00"
 summary: "The bustling, dangerous maritime district of Duskhaven, heavily influenced by the Harbor Syndicate and independent smugglers."
+status: active
+last_updated: 2026-04-30T14:59:40-05:00
+location: South Coast
+region: [[Duskhaven]]
 ---
 
 # The Docks

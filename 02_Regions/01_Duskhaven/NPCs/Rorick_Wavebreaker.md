@@ -3,13 +3,13 @@ name: Rorick Wavebreaker
 type: npc
 aliases: [Wavebreaker]
 tags: [ally, npc, smuggler]
-location: "[[The_Docks]]"
-faction: Independent
-status: active
-last_session: 0
-last_updated: "2026-04-29T03:15:53-05:00"
-region: "[[Duskhaven]]"
 summary: "An independent smuggler and friendly ally to Vaelin in The Docks, capable of covertly moving goods and people in and out of Duskhaven."
+status: active
+last_updated: 2026-04-30T14:40:32-05:00
+location: "[[The_Docks]]"
+region: "[[Duskhaven]]"
+faction: Independent
+stats_ref: Bandit Captain
 ---
 
 # Rorick Wavebreaker

@@ -1,10 +1,10 @@
 ---
-type: character_loadout
-last_session: 3
-last_updated: "2026-04-28T23:07:09-05:00"
-attuned_items: 0
-attunement_slots: 3
+name: Vaelin Inventory Loadout
 character: Vaelin Shadowleaf
+type: character_loadout
+domain: inventory
+summary: "This file is the single source of truth for Vaelin's physical weapons, armor, tools, consumable tracking, and monetary wealth."
+last_updated: 2026-04-30T14:23:34-05:00
 consumables:
   arrows:
     quiver: 22
@@ -14,55 +14,6 @@ consumables:
     thrown: 0
   rations: 5
   oil_flasks: 17
-domain: inventory
-equipment:
-  - name: Studded Leather
-    type: Armor
-    quantity: 1
-    location: Worn
-    tags:
-      - light-armor
-    mastery: N/A
-    damage: AC 12 + Dex
-    range: N/A
-    notes: ""
-  - name: "Thieves' Tools"
-    type: Tool
-    quantity: 1
-    location: Belt
-    tags:
-      - tool
-      - proficient
-      - infiltration
-    mastery: N/A
-    damage: N/A
-    range: N/A
-    notes: Used for bypass and infiltration in Duskhaven.
-  - name: Disguise Kit
-    type: Tool
-    quantity: 1
-    location: Backpack
-    tags:
-      - tool
-      - proficient
-      - social
-    mastery: N/A
-    damage: N/A
-    range: N/A
-    notes: Used to physically alter appearance, forge credentials, and bypass security.
-  - name: Forgery Kit
-    type: Tool
-    quantity: 1
-    location: Backpack
-    tags:
-      - tool
-      - proficient
-      - social
-    mastery: N/A
-    damage: N/A
-    range: N/A
-    notes: Used to forge documents, wax seals, and official Society/Syndicate paperwork.
-summary: "This file is the single source of truth for Vaelin's physical weapons, armor, tools, consumable tracking, and monetary wealth."
 wealth:
   pp: 0
   gp: 150
@@ -121,6 +72,55 @@ weapons:
     damage: 1d6 piercing
     range: 80/320
     notes: Ammunition tracked in consumables.arrows
+attuned_items: 0
+attunement_slots: 3
+equipment:
+  - name: Studded Leather
+    type: Armor
+    quantity: 1
+    location: Worn
+    tags:
+      - light-armor
+    mastery: N/A
+    damage: AC 12 + Dex    # AC is in the damage field for purposes of displaying in a table
+    range: N/A
+    notes: ""
+  - name: "Thieves' Tools"
+    type: Tool
+    quantity: 1
+    location: Belt
+    tags:
+      - tool
+      - proficient
+      - infiltration
+    mastery: N/A
+    damage: N/A
+    range: N/A
+    notes: Used for bypass and infiltration in Duskhaven.
+  - name: Disguise Kit
+    type: Tool
+    quantity: 1
+    location: Backpack
+    tags:
+      - tool
+      - proficient
+      - social
+    mastery: N/A
+    damage: N/A
+    range: N/A
+    notes: Used to physically alter appearance, forge credentials, and bypass security.
+  - name: Forgery Kit
+    type: Tool
+    quantity: 1
+    location: Backpack
+    tags:
+      - tool
+      - proficient
+      - social
+    mastery: N/A
+    damage: N/A
+    range: N/A
+    notes: Used to forge documents, wax seals, and official Society/Syndicate paperwork.
 ---
 
 # Vaelin's Arsenal & Inventory

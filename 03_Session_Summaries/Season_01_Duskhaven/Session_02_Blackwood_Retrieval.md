@@ -1,28 +1,22 @@
 ---
 name: The Blackwood Retrieval
 type: session_summary
-tags:
-  - infiltration
-  - market_square
-  - quest_completed
-  - session_log
-  - the_society
-last_session: 2
-last_updated: 2026-04-29T02:18:32-05:00
+tags: [infiltration, market_square, quest_completed, session_log, the_society]
+summary: "Vaelin successfully retrieved a compromised silver signet ring containing a microscopic list of Noble Quarter safehouses before it could be sold to the Nightshade Guild."
+last_updated: 2026-04-30T15:04:11-05:00
+locations:
+  - "[[Market_Square]]"
+  - "[[The_Black_Oven]]"
+  - "[[The_Drunken_Raven]]"
 characters:
   - "[[Lirael]]"
   - "[[Silas_Blackwood]]"
   - "[[Talia]]"
   - "[[Vaelin_Shadowleaf]]"
-locations:
-  - "[[Market_Square]]"
-  - "[[The_Black_Oven]]"
-  - "[[The_Drunken_Raven]]"
 rewards_earned:
   gold: 95
   xp: 1200
   level_up: true
-summary: Vaelin successfully retrieved a compromised silver signet ring containing a microscopic list of Noble Quarter safehouses before it could be sold to the Nightshade Guild.
 ---
 
 # Session Summary: The Blackwood Retrieval

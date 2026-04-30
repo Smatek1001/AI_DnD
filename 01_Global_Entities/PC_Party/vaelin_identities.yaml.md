@@ -1,9 +1,10 @@
 ---
-type: character_loadout
-last_session: 3
-last_updated: "2026-04-28T23:06:36-05:00"
+name: Vaelin Identities Loadout
 character: Vaelin Shadowleaf
+type: character_loadout
 domain: identities
+summary: "This file contains the static, established cover identities and physical forms Vaelin utilizes."
+last_updated: 2026-04-30T14:23:39-05:00
 identities:
   - name: Vaelin (True Form)
     alias: Vaelin - True Form
@@ -25,7 +26,6 @@ identities:
     mundane_disguise: "Traveler's cloak, hooded and masked"
     magical_disguise: Inactive
     notes: Plain nondescript clothes with hooded cloak.
-summary: "This file contains the static, established cover identities and physical forms Vaelin utilizes."
 ---
 
 # Vaelin's Identities & Personas

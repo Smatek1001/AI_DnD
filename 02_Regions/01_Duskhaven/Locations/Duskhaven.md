@@ -3,13 +3,12 @@ name: Duskhaven
 type: location
 aliases: [The City]
 tags: [capital, city, location, noir]
-status: active
-last_session: 1
-last_updated: "2026-04-29T03:13:34-05:00"
-demographics_ref: "[[duskhaven_demographics.yaml]]"
-region: The Coast
-ruler: The City Council (Ostensibly) / The Syndicates (Practically)
 summary: "The primary setting: a massive, corrupt, high-magic coastal trade port with a gritty noir atmosphere."
+status: active
+last_updated: 2026-04-30T14:59:50-05:00
+region: The Coast
+demographics_ref: "[[duskhaven_demographics.yaml]]"
+ruler: The City Council (Ostensibly) / The Syndicates (Practically)
 ---
 
 # Duskhaven

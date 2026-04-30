@@ -1,20 +1,20 @@
 ---
-name: The Crow's Net Heist
+name: "The Crow's Nest Heist"
 type: session_summary
-last_session: 1
-last_updated: 2026-04-26T14:47:53-05:00
+tags: [harbor_syndicate, heist, session_log, the_society]
+summary: "Vaelin successfully graduates from The Society and executes a flawless, zero-alarm heist against the Harbor Syndicate."
+last_updated: 2026-04-30T15:04:13-05:00
+locations:
+  - "[[The_Black_Oven]]"
+  - "[[The_Crows_Nest]]"
+  - "[[The_Drunken_Raven]]"
+  - "[[The_Veil]]"
 characters:
   - "[[Lirael]]"
   - "[[Talia]]"
   - "[[Vaelin_Shadowleaf]]"
-locations:
-  - "[[The_Black_Oven]]"
-  - "[[The_Drunken_Raven]]"
-  - "[[The_Veil]]"
-  - "[[The_Crows_Nest]]"
 rewards_earned:
   xp: 500
-summary: Vaelin successfully graduates from The Society and executes a flawless, zero-alarm heist against the Harbor Syndicate.
 ---
 
 # Session 1 Summary: The Crow's Nest Heist

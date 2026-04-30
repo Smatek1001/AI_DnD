@@ -1,18 +1,10 @@
 ---
-type: character_loadout
-last_session: 3
-last_updated: "2026-04-29T16:58:07-05:00"
+name: Vaelin Magic Loadout
 character: Vaelin Shadowleaf
+type: character_loadout
 domain: magic
-recovery_rules:
-  short_rest:
-    - pact_slots
-  long_rest:
-    - sorcery_points
-    - sorcerer_level_1
-    - fey_step
-    - magical_cunning
-    - sorcerous_restoration
+summary: "This file contains Vaelin's known spells, spell-like invocations, and his current magical resources."
+last_updated: 2026-04-30T14:23:29-05:00
 resources:
   sorcery_points_current: 1
   sorcery_points_max: 2
@@ -158,7 +150,15 @@ spells_and_abilities:
     range: 60 ft
     duration: 1 Hour
     notes: Creates an invisible, mindless force to perform simple tasks.
-summary: "This file contains Vaelin's known spells, spell-like invocations, and his current magical resources."
+recovery_rules:
+  short_rest:
+    - pact_slots
+  long_rest:
+    - sorcery_points
+    - sorcerer_level_1
+    - fey_step
+    - magical_cunning
+    - sorcerous_restoration
 ---
 
 # Vaelin's Grimoire & Magic

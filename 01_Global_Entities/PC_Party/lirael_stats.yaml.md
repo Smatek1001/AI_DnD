@@ -1,21 +1,23 @@
 ---
 name: Lirael
+character: Lirael
 type: monster_stat_block
-character_ref: "[[Lirael]]"
+homebrew: true
 tags: [familiar, mechanics]
-last_session: 2
-last_updated: "2026-04-29T16:56:49-05:00"
-actions_allowed:
-  - Dash
-  - Disengage
-  - Dodge
-  - Help
-  - Hide
-  - Magic
+summary: "This file contains the mechanical combat block and state tracking for Lirael"
+last_updated: 2026-04-30T14:24:27-05:00
+character_ref: "[[Lirael]]"
+vitals:
+  hp_current: 10
+  hp_max: 10
+  hit_dice_current: 4
+  hit_dice_max: 4
+  hit_dice_size: d4
+state:
+  form: Winged Nymph
+  status: Active
+  is_invisible: false
 core_stats:
-  size: Tiny
-  type: Fey
-  alignment: "Chaotic Neutral"
   ac: 15
   base_speed: 10 ft., fly 40 ft.
   attributes:
@@ -25,6 +27,22 @@ core_stats:
     int: 14 (+2)
     wis: 13 (+1)
     cha: 14 (+2)
+  size: Tiny
+  type: Fey
+  alignment: "Chaotic Neutral"
+skills_and_senses:
+  skills:
+    - Stealth +8
+    - Perception +3
+  senses: Passive Perception 13
+  languages: Common, Sylvan, Elvish, Goblin. Telepathy.
+actions_allowed:
+  - Dash
+  - Disengage
+  - Dodge
+  - Help
+  - Hide
+  - Magic
 custom_abilities:
   - name: Default Invisibility
     type: Passive
@@ -41,7 +59,6 @@ custom_abilities:
   - name: Innate Spellcasting
     spells:
       - Prestidigitation
-mechanic_source: Pact of the Chain (Custom)
 shapeshifting_forms:
   - form: Owl
     speed: Fly 60 ft.
@@ -73,23 +90,7 @@ shapeshifting_forms:
     traits: Nimble Escape (Can take the Disengage or Hide action as a bonus action)
     stealth: Advantage in forests, parks, or rooftops
     fey_hint: Tail flickers occasionally with harmless, static fairy-sparks.
-skills_and_senses:
-  skills:
-    - Stealth +8
-    - Perception +3
-  senses: Passive Perception 13
-  languages: Common, Sylvan, Elvish, Goblin. Telepathy.
-state:
-  form: Winged Nymph
-  status: Active
-  is_invisible: false
-summary: "This file contains the mechanical combat block and state tracking for Lirael"
-vitals:
-  hp_current: 10
-  hp_max: 10
-  hit_dice_current: 4
-  hit_dice_max: 4
-  hit_dice_size: d4
+mechanic_source: Pact of the Chain (Custom)
 ---
 
 # Lirael Stats

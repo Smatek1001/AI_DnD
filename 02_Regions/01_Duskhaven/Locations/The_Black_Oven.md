@@ -1,13 +1,12 @@
 ---
 type: location
 tags: [duskhaven, location, operative, safehouse, shadow-quarter]
-last_session: 1
-last_updated: "2026-04-29T03:13:28-05:00"
-district: The Shadow Quarter
-location_type: safehouse
-owner: Vaelin
-region: Duskhaven
 summary: "'The Black Oven.' Vaelin's highly secure, off-the-books attic safehouse located in the Shadow Quarter."
+last_updated: 2026-04-30T14:59:42-05:00
+location: "[[Shadow_Quarter]]"
+region: "[[Duskhaven]]"
+owner: "[[Vaelin_Shadowleaf]]"
+Name: The Black Oven
 ---
 
 # The Black Oven (Vaelin's Hideout)

@@ -2,10 +2,9 @@
 name: Duskhaven Demographics & Syndicates
 type: city_stats
 tags: [crime, demographics, factions, mechanics]
-last_session: 1
-last_updated: "2026-04-29T03:13:31-05:00"
-location_ref: "[[Duskhaven]]"
 summary: "A breakdown of the population of Duskhaven"
+last_updated: 2026-04-30T14:59:48-05:00
+region: "[[Duskhaven]]"
 ---
 
 ```yaml

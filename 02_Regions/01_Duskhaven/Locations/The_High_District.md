@@ -3,11 +3,11 @@ name: The High District
 type: location
 aliases: [High District, The High District]
 tags: [district, location, wealthy]
-location: "[[Duskhaven]] - Northeast"
-status: active
-last_session: 0
-last_updated: "2026-04-29T03:13:59-05:00"
 summary: "The absolute peak of Duskhaven's elite society. A heavily guarded, affluent echelon that houses Starfall Manor, the headquarters of The Society."
+status: active
+last_updated: 2026-04-30T14:59:35-05:00
+location: Northeast
+region: "[[Duskhaven]]"
 ---
 
 # The High District

@@ -1,15 +1,14 @@
 ---
 name: "The Crow's Nest"
 type: location
-aliases: ["Crow's Nest", "The Crow's Next"]
+aliases: ["Crow's Nest", "The Crow's Nest"]
 tags: [harbor_syndicate, location, tavern, the_docks]
-location: "[[The_Docks]]"
-status: active
-last_session: 1
-last_updated: "2026-04-29T03:13:23-05:00"
-owner: "[[The_Shade|The Shade]]"
-region: "[[Duskhaven]]"
 summary: "A heavy, salt-stained timber tavern serving as the primary front for the Harbor Syndicate. It houses The Shade's highly warded and trapped second-floor office."
+status: active
+last_updated: 2026-04-30T14:59:41-05:00
+location: "[[The_Docks]]"
+region: "[[Duskhaven]]"
+owner: "[[The_Shade]]"
 ---
 
 # The Crow's Nest

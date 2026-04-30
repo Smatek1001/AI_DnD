@@ -3,12 +3,11 @@ name: Therandril
 type: location
 aliases: [The Primal Enclave, The Ruined City]
 tags: [location, origin, primal_elf, ruins]
+summary: "The destroyed ancient city of Vaelin's origin. Once protected by the Archfey Caladwen before being entirely annihilated by the cosmic horror of The Nameless One."
 status: destroyed
-last_session: 0
-last_updated: "2026-04-29T03:15:29-05:00"
+last_updated: 2026-04-30T14:59:28-05:00
 region: Border of Material Plane and Feywild
 ruler: None (Formerly Caladwen)
-summary: "The destroyed ancient city of Vaelin's origin. Once protected by the Archfey Caladwen before being entirely annihilated by the cosmic horror of The Nameless One."
 ---
 
 # Therandril

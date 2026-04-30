@@ -3,12 +3,13 @@ name: Talia
 type: npc
 aliases: [The Whisper, Whisper]
 tags: [duskhaven, handler, npc, shadow_quarter, the_society]
-location: "[[The_Drunken_Raven]]"
-last_session: 2
-last_updated: "2026-04-29T03:16:34-05:00"
-faction_ties: "[[The_Society]]"
-occupation: Handler, Society Operative
 summary: "Vaelin's handler with The Society"
+status: active
+last_updated: 2026-04-30T14:39:33-05:00
+location: "[[The_Drunken_Raven]]"
+faction: "[[The_Society]]"
+stats_ref: Spy
+occupation: Handler, Society Operative
 ---
 
 # Talia

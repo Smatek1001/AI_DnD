@@ -3,11 +3,11 @@ name: Old Ruins
 type: location
 aliases: [Old Ruins, The Old Ruins]
 tags: [cursed, location, ruins]
-location: Outside [[Duskhaven]]
-status: active
-last_session: 0
-last_updated: "2026-04-29T03:14:33-05:00"
 summary: "Ancient, forgotten structural remnants beneath or outside Duskhaven. A dangerous zone holding dark historical secrets, lost magic, and subterranean threats."
+status: active
+last_updated: 2026-04-30T14:59:45-05:00
+location: Outside City Limits
+region: "[[Duskhaven]]"
 ---
 
 # Old Ruins

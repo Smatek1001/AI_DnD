@@ -1,17 +1,10 @@
 ---
 name: Gestalt Rogue-Sorlock
 type: custom_class
-tags: [class, gestalt, mechanics]
-last_session: 0
 homebrew: true
-last_updated: "2026-04-27T18:40:00-05:00"
+tags: [class, gestalt, homebrew, mechanics]
 summary: "Vaelin's custom 'Gestalt' progression rules, combining Rogue, Sorcerer, and Warlock features."
-
-rules:
-  theme: "Operative for a secret society trained in espionage, possessing innate Fey magic corrupted by an Aberrant entity from the Far Realm."
-  xp_tax: "Requires 4x standard XP to advance a level. Track total earned XP vs 1/4 XP to calculate against the standard advancement table."
-  spellcasting_rule: "All known spells can be cast with either Warlock Pact slots or Sorcerer spell slots. All known spells are considered Sorlock spells."
-
+last_updated: 2026-04-30T14:25:17-05:00
 core_traits:
   primary_ability: ["Dexterity", "Charisma"]
   hit_dice: "1d8"
@@ -23,268 +16,6 @@ core_traits:
   weapons: ["Simple Weapons", "Martial weapons (Finesse or Light)"]
   tools: ["Thieves' Tools"]
   starting_equipment_gp: 250
-
-progression:
-  - level: 1
-    xp_required: 0
-    prof_bonus: 2
-    sneak_attack: "1d8"
-    sorcery_points: 0
-    eb_beams: 1
-    unarmored_bonus: 0
-    magic:
-      sorcery: { cantrips: 4, prepared: 2, slots: [2, 0, 0, 0, 0, 0, 0, 0, 0] }
-      pact: { cantrips: 2, prepared: 2, slots: 1, level: 1 }
-      invocations: 1
-    features: ["Expertise", "Sneak Attack", "Thieves' Cant", "Weapon Mastery", "Spellcasting", "Innate Sorcery", "Eldritch Invocations", "Pact Magic", "Eyes of Night (Twilight Cleric)"]
-
-  - level: 2
-    xp_required: 300
-    prof_bonus: 2
-    sneak_attack: "1d8"
-    sorcery_points: 2
-    eb_beams: 1
-    unarmored_bonus: 10
-    magic:
-      sorcery: { cantrips: 4, prepared: 4, slots: [3, 0, 0, 0, 0, 0, 0, 0, 0] }
-      pact: { cantrips: 2, prepared: 3, slots: 2, level: 1 }
-      invocations: 3
-    features: ["Cunning Action", "Font of Magic", "Metamagic", "Magical Cunning", "Action Surge (Fighter)", "Expertise", "Jack of All Trades (Bard)", "Unarmored Movement (Monk)"]
-
-  - level: 3
-    xp_required: 900
-    prof_bonus: 2
-    sneak_attack: "2d8"
-    sorcery_points: 3
-    eb_beams: 1
-    unarmored_bonus: 10
-    magic:
-      sorcery: { cantrips: 4, prepared: 6, slots: [4, 2, 0, 0, 0, 0, 0, 0, 0] }
-      pact: { cantrips: 2, prepared: 4, slots: 2, level: 2 }
-      invocations: 3
-    features: ["Steady Aim", "Fast Hands (Thief)", "Second-Story Work (Thief)", "Mage Hand Legerdemain", "Ear for Deceit", "Eye for Detail", "Master of Intrigue", "Psionic Spells", "Telepathic Speech", "Eyes of the Dark", "Strength of the Grave", "Archfey Spells", "Steps of the Fey", "GOO Spells", "Awakened Mind", "Psychic Spells", "Silver Tongue", "Shadow Arts", "Umbral Sight"]
-
-  - level: 4
-    xp_required: 2700
-    prof_bonus: 2
-    sneak_attack: "2d8"
-    sorcery_points: 4
-    eb_beams: 1
-    unarmored_bonus: 10
-    magic:
-      sorcery: { cantrips: 5, prepared: 7, slots: [4, 3, 0, 0, 0, 0, 0, 0, 0] }
-      pact: { cantrips: 3, prepared: 5, slots: 2, level: 2 }
-      invocations: 3
-    features: ["ASI"]
-
-  - level: 5
-    xp_required: 6500
-    prof_bonus: 3
-    sneak_attack: "3d8"
-    sorcery_points: 5
-    eb_beams: 2
-    unarmored_bonus: 10
-    magic:
-      sorcery: { cantrips: 5, prepared: 9, slots: [4, 3, 2, 0, 0, 0, 0, 0, 0] }
-      pact: { cantrips: 3, prepared: 6, slots: 2, level: 3 }
-      invocations: 5
-    features: ["Cunning Strike", "Uncanny Dodge", "Sorcerous Restoration"]
-
-  - level: 6
-    xp_required: 14000
-    prof_bonus: 3
-    sneak_attack: "3d8"
-    sorcery_points: 6
-    eb_beams: 2
-    unarmored_bonus: 15
-    magic:
-      sorcery: { cantrips: 5, prepared: 10, slots: [4, 3, 3, 0, 0, 0, 0, 0, 0] }
-      pact: { cantrips: 3, prepared: 7, slots: 2, level: 3 }
-      invocations: 5
-    features: ["Expertise", "Psionic Sorcery", "Psionic Defenses", "Hound of Ill Omen", "Misty Escape", "Clairvoyant Combatant", "ASI", "Shadow Step", "Unfettered Mind", "Steps of Night"]
-
-  - level: 7
-    xp_required: 23000
-    prof_bonus: 3
-    sneak_attack: "4d8"
-    sorcery_points: 7
-    eb_beams: 2
-    unarmored_bonus: 15
-    magic:
-      sorcery: { cantrips: 5, prepared: 11, slots: [4, 3, 3, 1, 0, 0, 0, 0, 0] }
-      pact: { cantrips: 3, prepared: 8, slots: 2, level: 4 }
-      invocations: 6
-    features: ["Evasion", "Reliable Talent", "Sorcery Incarnate"]
-
-  - level: 8
-    xp_required: 34000
-    prof_bonus: 3
-    sneak_attack: "4d8"
-    sorcery_points: 8
-    eb_beams: 2
-    unarmored_bonus: 15
-    magic:
-      sorcery: { cantrips: 5, prepared: 12, slots: [4, 3, 3, 2, 0, 0, 0, 0, 0] }
-      pact: { cantrips: 3, prepared: 9, slots: 2, level: 4 }
-      invocations: 6
-    features: ["ASI"]
-
-  - level: 9
-    xp_required: 48000
-    prof_bonus: 4
-    sneak_attack: "5d8"
-    sorcery_points: 9
-    eb_beams: 2
-    unarmored_bonus: 15
-    magic:
-      sorcery: { cantrips: 5, prepared: 14, slots: [4, 3, 3, 3, 1, 0, 0, 0, 0] }
-      pact: { cantrips: 3, prepared: 10, slots: 2, level: 5 }
-      invocations: 7
-    features: ["Supreme Sneak (Thief)", "Contact Patron", "Expertise", "Acrobatic Movement"]
-
-  - level: 10
-    xp_required: 64000
-    prof_bonus: 4
-    sneak_attack: "5d8"
-    sorcery_points: 10
-    eb_beams: 2
-    unarmored_bonus: 20
-    magic:
-      sorcery: { cantrips: 6, prepared: 15, slots: [4, 3, 3, 3, 2, 0, 0, 0, 0] }
-      pact: { cantrips: 4, prepared: 10, slots: 2, level: 5 }
-      invocations: 7
-    features: ["ASI", "Metamagic", "Beguiling Defenses", "Eldritch Hex", "Thought Shield"]
-
-  - level: 11
-    xp_required: 85000
-    prof_bonus: 4
-    sneak_attack: "6d8"
-    sorcery_points: 11
-    eb_beams: 3
-    unarmored_bonus: 20
-    magic:
-      sorcery: { cantrips: 6, prepared: 16, slots: [4, 3, 3, 3, 2, 1, 0, 0, 0] }
-      pact: { cantrips: 4, prepared: 11, slots: 3, level: 5 }
-      invocations: 7
-    features: ["Improved Cunning Strike", "Mystic Arcanum", "Cloak of Shadows"]
-
-  - level: 12
-    xp_required: 100000
-    prof_bonus: 4
-    sneak_attack: "6d8"
-    sorcery_points: 12
-    eb_beams: 3
-    unarmored_bonus: 20
-    magic:
-      sorcery: { cantrips: 6, prepared: 16, slots: [4, 3, 3, 3, 2, 1, 0, 0, 0] }
-      pact: { cantrips: 4, prepared: 11, slots: 3, level: 5 }
-      invocations: 8
-    features: ["ASI"]
-
-  - level: 13
-    xp_required: 120000
-    prof_bonus: 5
-    sneak_attack: "7d8"
-    sorcery_points: 13
-    eb_beams: 3
-    unarmored_bonus: 20
-    magic:
-      sorcery: { cantrips: 6, prepared: 17, slots: [4, 3, 3, 3, 2, 1, 1, 0, 0] }
-      pact: { cantrips: 4, prepared: 12, slots: 3, level: 5 }
-      invocations: 8
-    features: ["Use Magic Device (Thief)", "Ghost Walk (Phantom)", "Mystic Arcanum"]
-
-  - level: 14
-    xp_required: 140000
-    prof_bonus: 5
-    sneak_attack: "7d8"
-    sorcery_points: 14
-    eb_beams: 3
-    unarmored_bonus: 25
-    magic:
-      sorcery: { cantrips: 6, prepared: 17, slots: [4, 3, 3, 3, 2, 1, 1, 0, 0] }
-      pact: { cantrips: 4, prepared: 12, slots: 3, level: 5 }
-      invocations: 8
-    features: ["Devious Strikes", "Revelation in Flesh", "Shadow Walk", "Bewitching Magic", "Create Thrall", "ASI", "Flight"]
-
-  - level: 15
-    xp_required: 165000
-    prof_bonus: 5
-    sneak_attack: "8d8"
-    sorcery_points: 15
-    eb_beams: 3
-    unarmored_bonus: 25
-    magic:
-      sorcery: { cantrips: 6, prepared: 18, slots: [4, 3, 3, 3, 2, 1, 1, 1, 0] }
-      pact: { cantrips: 4, prepared: 13, slots: 3, level: 5 }
-      invocations: 9
-    features: ["Slippery Mind", "Mystic Arcanum", "Shadowy Dodge"]
-
-  - level: 16
-    xp_required: 195000
-    prof_bonus: 5
-    sneak_attack: "8d8"
-    sorcery_points: 16
-    eb_beams: 3
-    unarmored_bonus: 25
-    magic:
-      sorcery: { cantrips: 6, prepared: 18, slots: [4, 3, 3, 3, 2, 1, 1, 1, 0] }
-      pact: { cantrips: 4, prepared: 13, slots: 3, level: 5 }
-      invocations: 9
-    features: ["ASI"]
-
-  - level: 17
-    xp_required: 225000
-    prof_bonus: 6
-    sneak_attack: "9d8"
-    sorcery_points: 17
-    eb_beams: 4
-    unarmored_bonus: 25
-    magic:
-      sorcery: { cantrips: 6, prepared: 19, slots: [4, 3, 3, 3, 2, 1, 1, 1, 1] }
-      pact: { cantrips: 4, prepared: 14, slots: 4, level: 5 }
-      invocations: 9
-    features: ["Thief's Reflexes", "Soul of Deceit", "Metamagic", "Mystic Arcanum", "Action Surge", "Improved Cloak of Shadows"]
-
-  - level: 18
-    xp_required: 265000
-    prof_bonus: 6
-    sneak_attack: "9d8"
-    sorcery_points: 18
-    eb_beams: 4
-    unarmored_bonus: 30
-    magic:
-      sorcery: { cantrips: 6, prepared: 20, slots: [4, 3, 3, 3, 3, 1, 1, 1, 1] }
-      pact: { cantrips: 4, prepared: 14, slots: 4, level: 5 }
-      invocations: 10
-    features: ["Elusive", "Warping Implosion", "Umbral Form"]
-
-  - level: 19
-    xp_required: 305000
-    prof_bonus: 6
-    sneak_attack: "10d8"
-    sorcery_points: 19
-    eb_beams: 4
-    unarmored_bonus: 30
-    magic:
-      sorcery: { cantrips: 6, prepared: 21, slots: [4, 3, 3, 3, 3, 2, 1, 1, 1] }
-      pact: { cantrips: 4, prepared: 15, slots: 4, level: 5 }
-      invocations: 10
-    features: ["Epic Boon"]
-
-  - level: 20
-    xp_required: 355000
-    prof_bonus: 6
-    sneak_attack: "10d8"
-    sorcery_points: 20
-    eb_beams: 4
-    unarmored_bonus: 30
-    magic:
-      sorcery: { cantrips: 6, prepared: 22, slots: [4, 3, 3, 3, 3, 2, 2, 1, 1] }
-      pact: { cantrips: 4, prepared: 15, slots: 4, level: 5 }
-      invocations: 10
-    features: ["Stroke of Luck", "Arcane Apotheosis", "Eldritch Master"]
-
 feature_definitions:
   Cunning Action: "Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide."
   Fast Hands (Thief Rogue): "As a Bonus Action, you can do one of the following. Sleight of Hand. Make a Dexterity (Sleight of Hand) check to pick a lock or disarm a trap with Thieves' Tools or to pick a pocket. Use an Object. Take the Utilize action, or take the Magic action to use a magic item that requires that action."
@@ -316,6 +47,272 @@ feature_definitions:
   Shadowy Dodge (Gloomstalker Ranger): "When a creature makes an attack roll against you, you can take a Reaction to impose Disadvantage on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see."
   Improved Cloak of Shadows (Shadow Monk): "When your Cloak of Shadows feature is active, you are Partially Incorporeal. You can move through occupied spaces (creatures and objects) as if they were Difficult Terrain. If you end your turn in such a space, you are shunted to the last unoccupied space you were in."
   Flight: "Fly speed equal to your walking speed and can Hover."
+
+progression:
+  - level: 1
+    xp_required: 0
+    prof_bonus: 2
+    sneak_attack: "1d8"
+    sorcery_points: 0
+    eb_beams: 1
+    unarmored_bonus: 0
+    magic:
+      sorcery: "{ cantrips: 4, prepared: 2, slots: [2, 0, 0, 0, 0, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 2, prepared: 2, slots: 1, level: 1 }"
+      invocations: 1
+    features: ["Expertise", "Sneak Attack", "Thieves' Cant", "Weapon Mastery", "Spellcasting", "Innate Sorcery", "Eldritch Invocations", "Pact Magic", "Eyes of Night (Twilight Cleric)"]
+
+  - level: 2
+    xp_required: 300
+    prof_bonus: 2
+    sneak_attack: "1d8"
+    sorcery_points: 2
+    eb_beams: 1
+    unarmored_bonus: 10
+    magic:
+      sorcery: "{ cantrips: 4, prepared: 4, slots: [3, 0, 0, 0, 0, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 2, prepared: 3, slots: 2, level: 1 }"
+      invocations: 3
+    features: ["Cunning Action", "Font of Magic", "Metamagic", "Magical Cunning", "Action Surge (Fighter)", "Expertise", "Jack of All Trades (Bard)", "Unarmored Movement (Monk)"]
+
+  - level: 3
+    xp_required: 900
+    prof_bonus: 2
+    sneak_attack: "2d8"
+    sorcery_points: 3
+    eb_beams: 1
+    unarmored_bonus: 10
+    magic:
+      sorcery: "{ cantrips: 4, prepared: 6, slots: [4, 2, 0, 0, 0, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 2, prepared: 4, slots: 2, level: 2 }"
+      invocations: 3
+    features: ["Steady Aim", "Fast Hands (Thief)", "Second-Story Work (Thief)", "Mage Hand Legerdemain", "Ear for Deceit", "Eye for Detail", "Master of Intrigue", "Psionic Spells", "Telepathic Speech", "Eyes of the Dark", "Strength of the Grave", "Archfey Spells", "Steps of the Fey", "GOO Spells", "Awakened Mind", "Psychic Spells", "Silver Tongue", "Shadow Arts", "Umbral Sight"]
+
+  - level: 4
+    xp_required: 2700
+    prof_bonus: 2
+    sneak_attack: "2d8"
+    sorcery_points: 4
+    eb_beams: 1
+    unarmored_bonus: 10
+    magic:
+      sorcery: "{ cantrips: 5, prepared: 7, slots: [4, 3, 0, 0, 0, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 3, prepared: 5, slots: 2, level: 2 }"
+      invocations: 3
+    features: ["ASI"]
+
+  - level: 5
+    xp_required: 6500
+    prof_bonus: 3
+    sneak_attack: "3d8"
+    sorcery_points: 5
+    eb_beams: 2
+    unarmored_bonus: 10
+    magic:
+      sorcery: "{ cantrips: 5, prepared: 9, slots: [4, 3, 2, 0, 0, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 3, prepared: 6, slots: 2, level: 3 }"
+      invocations: 5
+    features: ["Cunning Strike", "Uncanny Dodge", "Sorcerous Restoration"]
+
+  - level: 6
+    xp_required: 14000
+    prof_bonus: 3
+    sneak_attack: "3d8"
+    sorcery_points: 6
+    eb_beams: 2
+    unarmored_bonus: 15
+    magic:
+      sorcery: "{ cantrips: 5, prepared: 10, slots: [4, 3, 3, 0, 0, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 3, prepared: 7, slots: 2, level: 3 }"
+      invocations: 5
+    features: ["Expertise", "Psionic Sorcery", "Psionic Defenses", "Hound of Ill Omen", "Misty Escape", "Clairvoyant Combatant", "ASI", "Shadow Step", "Unfettered Mind", "Steps of Night"]
+
+  - level: 7
+    xp_required: 23000
+    prof_bonus: 3
+    sneak_attack: "4d8"
+    sorcery_points: 7
+    eb_beams: 2
+    unarmored_bonus: 15
+    magic:
+      sorcery: "{ cantrips: 5, prepared: 11, slots: [4, 3, 3, 1, 0, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 3, prepared: 8, slots: 2, level: 4 }"
+      invocations: 6
+    features: ["Evasion", "Reliable Talent", "Sorcery Incarnate"]
+
+  - level: 8
+    xp_required: 34000
+    prof_bonus: 3
+    sneak_attack: "4d8"
+    sorcery_points: 8
+    eb_beams: 2
+    unarmored_bonus: 15
+    magic:
+      sorcery: "{ cantrips: 5, prepared: 12, slots: [4, 3, 3, 2, 0, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 3, prepared: 9, slots: 2, level: 4 }"
+      invocations: 6
+    features: ["ASI"]
+
+  - level: 9
+    xp_required: 48000
+    prof_bonus: 4
+    sneak_attack: "5d8"
+    sorcery_points: 9
+    eb_beams: 2
+    unarmored_bonus: 15
+    magic:
+      sorcery: "{ cantrips: 5, prepared: 14, slots: [4, 3, 3, 3, 1, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 3, prepared: 10, slots: 2, level: 5 }"
+      invocations: 7
+    features: ["Supreme Sneak (Thief)", "Contact Patron", "Expertise", "Acrobatic Movement"]
+
+  - level: 10
+    xp_required: 64000
+    prof_bonus: 4
+    sneak_attack: "5d8"
+    sorcery_points: 10
+    eb_beams: 2
+    unarmored_bonus: 20
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 15, slots: [4, 3, 3, 3, 2, 0, 0, 0, 0] }"
+      pact: "{ cantrips: 4, prepared: 10, slots: 2, level: 5 }"
+      invocations: 7
+    features: ["ASI", "Metamagic", "Beguiling Defenses", "Eldritch Hex", "Thought Shield"]
+
+  - level: 11
+    xp_required: 85000
+    prof_bonus: 4
+    sneak_attack: "6d8"
+    sorcery_points: 11
+    eb_beams: 3
+    unarmored_bonus: 20
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 16, slots: [4, 3, 3, 3, 2, 1, 0, 0, 0] }"
+      pact: "{ cantrips: 4, prepared: 11, slots: 3, level: 5 }"
+      invocations: 7
+    features: ["Improved Cunning Strike", "Mystic Arcanum", "Cloak of Shadows"]
+
+  - level: 12
+    xp_required: 100000
+    prof_bonus: 4
+    sneak_attack: "6d8"
+    sorcery_points: 12
+    eb_beams: 3
+    unarmored_bonus: 20
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 16, slots: [4, 3, 3, 3, 2, 1, 0, 0, 0] }"
+      pact: "{ cantrips: 4, prepared: 11, slots: 3, level: 5 }"
+      invocations: 8
+    features: ["ASI"]
+
+  - level: 13
+    xp_required: 120000
+    prof_bonus: 5
+    sneak_attack: "7d8"
+    sorcery_points: 13
+    eb_beams: 3
+    unarmored_bonus: 20
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 17, slots: [4, 3, 3, 3, 2, 1, 1, 0, 0] }"
+      pact: "{ cantrips: 4, prepared: 12, slots: 3, level: 5 }"
+      invocations: 8
+    features: ["Use Magic Device (Thief)", "Ghost Walk (Phantom)", "Mystic Arcanum"]
+
+  - level: 14
+    xp_required: 140000
+    prof_bonus: 5
+    sneak_attack: "7d8"
+    sorcery_points: 14
+    eb_beams: 3
+    unarmored_bonus: 25
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 17, slots: [4, 3, 3, 3, 2, 1, 1, 0, 0] }"
+      pact: "{ cantrips: 4, prepared: 12, slots: 3, level: 5 }"
+      invocations: 8
+    features: ["Devious Strikes", "Revelation in Flesh", "Shadow Walk", "Bewitching Magic", "Create Thrall", "ASI", "Flight"]
+
+  - level: 15
+    xp_required: 165000
+    prof_bonus: 5
+    sneak_attack: "8d8"
+    sorcery_points: 15
+    eb_beams: 3
+    unarmored_bonus: 25
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 18, slots: [4, 3, 3, 3, 2, 1, 1, 1, 0] }"
+      pact: "{ cantrips: 4, prepared: 13, slots: 3, level: 5 }"
+      invocations: 9
+    features: ["Slippery Mind", "Mystic Arcanum", "Shadowy Dodge"]
+
+  - level: 16
+    xp_required: 195000
+    prof_bonus: 5
+    sneak_attack: "8d8"
+    sorcery_points: 16
+    eb_beams: 3
+    unarmored_bonus: 25
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 18, slots: [4, 3, 3, 3, 2, 1, 1, 1, 0] }"
+      pact: "{ cantrips: 4, prepared: 13, slots: 3, level: 5 }"
+      invocations: 9
+    features: ["ASI"]
+
+  - level: 17
+    xp_required: 225000
+    prof_bonus: 6
+    sneak_attack: "9d8"
+    sorcery_points: 17
+    eb_beams: 4
+    unarmored_bonus: 25
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 19, slots: [4, 3, 3, 3, 2, 1, 1, 1, 1] }"
+      pact: "{ cantrips: 4, prepared: 14, slots: 4, level: 5 }"
+      invocations: 9
+    features: ["Thief's Reflexes", "Soul of Deceit", "Metamagic", "Mystic Arcanum", "Action Surge", "Improved Cloak of Shadows"]
+
+  - level: 18
+    xp_required: 265000
+    prof_bonus: 6
+    sneak_attack: "9d8"
+    sorcery_points: 18
+    eb_beams: 4
+    unarmored_bonus: 30
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 20, slots: [4, 3, 3, 3, 3, 1, 1, 1, 1] }"
+      pact: "{ cantrips: 4, prepared: 14, slots: 4, level: 5 }"
+      invocations: 10
+    features: ["Elusive", "Warping Implosion", "Umbral Form"]
+
+  - level: 19
+    xp_required: 305000
+    prof_bonus: 6
+    sneak_attack: "10d8"
+    sorcery_points: 19
+    eb_beams: 4
+    unarmored_bonus: 30
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 21, slots: [4, 3, 3, 3, 3, 2, 1, 1, 1] }"
+      pact: "{ cantrips: 4, prepared: 15, slots: 4, level: 5 }"
+      invocations: 10
+    features: ["Epic Boon"]
+
+  - level: 20
+    xp_required: 355000
+    prof_bonus: 6
+    sneak_attack: "10d8"
+    sorcery_points: 20
+    eb_beams: 4
+    unarmored_bonus: 30
+    magic:
+      sorcery: "{ cantrips: 6, prepared: 22, slots: [4, 3, 3, 3, 3, 2, 2, 1, 1] }"
+      pact: "{ cantrips: 4, prepared: 15, slots: 4, level: 5 }"
+      invocations: 10
+    features: ["Stroke of Luck", "Arcane Apotheosis", "Eldritch Master"]
+
+rules:
+  theme: "Operative for a secret society trained in espionage, possessing innate Fey magic corrupted by an Aberrant entity from the Far Realm."
+  xp_tax: "Requires 4x standard XP to advance a level. Track total earned XP vs 1/4 XP to calculate against the standard advancement table."
+  spellcasting_rule: "All known spells can be cast with either Warlock Pact slots or Sorcerer spell slots. All known spells are considered Sorlock spells."
 ---
 
 # Gestalt Rogue-Sorlock Progression

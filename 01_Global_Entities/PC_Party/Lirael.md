@@ -1,15 +1,15 @@
 ---
 name: Lirael
+character: Lirael
 type: companion
 tags: [ally, familiar, fey, pact_of_the_chain, spy]
-location: "[[Duskhaven]]"
-master: "[[01_Global_Entities/PC_Party/Vaelin_Shadowleaf]]"
-status: active
-last_session: 2
-stats_ref: "[[lirael_stats.yaml]]"
-last_updated: "2026-04-28T20:51:51-05:00"
-entity_type: Unique Fey
 summary: "Vaelin's Pact of the Chain familiar. Secretly acts as the eyes and ears of Caladwen, feeding Vaelin instructions under the guise of familiar instincts."
+status: active
+last_updated: 2026-04-30T14:24:28-05:00
+location: "[[Duskhaven]]"
+master: "[[Vaelin_Shadowleaf]]"
+stats_ref: "[[lirael_stats.yaml]]"
+entity_type: Unique Fey
 true_master: "[[Caladwen]]"
 ---
 

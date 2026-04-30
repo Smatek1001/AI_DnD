@@ -1,29 +1,22 @@
 ---
 name: The Blackwater Blockade
 type: session_summary
-tags:
-  - infiltration
-  - psychological_warfare
-  - shadow_quarter
-  - the_docks
-  - the_ratlings
-  - rust_dogs
-last_session: 3
-last_updated: 2026-04-29T16:00:00-05:00
-characters:
-  - "[[Lirael]]"
-  - "[[Vaelin_Shadowleaf]]"
-  - "[[Finch]]"
-  - "[[Gage]]"
-  - "[[Maddox]]"
+tags: [infiltration, psychological_warfare, rust_dogs, shadow_quarter, the_docks, the_ratlings]
+summary: "Vaelin dismantled a Rust Dog extortion checkpoint targeting The Ratlings, recovering stolen coin and causing the gang to fracture from within using purely psychological warfare."
+last_updated: 2026-04-30T15:04:08-05:00
 locations:
-  - "[[The_Nest]]"
-  - "[[The_Docks]]"
   - "[[Shadow_Quarter]]"
   - "[[The_Black_Oven]]"
+  - "[[The_Docks]]"
+  - "[[The_Nest]]"
+characters:
+  - "[[Finch]]"
+  - "[[Gage]]"
+  - "[[Lirael]]"
+  - "[[Maddox]]"
+  - "[[Vaelin_Shadowleaf]]"
 rewards_earned:
   xp: 400
-summary: Vaelin dismantled a Rust Dog extortion checkpoint targeting The Ratlings, recovering stolen coin and causing the gang to fracture from within using purely psychological warfare.
 ---
 
 # Session Summary: The Blackwater Blockade

@@ -1,9 +1,13 @@
 ---
-type: character_loadout
-last_session: 3
-last_updated: "2026-04-28T23:06:03-05:00"
+name: Vaelin Features Loadout
 character: Vaelin Shadowleaf
+type: character_loadout
 domain: features
+summary: "This file contains the specific racial traits, class features, and feats that allow Vaelin to bypass or modify the standard rules of D&D 5e."
+last_updated: 2026-04-30T14:23:42-05:00
+resources:
+  action_surge_current: 1
+  action_surge_max: 1
 features:
   - name: Fey Ancestry
     source: Racial (Primal Elf)
@@ -37,10 +41,6 @@ recovery_rules:
   short_rest:
     - action_surge
   long_rest: []
-resources:
-  action_surge_current: 1
-  action_surge_max: 1
-summary: "This file contains the specific racial traits, class features, and feats that allow Vaelin to bypass or modify the standard rules of D&D 5e."
 ---
 
 # Vaelin's Traits & Features

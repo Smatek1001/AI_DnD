@@ -25,32 +25,12 @@ _query_cache/       # Excludes Dataview/Query caches
 .mempalaceignore
 mempalace_mine.sh
 
+# GitHub desktop app additions
 
-/.obsidian
-/Ω/
-/Ω_scripts/
-/Ω_templates/
-/Ω_workbench/
-/.DS_Store
-
-/02_Regions/01_Duskhaven/.DS_Store
-/02_Regions/.DS_Store
-/00_System/.DS_Store
-/01_Global_Entities/.DS_Store
-/02_Regions/01_Duskhaven/Factions/.DS_Store
-.tmp.driveupload/
-.tmp.drivedownload/
-
-# MemPalace per-project files (issue #185)
-mempalace.yaml
+.DS_Store
+custom_GemDM_instructions.md
 entities.json
-
-/entities.json
-/mempalace.yaml
-/custom_GemDM_instructions.md
-03_Session_Summaries/.DS_Store
-**/.DS_Store
-**/.tmp*
-
-/Session 1.md
-/Session 2.md
+mempalace.yaml
+/.obsidian
+/Ω_session_chat_logs
+/Ω_templater

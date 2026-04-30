@@ -1,23 +1,15 @@
 ---
 name: The Ratlings
 type: faction
-aliases:
-  - Finch's Gang
-  - The Ratlings
-tags:
-  - allies
-  - faction
-  - gang
-  - informants
-  - urchins
-location: "[[Shadow_Quarter]]"
+aliases: ["Finch's Gang", The Ratlings]
+tags: [allies, faction, gang, informants, urchins]
+summary: "Vaelin's street urchin intelligence network, led by an orphaned girl named Finch. Operating primarily out of the Shadow Quarter."
 status: active
-last_session: 0
-last_updated: 2026-04-29T06:40:01-05:00
-hq: "[[The Nest]]"
-leader: Finch
+last_updated: 2026-04-30T14:31:22-05:00
+location: "[[Shadow_Quarter]]"
 region: "[[Duskhaven]]"
-summary: Vaelin's street urchin intelligence network, led by an orphaned girl named Finch. Operating primarily out of the Shadow Quarter.
+hq: "[[The Nest]]"
+leader: "[[Finch]]"
 ---
 
 # The Ratlings

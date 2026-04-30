@@ -3,12 +3,11 @@ name: The Cult
 type: faction
 aliases: [Followers of The Nameless One]
 tags: [antagonists, cosmic_horror, cult, faction]
-location: "[[Duskhaven]]"
-status: active
-last_session: 0
-last_updated: "2026-04-25T12:56:38-05:00"
-hq: Unknown / Hidden
 summary: "A secretive organization worshipping The Nameless One. The primary cosmic horror antagonists and the ultimate target of Caladwen's vengeance."
+status: active
+last_updated: 2026-04-30T14:24:46-05:00
+location: "[[Duskhaven]]"
+hq: Unknown / Hidden
 ---
 
 # The Cult

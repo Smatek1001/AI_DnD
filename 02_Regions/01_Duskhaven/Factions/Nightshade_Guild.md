@@ -3,13 +3,12 @@ name: Nightshade Guild
 type: faction
 aliases: [Nightshade Guild, The Nightshade Guild, The Nightshades]
 tags: [espionage, faction, fencing, magic, syndicate]
-location: "[[The_Veil]]"
-status: active
-last_session: 0
-last_updated: "2026-04-28T23:11:49-05:00"
-hq: The Whispering Door
-region: "[[Duskhaven]]"
 summary: "An illicit syndicate operating in Duskhaven, known for assassination, extortion, and high-end crime. They use 'The Whispering Door' tavern in The Veil as their primary front."
+status: active
+last_updated: 2026-04-30T14:31:24-05:00
+location: "[[The_Veil]]"
+region: "[[Duskhaven]]"
+hq: "[[The Whispering Door]]"
 ---
 
 # Nightshade Guild

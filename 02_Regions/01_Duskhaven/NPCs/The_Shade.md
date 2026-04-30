@@ -3,12 +3,12 @@ name: The Shade
 type: npc
 aliases: [The Harbor Spymaster, The Shade]
 tags: [harbor_syndicate, npc, spymaster]
+summary: "The cunning and exceptionally paranoid male halfling spymaster for the Harbor Syndicate."
+status: active
+last_updated: 2026-04-30T14:39:04-05:00
 location: "[[The_Crows_Nest]]"
 faction: "[[Harbor_Syndicate]]"
-status: active
-last_session: 1
-last_updated: "2026-04-29T03:16:39-05:00"
-summary: "The cunning and exceptionally paranoid male halfling spymaster for the Harbor Syndicate."
+stats_ref: Master Thief
 ---
 
 # The Shade

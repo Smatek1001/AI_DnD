@@ -2,8 +2,8 @@
 name: MemPalace MCP Tool Reference
 type: system
 tags: [backend, jsonl, mcp, mcp_superassistant, mempalace, syntax, system, tools]
-last_updated: "2026-04-29T08:37:06-05:00"
 summary: "The technical schema and strict formatting rules for executing MemPalace MCP tools."
+last_updated: 2026-04-30T14:24:53-05:00
 ---
 
 # MemPalace MCP Execution Schema
