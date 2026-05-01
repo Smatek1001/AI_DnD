@@ -4,7 +4,7 @@ character: Vaelin Shadowleaf
 type: character_loadout
 domain: core
 summary: "This file contains Vaelin's base physical and mental attributes, health, and learned proficiencies."
-last_updated: 2026-04-30T23:40:42-05:00
+last_updated: 2026-05-01T00:18:16-05:00
 vitals:
   hp_current: 16
   hp_max: 16
@@ -41,7 +41,7 @@ proficiencies:
     - dex
     - cha
   skills:
-    _override_notes: "Jack of All Trades: "You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.
+    _override_notes: "Jack of All Trades: You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus."
     acrobatics: Prof
     deception: Prof
     insight: Expert

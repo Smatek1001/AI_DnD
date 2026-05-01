@@ -52,6 +52,7 @@
 * **Lirael.md:** Vaelin's Pact of the Chain familiar. Secretly acts as the eyes and ears of Caladwen, feeding Vaelin instructions under the guise of familiar instincts.
 * **lirael_stats.yaml.md:** This file contains the mechanical combat block and state tracking for Lirael
 * **race_primal_elf.yaml.md:** Vaelin's custom heritage rules: an ancient Primal Elf variant that combines standard elven traits with innate Changeling shape-shifting abilities.
+* **vaelin_core.yaml.md:** This file contains Vaelin's base physical and mental attributes, health, and learned proficiencies.
 * **vaelin_features.yaml.md:** This file contains the specific racial traits, class features, and feats that allow Vaelin to bypass or modify the standard rules of D&D 5e.
 * **vaelin_identities.yaml.md:** This file contains the static, established cover identities and physical forms Vaelin utilizes.
 * **vaelin_inventory.yaml.md:** This file is the single source of truth for Vaelin's physical weapons, armor, tools, consumable tracking, and monetary wealth.
