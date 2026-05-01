@@ -5,7 +5,7 @@ type: monster_stat_block
 homebrew: true
 tags: [familiar, mechanics]
 summary: "This file contains the mechanical combat block and state tracking for Lirael"
-last_updated: 2026-04-30T14:24:27-05:00
+last_updated: 2026-05-01T00:05:39-05:00
 character_ref: "[[Lirael]]"
 vitals:
   hp_current: 10
@@ -16,26 +16,33 @@ vitals:
 state:
   form: Winged Nymph
   status: Active
-  is_invisible: false
+  is_invisible: true
 core_stats:
   ac: 15
   base_speed: 10 ft., fly 40 ft.
-  attributes:
+  size: Tiny
+  type: Fey
+  alignment: "Chaotic Neutral"
+skills_and_senses:
+  skills:
+    Stealth: 8
+    Perception: 3
+  senses:
+    passive_perception: 13
+    darkvision: 120 ft.
+  languages:
+    - Common
+    - Elvish
+    - Sylvan
+    - Goblin
+    - Telepathy 100 ft. (with Vaelin only)
+  ability_scores:
     str: 3 (-4)
     dex: 18 (+4)
     con: 10 (+0)
     int: 14 (+2)
     wis: 13 (+1)
     cha: 14 (+2)
-  size: Tiny
-  type: Fey
-  alignment: "Chaotic Neutral"
-skills_and_senses:
-  skills:
-    - Stealth +8
-    - Perception +3
-  senses: Passive Perception 13
-  languages: Common, Sylvan, Elvish, Goblin. Telepathy.
 actions_allowed:
   - Dash
   - Disengage
@@ -90,7 +97,6 @@ shapeshifting_forms:
     traits: Nimble Escape (Can take the Disengage or Hide action as a bonus action)
     stealth: Advantage in forests, parks, or rooftops
     fey_hint: Tail flickers occasionally with harmless, static fairy-sparks.
-mechanic_source: Pact of the Chain (Custom)
 ---
 
 # Lirael Stats

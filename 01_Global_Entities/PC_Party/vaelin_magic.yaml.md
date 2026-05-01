@@ -4,7 +4,7 @@ character: Vaelin Shadowleaf
 type: character_loadout
 domain: magic
 summary: "This file contains Vaelin's known spells, spell-like invocations, and his current magical resources."
-last_updated: 2026-04-30T14:23:29-05:00
+last_updated: 2026-04-30T16:29:15-05:00
 resources:
   sorcery_points_current: 1
   sorcery_points_max: 2
@@ -170,5 +170,3 @@ recovery_rules:
 > * **Spellcasting:** Whenever Vaelin declares he is casting a spell or using a magical invocation. Reference the specific `casting_time`, `range`, `duration`, and `cost` keys to properly resolve the mechanics.
 > * **Saving Throws:** To find Vaelin's `save_dc` (13) when an enemy is forced to resist one of his spells (e.g., Create Bonfire).
 > * **Resource Verification:** To ensure Vaelin has the available `pact_slots` or `sorcerer_level_X` slots required to cast a leveled spell. `pact_slot_level` indicates the power level at which Pact slots are currently cast.
-> 
-> **State Tracking Note:** The values in `resources` (spell slots, sorcery points, Fey Step charges) are actively modified during gameplay via remote dashboard tools. Always treat the numbers here as current.

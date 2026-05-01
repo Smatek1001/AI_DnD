@@ -4,7 +4,7 @@ character: Vaelin Shadowleaf
 type: character_loadout
 domain: inventory
 summary: "This file is the single source of truth for Vaelin's physical weapons, armor, tools, consumable tracking, and monetary wealth."
-last_updated: 2026-04-30T14:23:34-05:00
+last_updated: 2026-04-30T16:28:29-05:00
 consumables:
   arrows:
     quiver: 22
@@ -132,5 +132,3 @@ equipment:
 > * **Combat (Physical):** To determine weapon damage dice, damage types, active Weapon Masteries (e.g., Vex, Nick), and available ammunition.
 > * **Economy & Trade:** To check Vaelin's available funds (`wealth`) for bribes, purchases, or tavern lodging.
 > * **Looting:** To verify if Vaelin possesses specific physical items, lockpicks, or kits required to bypass physical obstacles.
-> 
-> **State Tracking Note:** The values in `wealth` and `consumables` are actively modified during gameplay via remote dashboard tools. Always treat the numbers here as current.

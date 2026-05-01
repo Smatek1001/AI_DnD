@@ -5,7 +5,7 @@ type: companion
 tags: [ally, familiar, fey, pact_of_the_chain, spy]
 summary: "Vaelin's Pact of the Chain familiar. Secretly acts as the eyes and ears of Caladwen, feeding Vaelin instructions under the guise of familiar instincts."
 status: active
-last_updated: 2026-04-30T14:24:28-05:00
+last_updated: 2026-05-01T00:06:24-05:00
 location: "[[Duskhaven]]"
 master: "[[Vaelin_Shadowleaf]]"
 stats_ref: "[[lirael_stats.yaml]]"
@@ -19,7 +19,7 @@ true_master: "[[Caladwen]]"
 
 ## Demeanor & Quirks
 
-* **Voice & Languages:** She speaks Common, Sylvan, Elvish, and Goblin. When she speaks out loud, her voice sounds like chiming bells, though she typically prefers to use telepathy when communicating with Vaelin.
+* **Voice & Languages:** She speaks Common, Elvish, Sylvan, and Goblin. When she speaks out loud, her voice sounds like chiming bells, though she typically prefers to use telepathy when communicating with Vaelin.
 * **Humor:** She has a mischievous, prankster personality. She frequently invents humorously insulting nicknames for the people Vaelin meets and whispers them into his ear.
 * **The "Shinies":** She loves to collect small, shiny objects while scouting and stores them in Vaelin's pockets.
 
