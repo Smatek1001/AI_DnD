@@ -3,7 +3,7 @@ name: Vaelin Inventory Loadout
 character: Vaelin Shadowleaf
 type: character_loadout
 domain: inventory
-summary: "This file is the single source of truth for Vaelin's physical weapons, armor, tools, consumable tracking, and monetary wealth."
+summary: This file is the single source of truth for Vaelin's physical weapons, armor, tools, consumable tracking, and monetary wealth.
 last_updated: 2026-04-30T16:28:29-05:00
 consumables:
   arrows:
@@ -16,14 +16,14 @@ consumables:
   oil_flasks: 17
 wealth:
   pp: 0
-  gp: 150
+  gp: 225
   ep: 0
   sp: 0
   cp: 0
   gems: 0
   jewelry: 0
   art: 0
-  misc: 0
+  misc: "Uncut Water-Opal (x2)"
 weapons:
   rapier:
     name: Rapier
@@ -82,10 +82,10 @@ equipment:
     tags:
       - light-armor
     mastery: N/A
-    damage: AC 12 + Dex    # AC is in the damage field for purposes of displaying in a table
+    damage: AC 12 + Dex
     range: N/A
     notes: ""
-  - name: "Thieves' Tools"
+  - name: Thieves' Tools
     type: Tool
     quantity: 1
     location: Belt

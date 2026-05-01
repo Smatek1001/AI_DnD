@@ -54,8 +54,6 @@ spells_and_abilities:
     casting_time: 1 Action
     range: Self
     duration: 1 Hour
-    tags:
-      - movement
     notes: Cast Disguise Self without expending a spell slot.
   - name: Silent Image (Misty Visions)
     source: Warlock Invocation

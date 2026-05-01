@@ -13,7 +13,7 @@ hq: "[[The_Sewers]]"
 
 # Ebon Web Syndicate
 
-**Summary:** The Ebon Web Syndicate is a powerful criminal organization run entirely by Drow. They operate out of the expansive sewer network beneath [[Duskhaven]].
+**Summary:** The Ebon Web is a powerful criminal organization run entirely by Drow. They operate out of the expansive sewer network beneath [[Duskhaven]].
 
 ## Operations & Strategy
 

@@ -73,8 +73,8 @@ core_info:
   conditions: None
   experience:
     tax_rate: 4           # gestalt-class tax
-    gross_earned: 2100    # total pre-tax amount awarded by DM
-    net_earned: 525       # post-tax xp used to determine level progression
+    gross_earned: 2850    # total pre-tax amount awarded by DM
+    net_earned: 712.5     # post-tax xp used to determine level progression
 class_features:
   eyes_of_night: true         # 300 ft darkvision
   jack_of_all_trades: true    # adds half (round down) proficiency bonus to non-proficient skills
