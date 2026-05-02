@@ -16,6 +16,7 @@ Thumbs.db           # Excludes Windows thumbnail cache (good practice)
 /Ω_templater_scripts/
 /Ω_templates/       # Excludes your empty template files
 /Ω_workbench/       # Excludes unfinished files
+/Ω_working/         # Excludes unfinished files
 *.base              # Excludes new Bases plugin files
 *.db                # Excludes other potential database files
 _query_cache/       # Excludes Dataview/Query caches
@@ -34,3 +35,4 @@ mempalace.yaml
 /.obsidian
 /Ω_session_chat_logs
 /Ω_templater
+/Ω_working

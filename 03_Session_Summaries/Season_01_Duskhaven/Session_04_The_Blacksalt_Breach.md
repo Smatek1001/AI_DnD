@@ -1,8 +1,13 @@
 ---
 name: The Blacksalt Breach
 type: session_summary
-tags: [harbor_syndicate, magpie_miri, session_log, stealth, the_ratlings]
-summary: "Vaelin impersonated a Harbor Syndicate boss to flawlessly rescue a captive goblin, securing wealth and a powerful debt from Magpie Miri."
+tags:
+  - harbor_syndicate
+  - magpie_miri
+  - session_log
+  - stealth
+  - the_ratlings
+summary: Vaelin impersonated a Harbor Syndicate boss to flawlessly rescue a captive goblin, securing wealth and a powerful debt from Magpie Miri.
 last_updated: 2026-05-01T05:33:49-05:00
 locations:
   - "[[Blacksalt_Alley]]"
