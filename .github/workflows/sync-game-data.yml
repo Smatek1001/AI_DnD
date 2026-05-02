@@ -1,0 +1,43 @@
+name: Sync Game Data to GemDM Repo
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout vault repo
+        uses: actions/checkout@v4
+
+      - name: Checkout game-data repo
+        uses: actions/checkout@v4
+        with:
+          repository: Smatek1001/AI_DnD_DM
+          token: ${{ secrets.GAME_DATA_PAT }}
+          path: game-data-repo
+
+      - name: Clear old content from game-data repo
+        run: |
+          find game-data-repo -mindepth 1 -not -path 'game-data-repo/.git*' -delete
+
+      - name: Copy root-level !_ files
+        run: |
+          find . -maxdepth 1 -name '!_*' -type f \
+            -exec cp {} game-data-repo/ \;
+
+      - name: Copy ##_ folders
+        run: |
+          for dir in $(find . -maxdepth 1 -type d -name '[0-9][0-9]_*'); do
+            cp -r "$dir" game-data-repo/
+          done
+
+      - name: Commit and push
+        run: |
+          cd game-data-repo
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Sync from vault"
+          git push
