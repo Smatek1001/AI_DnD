@@ -26,6 +26,7 @@ try {
                 console.error("Full Error:", stderr);
                 btn.innerText = "⚠️ Error (Check Console)";
                 btn.style.background = "#e74c3c";
+                btn.style.opacity = "1"; // 🛠️ ARCHITECT FIX: Reset opacity on error
                 return;
             }
             
@@ -36,6 +37,7 @@ try {
             
             btn.innerText = "✅ Database Updated!";
             btn.style.background = "#70e000";
+            btn.style.opacity = "1"; // 🛠️ ARCHITECT FIX: Reset opacity on success
             
             setTimeout(() => {
                 btn.innerText = "⛏️ Sync & Mine MemPalace";
@@ -45,5 +47,5 @@ try {
     });
 
 } catch (e) {
-    dv.container.createEl("div", { text: `❌ ERROR: ${e.message}`, style: "color: red; padding: 10px;" });
+    dv.container.createEl("div", { text: `❌ ERROR: ${e.message}`, style: "color: red;" });
 }
