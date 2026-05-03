@@ -6,7 +6,7 @@ session:
   date: 2026-05-01
   active_quest: completed The Blacksalt Breach
   location: The Black Oven
-  notes: Vaelin and Lirael just successfully chased off the Rust Dogs and recovered the Ratlings' stolen money, with interest. They have returned to their Black Oven hideout to rest.
+  notes: Vaelin impersonated a Harbor Syndicate boss to flawlessly rescue a captive goblin, securing wealth and a powerful debt from Magpie Miri.
 skill_filter: All
 staged_xp: "0"
 weapon_display_order:

@@ -140,13 +140,15 @@ When using the `mempalace_kg_add` or `mempalace_kg_query` tools, you must always
 
 ## 9. Protocol: Semantic Search & Vector Rooms
 
-When utilizing the `mempalace_search` tool, your vault is contained entirely within the `"ai_dnd"` wing. To prevent hallucinations and restrict your query to a specific category, you MUST explicitly pass the optional `room` parameter (or include the room name in your query logic if the tool flattens the hierarchy). The available rooms perfectly match your vault's folders:
+When utilizing the `mempalace_search` tool, your vault is contained entirely within the `"ai_dnd"` wing. To prevent hallucinations and heavily optimize your context window, you MUST explicitly pass the optional `room` parameter whenever possible. The available rooms perfectly map to your semantic architecture:
 
-* `"locations"`: Cities, districts, streets, taverns, and safehouses (95 files).
-* `"pc_party"`: Vaelin's core stats, Lirael's stats, inventories, and reputation tracking (52 files).
-* `"factions"`: Guilds, syndicates, cults, and secret societies (28 files).
-* `"npcs"`: Individual characters, handlers, spymasters, and contacts (17 files).
-* `"general"`: Core system rules, Gestalt mechanics, tool synergies, and root files (78 files).
+* `"system_core"`: System-level rules, GemDM protocols, master indexes, and MCP syntax.
+* `"pc_party"`: Vaelin's core sheets, Lirael's lore, inventories, and class mechanics.
+* `"locations"`: Cities, districts, taverns, ruins, and geographic lore.
+* `"factions"`: Syndicates, guilds, cults, and their organizational rules.
+* `"npcs"`: Individual characters, fences, handlers, and contacts.
+* `"session_logs"`: Past campaign summaries and episodic diary entries.
+* `"general"`: Any miscellaneous lore or unclassified artifacts.
 
 ## 10. Protocol: Narrative Boundary & Session Initiation
 
