@@ -1,0 +1,17 @@
+# 1. System, Scripts, and Hidden Folders to exclude everywhere
+- .git/
+- .github/
+- .obsidian/
+- .DS_Store
+- Ω_*/
+- mempalace_mine.sh
+- mine_mempalace.sh
+
+# 2. INCLUDE all files in the root directory that start with "!"
++ /!*
+
+# 3. INCLUDE all directories in the root (so rsync traverses into them)
++ /*/
+
+# 4. EXCLUDE all other files in the root directory
+- /*

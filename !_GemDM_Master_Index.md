@@ -43,6 +43,7 @@
 > * **Session_01_The_Crows_Nest_Heist.md:** Vaelin successfully graduates from The Society and executes a flawless, zero-alarm heist against the Harbor Syndicate.
 > * **Session_02_Blackwood_Retrieval.md:** Vaelin successfully retrieved a compromised silver signet ring containing a microscopic list of Noble Quarter safehouses before it could be sold to the Nightshade Guild.
 > * **Session_03_The_Blackwater_Blockade.md:** Vaelin dismantled a Rust Dog extortion checkpoint targeting The Ratlings, recovering stolen coin and causing the gang to fracture from within using purely psychological warfare.
+> * **Session_04_The_Blacksalt_Breach.md:** Vaelin impersonated a Harbor Syndicate boss to flawlessly rescue a captive goblin, securing wealth and a powerful debt from Magpie Miri.
 > 
 
 ## 👤 PC Mechanics [MemPalace Room: pc_party]
