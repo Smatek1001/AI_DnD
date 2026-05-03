@@ -24,8 +24,6 @@ wealth:
   jewelry: 0
   art: 0
   misc: 0
-  unappraised:
-    - Uncut Water-Opal (x2)
 weapons:
   rapier:
     name: Rapier

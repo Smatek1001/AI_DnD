@@ -1,30 +1,85 @@
-// 1. Load the toolkit
+// 1. Load Data
 const helpers = eval(await dv.io.load("Ω_HUD/Ω_HUD_scripts/vaelin_helpers.js"));
-const data = helpers.getFiles(dv);
 
-if (!data.magic) return;
+const liraelPage = dv.page("lirael_stats.yaml.md") || dv.page("lirael_stats");
+if (!liraelPage) {
+    dv.el("div", "<p>⚠️ **Error:** Could not locate Lirael's stats file.</p>", { attr: { style: "min-height: 350px; contain: layout;" } });
+    return;
+}
 
-const magic = data.magic;
-const res = magic.resources;
+const fam = liraelPage.state || { form: "Sprite", status: "Active", is_invisible: true };
+const vitals = liraelPage.vitals || { hp_current: 10, hp_max: 10 };
+const currentHud = dv.current();
+const previousForm = currentHud.cached_familiar_form || "Sprite";
 
-// 2. Build the UI pieces
-let html = "";
+// Smart Automation: Split-Brain Logic
+if (fam.form !== previousForm) {
+    const statsPath = `${helpers.FOLDER_PATH}/lirael_stats.yaml.md`;
+    const statsFile = app.vault.getAbstractFileByPath(statsPath);
+    if (statsFile) {
+        app.fileManager.processFrontMatter(statsFile, (fm) => {
+            if (!fm.state) fm.state = {};
+            fm.state.is_invisible = (fam.form === "Winged Nymph");
+        });
+    }
+    const hudPath = currentHud.file.path;
+    const hudFile = app.vault.getAbstractFileByPath(hudPath);
+    if (hudFile) {
+        app.fileManager.processFrontMatter(hudFile, (fm) => {
+            fm.cached_familiar_form = fam.form;
+        });
+    }
+}
 
-html += `<div style="display: flex; flex-direction: column; gap: 1rem; width: 100%; padding: 1rem; background: var(--background-secondary); border-radius: 8px; border: 1px solid var(--background-modifier-border);">`;
+const skillsList = liraelPage.skills_and_senses?.skills || [];
+const stealthEntry = skillsList.find(s => s.toLowerCase().includes("stealth"));
+const stealthMod = stealthEntry ? (stealthEntry.match(/[+-]\d+/) || ["+0"])[0] : "+0";
 
-// Top Row: Sorcery Points & Fey Step
-html += `<div style="display: flex; justify-content: space-around; text-align: center; border-bottom: 1px solid var(--background-modifier-border); padding-bottom: 1rem;">`;
-html += `<div><div style="font-size: 0.75em; color: var(--text-muted); text-transform: uppercase;">Sorcery Points</div><div style="font-size: 1.5em; font-weight: bold; color: #a29bfe;">` + helpers.createInput("number", "magic", "resources.sorcery_points_current") + ` / ${res.sorcery_points_max}</div></div>`;
-html += `<div><div style="font-size: 0.75em; color: var(--text-muted); text-transform: uppercase;">Fey Step</div><div style="font-size: 1.5em; font-weight: bold; color: #55efc4;">` + helpers.createInput("number", "magic", "resources.fey_step_current") + ` / ${res.fey_step_max}</div></div>`;
-html += `</div>`;
+let activeSpeed, activeSenses, activeTraits, activeStealth, activeHint;
+if (fam.form === "Winged Nymph") {
+    const baseTraits = (liraelPage.custom_abilities || []).map(a => a.name).join(", ");
+    activeSpeed = liraelPage.core_stats?.base_speed || "10 ft | Fly 40 ft";
+    activeSenses = liraelPage.skills_and_senses?.senses || "Passive Perception 13";
+    activeTraits = baseTraits || "Default Invisibility, Fey Step, Pixie Dust Form, Audio Mimicry";
+    activeStealth = `Normal (${stealthMod})`; 
+    activeHint = "Tiny, winged, nymph-like Fey with otherworldly beauty.";
+} else {
+    const formsList = liraelPage.shapeshifting_forms || [];
+    const foundForm = formsList.find(f => f.form === fam.form) || {};
+    activeSpeed = foundForm.speed || "Unknown";
+    activeSenses = foundForm.senses || "Unknown";
+    activeTraits = foundForm.traits || "None";
+    activeStealth = `${foundForm.stealth || "Normal"} (${stealthMod})`;
+    activeHint = foundForm.fey_hint || "No hint provided.";
+}
 
-// Bottom Row: Spell Slots
-html += `<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 0.5rem;">`;
-html += `<div><b style="color: var(--text-accent);">Sorcerer Slots</b><div style="margin-top: 5px; font-size: 0.9em;">Lvl 1: ` + helpers.createInput("number", "magic", "spell_slots.sorcerer_l1_current") + ` / ${magic.spell_slots.sorcerer_l1_max}</div></div>`;
-html += `<div><b style="color: #fab1a0;">Pact Magic</b><div style="margin-top: 5px; font-size: 0.9em;">Lvl 1: ` + helpers.createInput("number", "magic", "spell_slots.pact_l1_current") + ` / ${magic.spell_slots.pact_l1_max}</div></div>`;
-html += `</div>`;
+let statusBanner = "";
+if (fam.status === "Dismissed") {
+    statusBanner = `<div style="background-color: rgba(128, 128, 128, 0.15); border-left: 4px solid gray; padding: 10px; margin-bottom: 10px;"><b>🌀 Lirael is currently dismissed into her pocket dimension.</b></div>`;
+} else if (fam.is_invisible) {
+    statusBanner = `<div style="background-color: rgba(138, 43, 226, 0.15); border-left: 4px solid #a333c8; padding: 10px; margin-bottom: 10px;"><b>👻 Lirael is currently INVISIBLE.</b></div>`;
+}
 
-html += `</div>`;
+const maxHp = vitals.hp_max || 10;
+const baseAc = liraelPage.core_stats?.ac || "15 (Natural Armor)";
 
-// 3. Render
-container.innerHTML = html;
+const famHtml = `
+${statusBanner}
+<p><b>HP:</b> \`INPUT[number:${helpers.FOLDER_PATH}/lirael_stats.yaml.md#vitals.hp_current]\` / <b>${maxHp}</b><br>
+<progress value="${vitals.hp_current}" max="${maxHp}" style="width: 100%; height: 8px; accent-color: #20b2aa; margin-top: 5px;"></progress></p>
+<table style="width: 100%;">
+    <tbody>
+        <tr><td>🛡️ AC</td><td><b>${baseAc}</b></td></tr>
+        <tr><td>👟 Speed</td><td>${activeSpeed}</td></tr>
+        <tr><td>👀 Senses</td><td>${activeSenses}</td></tr>
+        <tr><td>✨ Traits</td><td><i>${activeTraits}</i></td></tr>
+        <tr><td>🥷 Stealth</td><td>${activeStealth}</td></tr>
+        <tr><td>🧚‍♀️ Fey Hint</td><td><span style="color: var(--text-muted); font-style: italic;">"${activeHint}"</span></td></tr>
+    </tbody>
+</table>
+`;
+
+// 3. Render with Markdown Parsing
+dv.el("div", famHtml, {
+    attr: { style: "min-height: 350px; contain: layout; display: flex; flex-direction: column; gap: 10px;" }
+});
