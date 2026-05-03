@@ -4,7 +4,7 @@ type: custom_class
 homebrew: true
 tags: [class, gestalt, homebrew, mechanics]
 summary: "Vaelin's custom 'Gestalt' progression rules, combining Rogue, Sorcerer, and Warlock features."
-last_updated: 2026-04-30T14:25:17-05:00
+last_updated: 2026-05-03T12:16:39-05:00
 core_traits:
   primary_ability: ["Dexterity", "Charisma"]
   hit_dice: "1d8"
@@ -99,7 +99,7 @@ progression:
       sorcery: "{ cantrips: 5, prepared: 7, slots: [4, 3, 0, 0, 0, 0, 0, 0, 0] }"
       pact: "{ cantrips: 3, prepared: 5, slots: 2, level: 2 }"
       invocations: 3
-    features: ["ASI"]
+    features: ["ASI x2"]
 
   - level: 5
     xp_required: 6500
@@ -151,7 +151,7 @@ progression:
       sorcery: "{ cantrips: 5, prepared: 12, slots: [4, 3, 3, 2, 0, 0, 0, 0, 0] }"
       pact: "{ cantrips: 3, prepared: 9, slots: 2, level: 4 }"
       invocations: 6
-    features: ["ASI"]
+    features: ["ASI x2"]
 
   - level: 9
     xp_required: 48000
@@ -203,7 +203,7 @@ progression:
       sorcery: "{ cantrips: 6, prepared: 16, slots: [4, 3, 3, 3, 2, 1, 0, 0, 0] }"
       pact: "{ cantrips: 4, prepared: 11, slots: 3, level: 5 }"
       invocations: 8
-    features: ["ASI"]
+    features: ["ASI x2"]
 
   - level: 13
     xp_required: 120000
@@ -255,7 +255,7 @@ progression:
       sorcery: "{ cantrips: 6, prepared: 18, slots: [4, 3, 3, 3, 2, 1, 1, 1, 0] }"
       pact: "{ cantrips: 4, prepared: 13, slots: 3, level: 5 }"
       invocations: 9
-    features: ["ASI"]
+    features: ["ASI x2"]
 
   - level: 17
     xp_required: 225000

@@ -18,75 +18,48 @@ try {
             return !inOmegaFolder;
         });
         
-        // 3. Build the Semantic Output
-        let out = "# GemDM Master Index\n\n";
+        // 3. Build the Frontmatter & Semantic Output
+        // Uses Obsidian's native moment.js to match your exact timestamp format
+        const timeStamp = window.moment ? window.moment().format() : new Date().toISOString();
+        
+        let out = "---\n";
+        out += "name: GemDM Master Index\n";
+        out += "type: system_instruction\n";
+        out += "tags: [meta, index, system, routing]\n";
+        out += "summary: \"The master directory and structural map of the Vault. Used by the GemDM to locate specific files, mechanics, and lore.\"\n";
+        out += "location: \"System Core\"\n";
+        out += `last_updated: ${timeStamp}\n`;
+        out += "---\n\n";
+
+        out += "# GemDM Master Index\n\n";
         out += "> [!SYSTEM DIRECTIVE]\n";
         out += "> **For the AI Dungeon Master:** This is the master routing table for the Vaelin Shadowleaf campaign. Use the exact filenames listed below as your primary search terms when querying the GitHub repository or your MemPalace database for lore and mechanics.\n\n";
 
         // 4. Group the markdown files using custom filters and add MemPalace Room brackets
         const categories = [
-            {
-                header: "🗺️ Geography & Locations [MemPalace Room: locations]",
-                filter: p => p.type === "location"
-            },
-            {
-                header: "🗡️ Factions & Syndicates [MemPalace Room: factions]",
-                filter: p => p.type === "faction"
-            },
-            {
-                header: "👥 Major NPCs [MemPalace Room: npcs]",
-                filter: p => p.type === "npc"
-            },
-            {
-                header: "📜 Session Summaries & Diaries [MemPalace Room: session_logs]",
-                filter: p => p.type === "session_summary",
-                isSession: true
-            },
-            {
-                header: "👤 PC Mechanics [MemPalace Room: pc_party]",
-                filter: p => {
-                    const name = p.file.name.toLowerCase();
-                    return p.type === "pc" || name.includes("vaelin") || name.includes("lirael") || name.startsWith("class_") || name.startsWith("race_") || name.startsWith("background_") || name.startsWith("feat_");
-                }
-            },
-            {
-                header: "📂 System Rules & Lore [MemPalace Room: rules_and_homebrew]",
-                filter: p => {
-                    const name = p.file.name;
-                    return p.type === "system" || name.startsWith("rule_") || name.includes("!_GemDM") || name.includes("MCP_") || name.includes("demographics");
-                }
-            }
+            { title: "PCs & Familiars [MemPalace Room: PC_Party]", filter: p => p.file.folder.includes("PC_Party") },
+            { title: "Major NPCs [MemPalace Room: Major_NPCs]", filter: p => p.file.folder.includes("Major_NPCs") },
+            { title: "Global Factions [MemPalace Room: Global_Factions]", filter: p => p.file.folder.includes("Global_Factions") },
+            { title: "Duskhaven Locations [MemPalace Room: Duskhaven/Locations]", filter: p => p.file.folder.includes("Duskhaven/Locations") },
+            { title: "Duskhaven NPCs [MemPalace Room: Duskhaven/NPCs]", filter: p => p.file.folder.includes("Duskhaven/NPCs") },
+            { title: "Duskhaven Factions [MemPalace Room: Duskhaven/Factions]", filter: p => p.file.folder.includes("Duskhaven/Factions") },
+            { title: "Game Mechanics & Rules [MemPalace Room: Mechanics]", filter: p => p.file.folder.includes("Mechanics") }
         ];
 
-        // Track processed pages to catch any leftovers
         let processedPaths = new Set();
 
-        for (const cat of categories) {
+        for (let cat of categories) {
             const pagesInCat = allPages.where(cat.filter).sort(p => p.file.name);
-            
             if (pagesInCat.length > 0) {
-                out += `## ${cat.header}\n`;
-                if (cat.isSession) {
-                    const groups = pagesInCat.groupBy(p => p.file.folder.split('/').pop());
-                    const sortedGroups = groups.sort(g => g.key);
-                    for (let group of sortedGroups) {
-                        out += `> [!INFO]- 📁 ${group.key.replace(/_/g, " ")}\n`;
-                        for (let p of group.rows.sort(p => p.file.name)) {
-                            out += `> * **${p.file.name}.md:** ${p.summary}\n`;
-                            processedPaths.add(p.file.path);
-                        }
-                        out += `> \n`;
-                    }
-                } else {
-                    for (let p of pagesInCat) {
-                        out += `* **${p.file.name}.md:** ${p.summary}\n`;
-                        processedPaths.add(p.file.path);
-                    }
+                out += `## ${cat.title}\n`;
+                for (let p of pagesInCat) {
+                    out += `* **${p.file.name}.md:** ${p.summary}\n`;
+                    processedPaths.add(p.file.path);
                 }
                 out += "\n";
             }
         }
-        
+
         // 5. Catch-all for any files that didn't fit the above categories
         const otherPages = allPages.where(p => !processedPaths.has(p.file.path)).sort(p => p.file.name);
         if (otherPages.length > 0) {
@@ -115,6 +88,5 @@ try {
     });
 
 } catch (e) {
-    dv.container.innerHTML = "";
-    dv.container.createEl("div", { text: `❌ ERROR: ${e.message}`, style: "color: red; background: rgba(255,0,0,0.1); padding: 10px;" });
+    dv.container.createEl("div", { text: `❌ ERROR: ${e.message}`, style: "color: red;" });
 }

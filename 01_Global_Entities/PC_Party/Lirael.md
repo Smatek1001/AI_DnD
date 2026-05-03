@@ -6,7 +6,6 @@ tags: [ally, familiar, fey, pact_of_the_chain, spy]
 summary: "Vaelin's Pact of the Chain familiar. Secretly acts as the eyes and ears of Caladwen, feeding Vaelin instructions under the guise of familiar instincts."
 status: active
 last_updated: 2026-05-01T00:06:24-05:00
-location: "[[Duskhaven]]"
 master: "[[Vaelin_Shadowleaf]]"
 stats_ref: "[[lirael_stats.yaml]]"
 entity_type: Unique Fey

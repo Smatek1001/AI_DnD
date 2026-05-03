@@ -4,7 +4,7 @@ type: custom_background
 homebrew: true
 tags: [background, homebrew, mechanics, spy]
 summary: "A custom espionage operative background granting infiltration skills, disguise proficiencies, and access to a covert network of safehouses and dead drops."
-last_updated: 2026-04-30T14:24:59-05:00
+last_updated: 2026-05-03T11:39:41-05:00
 ---
 
 ```yaml
@@ -12,7 +12,7 @@ description: "You are a trained operative for a clandestine organization, intell
 
 granted_mechanics:
   ability_scores: [Dexterity, Charisma]
-  feat: "Skulker"
+  feat: [Skulker, Actor]
   skills: [Deception, Stealth]
   tool: "Disguise Kit"
 

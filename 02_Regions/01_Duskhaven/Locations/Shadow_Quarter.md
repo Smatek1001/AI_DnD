@@ -5,9 +5,10 @@ aliases: [Shadow Quarter, The Shadow Quarter]
 tags: [district, location, slums]
 summary: "A marginalized, poverty-stricken slum district. Home to desperate citizens, The Ratlings, and Vaelin's highly secure 'Black Oven' safehouse."
 status: active
-last_updated: 2026-04-30T14:59:44-05:00
-location: East of [[The_Docks]]
-region: "[[Duskhaven]]"
+last_updated: 2026-05-03T13:30:29-05:00
+zone: Southeast
+location: "[[Duskhaven]]"
+region: Sword Coast
 ---
 
 # Shadow Quarter

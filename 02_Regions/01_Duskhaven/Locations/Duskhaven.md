@@ -5,10 +5,12 @@ aliases: [The City]
 tags: [capital, city, location, noir]
 summary: "The primary setting: a massive, corrupt, high-magic coastal trade port with a gritty noir atmosphere."
 status: active
-last_updated: 2026-04-30T14:59:50-05:00
-region: The Coast
-demographics_ref: "[[duskhaven_demographics.yaml]]"
+last_updated: 2026-05-03T13:30:39-05:00
+location: Sword Coast
+region: The North
+continent: Faerûn
 ruler: The City Council (Ostensibly) / The Syndicates (Practically)
+demographics_ref: "[[duskhaven_demographics.yaml]]"
 ---
 
 # Duskhaven

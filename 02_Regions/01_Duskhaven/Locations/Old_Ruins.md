@@ -5,9 +5,10 @@ aliases: [Old Ruins, The Old Ruins]
 tags: [cursed, location, ruins]
 summary: "Ancient, forgotten structural remnants beneath or outside Duskhaven. A dangerous zone holding dark historical secrets, lost magic, and subterranean threats."
 status: active
-last_updated: 2026-04-30T14:59:45-05:00
-location: Outside City Limits
-region: "[[Duskhaven]]"
+last_updated: 2026-05-03T13:30:33-05:00
+zone: Outside City Limits
+location: "[[Duskhaven]]"
+region: Sword Coast
 ---
 
 # Old Ruins

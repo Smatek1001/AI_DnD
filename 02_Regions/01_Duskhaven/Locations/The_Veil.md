@@ -5,9 +5,10 @@ aliases: [The Veil, Veil]
 tags: [district, location, magic, noir]
 summary: "A labyrinthine, high-magic noir district within Duskhaven known for its elite gambling dens and arcana shops."
 status: active
-last_updated: 2026-04-30T14:59:30-05:00
-location: Northwest of the Docks
-region: "[[Duskhaven]]"
+last_updated: 2026-05-03T13:30:21-05:00
+zone: West
+location: "[[Duskhaven]]"
+region: Sword Coast
 ---
 
 # The Veil
