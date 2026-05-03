@@ -67,5 +67,20 @@ if (existing) existing.remove();
 
 const container = document.createElement("div");
 container.id = ID;
+container.style.minHeight = "180px";
+container.style.contain = "layout";
 container.innerHTML = html;
 dv.container.appendChild(container);
+
+
+
+
+
+
+
+
+
+
+
+
+
