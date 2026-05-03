@@ -156,7 +156,6 @@ recovery_rules:
     - sorcerer_level_1
     - fey_step
     - magical_cunning
-    - sorcerous_restoration
 ---
 
 # Vaelin's Grimoire & Magic
