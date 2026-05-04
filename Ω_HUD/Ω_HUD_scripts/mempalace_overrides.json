@@ -1,11 +1,12 @@
 {
-    "!_GemDM_Master_Index.md": "system_core",
-    "MCP_SuperAssistant_Operational_Instructions.md": "system_core",
-    "Session_01_The_Crows_Nest_Heist.md": "session_logs",
-    "Session_02_Blackwood_Retrieval.md": "session_logs",
-    "Session_03_The_Blackwater_Blockade.md": "session_logs",
-    "Session_04_The_Blacksalt_Breach.md": "session_logs",
-    "race_primal_elf.yaml.md": "pc_party",
-    "class_gestalt_rogue_sorlock.yaml.md": "pc_party",
-    "background_espionage_operative.yaml.md": "pc_party"
+    "exact_matches": {
+        "!_GemDM_Master_Index.md": "system_core",
+        "MCP_SuperAssistant_Operational_Instructions.md": "system_core",
+        "race_primal_elf.yaml.md": "pc_party",
+        "class_gestalt_rogue_sorlock.yaml.md": "pc_party",
+        "background_espionage_operative.yaml.md": "pc_party"
+    },
+    "pattern_matches": {
+        "Session_": "session_logs"
+    }
 }
