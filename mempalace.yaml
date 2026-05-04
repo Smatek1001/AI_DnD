@@ -1,0 +1,49 @@
+wing: ai_dnd
+rooms:
+- name: system_core
+  description: System-level files like !_GemDM_System_Protocols.md, master indexes, and MCP rules.
+  keywords:
+  # Stuffed to override NPC mentions in the body text
+  - "type: master_index"
+  - "type: system_instruction"
+  - "ROUTE_TO_SYSTEM"
+- name: pc_party
+  description: Vaelin's core sheets, Lirael, inventory, magic, and mechanics files.
+  keywords:
+  - "type: pc"
+  - "type: companion"
+  # Stuffed to pull out of the general room
+  - "type: class"
+  - "type: race"
+  - "type: background"
+  - "type: feat"
+  - "type: rule"
+  - "type: mechanic"
+  - "type: inventory"
+  - "type: reputation"
+  - "type: character_loadout"
+- name: npcs
+  description: Individual NPC files, monsters, and stat blocks.
+  keywords:
+  - "type: npc"
+  - "type: monster_stat_block"
+- name: locations
+  description: Regional and specific site files, cities, and geographic stats.
+  keywords:
+  - "type: location"
+  - "type: city_stats"
+- name: factions
+  description: Files for The_Society.md, Harbor_Syndicate.md, etc.
+  keywords:
+  - "type: faction"
+- name: session_logs
+  description: Your campaign session summaries.
+  keywords:
+  # Stuffed to override the heavy location tags in summaries
+  - "type: session_summary"
+  - "type: session_log"
+  - "type: session"
+  - "ROUTE_TO_SESSIONS"
+- name: general
+  description: Files that don't fit other rooms.
+  keywords: []

@@ -4,15 +4,14 @@ set -u          # Treat unset variables as an error
 set -o pipefail # Return the exit code of the last command in a pipe that failed
 
 # ==========================================
-# GemDM RAG Staging & Mining Pipeline v2
+# GemDM RAG Staging & Mining Pipeline v4
 # ==========================================
 
-# 1. Define Paths (Using $HOME to avoid tilde expansion bugs)
+# 1. Define Paths
 SOURCE_VAULT="$HOME/AI_DnD/"
 STAGING_DIR="$HOME/AI_DnD-MemPalace_Staging/"
 IGNORE_FILE="${SOURCE_VAULT}.mempalaceignore"
 
-# --- NEW: DEFENSIVE LINE ---
 # This ensures the staging directory exists before we try to sync or mine it.
 mkdir -p "$STAGING_DIR"
 
@@ -34,11 +33,37 @@ fi
 
 echo "✅ Sync complete. Sanitized vault created."
 
+# 2.5 The Scrubber [CURRENTLY DISABLED FOR PERFORMANCE]
+# echo "🧽 Scrubbing rogue 'type:' tags from staging body text..."
+# python3 -c '
+# import os, re
+# staging_dir = "'"$STAGING_DIR"'"
+# for root, dirs, files in os.walk(staging_dir):
+#     for f in files:
+#         if f.endswith(".md"):
+#             p = os.path.join(root, f)
+#             with open(p, "r", encoding="utf-8") as file:
+#                 content = file.read()
+#             match = re.match(r"^(---\n.*?\n---\n)(.*)", content, re.DOTALL)
+#             if match:
+#                 frontmatter = match.group(1)
+#                 body = match.group(2)
+#                 new_body = body.replace("type:", "type")
+#                 with open(p, "w", encoding="utf-8") as file:
+#                     file.write(frontmatter + new_body)
+# '
+# echo "✅ Scrubbing complete. Body text neutered."
+
 # 3. Trigger the MemPalace Miner
 echo "⛏️ Instructing MemPalace to mine the staging directory..."
 cd "$STAGING_DIR"
 
-# Using your verified absolute path
+# Using your verified absolute python path
 /Library/Frameworks/Python.framework/Versions/3.12/bin/mempalace mine .
 
-echo "🎉 Mining complete!"
+echo "🎉 Mining complete! Triggering final Database overrides..."
+
+# 4. Trigger the Brute Force Override
+/Library/Frameworks/Python.framework/Versions/3.12/bin/python3 "$SOURCE_VAULT/force_mempalace.py"
+
+echo "🏁 Database Pipeline Execution Fully Complete!"

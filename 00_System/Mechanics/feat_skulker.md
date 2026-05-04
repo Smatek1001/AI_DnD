@@ -4,7 +4,7 @@ type: mechanic
 homebrew: true
 tags: [feat, homebrew, mechanics, stealth]
 summary: "Vaelin's custom Skulker feat, combining 2014 and 2024 rules for enhanced stealth, blindsight, and sniping."
-last_updated: 2026-04-30T14:25:19-05:00
+last_updated: 2026-05-03T19:12:07-05:00
 ---
 
 # Skulker (Gestalt Version)

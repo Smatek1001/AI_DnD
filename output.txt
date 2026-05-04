@@ -1,0 +1,540 @@
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/!_GemDM_Master_Index.md
+Wing: ai_dnd | Room: npcs | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Alistair_Finchley.md
+Wing: ai_dnd | Room: npcs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Alistair_Finchley.md
+Wing: ai_dnd | Room: npcs | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Alistair_Finchley.md
+Wing: ai_dnd | Room: npcs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Rorick_Wavebreaker.md
+Wing: ai_dnd | Room: npcs | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Rorick_Wavebreaker.md
+Wing: ai_dnd | Room: npcs | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Talia.md
+Wing: ai_dnd | Room: npcs | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Talia.md
+Wing: ai_dnd | Room: npcs | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Talia.md
+Wing: ai_dnd | Room: npcs | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/The_Shade.md
+Wing: ai_dnd | Room: npcs | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/The_Shade.md
+Wing: ai_dnd | Room: npcs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/The_Shade.md
+Wing: ai_dnd | Room: npcs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Silas_Blackwood.md
+Wing: ai_dnd | Room: npcs | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Silas_Blackwood.md
+Wing: ai_dnd | Room: npcs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/NPCs/Silas_Blackwood.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_High_District.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Duskhaven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Duskhaven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Duskhaven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Duskhaven.md
+Wing: ai_dnd | Room: locations | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Duskhaven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Duskhaven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Shadow_Quarter.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Shadow_Quarter.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Veil.md
+Wing: ai_dnd | Room: locations | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Veil.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Drunken_Raven.md
+Wing: ai_dnd | Room: locations | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Drunken_Raven.md
+Wing: ai_dnd | Room: locations | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Drunken_Raven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Market_Square.md
+Wing: ai_dnd | Room: locations | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Market_Square.md
+Wing: ai_dnd | Room: locations | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Market_Square.md
+Wing: ai_dnd | Room: locations | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Market_Square.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Docks.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Docks.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Crows_Nest.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Crows_Nest.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Crows_Nest.md
+Wing: ai_dnd | Room: locations | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Crows_Nest.md
+Wing: ai_dnd | Room: locations | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Crows_Nest.md
+Wing: ai_dnd | Room: locations | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Crows_Nest.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Blackwoods_Baubles.md
+Wing: ai_dnd | Room: locations | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Blackwoods_Baubles.md
+Wing: ai_dnd | Room: locations | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Blackwoods_Baubles.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Blackwoods_Baubles.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Noble_Quarter.md
+Wing: ai_dnd | Room: locations | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Noble_Quarter.md
+Wing: ai_dnd | Room: locations | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Noble_Quarter.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Therandril.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Therandril.md
+Wing: ai_dnd | Room: locations | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Therandril.md
+Wing: ai_dnd | Room: locations | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Therandril.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Rusty_Anchor.md
+Wing: ai_dnd | Room: locations | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Rusty_Anchor.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Rusty_Anchor.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Rusty_Anchor.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Rusty_Anchor.md
+Wing: ai_dnd | Room: locations | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Rusty_Anchor.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Black_Oven.md
+Wing: ai_dnd | Room: locations | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Black_Oven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Black_Oven.md
+Wing: ai_dnd | Room: locations | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Black_Oven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Black_Oven.md
+Wing: ai_dnd | Room: locations | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Black_Oven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Black_Oven.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/duskhaven_demographics.yaml.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/duskhaven_demographics.yaml.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/duskhaven_demographics.yaml.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/duskhaven_demographics.yaml.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Sewers.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Sewers.md
+Wing: ai_dnd | Room: locations | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/The_Sewers.md
+Wing: ai_dnd | Room: locations | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Locations/Old_Ruins.md
+Wing: ai_dnd | Room: factions | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Ebon_Web.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Ebon_Web.md
+Wing: ai_dnd | Room: factions | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Ebon_Web.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/The_Ratlings.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/The_Ratlings.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/The_Ratlings.md
+Wing: ai_dnd | Room: factions | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/The_Ratlings.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Nightshade_Guild.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Nightshade_Guild.md
+Wing: ai_dnd | Room: factions | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Nightshade_Guild.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Harbor_Syndicate.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Harbor_Syndicate.md
+Wing: ai_dnd | Room: factions | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Harbor_Syndicate.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Harbor_Syndicate.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Rust_Dogs.md
+Wing: ai_dnd | Room: factions | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Rust_Dogs.md
+Wing: ai_dnd | Room: factions | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Rust_Dogs.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Magpie_Miris_Gang.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/02_Regions/01_Duskhaven/Factions/Magpie_Miris_Gang.md
+Wing: ai_dnd | Room: npcs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Major_NPCs/Caladwen.md
+Wing: ai_dnd | Room: npcs | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Major_NPCs/Caladwen.md
+Wing: ai_dnd | Room: npcs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Major_NPCs/Caladwen.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Global_Factions/The_Society.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Global_Factions/The_Society.md
+Wing: ai_dnd | Room: factions | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Global_Factions/The_Society.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Global_Factions/The_Society.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Global_Factions/The_Society.md
+Wing: ai_dnd | Room: factions | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Global_Factions/The_Cult.md
+Wing: ai_dnd | Room: factions | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Global_Factions/The_Cult.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Global_Factions/The_Cult.md
+Wing: ai_dnd | Room: factions | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/Global_Factions/The_Cult.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/lirael_stats.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/lirael_stats.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/lirael_stats.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/lirael_stats.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/lirael_stats.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/lirael_stats.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_core.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_core.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_core.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_core.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_magic.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_magic.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_magic.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_magic.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_magic.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_magic.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_magic.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_magic.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_magic.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_features.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_features.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_features.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_features.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_features.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_features.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_features.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_inventory.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_inventory.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_inventory.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_inventory.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_inventory.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_reputation.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_reputation.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_reputation.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_reputation.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_reputation.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Vaelin_Shadowleaf.md
+Wing: ai_dnd | Room: pc_party | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Vaelin_Shadowleaf.md
+Wing: ai_dnd | Room: pc_party | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Vaelin_Shadowleaf.md
+Wing: ai_dnd | Room: pc_party | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Vaelin_Shadowleaf.md
+Wing: ai_dnd | Room: pc_party | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Vaelin_Shadowleaf.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Vaelin_Shadowleaf.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Vaelin_Shadowleaf.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Vaelin_Shadowleaf.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_identities.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_identities.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_identities.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_identities.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/vaelin_identities.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Lirael.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Lirael.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Lirael.md
+Wing: ai_dnd | Room: pc_party | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/01_Global_Entities/PC_Party/Lirael.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_02_Blackwood_Retrieval.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_02_Blackwood_Retrieval.md
+Wing: ai_dnd | Room: session_logs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_02_Blackwood_Retrieval.md
+Wing: ai_dnd | Room: session_logs | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_02_Blackwood_Retrieval.md
+Wing: ai_dnd | Room: session_logs | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_02_Blackwood_Retrieval.md
+Wing: ai_dnd | Room: session_logs | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_02_Blackwood_Retrieval.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_01_The_Crows_Nest_Heist.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_01_The_Crows_Nest_Heist.md
+Wing: ai_dnd | Room: session_logs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_01_The_Crows_Nest_Heist.md
+Wing: ai_dnd | Room: session_logs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_01_The_Crows_Nest_Heist.md
+Wing: ai_dnd | Room: session_logs | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_01_The_Crows_Nest_Heist.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_01_The_Crows_Nest_Heist.md
+Wing: ai_dnd | Room: session_logs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_01_The_Crows_Nest_Heist.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_04_The_Blacksalt_Breach.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_04_The_Blacksalt_Breach.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_04_The_Blacksalt_Breach.md
+Wing: ai_dnd | Room: session_logs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_04_The_Blacksalt_Breach.md
+Wing: ai_dnd | Room: session_logs | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_04_The_Blacksalt_Breach.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_04_The_Blacksalt_Breach.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_04_The_Blacksalt_Breach.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_03_The_Blackwater_Blockade.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_03_The_Blackwater_Blockade.md
+Wing: ai_dnd | Room: session_logs | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_03_The_Blackwater_Blockade.md
+Wing: ai_dnd | Room: session_logs | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_03_The_Blackwater_Blockade.md
+Wing: ai_dnd | Room: session_logs | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_03_The_Blackwater_Blockade.md
+Wing: ai_dnd | Room: session_logs | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/03_Session_Summaries/Season_01_Duskhaven/Session_03_The_Blackwater_Blockade.md
+Wing: ai_dnd | Room: pc_party | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/race_primal_elf.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/race_primal_elf.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/race_primal_elf.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/rule_tool_synergy.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/rule_tool_synergy.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/rule_tool_synergy.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/feat_skulker.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/feat_skulker.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: general
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/class_gestalt_rogue_sorlock.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: factions
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/background_espionage_operative.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: combat_and_stealth
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/background_espionage_operative.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/background_espionage_operative.yaml.md
+Wing: ai_dnd | Room: pc_party | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/rule_second_story_work.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/rule_second_story_work.md
+Wing: ai_dnd | Room: pc_party | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Mechanics/rule_second_story_work.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: magic_and_rules
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: pc_party
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: locations
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: quests_and_heists
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/!_GemDM_System_Protocols.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/MCP_SuperAssistant_Operational_Instructions.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/MCP_SuperAssistant_Operational_Instructions.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/MCP_SuperAssistant_Operational_Instructions.md
+Wing: ai_dnd | Room: system_core | Hall: general
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/MCP_SuperAssistant_Operational_Instructions.md
+Wing: ai_dnd | Room: system_core | Hall: general
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/MCP_SuperAssistant_Operational_Instructions.md
+Wing: ai_dnd | Room: system_core | Hall: general
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/MCP_SuperAssistant_Operational_Instructions.md
+Wing: ai_dnd | Room: system_core | Hall: npcs
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/MCP_SuperAssistant_Operational_Instructions.md
+Wing: ai_dnd | Room: system_core | Hall: system_core
+  Source: /Users/stevelefler/AI_DnD-MemPalace_Staging/00_System/Protocols/MCP_SuperAssistant_Operational_Instructions.md

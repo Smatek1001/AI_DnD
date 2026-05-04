@@ -4,7 +4,7 @@ type: mechanic
 homebrew: true
 tags: [homebrew, movement, rules, skills]
 summary: "Homebrew Rule: Expanded Second-Story Work (Dex-based Climbing)"
-last_updated: 2026-04-30T14:25:23-05:00
+last_updated: 2026-05-03T19:12:09-05:00
 ---
 
 # Homebrew Mechanic: Second-Story Work (Modified)

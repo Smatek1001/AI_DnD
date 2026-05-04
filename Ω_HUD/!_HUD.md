@@ -3,7 +3,7 @@ last_updated: 2026-04-29T02:40:33-05:00
 cached_familiar_form: Winged Nymph
 session:
   number: 5
-  date: 2026-05-01
+  date: 2026-05-03
   active_quest: completed The Blacksalt Breach
   location: The Black Oven
   notes: Vaelin impersonated a Harbor Syndicate boss to flawlessly rescue a captive goblin, securing wealth and a powerful debt from Magpie Miri.

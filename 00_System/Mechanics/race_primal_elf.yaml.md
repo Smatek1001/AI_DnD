@@ -1,10 +1,10 @@
 ---
 name: Primal Elf
-type: custom_race
+type: race
 homebrew: true
 tags: [changeling, elf, homebrew, mechanics, race]
 summary: "Vaelin's custom heritage rules: an ancient Primal Elf variant that combines standard elven traits with innate Changeling shape-shifting abilities."
-last_updated: 2026-04-30T14:25:21-05:00
+last_updated: 2026-05-03T19:12:08-05:00
 ---
 
 ```yaml

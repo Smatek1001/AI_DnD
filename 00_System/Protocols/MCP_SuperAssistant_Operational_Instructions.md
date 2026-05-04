@@ -51,3 +51,4 @@ _Note: This is the definitive list of tools available to you. Do not invent tool
 - **mempalace.mempalace_delete_drawer**: Delete a drawer by ID. Parameters: `drawer_id` (string, required).
 - **mempalace.mempalace_diary_write**: Write to your personal agent diary. Parameters: `agent_name` (string, required), `entry` (string, required), `topic` (string, optional).
 - **mempalace.mempalace_diary_read**: Read your recent diary entries. Parameters: `agent_name` (string, required), `last_n` (integer, optional).
+
