@@ -1,12 +1,17 @@
 {
-    "exact_matches": {
-        "!_GemDM_Master_Index.md": "system_core",
-        "MCP_SuperAssistant_Operational_Instructions.md": "system_core",
-        "race_primal_elf.yaml.md": "pc_party",
-        "class_gestalt_rogue_sorlock.yaml.md": "pc_party",
-        "background_espionage_operative.yaml.md": "pc_party"
+    "type_mapping": {
+        "master_index": "system_core",
+        "system_instruction": "system_core",
+        "session_summary": "session_logs",
+        "race": "pc_party",
+        "class": "pc_party",
+        "background": "pc_party",
+        "pc": "pc_party",
+        "companion": "pc_party",
+        "npc": "npcs",
+        "location": "locations",
+        "faction": "factions"
     },
-    "pattern_matches": {
-        "Session_": "session_logs"
-    }
+    "exact_matches": {},
+    "pattern_matches": {}
 }

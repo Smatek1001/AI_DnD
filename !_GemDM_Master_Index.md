@@ -4,7 +4,7 @@ type: system_instruction
 tags: [meta, index, system, routing]
 summary: "The master directory and structural map of the Vault. Used by the GemDM to locate specific files, mechanics, and lore."
 location: "System Core"
-last_updated: 2026-05-03T18:47:18-05:00
+last_updated: 2026-05-03T21:29:17-05:00
 ---
 
 # GemDM Master Index
@@ -79,3 +79,4 @@ last_updated: 2026-05-03T18:47:18-05:00
 * **Session_02_Blackwood_Retrieval.md:** Vaelin successfully retrieved a compromised silver signet ring containing a microscopic list of Noble Quarter safehouses before it could be sold to the Nightshade Guild.
 * **Session_03_The_Blackwater_Blockade.md:** Vaelin dismantled a Rust Dog extortion checkpoint targeting The Ratlings, recovering stolen coin and causing the gang to fracture from within using purely psychological warfare.
 * **Session_04_The_Blacksalt_Breach.md:** Vaelin impersonated a Harbor Syndicate boss to flawlessly rescue a captive goblin, securing wealth and a powerful debt from Magpie Miri.
+
