@@ -4,7 +4,7 @@ character: Vaelin Shadowleaf
 type: character_loadout
 domain: core
 summary: "This file contains Vaelin's base physical and mental attributes, health, and learned proficiencies."
-last_updated: 2026-05-01T00:18:16-05:00
+last_updated: 2026-05-05T00:26:56-05:00
 vitals:
   hp_current: 16
   hp_max: 16
@@ -31,7 +31,7 @@ senses:
   blindsight: 10 ft  # Skulker
 ability_scores:
   str: 8 (-1)
-  dex: 16 (+3)
+  dex: 17 (+3)
   con: 10 (+0)
   int: 12 (+1)
   wis: 13 (+1)
