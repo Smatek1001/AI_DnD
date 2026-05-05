@@ -4,7 +4,7 @@ type: system_instruction
 tags: [meta, index, system, routing]
 summary: "The master directory and structural map of the Vault. Used by the GemDM to locate specific files, mechanics, and lore."
 location: "System Core"
-last_updated: 2026-05-03T21:29:17-05:00
+last_updated: 2026-05-05T01:20:21-05:00
 ---
 
 # GemDM Master Index
@@ -68,7 +68,6 @@ last_updated: 2026-05-03T21:29:17-05:00
 * **class_gestalt_rogue_sorlock.yaml.md:** Vaelin's custom 'Gestalt' progression rules, combining Rogue, Sorcerer, and Warlock features.
 * **feat_skulker.md:** Vaelin's custom Skulker feat, combining 2014 and 2024 rules for enhanced stealth, blindsight, and sniping.
 * **race_primal_elf.yaml.md:** Vaelin's custom heritage rules: an ancient Primal Elf variant that combines standard elven traits with innate Changeling shape-shifting abilities.
-* **rule_second_story_work.md:** Homebrew Rule: Expanded Second-Story Work (Dex-based Climbing)
 * **rule_tool_synergy.md:** Homebrew Rule: Tool Synergy and Triple Advantage (3d20)
 
 ## 📦 General Lore & Artifacts [MemPalace Room: general]
