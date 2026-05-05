@@ -4,7 +4,7 @@ type: system_instruction
 tags: [meta, index, system, routing]
 summary: "The master directory and structural map of the Vault. Used by the GemDM to locate specific files, mechanics, and lore."
 location: "System Core"
-last_updated: 2026-05-05T01:20:21-05:00
+last_updated: 2026-05-05T01:41:30-05:00
 ---
 
 # GemDM Master Index
