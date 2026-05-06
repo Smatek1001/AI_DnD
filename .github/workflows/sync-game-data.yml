@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout vault repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Checkout game-data repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
         with:
           repository: Smatek1001/AI_DnD_DM
           token: ${{ secrets.GAME_DATA_PAT }}
